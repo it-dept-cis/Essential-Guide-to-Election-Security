@@ -1,3 +1,8 @@
+..
+  Created by: mike garcia
+  On: 1/25/2022
+  To: Serve as the landing page for the EGES
+
 The Essential Guide to Election Security
 =====================================
 
@@ -34,6 +39,8 @@ How do I use this Guide
 ----------------------------
 
 The guide is organized into...[tk]
+
+[Link to how-to]
 
 Table of Contents
 ----------------------------
