@@ -4,7 +4,7 @@
   To: Backups. Derived largely from dec 2018 spotlight
   Last update by: mike garcia
 
-.. |last_update| replace:: Test
+.. |last_update| replace:: 2022-02-28
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Backups
