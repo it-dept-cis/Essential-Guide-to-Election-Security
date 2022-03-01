@@ -4,7 +4,7 @@
   To: Backups. Derived largely from dec 2018 spotlight
   Last update by: mike garcia
 
-.. |last_update| replace:: 2022-02-28
+.. |last_update| replace:: Test
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Backups
@@ -45,7 +45,7 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
-For |bp_title|, the necessary actions are vary by maturity as detailed below.
+For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 Reactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -82,6 +82,6 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|!
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
 
 *This page last updated on |last_update|.*
