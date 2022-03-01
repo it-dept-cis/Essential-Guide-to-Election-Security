@@ -1,27 +1,28 @@
 ..
-  Created by: [name]
-  On: [yyyy-mm-dd]
-  To: [Brief description, like "Serve as the landing page for the EGES"]
+  Created by: mike garcia
+  On: 2022-02-28
+  To: BP for formal assessment
   Last update by: mike garcia
 
 .. |last_update| replace:: 2022-02-28
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
-.. |bp_title| replace:: Best Practice Title
-
+.. |bp_title| replace:: Formal Cybersecurity Assessments
 
 The Essential Guide to Election Security
 ==============================================
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
-[2-3 sentence description/rationale]
+Formal cybersecurity assessments are a fundamental aspect of managing cybersecurity risk.  Risk assessments can be sorted into two categories:
+#. Self-assessments: In-house risk assessments are generally faster and less expensive while still providing useful insight into your cybersecurity posture.
+#. Independent assessments: Because they are conducted by outside assessment specialists, independent assessments usually cost more and take longer, but they are more objective and thorough. Where time and resources permit, they are preferable even when an organization has deep cybersecurity experience.
 
 Goals
 **********************************************
 
-#.	[Goal 1]
-#.	[Goal 2]
+#.	Understand and determine the type and extent of cybersecurity assessment your organization should undergo
+#.	Implement a risk assessment program
 
 Mappings to CIS Controls and Safeguards
 **********************************************

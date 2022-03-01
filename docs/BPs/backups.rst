@@ -2,10 +2,12 @@
   Created by: mike garcia
   On: 2022-02-27
   To: Backups. Derived largely from dec 2018 spotlight
+  Last update by: mike garcia
+
+.. |last_update| replace:: 2022-02-28
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Backups
-.. |build_date| date:: %Y-%m-%d
 
 The Essential Guide to Election Security
 ==============================================
@@ -14,8 +16,14 @@ The Essential Guide to Election Security
 
 Backups are necessary due to the constant threat of modification or erasure of data due to accidental deletions, malware, and ransomware, natural disasters, or other events.
 
-Backups also play a crucial role in expediting the recovery from malicious cyber activity allowing the restoration of a system to a reliable state that is free of malware infections and retains the original data. Rebuilding or reimaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without the work of identifying and ensuring the removal of all possible malicious files.
+Backups also play a crucial role in expediting the recovery from malicious cyber activity allowing the restoration of a system to a reliable state that is free of malware infections and retains the original data. Rebuilding or re-imaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without the work of identifying and ensuring the removal of all possible malicious files.
 
+#. Data Classification: Knowing what you want to backup will help you determine what, and how frequently, that data should be backed up. For instance, data vital to election operations, such as voter registration information, would be considered a high priority and the risk management process may justify the use of nightly full backups. Retention requirements can play a role in classification.
+#. Frequency: Consider how much data loss would be acceptable in the event of a catastrophic failure. The amount of data that can be lost (e.g. 24 hours’ worth) should then be used to determine how often data should be backed up.
+#. Encrypted: Backups should be encrypted. Having the backup encrypted will safeguard it if someone unauthorized tries to access it.
+#. Offline: Backups must be stored offline to reduce the risk of malware infecting the copies. Some malware, such as ransomware, will specifically look for backups that are available on the network to hinder the recovery process.
+#. Offsite – Backups should be stored offsite to ensure recovery is possible in the event of disasters, such as fire or flooding. Offsite backups could be physical copies or cloud based. The backup location is vital to the recovery process and must be a place where the backups will be secure but quickly accessible.
+#. Tested: Testing the backup’s integrity and the ability to successfully restore a system from the backup is essential to a successful restoration. This ensures that, if needed, the backups will be able to restore what has been corrupted or destroyed.
 
 Goals
 **********************************************
@@ -28,11 +36,11 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 11.1:  Establish and maintain a data recovery process. In the process, address the scope of data recovery activities, recovery prioritization, and the security of backup data. Review and update documentation annually, or when significant enterprise changes occur that could impact this Safeguard. 
-- 11.2:  Perform automated backups of in-scope enterprise assets. Run backups weekly, or more frequently, based on the sensitivity of the data.
-- 11.3:  Protect recovery data with equivalent controls to the original data. Reference encryption or data separation, based on requirements.
-- 11.4:  Establish and maintain an isolated instance of recovery data. Example implementations include, version controlling backup destinations through offline, cloud, or off-site systems or services.
-- 11.5:  Test backup recovery quarterly, or more frequently, for a sampling of in-scope enterprise assets.
+- 11.1:  Establish and maintain a data recovery process
+- 11.2:  Perform automated backups of in-scope enterprise assets
+- 11.3:  Protect recovery data
+- 11.4:  Establish and maintain an isolated instance of recovery data
+- 11.5:  Test backup recovery
 
 Actions
 **********************************************
@@ -42,12 +50,20 @@ For |bp_title|, the necessary actions are vary by maturity as detailed below.
 Reactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-For organizations operating at a Reactive Maturity, 
+For organizations operating at a Reactive Maturity, employing backup capabilities is critical to successfully mitigation risks against malware, especially ransomware.
+
+There are many automated methods for creating backups. Most solutions are encrypted and can be set to a desired frequency. But many are only either offline or offsite, whereas both are necessary to have a complete backup program. Offline backups help protect from ransomware while offsite backup help protect from local disasters.
+
+Simple built-in backup tools like Apple's Time Machine and Microsoft's Backup and Restore work well for offline backups if they are not kept connected to a network or machine. If you wish to use tools like this, be sure to have a plan to connect them on a prescribed schedule and then remove them promptly isolate and securely store them. Unless you move them to other locations, they are not good solutions for offsite backups.
+
+Either implement a tool that provides both offline and offsite backup capabilities, or implement multiple tools. Some are described below.
 
 Proactive Maturity and Adaptive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-[All the guidance and such]
+Complex systems require complex solutions, and this can apply to backups as well. Solutions should conform to your data management plan.
+
+Backups should be tested at least once a quarter and whenever processes or technologies are changed.
 
 Cost-Effective Tools
 **********************************************
@@ -68,4 +84,4 @@ Learn More
 
 Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|!
 
-*This page last updated on |build_date|.*
+*This page last updated on |last_update|.*
