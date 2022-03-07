@@ -63,7 +63,7 @@ Proactive Maturity and Adaptive Maturity
 
 Complex systems require complex solutions, and this can apply to backups as well. Solutions should conform to your data management plan.
 
-Backups should be tested at least once a quarter and whenever processes or technologies are changed.
+Backups should be tested at least once a quarter and whenever processes or technologies are changed to ensure they can rapidly restore operations if needed.
 
 Cost-Effective Tools
 **********************************************
