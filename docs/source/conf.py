@@ -164,7 +164,7 @@ html_title = 'CIS Essential Guide to Election Security'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
-html_short_title = EGES
+html_short_title = 'EGES'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
