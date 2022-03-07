@@ -4,9 +4,9 @@
   To: BP for formal assessment
   Last update by: mike garcia
 
+.. include:: ../source/global_directives.rst
 .. |last_update| replace:: 2022-03-07
 
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
 The Essential Guide to Election Security
@@ -23,6 +23,8 @@ Formal cybersecurity assessments are a fundamental aspect of managing cybersecur
 #. Independent assessments: Because they are conducted by outside assessment specialists, independent assessments usually cost more and take longer, but they are more objective and thorough. Where time and resources permit, they are preferable even when an organization has deep cybersecurity experience.
 
 Assessments can take a number of forms, but good ones are based on a highly-accepted risk framework, like ISO 27000 series, the NIST Cybersecurity Framework, and the CIS Controls.
+
+Most critically, you need to be prepared to do something about the results of your assessments. Most will provide some prioritization of results. Once you have these results, develop a plan of action and milestones to get issues addressed.
 
 Goals
 **********************************************
@@ -45,17 +47,23 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 Reactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's 'CyHy site<https://www.cisa.gov/cyber-hygiene-services>'_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
+Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site<https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
+
+Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
 Proactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-[All the guidance and such]
+With at least some technical staff, you can consider a more robust assessment program. While conducting large assessments can provide signifcant information about your systems and put you in a great position to harden them, they can be expensive and resource-intensive.
+
+At least initially, it's good to focus on automated, free, or structured tools and services for understanding your systems. There are many options available to you. Review the options CISA offers through its `resource hub<https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
+
+Also consider implementing the CIS Controls and CIS Benchmarks. Tools available to election offices include `CIS-CAT<https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
 
 Adaptive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-[All the guidance and such]
+At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan.
 
 Cost-Effective Tools
 **********************************************
