@@ -201,7 +201,7 @@ html_extra_path = ['media']
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
 #
- html_use_smartypants = True
+html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 #
@@ -250,7 +250,7 @@ html_extra_path = ['media']
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'h', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'r', 'sv', 'tr', 'zh'
 #
- html_search_language = 'en'
+html_search_language = 'en'
 
 # A dictionary with options for the search language support, empty by default.
 # 'ja' uses this config value.
