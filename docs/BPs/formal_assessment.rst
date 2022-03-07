@@ -4,7 +4,7 @@
   To: BP for formal assessment
   Last update by: mike garcia
 
-.. include:: ../source/global_directives.rst
+.. include:: docs/source/global_directives.rst
 .. |last_update| replace:: 2022-03-07
 
 .. |bp_title| replace:: Formal Cybersecurity Assessments
