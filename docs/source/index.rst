@@ -6,6 +6,7 @@ CIS's Essential Guide for Election Security
    :caption: Introduction
 
    README
+   docs/video_embed_test
 
 .. toctree::
    :maxdepth: 2
