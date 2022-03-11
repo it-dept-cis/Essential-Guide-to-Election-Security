@@ -62,10 +62,10 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry
+•	[links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
 
-*This page last updated on |last_update|.*
+This page last updated on |last_update|.
