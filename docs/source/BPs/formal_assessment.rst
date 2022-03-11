@@ -63,7 +63,7 @@ Also consider implementing the CIS Controls and CIS Benchmarks. Tools available 
 Adaptive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan.
+At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring to your risk framework.
 
 Cost-Effective Tools
 **********************************************

@@ -30,6 +30,10 @@ import datetime
 
 # -- General configuration ------------------------------------------------
 
+# file insertion enabled to allow includes of global directives
+
+file-insertion-enabled
+
 # If your documentation needs a minimal Sphinx version, state it here.
 #
 needs_sphinx = '1.7.1'
