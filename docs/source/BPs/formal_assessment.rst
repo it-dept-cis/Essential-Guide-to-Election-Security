@@ -85,4 +85,4 @@ Learn More
 
 Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
 
-*This page last updated on |last_update|.*
+This page last updated on |last_update|.
