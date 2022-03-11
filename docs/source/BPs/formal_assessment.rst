@@ -48,7 +48,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 Reactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site<https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
+Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site<https://www.cisa.gov/cyber-hygiene-services_>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
 
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
