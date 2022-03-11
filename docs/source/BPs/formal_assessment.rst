@@ -48,7 +48,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 Reactive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services_>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
+Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
 
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
@@ -57,9 +57,9 @@ Proactive Maturity
 
 With at least some technical staff, you can consider a more robust assessment program. While conducting large assessments can provide signifcant information about your systems and put you in a great position to harden them, they can be expensive and resource-intensive.
 
-At least initially, it's good to focus on automated, free, or structured tools and services for understanding your systems. There are many options available to you. Review the options CISA offers through its `resource hub<https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
+At least initially, it's good to focus on automated, free, or structured tools and services for understanding your systems. There are many options available to you. Review the options CISA offers through its `resource hub <https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
 
-Also consider implementing the CIS Controls and CIS Benchmarks. Tools available to election offices include `CIS-CAT<https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
+Also consider implementing the CIS Controls and CIS Benchmarks. Tools available to election offices include `CIS-CAT <https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
 
 Adaptive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
