@@ -20,15 +20,19 @@ Maturity Levels in the Essential Guide
 ********************************************
 
 This section will help election officials determine their current maturity level. There are three levels defined in this handbook to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three CIS Controls Implementation Groups, with important differences based on the nature of and risks associated with election administration. The Implementation Groups are determined based on three attributes:
+
 1.	Data sensitivity and criticality of services offered by the organization
-2.	Expected level of technical expertise exhibited by staff or on contract
-3.	Resources available and dedicated toward cybersecurity activities
+#.	Expected level of technical expertise exhibited by staff or on contract
+#.	Resources available and dedicated toward cybersecurity activities
+
 Because this handbook’s audience is those operating in the election environment, we have a rough estimate of the first attribute: election infrastructure is critical infrastructure, and the organization deals with sensitive data related to the elections it administers.
 Many election offices have a misalignment between the level of criticality of their services and the resources available to dedicate toward cybersecurity. To address this, this handbook focuses on meeting election offices where they are and helping to incrementally raise them to higher levels of maturity.
+
 Later in the handbook we use these maturity levels to provide specific recommendations for managing cybersecurity risk and, ultimately, leveling up an organization’s maturity. The three maturity levels are:
-1.	Reactive: The organization responds to threats when presented to them or when attacked but has little capacity to predict, foresee, or model attacks
-2.	Preventative: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned but staff and contractors are not or have limited specialization in cybersecurity
-3.	Adaptive: The organization assesses its risk and employs experts in the different facets of cybersecurity—e.g., risk management, penetration testing, application security
+
+1.	**Reactive**: The organization responds to threats when presented to them or when attacked but has little capacity to predict, foresee, or model attacks
+#.	**Preventative**: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned but staff and contractors are not or have limited specialization in cybersecurity
+#.	**Adaptive**: The organization assesses its risk and employs experts in the different facets of cybersecurity—e.g., risk management, penetration testing, application security
 
 Maturities in this Essential Guide
 ********************************************

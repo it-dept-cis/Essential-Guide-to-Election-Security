@@ -6,7 +6,7 @@ CIS's Essential Guide for Election Security
    :caption: Introduction
 
    docs/source/README
-   whats_changed
+   docs/source/whats_changed
 
 .. toctree::
    :maxdepth: 2
