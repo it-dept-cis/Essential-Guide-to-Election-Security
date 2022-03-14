@@ -5,11 +5,11 @@ CIS's Essential Guide for Election Security
    :maxdepth: 2
    :caption: Introduction
 
-   docs/source/README
-   docs/source/whats_changed
+   README
+   whats_changed
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Maturity
 
    Maturity/maturities

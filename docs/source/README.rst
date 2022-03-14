@@ -6,17 +6,17 @@
 *Status: draft*
 
 The Essential Guide to Election Security
-=====================================
+===============================================
 
 A Best Practices Resource for Election Professionals
-----------------------------
+--------------------------------------------------------
 
 As a follow-on to The Handbook for Election Infrastructure Security, the Center for Internet Security (CIS) has developed the Essential Guide to Election Security to serve as a first-stop resource for election officials to learn about best practices in cybersecurity. This can aid the process of building a program.
 
 The Guide takes special consideration of the wide range of technical capabilities and resource availability among the many thousands of election offices in the United States. It puts particular emphasis on helping small, often under-resourced election offices understand their security readiness and take incremental steps to improve.
 
 Why does this Guide look like a webpage?
-----------------------------
+----------------------------------------------
 
 CIS published The Handbook for Election Infrastructure Security in early 2018, just prior to the launch of the Election Infrastructure Information Sharing and Analysis Center (EI-ISAC). In 2021, CIS began working with the election community to update that handbook. One of the primary pieces of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place 2017.
 
