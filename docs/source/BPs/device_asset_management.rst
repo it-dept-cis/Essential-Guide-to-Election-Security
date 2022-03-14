@@ -63,8 +63,7 @@ Cost-Effective Tools
 **********************************************
 
 •	CIS Enterprise Asset Inventory Worksheet: An excel workbook suitable for small operations a limited number of assets (https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/)
-•	Nmap: Famous multipurpose network scanner, used by system administrators
-and hackers across the world to identify which devices are connected to your network (https://nmap.org/)
+•	Nmap: Famous multipurpose network scanner, used by system administrators and hackers across the world to identify which devices are connected to your network (https://nmap.org/)
 •	ZenMap: Easy-to-use graphic user interface for Nmap (https://nmap.org/zenmap/)
 •	Spiceworks: Free IT inventory and asset management software to identify devices and software on your network (https://www.spiceworks.com/)
 
