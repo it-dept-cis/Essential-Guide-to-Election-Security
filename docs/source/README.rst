@@ -3,6 +3,8 @@
   On: 1/25/2022
   To: Serve as the landing page for the EGES
 
+*Status: draft*
+
 The Essential Guide to Election Security
 =====================================
 
@@ -16,7 +18,7 @@ The Guide takes special consideration of the wide range of technical capabilitie
 Why does this Guide look like a webpage?
 ----------------------------
 
-CIS published The Handbook for Election Infrastructure Security in early 2018, just prior to the launch of the Election Infrastructure Information Sharing and Analysis Center (EI-ISAC). In 2021, CIS began working with the election community to update that handbook. One of the primary pieces of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place 2017. 
+CIS published The Handbook for Election Infrastructure Security in early 2018, just prior to the launch of the Election Infrastructure Information Sharing and Analysis Center (EI-ISAC). In 2021, CIS began working with the election community to update that handbook. One of the primary pieces of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place 2017.
 
 Simply creating an updated version of that Handbook would've left us in the same position: the pace of new best practices and services available to secure eleciton infrastructure is too great to have a static model for communicating them to election officials.
 
@@ -28,24 +30,24 @@ Who should use this Guide?
 ----------------------------
 
 This Guide is developed to help election officials and their staffs understand their organization's cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on a number of factors, including, but not limited to:
-* the type of jurisdiction (state vs county vs municipality), 
-* the structure of election administration in a given state (top-down vs bottom-up), 
+* the type of jurisdiction (state vs county vs municipality),
+* the structure of election administration in a given state (top-down vs bottom-up),
 * the types of election equipment owned, and
 * how IT responsibilities are shared with other functions in the jurisdiction (IT shared with the rest of the county).
 
-Other stakeholders, like election technology providers, will find much of the information useful as they consider how their work impacts outcomes in election administration. 
+Other stakeholders, like election technology providers, will find much of the information useful as they consider how their work impacts outcomes in election administration.
 
-How do I use this Guide 
+How do I use this Guide
 ----------------------------
 
-The guide is organized into...[tk]
+The guide is organized into several sections:
 
-[Link to how-to]
+#. An introduction, consisting of this and the next page
+#. A description of _`maturities` and how they are used in the document
+#. A set of _`best practices <bp_intro>` for organizations to implement
+#. Additional references, tools, and
 
-Table of Contents
-----------------------------
-
-[tk]
+You can get detailed information on how to use this Essential Guide _`here <howtoguide>`.
 
 ---------------
 

@@ -10,6 +10,8 @@
 
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
+*Status: draft*
+
 The Essential Guide to Election Security
 ==============================================
 *Best Practice:* |bp_title|

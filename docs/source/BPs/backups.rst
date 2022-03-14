@@ -9,6 +9,8 @@
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Backups
 
+*Status: draft*
+
 The Essential Guide to Election Security
 ==============================================
 *Best Practice:* |bp_title|

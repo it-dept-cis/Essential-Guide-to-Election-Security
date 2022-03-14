@@ -9,6 +9,7 @@
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Device Asset Management
 
+*Status: draft*
 
 The Essential Guide to Election Security
 ==============================================
