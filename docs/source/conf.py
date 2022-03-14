@@ -301,7 +301,7 @@ latex_documents = [
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 
-latex_logo = 'cislogo.png'
+latex_logo = 'media/cislogo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
