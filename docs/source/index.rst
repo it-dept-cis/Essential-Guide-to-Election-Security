@@ -22,8 +22,9 @@ CIS's Essential Guide for Election Security
 
    BPs/bp_intro
    BPs/index
-   BPs/formalassessment
+   BPs/formal_assessment
    BPs/backups
+   BPs/device_asset_management
 
 .. toctree::
    :maxdepth: 1
