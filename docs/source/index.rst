@@ -21,7 +21,7 @@ CIS's Essential Guide for Election Security
    :caption: Best Practices
 
    BPs/bp_intro
-   BPs/index
+   BPs/bp_index
    BPs/formal_assessment
    BPs/backups
    BPs/device_asset_management
