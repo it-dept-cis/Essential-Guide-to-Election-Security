@@ -5,4 +5,8 @@
 
 *Status: draft*
 
+Appendix: How to Use the Essential Guide for Election Security
+---------------------------------------------------------------------
+
+
 [tk]

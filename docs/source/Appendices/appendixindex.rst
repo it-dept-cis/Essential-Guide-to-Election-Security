@@ -6,6 +6,8 @@
 
 *Status: draft*
 
+Appendix: Index of Appendices
+--------------------------------------
 in development
 
 index for appendices with descriptions

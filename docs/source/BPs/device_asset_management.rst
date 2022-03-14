@@ -4,15 +4,13 @@
   To: BP for device asset management
   Last update by: mike garcia
 
-.. |last_update| replace:: 2022-03-10
+.. |last_update| replace:: 2022-03-14
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Device Asset Management
 
 *Status: draft*
 
-The Essential Guide to Election Security
-==============================================
 *Best Practice:* |bp_title|
 ----------------------------------------------
 

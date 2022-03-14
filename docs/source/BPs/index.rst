@@ -4,9 +4,12 @@
   To: Serve as an index for all best practices in the EGES
   Last update by: mike garcia
 
-.. |last_update| replace:: 2022-02-28
+.. |last_update| replace:: 2022-03-14
 
 *Status: draft*
+
+Index of Best Practices
+-----------------------------------------------
 
 [tk]
 
