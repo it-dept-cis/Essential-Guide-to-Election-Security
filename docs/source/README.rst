@@ -5,6 +5,8 @@
 
 *Status: draft*
 
+**FOR DEMO PURPOSES ONLY. CONTENT NOT FINALIZED**
+
 The Essential Guide to Election Security
 ===============================================
 
