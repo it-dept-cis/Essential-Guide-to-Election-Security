@@ -4,6 +4,8 @@
   To: introduces the maturities in the EGES
   Last update by: mike garcia
 
+.. |last_update| replace:: 2022-03-15
+
 *Status: draft*
 
 Maturities
@@ -39,4 +41,14 @@ Maturities in this Essential Guide
 
 The next page will provide questions that can help guide you to one of the three maturities.
 
-You don't have to choose these precisely, but without other information, implementing the priority actions for the maturity that best describes your oganization can give you a quick route to improving your cybersecurity posture.
+You don't have to choose these precisely, but without other information, implementing the priority actions for the maturity that best describes your organization can give you a quick route to improving your cybersecurity posture.
+
+The goal is to use the maturity levels to guide election offices to best practice guidance they can most readily use. Each best practice has tailored guidance for each maturity, ranging from small, simple, and free guidance and tools for the Reactive maturity to enterprise-driven and sophisticated guidance and tools for the Adaptive maturity.
+
+The next section provides a guide to determining your own maturity, which then maps to that tailored guidance. Use it as a starting point and adjust as needed.
+
+-----------------------------------------------
+
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
+
+This page last updated on |last_update|.
