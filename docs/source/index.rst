@@ -2,31 +2,34 @@ CIS's Essential Guide for Election Security
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Introduction
 
    README
-   video_embed_test
+   whats_changed
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Maturity
 
+   Maturity/maturities
    Maturity/determinematurity
    Maturity/maturity_bp_mapping
 
-   
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Best Practices
 
-   BPs/index
-   BPs/formalassessment
+   BPs/bp_intro
+   BPs/bp_index
+   BPs/formal_assessment
    BPs/backups
+   BPs/device_asset_management
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Appendicies
 
+   Appendices/appendixindex
    Appendices/howtoguide
    Appendices/acronyms
