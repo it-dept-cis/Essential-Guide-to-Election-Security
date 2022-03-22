@@ -13,7 +13,7 @@ CIS's Essential Guide for Election Security
    :caption: Maturity
 
    Maturity/maturities
-   Maturity/determinematurity
+   Maturity/determine_maturity
    Maturity/maturity_bp_mapping
 
 .. toctree::
@@ -25,11 +25,15 @@ CIS's Essential Guide for Election Security
    BPs/formal_assessment
    BPs/backups
    BPs/device_asset_management
+   BPs/cis_controls
+   BPs/endpoint_protection
+   BPs/mdm_info
+   BPs/patching
 
 .. toctree::
    :maxdepth: 1
-   :caption: Appendicies
+   :caption: Appendices
 
-   Appendices/appendixindex
-   Appendices/howtoguide
+   Appendices/appendix_index
+   Appendices/how_to_guide
    Appendices/acronyms
