@@ -1,0 +1,76 @@
+..
+  Created by: mike garcia
+  On: 2022-03-28
+  To: encryption, build largely from 2018-03-30 spotlight
+  Last update by: mike garcia
+
+.. |last_update| replace:: `2022-03-28`
+
+.. include:: docs/source/global_directives.rst
+
+.. |Maturity1| replace:: Reactive
+.. |Maturity2| replace:: Proactive
+.. |Maturity3| replace:: Adaptive
+
+.. |contact_email| replace:: dontknowyet@cisecurity.org
+.. |bp_title| replace:: Best Practice Title
+
+*Status: draft*
+
+*Best Practice:* |bp_title|
+----------------------------------------------
+
+[2-3 sentence description/rationale]
+
+Goals
+**********************************************
+
+#.	[Goal 1]
+#.	[Goal 2]
+
+Mappings to CIS Controls and Safeguards
+**********************************************
+
+- [#.#][tab][title of control]
+- [#.#][tab][title of control]
+
+Actions
+**********************************************
+
+For |bp_title|, the necessary actions [e.g., "are the same for all maturity levels", "vary by maturity as detailed below"]
+
+|Maturity1| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+[All the guidance and such]
+
+|Maturity2| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+[All the guidance and such]
+
+|Maturity3| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+[All the guidance and such]
+
+Cost-Effective Tools
+**********************************************
+
+•	[tool]: [description][(link)]
+•	[tool]: [description][(link)]
+
+Terms
+**********************************************
+
+[links to glossary or has defs embedded…need to see if it’s possible to do that dynamically in github]
+
+Learn More
+**********************************************
+•	[links to other random resources or knowledge or any relevant knowledge base entry]
+
+-----------------------------------------------
+
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
+
+This page last updated on |last_update|.

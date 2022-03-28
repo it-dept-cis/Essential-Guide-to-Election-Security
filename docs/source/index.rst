@@ -29,6 +29,8 @@ CIS's Essential Guide for Election Security
    BPs/endpoint_protection
    BPs/mdm_info
    BPs/patching
+   BPs/manage_remote_connections
+   BPs/encryption
 
 .. toctree::
    :maxdepth: 1
