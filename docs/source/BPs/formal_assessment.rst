@@ -4,7 +4,7 @@
   To: BP for formal assessment
   Last update by: mike garcia
 
-.. include:: docs/source/global_directives.rst
+.. include:: ../global_directives.rst
 
 .. |last_update| replace:: 2022-03-14
 
