@@ -24,10 +24,6 @@ import datetime
 #import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# Windows Imagemagick configuration
-#if sys.platform.startswith('win32'):
-#    image_converter = 'C:\path\to\ImageMagick\magick.exe'
-
 # -- General configuration ------------------------------------------------
 
 # file insertion enabled to allow includes of global directives
@@ -36,7 +32,7 @@ import datetime
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #
-needs_sphinx = '1.7.1'
+needs_sphinx = '4.0.0'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -52,6 +48,7 @@ extensions = [
     #'sphinx.ext.imgconverter',
     'recommonmark',
     #'sphinx_markdown_tables',
+    'sphinx_last_updated_by_git'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
