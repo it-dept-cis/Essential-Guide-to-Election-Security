@@ -1,8 +1,8 @@
 ..
   Created by: [name]
-  On: yyyy-mm-dd
+  On: [yyyy-mm-dd]
   To: [Brief description, like "Serve as the landing page for the EGES"]
-  Last update by: [name]
+  Last update by: mike garcia
 
 .. |last_update| replace:: `2022-02-28`
 

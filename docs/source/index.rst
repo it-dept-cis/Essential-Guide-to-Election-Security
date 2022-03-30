@@ -22,15 +22,19 @@ CIS's Essential Guide for Election Security
 
    BPs/bp_intro
    BPs/bp_index
-   BPs/formal_assessment
+   BPs/albert
    BPs/backups
-   BPs/device_asset_management
    BPs/cis_controls
+   BPs/device_asset_management
+   BPs/encryption
    BPs/endpoint_protection
+   BPs/formal_assessment
+   BPs/join_ei_isac
+   BPs/manage_remote_connections
+   BPs/mdbr
    BPs/mdm_info
    BPs/patching
-   BPs/manage_remote_connections
-   BPs/encryption
+   BPs/websites
 
 .. toctree::
    :maxdepth: 1
