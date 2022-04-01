@@ -7,6 +7,7 @@
 .. Contact information
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |eiisac_email| replace:: elections@cisecurity.org
+.. |CISA_vuln_email| replace:: vulnerability_info@cisa.dhs.gov
 
 .. Maturity replacement information
 .. |Maturity1| replace:: Reactive

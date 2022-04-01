@@ -33,7 +33,9 @@ CIS's Essential Guide for Election Security
    BPs/manage_remote_connections
    BPs/mdbr
    BPs/mdm_info
+   BPs/network_monitoring
    BPs/patching
+   BPs/publc_asset_scanning
    BPs/websites
 
 .. toctree::
