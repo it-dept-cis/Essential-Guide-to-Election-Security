@@ -4,6 +4,7 @@
   To: [Brief description, like "Serve as the landing page for the EGES"]
   Last update by: [name]
 
+
 .. |last_update| replace:: `2022-02-28`
 
 .. include:: docs/source/global_directives.rst
@@ -71,6 +72,4 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
+.. include:: ../global_directives.rst

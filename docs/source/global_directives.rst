@@ -6,6 +6,11 @@
 
 .. Contact information
 .. |contact_email| replace:: dontknowyet@cisecurity.org
+
+
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
+
+
 .. |eiisac_email| replace:: elections@cisecurity.org
 .. |CISA_vuln_email| replace:: vulnerability_info@cisa.dhs.gov
 

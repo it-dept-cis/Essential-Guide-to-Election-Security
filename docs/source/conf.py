@@ -24,10 +24,6 @@ import datetime
 #import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-# Windows Imagemagick configuration
-#if sys.platform.startswith('win32'):
-#    image_converter = 'C:\path\to\ImageMagick\magick.exe'
-
 # -- General configuration ------------------------------------------------
 
 # file insertion enabled to allow includes of global directives
@@ -36,7 +32,7 @@ import datetime
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #
-needs_sphinx = '1.7.1'
+needs_sphinx = '4.0.0'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -52,6 +48,7 @@ extensions = [
     #'sphinx.ext.imgconverter',
     'recommonmark',
     #'sphinx_markdown_tables',
+    'sphinx_last_updated_by_git'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -158,7 +155,10 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'logo_only': False,
+    'display_version': True,
+}
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
@@ -173,7 +173,7 @@ html_short_title = 'EGES'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-# html_logo = None
+html_logo = '_static/cis-logo.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32

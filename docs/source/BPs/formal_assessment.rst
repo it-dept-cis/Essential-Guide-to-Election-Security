@@ -10,8 +10,6 @@
 .. |Maturity2| replace:: Proactive
 .. |Maturity3| replace:: Adaptive
 
-.. |last_update| replace:: 2022-03-14
-
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
 *Status: draft*
@@ -24,6 +22,7 @@ A security assessment is a thorough, proactive study of an organization’s syst
 Assessments help identify and prevent security issues. They can also justify a budget and guide procurements of security resources, tools, and services.
 
 Formal cybersecurity assessments are a fundamental aspect of managing cybersecurity risk.  Risk assessments can be sorted into two categories:
+
 #. Self-assessments: In-house risk assessments are generally faster and less expensive while still providing useful insight into your cybersecurity posture.
 #. Independent assessments: Because they are conducted by outside assessment specialists, independent assessments usually cost more and take longer, but they are more objective and thorough. Where time and resources permit, they are preferable even when an organization has deep cybersecurity experience.
 
@@ -34,9 +33,9 @@ Most critically, you need to be prepared to do something about the results of yo
 Goals
 **********************************************
 
-#.	Understand and determine the type and extent of cybersecurity assessment your organization should undergo
-#.	Implement a risk assessment program
-#.  Use the results to improve your cybersecurity posture
+#. Understand and determine the type and extent of cybersecurity assessment your organization should undergo
+#. Implement a risk assessment program
+#. Use the results to improve your cybersecurity posture
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -73,8 +72,8 @@ At the Adaptive maturity, you should be implementing sophisticated controls and 
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+* [tool]: [description][(link)]
+* [tool]: [description][(link)]
 
 Terms
 **********************************************
@@ -83,10 +82,8 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+* [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
+.. include:: ../global_directives.rst
