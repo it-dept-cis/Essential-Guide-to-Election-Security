@@ -1,5 +1,5 @@
 CIS's Essential Guide for Election Security
-===============
+===========================================
 
 .. toctree::
    :maxdepth: 1
@@ -32,4 +32,10 @@ CIS's Essential Guide for Election Security
 
    Appendices/appendixindex
    Appendices/howtoguide
-   Appendices/acronyms
+   Appendices/Acronyms
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Glossary
+
+   glossary

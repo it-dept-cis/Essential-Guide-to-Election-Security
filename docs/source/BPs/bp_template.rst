@@ -4,9 +4,6 @@
   To: [Brief description, like "Serve as the landing page for the EGES"]
   Last update by: mike garcia
 
-.. |last_update| replace:: 2022-02-28
-
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Best Practice Title
 
 *Status: draft*
@@ -65,6 +62,4 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
+.. include:: ../global_directives.rst
