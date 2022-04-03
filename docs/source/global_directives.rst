@@ -5,3 +5,5 @@
   Last update by: mike garcia
 
 .. |contact_email| replace:: dontknowyet@cisecurity.org
+
+Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|

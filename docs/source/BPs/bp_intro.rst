@@ -12,3 +12,5 @@ Introducton to Best Practices
 in development
 
 points to prioritization by maturity
+
+.. include:: ../global_directives.rst

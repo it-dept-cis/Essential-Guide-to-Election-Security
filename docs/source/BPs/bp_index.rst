@@ -4,8 +4,6 @@
   To: Serve as an index for all best practices in the EGES
   Last update by: mike garcia
 
-.. |last_update| replace:: 2022-03-14
-
 *Status: draft*
 
 Index of Best Practices
@@ -16,6 +14,4 @@ Index of Best Practices
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
-
-*This page last updated on |last_update|.*
+.. include:: ../global_directives.rst
