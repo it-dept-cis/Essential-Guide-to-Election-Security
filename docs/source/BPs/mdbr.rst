@@ -1,18 +1,7 @@
 ..
   Created by: mike garcia
-  On: 2022-03-28
   To: MDBR based on slick sheet feb 2022
-  Last update by: mike garcia
 
-.. |last_update| replace:: `2022-03-28`
-
-.. include:: ../docs/source/global_directives.rst
-
-.. |Maturity1| replace:: Reactive
-.. |Maturity2| replace:: Proactive
-.. |Maturity3| replace:: Adaptive
-
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Malicious Domain Blocking and Reporting
 
 *Status: draft*

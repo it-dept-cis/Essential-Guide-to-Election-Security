@@ -1,18 +1,7 @@
 ..
   Created by: mike garcia
-  On: 2022-03-30
   To: network scanning to include things like CyHy
-  Last update by: [name]
 
-.. |last_update| replace:: `2022-03-30`
-
-.. include:: ../docs/source/global_directives.rst
-
-.. |Maturity1| replace:: Reactive
-.. |Maturity2| replace:: Proactive
-.. |Maturity3| replace:: Adaptive
-
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Publicly-Facing Network Scanning
 
 *Status: draft*

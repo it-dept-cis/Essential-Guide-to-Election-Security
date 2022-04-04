@@ -1,18 +1,7 @@
 ..
   Created by: mike garcia
-  On: 2022-0330
   To: network intrusion monitoring/detection/prevention and albert
-  Last update by: mike garcia
 
-.. |last_update| replace:: `2022-03-30`
-
-.. include:: ../docs/source/global_directives.rst
-
-.. |Maturity1| replace:: Reactive
-.. |Maturity2| replace:: Proactive
-.. |Maturity3| replace:: Adaptive
-
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Network Monitoring and Intrusion Detection
 
 *Status: draft*
