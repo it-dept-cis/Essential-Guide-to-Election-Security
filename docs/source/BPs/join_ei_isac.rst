@@ -1,18 +1,7 @@
 ..
   Created by: mike garcia
-  On: 2022-03-28
   To: join ei-isac based on are you ready for next election slick
-  Last update by: mike garcia
 
-.. |last_update| replace:: `2022-03-28`
-
-.. include:: docs/source/global_directives.rst
-
-.. |Maturity1| replace:: Reactive
-.. |Maturity2| replace:: Proactive
-.. |Maturity3| replace:: Adaptive
-
-.. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Join the EI-ISAC
 
 *Status: draft*
