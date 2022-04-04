@@ -6,9 +6,18 @@
 
 *Status: draft*
 
+.. include:: docs/source/global_directives.rst
+
+.. |Maturity1| replace:: Reactive
+.. |Maturity2| replace:: Proactive
+.. |Maturity3| replace:: Adaptive
+
+
 Introducton to Best Practices
 ----------------------------------------------
 
 in development
 
 points to prioritization by maturity
+
+.. include:: ../global_directives.rst

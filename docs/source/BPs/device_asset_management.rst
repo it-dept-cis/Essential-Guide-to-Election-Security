@@ -6,6 +6,12 @@
 
 .. |last_update| replace:: 2022-03-14
 
+.. include:: docs/source/global_directives.rst
+
+.. |Maturity1| replace:: Reactive
+.. |Maturity2| replace:: Proactive
+.. |Maturity3| replace:: Adaptive
+
 .. |contact_email| replace:: dontknowyet@cisecurity.org
 .. |bp_title| replace:: Device Asset Management
 
@@ -79,6 +85,4 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|
-
-*This page last updated on |last_update|.*
+.. include:: ../global_directives.rst

@@ -2,8 +2,6 @@
   Created by: mike garcia
   To: describes changes from the handbook
 
-
-
 *Status: draft*
 
 What's Changed
@@ -15,6 +13,7 @@ In early 2018, the Center for Internet Security (:term:`CIS`), with significant 
 
 CIS received positive feedback from the election community on the value of the tool. In the four years since then, several important changes have occurred:
 
+
 1.	The CIS Controls, on which many of the 88 best practices are based, have undergone a major revision, creating a need to, at minimum, update the language in the handbook.
 #.	The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the set of freely available tools and services for election offices across the country.
 #.	Since releasing the handbook, CIS has developed a series of best practice guides and other information [link]. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
@@ -23,6 +22,7 @@ CIS received positive feedback from the election community on the value of the t
 #.	Election officials have made great, but often unequal, strides in meeting today’s threats. This has created an even wider array of “have” and “have-nots” with resultant differences in cybersecurity postures.
 #.	The nature of threats have changed: in 2016, national state actors posed most of the apparent risks. Today we have more information on real world attacks and know that they come from a variety of sources and are both kinetic and non-kinetic.
 #.	Mis-, dis-, and mal-information (:term:`MDMinfo`) has grown to be one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation threats. This includes many types of MDMinfo, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.
+
 
 How is this version different?
 -----------------------------------
@@ -36,3 +36,5 @@ These changes to the election ecosystem warrant a rethinking of the original han
 #.	We’re developing a “peer support” tool to enable election teams to communicate with each other, creatively solve problems, share best practices, and rapidly and collaboratively respond to emerging issues.
 
 In addition to these, there are many minor updates we hope improve the usability of this handbook, allowing it to serve as an effective tool for every election office regardless of size, resources, or technical sophistication.
+
+.. _best practice guides and other information: https://www.cisecurity.org/elections
