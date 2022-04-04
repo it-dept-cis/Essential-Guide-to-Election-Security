@@ -6,7 +6,7 @@
 
 .. |last_update| replace:: 2022-03-17
 
-.. include:: docs/source/global_directives.rst
+.. include:: ../docs/source/global_directives.rst
 
 .. |Maturity1| replace:: Reactive
 .. |Maturity2| replace:: Proactive
@@ -54,7 +54,7 @@ When creating a patch management program for your office, begin by understanding
 * Tests and verifies patches in the operating environment; and
 * Applies appropriately tested patches to vulnerable systems.
 
-The MS-ISAC regularly disseminates _`Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`, which address critical patches in commercial software commonly used by government agencies and are available to all EI-ISAC members. To subscribe to Cybersecurity Advisories, EI-ISAC members should contact their account manager or complete the _`subscription form <https://learn.cisecurity.org/ms-isac-subscription>`. 
+The MS-ISAC regularly disseminates _`Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`, which address critical patches in commercial software commonly used by government agencies and are available to all EI-ISAC members. To subscribe to Cybersecurity Advisories, EI-ISAC members should contact their account manager or complete the _`subscription form <https://learn.cisecurity.org/ms-isac-subscription>`.
 
 For more comprehensive recommendations and technical insight on this topic, please see the MS-ISAC’s Technical White Paper _`Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`.
 

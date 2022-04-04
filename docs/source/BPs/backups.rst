@@ -4,7 +4,7 @@
   To: Backups. Derived largely from dec 2018 spotlight
   Last update by: mike garcia
 
-.. include:: docs/source/global_directives.rst
+.. include:: ../docs/source/global_directives.rst
 
 .. |Maturity1| replace:: Reactive
 .. |Maturity2| replace:: Proactive

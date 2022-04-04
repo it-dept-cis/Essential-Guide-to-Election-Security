@@ -7,7 +7,7 @@
 
 .. |last_update| replace:: 2022-03-14
 
-.. include:: docs/source/global_directives.rst
+.. include:: ../docs/source/global_directives.rst
 
 .. |Maturity1| replace:: Reactive
 .. |Maturity2| replace:: Proactive
