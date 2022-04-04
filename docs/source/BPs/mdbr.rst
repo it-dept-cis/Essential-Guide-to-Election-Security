@@ -33,8 +33,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [#.#][tab] 9.2: Use DNS Filtering Services
+- [#.#][tab] 9.3: Maintain and Enforce Network-Based URL Filters
 
 Actions
 **********************************************
