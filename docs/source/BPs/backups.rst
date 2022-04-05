@@ -20,7 +20,7 @@ Backups also play a crucial role in expediting the recovery from malicious cyber
 #. Encrypted: Backups should be encrypted. Having the backup encrypted will safeguard it if someone unauthorized tries to access it.
 #. Offline: Backups must be stored offline to reduce the risk of malware infecting the copies. Some malware, such as ransomware, will specifically look for backups that are available on the network to hinder the recovery process.
 #. Offsite – Backups should be stored offsite to ensure recovery is possible in the event of disasters, such as fire or flooding. Offsite backups could be physical copies or cloud based. The backup location is vital to the recovery process and must be a place where the backups will be secure but quickly accessible.
-#. Tested: Testing the backup’s integrity and the ability to successfully restore a system from the backup is essential to a successful restoration. This ensures that, if needed, the backups will be able to restore what has been corrupted or destroyed.
+#. Tested: Testing the backup’s integrity and the ability to successfully restore a system from the backup is essential to a successful restoration. This ensures that, if needed, the backups will be able to restore what has been corrupted or destroyed. Too often backups are untested, and can't actually be restored in times of crisis.
 
 Goals
 **********************************************
@@ -65,8 +65,11 @@ Backups should be tested at least once a quarter and whenever processes or techn
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•	Bacula: [description][(http://blog.bacula.org/doku.php)]
+•	Amanda Network Backup: [description][(http://www.amanda.org)]
+•	Apple Time Machine: https://support.apple.com/en-us/HT201250
+• Microsoft Backup & Restore https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c
+• DHS, CISA, and MS-ISAC Joint Ransomware Guide https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf
 
 Terms
 **********************************************
