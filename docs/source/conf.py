@@ -141,23 +141,21 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
-if not on_rtd:  # only import and set the theme if we're building docs locally
-    import sphinx_rtd_theme
-    html_theme = 'sphinx_rtd_theme'
-    #html_theme = 'basic'
-    # Add any paths that contain custom themes here, relative to this directory.
-    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_theme = 'furo'
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+#
+#html_logo = '_static/cis-logo.png'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
 html_theme_options = {
-    'logo_only': False,
-    'display_version': True,
+    'light_logo': 'cis-logo.png',
+    'dark_logo': 'cis-logo.png', # TODO: Need dark logo
 }
 
 # The name for this set of Sphinx documents.
@@ -169,11 +167,6 @@ html_title = 'CIS Essential Guide to Election Security'
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
 html_short_title = 'EGES'
-
-# The name of an image file (relative to this directory) to place at the top
-# of the sidebar.
-#
-html_logo = '_static/cis-logo.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -301,7 +294,7 @@ latex_documents = [
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 
-latex_logo = 'media/cislogo.png'
+latex_logo = '_static/cis-logo.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
@@ -329,3 +322,24 @@ latex_logo = 'media/cislogo.png'
 # If false, no module index is generated.
 #
 # latex_domain_indices = True
+
+# Global variables for use in all pages
+#
+contact_email = 'controlsinfo@cisecurity.org'
+Maturity1 = 'Level 1'
+Maturity2 = 'Level 2'
+Maturity3 = 'Level 3'
+
+variables_to_export = [
+    'contact_email',
+    'Maturity1',
+    'Maturity2',
+    'Maturity3',
+]
+
+frozen_locals = dict(locals())
+
+rst_epilog = '\n'.join(
+    map(lambda x: f".. |{x}| replace:: {frozen_locals[x]}", variables_to_export))
+
+del frozen_locals

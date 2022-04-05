@@ -22,7 +22,7 @@ In the first, symmetric cryptography, you have a lockbox with one slot for a key
 The second, asymmetric cryptography, is different. It’s more like a deposit dropbox at a bank. The bank publishes the location of the dropbox (the public key), and once you drop your deposit into it, it’s secure until the bank opens the box with the one and only copy of their key (the private key). Anyone can make a deposit once they know the location of the box, but only the bank can get deposits out.
 
 +------------------------+---------------------------------+---------------------------------+
-|        Encryption Type | Asymmetric                      | Symmetric                       |
+| Encryption Type        | Asymmetric                      | Symmetric                       |
 | Characteristic         |                                 |                                 |
 +========================+=================================+=================================+
 | Keys                   | 2 keys – public (to be shared)  | 1 key – private (secret but     |
