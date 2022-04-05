@@ -53,7 +53,7 @@ There are many automated methods for creating backups. Most solutions are encryp
 
 Simple built-in backup tools like Apple's Time Machine and Microsoft's Backup and Restore work well for offline backups if they are not kept connected to a network or machine. If you wish to use tools like this, be sure to have a plan to connect them on a prescribed schedule and then remove them promptly isolate and securely store them. Unless you move them to other locations, they are not good solutions for offsite backups.
 
-Either implement a tool that provides both offline and offsite backup capabilities, or implement multiple tools. Some are described below.
+Either implement a tool that provides both offline and offsite backup capabilities, or implement multiple tools. Some are described below within Cost-Effective Tools.
 
 Proactive Maturity and Adaptive Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -65,11 +65,11 @@ Backups should be tested at least once a quarter and whenever processes or techn
 Cost-Effective Tools
 **********************************************
 
-•	Bacula: [description][(http://blog.bacula.org/doku.php)]
-•	Amanda Network Backup: [description][(http://www.amanda.org)]
-•	Apple Time Machine: https://support.apple.com/en-us/HT201250
-• Microsoft Backup & Restore https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c
-• DHS, CISA, and MS-ISAC Joint Ransomware Guide https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf
+•	Apple Time Machine: Time Machine is the backup mechanism of macOS, the desktop operating system developed by Apple. The software is designed to work with both local storage devices and network-attached disks, and is most commonly used with external disk drives connected using either USB or Thunderbolt. (https://support.apple.com/en-us/HT201250)
+•	Amanda Network Backup: AMANDA, the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media. Amanda uses native utilities and formats (e.g. dump and/or GNU tar) and can back up a large number of servers and workstations running multiple versions of Linux or Unix. Amanda uses a native Windows client to back up Microsoft Windows desktops and servers. (http://www.amanda.org)
+•	Bacula: Bacula is a set of Open Source, computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.(http://blog.bacula.org/doku.php)
+• Microsoft Backup & Restore: In Windows 11, you can restore files from a backup created with Backup and Restore or File History. (https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c)
+• DHS, CISA, and MS-ISAC Joint Ransomware Guide: A guide written by US federal agencies to assist with ransomware. (https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf)
 
 Terms
 **********************************************
