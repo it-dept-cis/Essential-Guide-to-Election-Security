@@ -325,7 +325,7 @@ latex_logo = '_static/cis-logo.png'
 
 # Global variables for use in all pages
 #
-contact_email = 'dontknowyet@cisecurity.org'
+contact_email = 'controlsinfo@cisecurity.org'
 Maturity1 = 'Level 1'
 Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'
