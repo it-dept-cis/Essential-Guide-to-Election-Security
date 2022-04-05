@@ -1,14 +1,6 @@
 ..
   Created by: mike garcia
-  On: 2022-03-7
   To: BP for formal assessment
-  Last update by: mike garcia
-
-.. include:: docs/source/global_directives.rst
-
-.. |Maturity1| replace:: Reactive
-.. |Maturity2| replace:: Proactive
-.. |Maturity3| replace:: Adaptive
 
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
