@@ -33,10 +33,10 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 11.1:  Establish and maintain a data recovery process
+- 11.1:  Establish and maintain a data recovery process (Reactive)
 - 11.2:  Perform automated backups of in-scope enterprise assets
 - 11.3:  Protect recovery data
-- 11.4:  Establish and maintain an isolated instance of recovery data
+- 11.4:  Establish and maintain an isolated instance of recovery data (Reactive)
 - 11.5:  Test backup recovery
 
 Actions
@@ -44,10 +44,19 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-Reactive Maturity
+|Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+ACTION 1: Perform a data inventory to understand the most important data residing within your network.
+ACTION 2: Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.
+
 For organizations operating at a Reactive Maturity, employing backup capabilities is critical to successfully mitigation risks against malware, especially ransomware.
+
+Creating a data inventory for a reactive maturity organization should include:
+* voter registration information
+* ballot definitions
+* ?
+* ?
 
 There are many automated methods for creating backups. Most solutions are encrypted and can be set to a desired frequency. But many are only either offline or offsite, whereas both are necessary to have a complete backup program. Offline backups help protect from ransomware while offsite backup help protect from local disasters.
 
@@ -55,7 +64,7 @@ Simple built-in backup tools like Apple's Time Machine and Microsoft's Backup an
 
 Either implement a tool that provides both offline and offsite backup capabilities, or implement multiple tools. Some are described below within Cost-Effective Tools.
 
-Proactive Maturity and Adaptive Maturity
+|Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Complex systems require complex solutions, and this can apply to backups as well. Solutions should conform to your data management plan.
