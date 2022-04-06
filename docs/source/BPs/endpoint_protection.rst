@@ -13,7 +13,7 @@
 
 If a threat is identified, it is blocked and an alert is generated. Administrators can typically view alerts through a vendor control panel or a connection to their own security platform. Also, many EDR solutions include a traditional antivirus functionality and the ability for responders to remotely access compromised systems for remediation.
 
-.. image:: EDR-Vendor-Cloud-Diagram-v21.01.png
+.. image:: /_static/EDR-Vendor-Cloud-Diagram-v21.01.png
    :alt: Vendor cloud diagram
 
 Election offices can use EDR to:
@@ -44,7 +44,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
- At the |Maturity1| maturity, you should consider deploying EDR across all endpoints in your environment.
+.. note::
+   At the |Maturity1| maturity, you should consider deploying EDR across all endpoints in your environment.
 
 * Deploy EDR on systems throughout your network.
   - Depending on the number of endpoints you have and relationship with other non-election local entities--like county recorder--you may be able to have your all of your endpoints covered by the EI-ISAC.
@@ -54,7 +55,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
   - Delegate personnel to monitor and act on detections.
   - Export information regularly from the control panel to local hardware backups, so you always have access to data needed for audits and investigations.
   - Consider available staffing resources to support any new security infrastructure and the associated responsibilities. Many EDR providers offer solutions supported by a 24×7 team to manage and respond to identified incidents.
-  - Refer to the _`EI-ISAC Cyber Incident Checklist <https://www.cisecurity.org/insights/white-papers/cyber-incident-checklist>` to manage security events.
+  - Refer to the `EI-ISAC Cyber Incident Checklist <https://www.cisecurity.org/insights/white-papers/cyber-incident-checklist>`_ to manage security events.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
