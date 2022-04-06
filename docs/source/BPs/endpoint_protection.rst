@@ -9,7 +9,7 @@
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
-Endpoint protection is security software that is deployed on workstations and servers, commonly referred to as “endpoints.” A common name for this is Endpoint Detection and Response, or EDR. EDR collects technical data from these endpoints and transmits it back to the vendor or a local server. The data is then analyzed for suspicious patterns and threats.
+:term:`Endpoint Protection` is security software that is deployed on workstations and servers, which are commonly referred to as “endpoints.” A common name for this is :term:`Endpoint Detection and Response`, or EDR. EDR collects technical data from these endpoints and transmits it back to the vendor or a local server. The data is then analyzed for suspicious patterns and threats.
 
 If a threat is identified, it is blocked and an alert is generated. Administrators can typically view alerts through a vendor control panel or a connection to their own security platform. Also, many EDR solutions include a traditional antivirus functionality and the ability for responders to remotely access compromised systems for remediation.
 
@@ -29,8 +29,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [10.1][tab] Deploy and Maintain Anti-Malware Software
+- [10.6][tab] Centrally Manage Anti-Malware Software
 
 Actions
 **********************************************
