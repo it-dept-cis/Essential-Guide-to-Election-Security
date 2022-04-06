@@ -13,9 +13,11 @@
 
 If a threat is identified, it is blocked and an alert is generated. Administrators can typically view alerts through a vendor control panel or a connection to their own security platform. Also, many EDR solutions include a traditional antivirus functionality and the ability for responders to remotely access compromised systems for remediation.
 
-.. include:: EDR-Vendor-Cloud-Diagram-v21.01.png
+.. image:: EDR-Vendor-Cloud-Diagram-v21.01.png
+   :alt: Vendor cloud diagram
 
 Election offices can use EDR to:
+
 * Detect and stop active attacks on election infrastructure.
 * Protect against malware.
 * Disable and restrict the ability of suspicious users on your network to cause harm.
@@ -23,8 +25,8 @@ Election offices can use EDR to:
 Goals
 **********************************************
 
-#.	Understand EDR technology and why its important
-#.	Know how to get EDR services through the EI-ISAC or commercial vendors
+#. Understand EDR technology and why its important
+#. Know how to get EDR services through the EI-ISAC or commercial vendors
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -57,14 +59,14 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-For the |Maturity2| and |Maturity3| maturities, all of the guidance for the |Maturity1| maturity applies, but the specifics of your network configuration and the number of endpoints you serve may affect whether you can implement EDR through the EI-ISAC. Contact the |eiisac_email| for more information.
+For the |Maturity2| and |Maturity3| maturities, all of the guidance for the |Maturity1| maturity applies, but the specifics of your network configuration and the number of endpoints you serve may affect whether you can implement EDR through the EI-ISAC. Contact |eiisac_email| for more information.
 
 
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+* [tool]: [description][(link)]
+* [tool]: [description][(link)]
 
 Terms
 **********************************************
@@ -73,10 +75,9 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+
+* [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 
 Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
