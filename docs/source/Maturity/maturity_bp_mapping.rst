@@ -59,26 +59,26 @@ Over time, you’ll want to work your way up to a higher maturity. The following
 
 1.  (additional measures not included in the above that will, over time, move an org up a maturity level, perhaps IG1 subset)
 
-Proactive Maturity
+|Maturity2| Maturity
 ***************************************
 
-Proactive Maturity Baseline Priorities
+|Maturity2| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Proactive Maturity Election Priorities
+|Maturity2| Maturity Election Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Proactive Maturity Leveling Up Goals
+|Maturity2| Maturity Leveling Up Goals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Adaptive Maturity
+|Maturity3| Maturity
 ***************************************
 
-Adaptive Maturity Baseline Priorities
+|Maturity3| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Adaptive Maturity Election Priorities
+|Maturity3| Maturity Election Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Adaptive Maturity Leveling Up Goals
+|Maturity3| Maturity Leveling Up Goals
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
