@@ -1,21 +1,26 @@
 ..
-  Created by: [name]
-  To: [Brief description, like "Serve as the landing page for the EGES"]
+  Created by: mike garcia
+  To: authN, least privilege, and related
 
-.. |bp_title| replace:: Best Practice Title
+.. |bp_title| replace:: User Management
 
 *Status: draft*
 
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
-[2-3 sentence description/rationale]
+Some of the most commonly exploited vulnerabilities are those that take place where the user meets the machine. User accounts get hijacked and are used to access resources, sometimes methodically over time, to access valuable resources or cause damage.
+
+To reduce this risk, you both need strong protections on every user account and limitations on the amount of damage that can be done when a single user account going bad.
 
 Goals
 **********************************************
 
-#.  [Goal 1]
-#.  [Goal 2]
+#.  Understanding good password practices, like requiring passphrases and salting and hashing them
+#.  Knowing when to require multifactor authentication (:term:MFA)
+#.  Understanding when to ban or limit shared or generic accounts
+#.  Knowing about least privilege, especially with administrative access, and revoking access
+#.  Understanding user activity logging
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -26,12 +31,12 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
-For |bp_title|, the necessary actions [e.g., "are the same for all maturity levels", "vary by maturity as detailed below"]
+For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-[All the guidance and such]
+
 
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
