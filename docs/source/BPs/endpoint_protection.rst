@@ -29,8 +29,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [10.1][tab] Deploy and Maintain Anti-Malware Software
-- [10.6][tab] Centrally Manage Anti-Malware Software
+- [10.1] Deploy and Maintain Anti-Malware Software
+- [10.6] Centrally Manage Anti-Malware Software
 
 Actions
 **********************************************
