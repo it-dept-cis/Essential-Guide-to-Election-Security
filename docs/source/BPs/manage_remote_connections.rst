@@ -11,7 +11,7 @@
 
 Virtual Private Networks (VPNs) encrypt and transmit data allowing a user to securely connect to the internet or access a remote network on an untrusted connection. This ensures that all transmitted data remains confidential.
 
-Organizations use VPNs to allow employees to connect to their internal network when working remotely. Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship. Many cybersecurity firms offer ready-made hardware and software solutions to deploy VPN. Well-resourced organizations can also develop their own solutions, such as setting up a VPN router to manage secure connections.
+Organizations use VPNs to allow employees to connect to their internal network when working remotely. Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship. Many cybersecurity firms offer ready-made hardware and software solutions to deploy a VPN. Well-resourced organizations can also develop their own solutions, such as setting up a VPN router to manage secure connections.
 
 When an employee connects to a VPN, it will appear as if they are connecting to the internet from the organization’s network, instead of their remote location. Below is a diagram showing how VPNs may be used in an election system.
 
@@ -19,10 +19,14 @@ When an employee connects to a VPN, it will appear as if they are connecting to 
 
 Election offices can use a VPN to:
 
-* Protect data streams if an employee must connect to an office network, or transmit sensitive data (e.g. employee or voter data), while working remotely.
-* Securely connect local election officials’ workstations to a state voter registration
-database.
+* Protect data streams if a remote or offisite employee must connect to an office network, or transmit sensitive data (e.g. employee or election data).
+* Securely connect local election officials’ workstations to a state voter registration database.
 * Securely transmit information to an external partner, such as an election vendor.
+* Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2)
+Enterprise or greater).
+
+* NEED TO DISCUSS AUTHENTICATION *
+* NEED TO CHANGE TITLE OF BP TO SECURE NETWORK TRAFFIC or something *
 
 Goals
 **********************************************
@@ -33,8 +37,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [3.10][tab][Encrypt Sensitive Data in Transit]
+- [12.6][tab][Use of Secure Network Management and Communication Protocols]
+- [12.7][tab][Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure]
 
 Actions
 **********************************************
@@ -63,8 +68,7 @@ In addition to the actions at the |Maturity1| maturity, at the |Maturity2| matur
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•	[CIS Telework and Small Office Network Security Guide]: [This Guide is meant to assist individuals and organizations in securing commodity routers, modems, and other network devices. Securing these devices is important as there are serious cybersecurity considerations surrounding the usage of network devices.][(https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide)]
 
 Terms
 **********************************************

@@ -53,6 +53,13 @@ Cost-Effective Tools
 •	[tool]: [description][(link)]
 •	[tool]: [description][(link)]
 
+Apple Auto-update - IOS
+Apple Auto-update - MacOS
+Auto-update Windows
+Auto-update MS Office on macOS
+Auto-update Android
+
+
 Terms
 **********************************************
 
