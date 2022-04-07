@@ -58,4 +58,4 @@ Learn More
 
 -----------------------------------------------
 
-.. |cybermarket| replace:: https://www.cisecurity.org/services/cis-cybermarket
+.. |cybermarket| replace:: `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`
