@@ -57,3 +57,5 @@ Learn More
 * [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
+
+.. |cybermarket| replace:: https://www.cisecurity.org/services/cis-cybermarket
