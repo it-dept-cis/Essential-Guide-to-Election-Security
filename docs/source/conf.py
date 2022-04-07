@@ -335,7 +335,7 @@ Maturity3 = 'Level 3'
 variables_to_export = [
     'contact_email',
     'eiisac_email',
-    'soc_email'
+    'soc_email',
     'Maturity1',
     'Maturity2',
     'Maturity3',
