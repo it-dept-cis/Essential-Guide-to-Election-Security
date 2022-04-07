@@ -24,8 +24,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [13.3][tab][Deploy a Network Intrusion Detection Solution]
+- [13.4][tab][Perform Traffic Filtering Between Network Segments]
+- [13.8][tab][Deploy a Network Intrusion Prevention Solution]
 
 Actions
 **********************************************

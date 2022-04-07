@@ -154,8 +154,8 @@ html_theme = 'furo'
 # documentation.
 #
 html_theme_options = {
-    'light_logo': 'cis-logo.png',
-    'dark_logo': 'cis-logo.png', # TODO: Need dark logo
+    'light_logo': 'EI-ISAC-Logo-Stack-2Spot-RGB.png',
+    'dark_logo': 'EI-ISAC-Logo-Stack-Reverse-2Spot-RGB.png',
 }
 
 # The name for this set of Sphinx documents.
@@ -326,12 +326,14 @@ latex_logo = '_static/cis-logo.png'
 # Global variables for use in all pages
 #
 contact_email = 'controlsinfo@cisecurity.org'
+eiisac_email = 'elections@cisecurity.org'
 Maturity1 = 'Level 1'
 Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'
 
 variables_to_export = [
     'contact_email',
+    'eiisac_email',
     'Maturity1',
     'Maturity2',
     'Maturity3',

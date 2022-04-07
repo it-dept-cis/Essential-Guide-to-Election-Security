@@ -39,8 +39,7 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+There are no relevant CIS Controls.
 
 Actions
 **********************************************
@@ -54,8 +53,7 @@ Contact the EI-ISAC at elections@cisecurity.org with any questions about members
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+There are no relevant tools. 
 
 Terms
 **********************************************

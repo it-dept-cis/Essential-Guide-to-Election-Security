@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: BP for device asset management
 
-.. |bp_title| replace:: Device Asset Management
+.. |bp_title| replace:: Asset Management
 
 *Status: draft*
 
@@ -14,8 +14,8 @@ Without a clear understanding of what computers and other technology you must pr
 Goals
 **********************************************
 
-#.	Maintain records of all hardware assets (computers and other technology) throughout their lifecycle
-#.	Have an understand of where that hardware is at all times
+#.	Maintain records of all assets (hardware, software, cloud platforms) throughout their lifecycle
+#.	Know the physical location of hardware at all times
 #.	Know when maintenance or related alterations are conducted and by whom
 #.	Properly protect assets from loss, theft, and tampering
 #.	Remove unauthorized assets from networks and physical locations
@@ -39,7 +39,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION 1: Create an inventory of all state and county technology owned and operated for use in elections. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
+ACTION 1: Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
 ACTION 2: Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network.
 
 For those organizations operating at a Reactive maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained. Understanding this information will help you properly defend your network and other IT assets.

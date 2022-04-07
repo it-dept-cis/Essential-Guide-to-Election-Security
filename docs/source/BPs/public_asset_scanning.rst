@@ -28,8 +28,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [7.6][tab] Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+- [7.7][tab] Remediate Detected Vulnerabilities
 
 Actions
 **********************************************
@@ -38,6 +38,11 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+ACTION 1: Use free tools and services to conduct scans of your publicly-facing assets. This should include your website and any online portals you are responsible for that are used for elections purposes.
+ACTION 2: Remediate any vulnerabilities or known issues found during the scans.
+
+Note that scanning online systems you do not own may run afoul of the Computer Fraud and Abuse Act of 1986 (:term:`CFAA`).
 
 At the |Maturity1| maturity, you should be using free tools to conduct scanning of your publicly-facing assets.
 
@@ -61,8 +66,8 @@ At the |Maturity2| maturity, you should also implement remote penetration testin
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•	CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote peentration testing. (https://www.cisa.gov/cyber-hygiene-services)
+•	ShieldsUP!: ShieldsUP is an online port scanning service that can alert the users of any ports that have been opened through their firewalls or through their NAT routers, which can be used by malicious users to take advantage of security vulnerabilities. (https://www.grc.com/shieldsup)
 
 Terms
 **********************************************

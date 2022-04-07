@@ -15,7 +15,7 @@ Mis-, dis-, and mal-information have become a pervasive threat to the election e
 * Disinformation is deliberately created to mislead, harm, or manipulate a person, social group, organization, or country.
 * Malinformation is based on fact, but used out of context to mislead, harm, or manipulate.
 
-MDMinfo campaigns are engineered for influence, typically seeking to exploit the psychology of victims’ emotions, identities, political affinities, and existing societal rifts.
+MDM info campaigns are engineered for influence, typically seeking to exploit the psychology of victims’ emotions, identities, political affinities, and existing societal rifts.
 
 Both independent threat actors and large nation-state operations are capable of manufacturing MDMinfo. Threat actors may have hundreds of human attackers on payroll, or choose to conduct operations via automated bots. When users encounter inaccurate information or intentional disinformation they may be unable to differentiate it from genuine information, sharing it and unwittingly influencing an even wider audience as misinformation.
 
@@ -30,8 +30,7 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+There are no relevant CIS Controls.
 
 Actions
 **********************************************
@@ -86,8 +85,8 @@ At the |Maturity3| maturity, consider having focused work stream to identify and
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•	[Election Tools Checklist for combating election misinformation]: [A framework to help election departments respond to influence operations][(https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/)]
+•	[CISA Rumor Control Page]: [This page offers the public accurate and authoritative sources of information which will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives][(https://www.cisa.gov/rumorcontrol)]
 
 Terms
 **********************************************
