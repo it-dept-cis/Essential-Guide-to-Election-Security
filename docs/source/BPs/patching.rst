@@ -50,14 +50,11 @@ For more comprehensive recommendations and technical insight on this topic, plea
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
-
-Apple Auto-update - IOS
-Apple Auto-update - MacOS
-Auto-update Windows
-Auto-update MS Office on macOS
-Auto-update Android
+* Apple Auto-update - IOS
+* Apple Auto-update - MacOS
+* Auto-update Windows
+* Auto-update MS Office on macOS
+* Auto-update Android
 
 
 Terms
@@ -70,7 +67,3 @@ Learn More
 •	[links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
-
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
