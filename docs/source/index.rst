@@ -35,6 +35,8 @@ CIS's Essential Guide for Election Security
    BPs/network_monitoring
    BPs/patching
    BPs/public_asset_scanning
+   BPs/removable_media
+   BPs/user_management
    BPs/websites
 
 .. toctree::
@@ -50,4 +52,3 @@ CIS's Essential Guide for Election Security
    :caption: Glossary
 
    glossary
- 

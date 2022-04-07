@@ -13,6 +13,7 @@
 
 Backups are necessary due to the constant threat of modification or erasure of data due to accidental deletions, :term:`malware`, and :term:`ransomware`, natural disasters, or other events.
 
+
 Backups also play a crucial role in expediting the recovery from malicious cyber activity allowing the restoration of a system to a reliable state that is free of malware infections and retains the original data. Rebuilding or re-imaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without the work of identifying and ensuring the removal of all possible malicious files.
 
 #. Data Classification: Knowing what you want to backup will help you determine what, and how frequently, that data should be backed up. For instance, data vital to election operations, such as voter registration information, would be considered a high priority and the risk management process may justify the use of nightly full backups. Retention requirements can play a role in classification.

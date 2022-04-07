@@ -1,8 +1,6 @@
 ..
   Created by: mike garcia
-  On: 2022-03-17
   To: Provide global directives for common substitutions, links, etc.
-  Last update by: mike garcia
 
 .. Contact information replacement information
 .. |contact_email| replace:: dontknowyet@cisecurity.org
@@ -13,3 +11,7 @@
 .. |Maturity1| replace:: Reactive
 .. |Maturity2| replace:: Proactive
 .. |Maturity3| replace:: Adaptive
+
+.. Common link replacement information
+.. |cybermarket| replace:: _`Cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`
+.. |NIST800-88| replace:: _`NIST SP 800-88 <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`

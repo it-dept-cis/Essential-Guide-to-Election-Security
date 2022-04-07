@@ -14,14 +14,14 @@
 Goals
 **********************************************
 
-#.	[Goal 1]
-#.	[Goal 2]
+#.  [Goal 1]
+#.  [Goal 2]
 
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+- [#.#] [title of control]
+- [#.#] [title of control]
 
 Actions
 **********************************************
@@ -46,18 +46,11 @@ For |bp_title|, the necessary actions [e.g., "are the same for all maturity leve
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
-
-Terms
-**********************************************
-
-[links to glossary or has defs embedded…need to see if it’s possible to do that dynamically in github]
+* [tool]: [description][(link)]
+* [tool]: [description][(link)]
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+* [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
-
-.. include:: ../global_directives.rst
