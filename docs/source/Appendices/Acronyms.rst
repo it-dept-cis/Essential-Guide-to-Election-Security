@@ -18,4 +18,10 @@ Acronyms
   MFA
     multi-factor authentication
 
+  NIST
+    National Institute of Standards and Technology
+
+  NIST SP
+    NIST Special Publication
+
 --------------------------------------

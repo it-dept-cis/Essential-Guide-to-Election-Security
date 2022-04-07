@@ -327,6 +327,7 @@ latex_logo = '_static/cis-logo.png'
 #
 contact_email = 'controlsinfo@cisecurity.org'
 eiisac_email = 'elections@cisecurity.org'
+soc_email = 'soc@cisecurity.org'
 Maturity1 = 'Level 1'
 Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'
@@ -334,6 +335,7 @@ Maturity3 = 'Level 3'
 variables_to_export = [
     'contact_email',
     'eiisac_email',
+    'soc_email'
     'Maturity1',
     'Maturity2',
     'Maturity3',
