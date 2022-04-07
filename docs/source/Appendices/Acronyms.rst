@@ -1,9 +1,21 @@
-# Acronym list
-CIS: Center for Internet Security.
+..
+  Created by: mike garcia
+  To: maintain an ReST glossary that serves as an acronym list
 
-EI-ISAC: Election Infrastructure Information Sharing and Analysis Center
+Acronyms
+=========
 
 *Status: draft*
 
-Appendix: Acronyms
+.. glossary::
+
+  CIS
+    Center for Internet Security
+
+  EI-ISAC
+    Election Infrastructure Information Sharing and Analysis Center
+
+  MFA
+    multi-factor authentication
+
 --------------------------------------

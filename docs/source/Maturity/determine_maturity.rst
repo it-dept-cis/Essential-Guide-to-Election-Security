@@ -38,7 +38,7 @@ Your organization is likely at a |Maturity2| maturity level if most of the follo
 #.	You track assets and conduct regular backups with at least one copy stored offline
 #.	You respond to threat and risk assessments, such as by developing and executing on plans of action and milestones (POAMs)
 
-Are you at the |Maturity2| Maturity level?
+Are you at the |Maturity3| Maturity level?
 *************************************************
 
 Your organization is likely at an |Maturity3| maturity level if most of the following statements apply:

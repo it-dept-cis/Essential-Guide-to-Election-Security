@@ -34,6 +34,7 @@ MarkupSafe = "==2.0.1"
 Pygments = "==2.10.0"
 Sphinx = "==4.2.0"
 sphinx-last-updated-by-git = "*"
+furo = "*"
 
 [dev-packages]
 

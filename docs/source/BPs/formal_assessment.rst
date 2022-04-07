@@ -13,14 +13,15 @@ A security assessment is a thorough, proactive study of an organization’s syst
 
 Assessments help identify and prevent security issues. They can also justify a budget and guide procurements of security resources, tools, and services.
 
-Formal cybersecurity assessments are a fundamental aspect of managing cybersecurity risk.  Risk assessments can be sorted into two categories:
+Formal cybersecurity assessments are a fundamental aspect of managing cybersecurity risk. Assessments can take a number of forms, but good ones are based on a highly-accepted risk framework, like ISO 27000 series, the NIST Cybersecurity Framework, and the CIS Controls.
+
+Most critically, you need to be prepared to do something about the results of your assessments. Most will provide some prioritization of results. Once you have these results, develop a plan of action and milestones to get issues addressed.
+
+Risk assessments are a common form of asessement that can be sorted into two categories:
 
 #. Self-assessments: In-house risk assessments are generally faster and less expensive while still providing useful insight into your cybersecurity posture.
 #. Independent assessments: Because they are conducted by outside assessment specialists, independent assessments usually cost more and take longer, but they are more objective and thorough. Where time and resources permit, they are preferable even when an organization has deep cybersecurity experience.
 
-Assessments can take a number of forms, but good ones are based on a highly-accepted risk framework, like ISO 27000 series, the NIST Cybersecurity Framework, and the CIS Controls.
-
-Most critically, you need to be prepared to do something about the results of your assessments. Most will provide some prioritization of results. Once you have these results, develop a plan of action and milestones to get issues addressed.
 
 Goals
 **********************************************
@@ -40,14 +41,19 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-Reactive Maturity
+|Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Action 1: Choose a type of assessment.
+Action 2: Perform a security assessment.
+Action 3. Receive results of asessment.
+Action 4. Do something about the results.
 
 Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
 
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
-Proactive Maturity
+|Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 With at least some technical staff, you can consider a more robust assessment program. While conducting large assessments can provide signifcant information about your systems and put you in a great position to harden them, they can be expensive and resource-intensive.
@@ -56,7 +62,7 @@ At least initially, it's good to focus on automated, free, or structured tools a
 
 Also consider implementing the CIS Controls and CIS Benchmarks. Tools available to election offices include `CIS-CAT <https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
 
-Adaptive Maturity
+|Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring to your risk framework.
@@ -64,7 +70,7 @@ At the Adaptive maturity, you should be implementing sophisticated controls and 
 Cost-Effective Tools
 **********************************************
 
-* [tool]: [description][(link)]
+•	CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
 * [tool]: [description][(link)]
 
 Terms

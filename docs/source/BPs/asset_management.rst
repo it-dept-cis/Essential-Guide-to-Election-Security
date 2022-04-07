@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: BP for device asset management
 
-.. |bp_title| replace:: Device Asset Management
+.. |bp_title| replace:: Asset Management
 
 *Status: draft*
 
@@ -14,8 +14,8 @@ Without a clear understanding of what computers and other technology you must pr
 Goals
 **********************************************
 
-#.	Maintain records of all hardware assets (computers and other technology) throughout their lifecycle
-#.	Have an understand of where that hardware is at all times
+#.	Maintain records of all assets (hardware, software, cloud platforms) throughout their lifecycle
+#.	Know the physical location of hardware at all times
 #.	Know when maintenance or related alterations are conducted and by whom
 #.	Properly protect assets from loss, theft, and tampering
 #.	Remove unauthorized assets from networks and physical locations
@@ -25,10 +25,10 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 1.1	Establish and Maintain Detailed Enterprise Asset Inventory
-- 1.2	Address Unauthorized Assets
-- 1.3	Utilize an Active Discovery Tool
-- 1.4	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory
+- 1.1	Establish and Maintain Detailed Enterprise Asset Inventory (Reactive)
+- 1.2	Address Unauthorized Assets (Reactive)
+- 1.3	Utilize an Active Discovery Tool (Proactive)
+- 1.4	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (Adaptive)
 
 
 Actions
@@ -36,16 +36,19 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-Reactive Maturity
+|Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-For those organizations operating at a Reactive maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained.
+ACTION 1: Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
+ACTION 2: Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network.
 
-If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though it’s best to also maintain a digital records that you can backup. Even if your county maintains these records, its best to do so yourself as you’re ultimately accountable for what happens in your environment.
+For those organizations operating at a Reactive maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained. Understanding this information will help you properly defend your network and other IT assets.
+
+If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though it’s best to also maintain a digital records that you can backup. Even if your county maintains these records, its best to do so yourself as you’re ultimately accountable for what happens in your environment. Accordingly, contractor systems should be included in your inventory. Note that this inventory will contain sensitive information from a security perspective that should not be shared within untrusted parties.
 
 **do we just refer folks to the SME guide or do we copy the info here?**
 
-Proactive and Adaptive Maturites
+|Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a Proactive or Adaptive maturity should take additional actions, including maintaining digital inventory records, applying asset tags, and implementing software tools to discover physical devices on your networks.

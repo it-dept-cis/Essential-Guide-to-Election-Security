@@ -22,10 +22,9 @@ CIS's Essential Guide for Election Security
 
    BPs/bp_intro
    BPs/bp_index
-   BPs/albert
    BPs/backups
    BPs/cis_controls
-   BPs/device_asset_management
+   BPs/asset_management
    BPs/encryption
    BPs/endpoint_protection
    BPs/formal_assessment
@@ -35,7 +34,7 @@ CIS's Essential Guide for Election Security
    BPs/mdm_info
    BPs/network_monitoring
    BPs/patching
-   BPs/publc_asset_scanning
+   BPs/public_asset_scanning
    BPs/removable_media
    BPs/user_management
    BPs/websites
@@ -44,8 +43,8 @@ CIS's Essential Guide for Election Security
    :maxdepth: 1
    :caption: Appendices
 
-   Appendices/appendixindex
-   Appendices/howtoguide
+   Appendices/appendix_index
+   Appendices/how_to_guide
    Appendices/Acronyms
 
 .. toctree::
