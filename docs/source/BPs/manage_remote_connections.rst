@@ -15,7 +15,8 @@ Organizations use VPNs to allow employees to connect to their internal network w
 
 When an employee connects to a VPN, it will appear as if they are connecting to the internet from the organization’s network, instead of their remote location. Below is a diagram showing how VPNs may be used in an election system.
 
-.. include:: VPN.png
+.. image:: /_static/VPN.png
+  :alt: Virtual Private Network Diagram
 
 Election offices can use a VPN to:
 
@@ -37,9 +38,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [3.10][tab][Encrypt Sensitive Data in Transit]
-- [12.6][tab][Use of Secure Network Management and Communication Protocols]
-- [12.7][tab][Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure]
+- [3.10]  Encrypt Sensitive Data in Transit
+- [12.6]  Use of Secure Network Management and Communication Protocols
+- [12.7]  Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
 
 Actions
 **********************************************
@@ -81,6 +82,3 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.
