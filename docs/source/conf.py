@@ -325,20 +325,27 @@ latex_logo = '_static/cis-logo.png'
 
 # Global variables for use in all pages
 #
-contact_email = 'controlsinfo@cisecurity.org'
-eiisac_email = 'elections@cisecurity.org'
-soc_email = 'soc@cisecurity.org'
+# Maturity level names
 Maturity1 = 'Level 1'
 Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'
 
+# contact info
+eges_email: = 'dontknowyet@cisecurity.org'
+eiisac_email = 'elections@cisecurity.org'
+controls_email = 'controlsinfo@cisecurity.org'
+soc_email = 'soc@cisecurity.org'
+CISA_vuln_email = 'vulnerability_info@cisa.dhs.gov'
+
 variables_to_export = [
-    'contact_email',
-    'eiisac_email',
-    'soc_email',
     'Maturity1',
     'Maturity2',
     'Maturity3',
+    'eges_email',
+    'eiisac_email',
+    'controls_email',
+    'soc_email',
+    'CISA_vuln_email',
 ]
 
 frozen_locals = dict(locals())

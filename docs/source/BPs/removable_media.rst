@@ -59,3 +59,4 @@ Learn More
 -----------------------------------------------
 
 .. |cybermarket| replace:: _`cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`
+.. |NIST800-88| replace:: _`NIST SP 800-88 <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`

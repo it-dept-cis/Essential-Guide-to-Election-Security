@@ -14,5 +14,3 @@ Index of Best Practices
 
 
 -----------------------------------------------
-
-.. include:: ../global_directives.rst
