@@ -50,7 +50,7 @@ The guide is organized into several sections:
 #. A set of :doc:`best practices <bp_intro>` for organizations to implement
 #. Additional references, tools, and
 
-You can get detailed information on how to use this Essential Guide :doc:`here <howtoguide>`.
+You can get detailed information on how to use this Essential Guide :doc:`here <howtoguide>`. 
 
 ---------------
 
