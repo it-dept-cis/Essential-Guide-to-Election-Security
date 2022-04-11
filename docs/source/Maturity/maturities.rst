@@ -44,6 +44,11 @@ The goal is to use the maturity levels to guide election offices to best practic
 
 The next section provides a guide to determining your own maturity, which then maps to that tailored guidance. Use it as a starting point and adjust as needed.
 
+Identifying Your Organization Security Lead??
+********************************************
+
+One of the most important functions in determining your organization’s maturity level, and implementing best practices is identifying one or more individuals within your organization who will own and maintain this process. Whether you work in a small resource constrained office or a large well-staffed and resourced office, one of the most effective steps in increasing your security posture is identifying someone who is willing to use this guide to examine your current maturity status, maintain existing security processes, begin to implement best practices and take additional steps towards increasing your security posture. The good news is if you are reading this document there is at least one person in your office that has the ability to review your current maturity level and begin to take the necessary steps towards increased security. 
+
 -----------------------------------------------
 
 Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
