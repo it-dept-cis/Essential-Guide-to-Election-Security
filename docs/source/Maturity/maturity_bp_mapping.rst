@@ -4,6 +4,11 @@
 
 *Status: draft*
 
+A little Encouragement Befor You Start
+***************************************
+
+Many elections officials, including perhaps yourself, may not consider themselves security or IT professionals, the CIS Essential Guide to Election Security takes this into consideration. We highly encourage you to continue the process of evaluation and education by reading through the entirety of the guide. While this guide will not make you an IT expert it will provide you accessible and implementable guidance in helping you to increase your security posture. Securing elections is and must continue to be a community effort in which we support each other. Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be impowered to reach out to the CIS elections team as well as trusted partners and peers at the Federal, State and Local levels for guidance and support.
+
 Maturity Alignment to Best Practices
 ----------------------------------------------
 
@@ -18,7 +23,8 @@ If you are at the |Maturity1| maturity level, your first goal should be to commi
 
 Often the most important thing is to establish a priority for the tasks you want to complete so that you know exactly what to do the next time you have (or manage to create) a little time to focus on cybersecurity.
 
-To help with that priority, we recommend the CIS Small Business Guide. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
+To help with that priority, we recommend the CIS Small Business Guide. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity. 
+
 
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
