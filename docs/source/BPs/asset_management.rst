@@ -25,10 +25,10 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 1.1	Establish and Maintain Detailed Enterprise Asset Inventory (Reactive)
-- 1.2	Address Unauthorized Assets (Reactive)
-- 1.3	Utilize an Active Discovery Tool (Proactive)
-- 1.4	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (Adaptive)
+- 1.1:	Establish and Maintain Detailed Enterprise Asset Inventory (Reactive)
+- 1.2:	Address Unauthorized Assets (Reactive)
+- 1.3:	Utilize an Active Discovery Tool (Proactive)
+- 1.4:	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (Adaptive)
 
 
 Actions

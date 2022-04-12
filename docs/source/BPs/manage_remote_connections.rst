@@ -38,9 +38,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [3.10]  Encrypt Sensitive Data in Transit
-- [12.6]  Use of Secure Network Management and Communication Protocols
-- [12.7]  Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
+- 3.10: Encrypt Sensitive Data in Transit
+- 12.6: Use of Secure Network Management and Communication Protocols
+- 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
 
 Actions
 **********************************************
