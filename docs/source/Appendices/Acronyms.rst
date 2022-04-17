@@ -15,6 +15,9 @@ Acronyms
   EI-ISAC
     Election Infrastructure Information Sharing and Analysis Center
 
+  EMS
+    Election Management System
+
   MFA
     multi-factor authentication
 
