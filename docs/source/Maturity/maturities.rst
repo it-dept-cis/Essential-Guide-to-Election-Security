@@ -46,6 +46,6 @@ The next section provides a guide to determining your own maturity, which then m
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
+Have a question, suggestion, recommendation, or correction? Contact us at |eges_email|.
 
 This page last updated on |last_update|.

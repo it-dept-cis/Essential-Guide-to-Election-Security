@@ -1,0 +1,60 @@
+..
+  Created by: mike garcia
+  To: exercising plans and attending tabletop exercises
+
+.. |bp_title| replace:: Exercising Plans
+
+*Status: draft*
+
+*Best Practice:* |bp_title|
+----------------------------------------------
+
+Exercising plans before incidents occur is almost as important as having plans in the first place. Virtual any type of plan can be exercised, including around network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
+
+Generally, you can either take part in exercises offered by others--such as a state election office or CISA--or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you haven't thought.
+
+Goals
+**********************************************
+
+#.  Understand type types of exercises that exist.
+#.  Know how to participate in exercises or create your own.
+
+Mappings to CIS Controls and Safeguards
+**********************************************
+
+- [#.#] [title of control]
+- [#.#] [title of control]
+
+Actions
+**********************************************
+
+For |bp_title|, the necessary actions nvary by maturity as detailed below.
+
+|Maturity1| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+**Actions**
+
+#. Participate in CISA's annual Tabletop the Vote exercise through your state leadership.
+#. Your state may have other exercises. Contact your state election director and consider participating in these as well.
+#. Have plans for other incidents and exercise them at least annual. While facilitated exercises are preferred, an internal tabletop-style walkthrough is better than nothing.
+
+|Maturity2| and |Maturity3| Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+**Actions**
+
+#. Consider participating in other exercises or creating your own with the CISA critical infrastructure exercise _`guides <https://www.cisa.gov/critical-infrastructure-exercises>`
+#. Have a regular schedule for exercises. Stick to it.
+
+Cost-Effective Tools
+**********************************************
+
+* [tool]: [description][(link)]
+* [tool]: [description][(link)]
+
+Learn More
+**********************************************
+* [links to other random resources or knowledge or any relevant knowledge base entry]
+
+-----------------------------------------------
