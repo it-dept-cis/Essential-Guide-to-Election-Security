@@ -34,11 +34,11 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 11.1:  Establish and maintain a data recovery process (Reactive)
-- 11.2:  Perform automated backups of in-scope enterprise assets
-- 11.3:  Protect recovery data
-- 11.4:  Establish and maintain an isolated instance of recovery data (Reactive)
-- 11.5:  Test backup recovery
+- 11.1: Establish and maintain a data recovery process (Reactive)
+- 11.2: Perform automated backups of in-scope enterprise assets
+- 11.3: Protect recovery data
+- 11.4: Establish and maintain an isolated instance of recovery data (Reactive)
+- 11.5: Test backup recovery
 
 Actions
 **********************************************

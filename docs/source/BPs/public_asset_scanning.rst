@@ -28,8 +28,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [7.6][tab] Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
-- [7.7][tab] Remediate Detected Vulnerabilities
+- 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+- 7.7: Remediate Detected Vulnerabilities
 
 Actions
 **********************************************

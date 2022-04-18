@@ -46,7 +46,7 @@ Your organization is likely at an |Maturity3| maturity level if most of the foll
 1.	You have dedicated personnel with expertise in cybersecurity
 #.	You have resources that specialize in different aspects of cybersecurity, such as penetration testing or application security
 #.  You conduct regular cybersecurity assessments, have after action plans, and track progress against those plans
-#. You conduct vulnerability management, to include scanning for vulnerabilities, paying attention to threat intelligence, and then creating prioritized lists for tackling vulnerabilities
+#.  You conduct vulnerability management, to include scanning for vulnerabilities, paying attention to threat intelligence, and then creating prioritized lists for tackling vulnerabilities
 #.	You are able to detect minor events and anomalous behavior before it becomes a major disruption
 #.	You leverage technology to help defend against nation-state threat actors and zero-day attacks
 #.	You deploy tools to address major areas of cybersecurity defense, such as network monitoring, endpoint protection, and application firewalls
