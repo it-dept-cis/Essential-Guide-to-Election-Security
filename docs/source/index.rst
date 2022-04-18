@@ -38,9 +38,9 @@ CIS's Essential Guide for Election Security
    BPs/mdbr
    BPs/mdm_info
    BPs/network_monitoring
-   BPs/patching
    BPs/public_asset_scanning
    BPs/removable_media
+   BPs/software_updates
    BPs/user_management
    BPs/websites
    BPs/wireless_management
