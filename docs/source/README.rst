@@ -46,7 +46,7 @@ How do I use this Guide?
 The Guide is organized into several sections:
 
 #. An introduction,
-#. A description of :doc:`maturities <Maturity/maturities` and how they are used in the document,
+#. A description of :doc:`maturities <Maturity/maturities>` and how they are used in the document,
 #. A set of :doc:`best practices <BPs/bp_intro>` for organizations to implement, and
 #. Additional references, tools, and related information.
 

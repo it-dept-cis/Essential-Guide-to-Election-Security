@@ -11,14 +11,14 @@ Election offices operate in an environment heavy on information technology (:ter
 
 In early 2018, the Center for Internet Security (:term:`CIS`), with significant contributions from the election community, published its Handbook for Election Infrastructure Security, a guide to assist election offices in defending their IT systems from cybersecurity threat actors. It consisted of 88 best practices to mitigate risk across all types of election equipment.
 
-CIS received positive feedback from the election community on the value of the tool. In the four years since then, several important changes have occurred:
+CIS received positive feedback from the election community on the Handbook's value. In the four years since then, several significant changes have occurred:
 
 
-1.	The CIS Controls, on which many of the 88 best practices are based, have undergone a major revision.
-#.	The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the set of freely available tools and services for election offices across the country.
-#.	Since releasing the Handbook, CIS has developed a series of best practice guides and other information [link]. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
-  *	A wide array of guidance and tools available from the Cybersecurity and Infrastructure Security Agency and other government agencies; and
-  *	A body of work for other academic and nonprofit organizations such as Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
+1.	The CIS Controls, on which many of the 88 best practices are based, underwent a major revision.
+#.	The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the number of freely available tools and services for election offices across the country.
+#.	Since releasing the Handbook, CIS has developed _`a series of best practice guides <https://www.cisecurity.org/elections>` and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
+  *	A wide array of guidance and tools available from the _`Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>` (:term:`CISA`) and other government agencies; and
+  *	A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
 #.	Election officials have made great, but often unequal, strides in meeting today’s threats. This has created an even wider array of “have” and “have-nots” with resultant differences in cybersecurity postures.
 #.	The nature of threats have changed: in 2016, national state actors posed most of the apparent risks. Today we have more information on real world attacks and know that they come from a variety of sources and are both kinetic and non-kinetic.
 #.	Mis-, dis-, and mal-information (:term:`MDMinfo`) has grown to be one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation threats. This includes many types of MDMinfo, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.
