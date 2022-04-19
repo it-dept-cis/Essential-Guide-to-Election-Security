@@ -25,7 +25,7 @@ CIS's Essential Guide for Election Security
    BPs/asset_management
    BPs/backups
    BPs/cis_controls
-   BPs/encryption
+   BPs/encrypdataatrest
    BPs/endpoint_protection
    BPs/exercising_plans
    BPs/firewalls_ports

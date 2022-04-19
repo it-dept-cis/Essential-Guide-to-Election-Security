@@ -23,7 +23,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | cis_controls                     | CIS team review             |
 +----------------------------------+-----------------------------+
-| encryption                       | CIS team review             |
+| encryptdataatrest                | CIS team review             |
 +----------------------------------+-----------------------------+
 | endpoint_protection              | CIS team review             |
 +----------------------------------+-----------------------------+
