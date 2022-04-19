@@ -13,7 +13,7 @@ CIS and the EI-ISAC are available to provide a wide range of resources to suppor
 
 Membership in the EI-ISAC is open to all state, local, tribal, and territorial government organizations that support the election officials of the United States of America, and associations thereof. It’s a free and voluntary membership for these eligible organizations.
 
-The EI-ISAC provides access to valuable services to fulfill many of the best practices described elsewhere in this guide. Some of them include:
+The EI-ISAC provides access to valuable services to fulfill many of the best practices described elsewhere in this Guide. Some of them include:
 
 * _`Malicious Domain Blocking & Reporting <mdbr>`
 * _`Endpoint Detection and Response <endpoint_protection>`
@@ -53,7 +53,7 @@ Contact the EI-ISAC at elections@cisecurity.org with any questions about members
 Cost-Effective Tools
 **********************************************
 
-There are no relevant tools. 
+There are no relevant tools.
 
 Terms
 **********************************************
