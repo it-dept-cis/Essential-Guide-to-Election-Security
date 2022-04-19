@@ -46,8 +46,7 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#][tab][title of control]
-- [#.#][tab][title of control]
+There are no relevant CIS Controls.
 
 Actions
 **********************************************
@@ -73,8 +72,10 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•	DotGov.gov: The government portal to obtain and manage a .gov domain  https://dotgov.gov
+•	_`CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`
+• _`Cloudflare <https://www.cloudflare.com/athenian/>`
+• _`Google <https://projectshield.withgoogle.com/landing>`
 
 Terms
 **********************************************
@@ -83,7 +84,8 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•	_`Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`
+•	_`Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`
 
 -----------------------------------------------
 

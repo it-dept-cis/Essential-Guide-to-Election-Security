@@ -40,6 +40,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ACTION 1: Use free tools and services to conduct scans of your publicly-facing assets. This should include your website and any online portals you are responsible for that are used for elections purposes.
+
 ACTION 2: Remediate any vulnerabilities or known issues found during the scans.
 
 Note that scanning online systems you do not own may run afoul of the Computer Fraud and Abuse Act of 1986 (:term:`CFAA`).

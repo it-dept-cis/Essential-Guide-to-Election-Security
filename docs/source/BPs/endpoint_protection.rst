@@ -45,7 +45,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 ACTION 1: Deploy EDR on systems throughout your network.
   - Depending on the number of endpoints you have and relationship with other non-election local entities--like county recorder--you may be able to have your all of your endpoints covered by the EI-ISAC.
   - Otherwise, review the CIS Guide for Ensuring Security in Election Technology Procurements for best practices in crafting proposals and other necessary documents.
-Action 2: Take advantage of vendor-offered user training for usage of EDR tools.
+
+ACTION 2: Take advantage of vendor-offered user training for usage of EDR tools.
 
  At the |Maturity1| maturity, you should consider deploying EDR across all endpoints in your environment.
 

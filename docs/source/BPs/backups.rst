@@ -48,6 +48,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ACTION 1: Perform a data inventory to understand the most important data residing within your network.
+
 ACTION 2: Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.
 
 For organizations operating at a Reactive Maturity, employing backup capabilities is critical to successfully mitigation risks against malware, especially ransomware.

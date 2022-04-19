@@ -44,10 +44,13 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Action 1: Choose a type of assessment.
-Action 2: Perform a security assessment.
-Action 3. Receive results of asessment.
-Action 4. Do something about the results.
+ACTION 1: Choose a type of assessment.
+
+ACTION 2: Perform a security assessment.
+
+ACTION 3. Receive results of asessment.
+
+ACTION 4. Do something about the results.
 
 Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
 
