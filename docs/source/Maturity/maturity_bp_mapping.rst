@@ -18,7 +18,8 @@ If you are at the |Maturity1| maturity level, your first goal should be to commi
 
 Often the most important thing is to establish a priority for the tasks you want to complete so that you know exactly what to do the next time you have (or manage to create) a little time to focus on cybersecurity.
 
-To help with that priority, we recommend the CIS Small Business Guide. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
+To help with that priority, we recommend the CIS Small Business Guide. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity. 
+
 
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
