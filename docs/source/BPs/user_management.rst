@@ -13,14 +13,20 @@ Some of the most commonly exploited vulnerabilities are those that take place wh
 
 To reduce this risk, you both need strong protections on every user account and limitations on the amount of damage that can be done when a single user account going bad.
 
+#.  **Passwords**: Like it or not, passwords are a reality of online life and will be for some time to come. They are also common vector of attack by adversaries. You can't have good user management without good password policies.
+#.  **Multi-factor authentication (:term:MFA)**: The best way to address weaknesses in :term:authentication is to have the right MFA requirements in place.
+#.  **User accounts**: How you manage user accounts--creating, managing, tracking, and deleting--can have a huge impact on your overall cybersecurity posture.
+
 Goals
 **********************************************
 
-#.  Understanding good password practices, like requiring passphrases and salting and hashing them
-#.  Knowing when to require multi-factor authentication (:term:MFA)
-#.  Understanding when to ban or limit shared or generic accounts
-#.  Knowing about least privilege, especially with administrative access, and revoking access
-#.  Understanding user activity logging
+Understand:
+
+#.  Good password practices, like requiring passphrases and salting and hashing them
+#.  When to require MFA
+#.  When to ban or limit shared or generic accounts
+#.  Least privilege, especially with administrative access, and revoking access
+#.  User activity logging
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -36,41 +42,30 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Passwords
-%%%%%%%%%%%%%%%%%%%%%%
-
 **User Recommendations**
-* Do not reuse passwords across multiple platforms, systems, or software. This includes never using the same login credentials for work and personal use.
-* Never use personal information, such as your name, children’s names, dates of birth, etc. that someone might already know or can easily obtain.
-* Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols
+
+#. Do not reuse passwords across multiple platforms, systems, or software. This includes never using the same login credentials for work and personal use.
+#. Never use personal information, such as your name, children’s names, dates of birth, etc. that someone might already know or can easily obtain.
+#. Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols
 
 **Organizational Recommendations**
-* Remove all default accounts or change the default password on all accounts, applications, and systems.
-* Store all passwords and passphrases using salting and hashing functions and **not** with reversible encryption
-* Set login thresholds to 10 or fewer invalid login attempts and require at least 15 minutes between account lockout. Log and monitor all login attempts.
 
-Multi-factor authentication
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-* Enable MFA anywhere it's offered, on all accounts, for all applications. This is especially true for anything accessed offsite or from offsite, including social media accounts. Ensure this is true for all IT products supplied by vendors.
-
-*  Understanding when to ban or limit shared or generic accounts
-
-#.  Knowing about least privilege, especially with administrative access, and revoking access
-#.  Understanding user activity logging
+#. Remove all default accounts or change the default password on all accounts, applications, and systems.
+#. Enable MFA anywhere it's offered, on all accounts, for all applications. This is especially true for anything accessed offsite or from offsite, including social media accounts. Ensure this is true for all IT products supplied by vendors.
+#. Store all passwords and passphrases using salting and hashing functions and **not** with reversible encryption. Make sure your vendors do the same.
+#. Set login thresholds to 10 or fewer invalid login attempts and require at least 15 minutes between account lockout. Log and monitor all login attempts.
+#. Ban or limit shared or generic accounts. In some environments, like with an e-pollbook, it might not be possible or practical to do this. Instead, rotate passwords, passcodes, and biometrics (like TouchID) when reasonable, like with each election.
+#. Employ least privilege by only giving a user access to the devices, applications, and services they need to do their jobs. This limits the damage any single account can do when taken over. This is why it's critical to do this for any account with administrative access
+#. Revoke access. Establish a plan to review access regularly, and make it part of the offboarding and job change processes to ensure that user has access to what they need and nothing else.
+#. Employ user logging on your networks. You should be able to tell when, and maintain a record of, a user logs into a device or network.
 
 
-|Maturity2| Maturity
+|Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-MS-ISAC’s Security Primers on Exposed Credentials and Securing Login Credentials, as well as the United States Computer Emergency Readiness Team’s (US-CERT) Security Tip on Choosing and Protecting Passwords.
-The EI-ISAC regularly monitors the Internet for stolen credentials using open source datasets from various security organizations and researchers, as well as information received from trusted partners. To subscribe to this service, simply provide your IP addresses and domains to soc@cisecurity.org.
-
-
-|Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-[All the guidance and such]
+#. Complete all of the actions for the |Maturity1| maturity.
+#. Review MS-ISAC’s Security Primers on Exposed Credentials and Securing Login Credentials, as well as the United States Computer Emergency Readiness Team’s (US-CERT) Security Tip on Choosing and Protecting Passwords.
+#. The EI-ISAC regularly monitors the Internet for stolen credentials using open source datasets from various security organizations and researchers, as well as information received from trusted partners. To subscribe to this service, simply provide your IP addresses and domains to |soc_email|.
 
 Cost-Effective Tools
 **********************************************
@@ -80,7 +75,8 @@ Cost-Effective Tools
 
 Learn More
 **********************************************
-* 800-63B Section 5.1.1.2
+
+* Get more password guidance from NIST _`SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`
 * _`Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>` (note this spotlight has some out-of-date recommendations)
 
 -----------------------------------------------

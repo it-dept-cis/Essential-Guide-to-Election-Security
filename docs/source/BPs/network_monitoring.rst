@@ -24,9 +24,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [13.3][tab][Deploy a Network Intrusion Detection Solution]
-- [13.4][tab][Perform Traffic Filtering Between Network Segments]
-- [13.8][tab][Deploy a Network Intrusion Prevention Solution]
+- 13.3: Deploy a Network Intrusion Detection Solution
+- 13.4: Perform Traffic Filtering Between Network Segments
+- 13.8: Deploy a Network Intrusion Prevention Solution
 
 Actions
 **********************************************
@@ -62,6 +62,6 @@ Learn More
 
 -----------------------------------------------
 
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
+Have a question, suggestion, recommendation, or correction? Contact us at |eges_email|.
 
 This page last updated on |last_update|.

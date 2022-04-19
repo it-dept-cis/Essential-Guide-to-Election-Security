@@ -25,10 +25,10 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 1.1	Establish and Maintain Detailed Enterprise Asset Inventory (Reactive)
-- 1.2	Address Unauthorized Assets (Reactive)
-- 1.3	Utilize an Active Discovery Tool (Proactive)
-- 1.4	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (Adaptive)
+- 1.1:	Establish and Maintain Detailed Enterprise Asset Inventory (Reactive)
+- 1.2:	Address Unauthorized Assets (Reactive)
+- 1.3:	Utilize an Active Discovery Tool (Proactive)
+- 1.4:	Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (Adaptive)
 
 
 Actions
@@ -40,6 +40,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ACTION 1: Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
+
 ACTION 2: Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network.
 
 For those organizations operating at a Reactive maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained. Understanding this information will help you properly defend your network and other IT assets.
@@ -76,5 +77,3 @@ Learn More
 •	[links to other random resources or knowledge or any relevant knowledge base entry
 
 -----------------------------------------------
-
-.. include:: ../global_directives.rst
