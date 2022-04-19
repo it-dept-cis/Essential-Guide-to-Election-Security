@@ -22,35 +22,35 @@ Why does this Guide look like a webpage?
 
 CIS published The Handbook for Election Infrastructure Security in early 2018, just before the Election Infrastructure Information Sharing and Analysis Center (EI-ISAC) launch. In 2021, CIS began working with the election community to update that Handbook. One of the primary pieces of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
 
-Creating an updated version of that Handbook would've left us in the same position: the pace of new best practices and services available to secure election infrastructure is too great to have a static model for communicating them to election officials.
+Creating an updated version of that Handbook would've left us in the same position: the pace of new best practices and services available to secure election infrastructure is too rapid to rely on a static model for communicating them to election officials.
 
 Instead, we decided to create this dynamic, always up-to-date online Guide. It can still be exported as one big PDF, but when you do so, you will get the best practices current as of the moment you hit the button to create the PDF.
 
-We can also embed and link to more engaging content like videos and examples, and when things change, officials face new risks, or different resources become available, we can quickly update the Guide to reflect the new state of the world.
+We can also embed and link to more engaging content like videos and examples. When best practices change, officials face new risks, or different resources become available, we can quickly update the Guide to reflect the new state of the world.
 
 Who should use this Guide?
 ----------------------------
 
-This Guide is developed to help election officials and their staffs understand their organization's cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on a number of factors, including, but not limited to:
+This Guide helps election officials and their staffs understand their organization's cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on several factors, including, but not limited to:
 
-* the type of jurisdiction (state vs county vs municipality),
-* the structure of election administration in a given state (top-down vs bottom-up),
+* the type of jurisdiction (state vs. county vs. municipality),
+* the structure of election administration in a given state (top-down vs. bottom-up),
 * the types of election equipment owned, and
-* how IT responsibilities are shared with other functions in the jurisdiction (IT shared with the rest of the county).
+* how IT responsibilities are shared with other functions in the jurisdiction, such as when IT is shared with the rest of the county.
 
-Other stakeholders, like election technology providers, will find much of the information useful as they consider how their work impacts outcomes in election administration.
+Election technology providers and other stakeholders will also find much of the information useful as they consider how their work impacts outcomes in election administration and security.
 
 How do I use this Guide?
 ----------------------------
 
 The Guide is organized into several sections:
 
-#. An introduction, consisting of this and the next page
-#. A description of :doc:`maturities` and how they are used in the document
-#. A set of :doc:`best practices <bp_intro>` for organizations to implement
-#. Additional references, tools, and
+#. An introduction,
+#. A description of :doc:`maturities <Maturity/maturities` and how they are used in the document,
+#. A set of :doc:`best practices <BPs/bp_intro>` for organizations to implement, and
+#. Additional references, tools, and related information.
 
-You can get detailed information on how to use this Essential Guide :doc:`here <howtoguide>`.
+You can get more detailed information the Essential Guide in our :doc:`how to <Appendices/how_to_guide>`.
 
 ---------------
 
