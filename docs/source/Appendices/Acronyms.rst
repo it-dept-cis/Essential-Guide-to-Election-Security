@@ -12,12 +12,21 @@ Acronyms
   CIS
     Center for Internet Security
 
+  CISA
+    Cybersecurity and Infrastructure Security Agency
+  
   EI-ISAC
     Election Infrastructure Information Sharing and Analysis Center
 
   EMS
     Election Management System
 
+  MDM
+    mis-, dis-, and mal-information; see also MDMinfo
+  
+  MDMinfo
+    mis-, dis-, and mal-information; see also MDM
+ 
   MFA
     multi-factor authentication
 

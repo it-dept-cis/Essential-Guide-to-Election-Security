@@ -17,17 +17,17 @@ While an election office should implement best practices in a manner best fit fo
 Maturity Levels in the Essential Guide
 ********************************************
 
-This section will help election officials determine their current maturity level. There are three levels defined in this handbook to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three _`CIS Controls <cis_controls>` Implementation Groups, with important differences based on the nature of and risks associated with election administration. The Implementation Groups in the CIS Controls are determined based on three attributes:
+This section will help election officials determine their current maturity level. There are three levels defined in this Guide to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three _`CIS Controls <cis_controls>` Implementation Groups, with important differences based on the nature of and risks associated with election administration. The Implementation Groups in the CIS Controls are determined based on three attributes:
 
 #. Data sensitivity and criticality of services offered by the organization
 #. Expected level of technical expertise exhibited by staff or on contract
 #. Resources and expertise available and dedicated toward cybersecurity activities
 
-Because this handbook’s audience is those operating in the election environment, we have a rough estimate of the first attribute: election infrastructure is critical infrastructure, and the organization deals with sensitive data related to the elections it administers.
+Because this Guide's audience is those operating in the election environment, we have a rough estimate of the first attribute: election infrastructure is critical infrastructure, and the organization deals with sensitive data related to the elections it administers.
 
-Through no fault of their own, many election offices face a misalignment between the level of criticality of their services and the resources available to dedicate toward cybersecurity. To address this, this handbook focuses on meeting election offices where they are and helping to incrementally raise them to higher levels of maturity.
+Through no fault of their own, many election offices face a misalignment between the level of criticality of their services and the resources available to dedicate toward cybersecurity. To address this, this Guide focuses on meeting election offices where they are and helping to incrementally raise them to higher levels of maturity.
 
-Later in the handbook we use these maturity levels to provide specific recommendations for managing cybersecurity risk and, ultimately, leveling up an organization’s maturity. The three maturity levels are:
+Later in the Guide we use these maturity levels to provide specific recommendations for managing cybersecurity risk and, ultimately, leveling up an organization’s maturity. The three maturity levels are:
 
 #. |Maturity1|: The organization responds to threats when presented to them or when attacked but has little capacity to predict, foresee, or model attacks
 #. |Maturity2|: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned but staff and contractors are not or have limited specialization in cybersecurity

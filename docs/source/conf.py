@@ -331,7 +331,7 @@ Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'
 
 # contact info
-eges_email = 'dontknowyet@cisecurity.org'
+eges_email = 'essentialguide@cisecurity.org'
 eiisac_email = 'elections@cisecurity.org'
 controls_email = 'controlsinfo@cisecurity.org'
 soc_email = 'soc@cisecurity.org'

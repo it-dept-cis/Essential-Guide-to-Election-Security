@@ -9,7 +9,7 @@ Determine Maturity
 
 Every organization is different; there's no perfect way to describe an organization's cybersecurity posture. But there are some broad indicators that can help.
 
-This section provides some general characteristics for each of the three maturity levels. Read through them, determine your current maturity, and use that maturity throughout the guide to choose your implementation strategy.
+This section provides some general characteristics for each of the three maturity levels. Read through them, determine your current maturity, and use that maturity throughout the Guide to choose your implementation strategy.
 
 Many organizations will be more mature in some aspects of cybersecurity than others. That is normal. If you've already implemented the guidance in a best practice for your overall maturity level, considering leveling up to the next maturity for that best practice. It's all part of the process of continual improvement!
 
