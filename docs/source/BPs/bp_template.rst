@@ -26,7 +26,7 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
-For |bp_title|, the necessary actions [e.g., "are the same for all maturity levels", "vary by maturity as detailed below"]
+For |bp_title|, the necessary actions [e.g., "are the same for all maturities", "vary by maturity as detailed below"]
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

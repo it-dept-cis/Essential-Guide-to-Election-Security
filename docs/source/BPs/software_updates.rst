@@ -18,8 +18,8 @@ Successful exploitation of unpatched election infrastructure may result in data 
 Goals
 **********************************************
 
-#.	Understand the importance of patching and how patching schedules work
-#.	Know which of your systems should have timely patching and which need additional approvals
+#.      Understand the importance of patching and how patching schedules work
+#.      Know which of your systems should have timely patching and which need additional approvals
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -63,8 +63,8 @@ For more comprehensive recommendations and technical insight on this topic, plea
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•      [tool]: [description][(link)]
+•      [tool]: [description][(link)]
 
 Terms
 **********************************************

@@ -6,7 +6,7 @@
 
 *Status: draft*
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Any data stored on a computer system that is not being actively transfered can be referred to "data at rest." This includes data residing on HDDs, SSDs, USB sticks, and even third party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach. Elections offices may maintain a number of systems that must utilize encryption and are responsible for identifying data that should be encrypted.
@@ -17,8 +17,8 @@ In modern laptops, desktops, and server enviornments, encryption capabilities of
 Goals
 **********************************************
 
-#.	Utilize full-disk encryption for laptops, desktos, servers, and mobile devices.
-#.	Encrypt removable devices, where practical, such as with USB devices.
+#.      Utilize full-disk encryption for laptops, desktos, servers, and mobile devices.
+#.      Encrypt removable devices, where practical, such as with USB devices.
 #.  Encrypt backups.
 
 Mappings to CIS Controls and Safeguards
@@ -53,22 +53,11 @@ NIST _`Special Publication 800-122 <https://csrc.nist.gov/publications/detail/sp
 Cost-Effective Tools
 **********************************************
 
-•	Bitlocker: Built-in encryption for supported Microsoft® Windows devices. https://technet.microsoft.com/en-us/library/cc732774(v=ws.11).aspx
-•	FileVault: Built-in encryption for MacOS devices. https://support.apple.com/en-us/HT204837
-•	Veracrypt: Open-source, free full disk encryption utility. https://www.veracrypt.fr/en/How%20to%20Back%20Up%20Securely.html
-•	EaseUS: This free program can encrypt system images. https://www.easeus.com/backup-software/tb-free.html
-
-Terms
-**********************************************
-
-[links to glossary or has defs embedded…need to see if it’s possible to do that dynamically in github]
-
-Learn More
-**********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      Bitlocker: Built-in encryption for supported Microsoft® Windows devices. https://technet.microsoft.com/en-us/library/cc732774(v=ws.11).aspx
+•      FileVault: Built-in encryption for MacOS devices. https://support.apple.com/en-us/HT204837
+•      Veracrypt: Open-source, free full disk encryption utility. https://www.veracrypt.fr/en/How%20to%20Back%20Up%20Securely.html
+•      EaseUS: This free program can encrypt system images. https://www.easeus.com/backup-software/tb-free.html
 
 -----------------------------------------------
 
 Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.
-
-This page last updated on |last_update|.

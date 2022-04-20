@@ -22,8 +22,8 @@ Common types of scanning or network testing include:
 Goals
 **********************************************
 
-#.	Understand the types of scanning and how they can help protect publicly-facing assets
-#.	Know how to access free, automated services for scanning publicly-facing assets
+#.      Understand the types of scanning and how they can help protect publicly-facing assets
+#.      Know how to access free, automated services for scanning publicly-facing assets
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -67,8 +67,8 @@ At the |Maturity2| maturity, you should also implement remote penetration testin
 Cost-Effective Tools
 **********************************************
 
-•	CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote peentration testing. (https://www.cisa.gov/cyber-hygiene-services)
-•	ShieldsUP!: ShieldsUP is an online port scanning service that can alert the users of any ports that have been opened through their firewalls or through their NAT routers, which can be used by malicious users to take advantage of security vulnerabilities. (https://www.grc.com/shieldsup)
+•      CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote peentration testing. (https://www.cisa.gov/cyber-hygiene-services)
+•      ShieldsUP!: ShieldsUP is an online port scanning service that can alert the users of any ports that have been opened through their firewalls or through their NAT routers, which can be used by malicious users to take advantage of security vulnerabilities. (https://www.grc.com/shieldsup)
 
 Terms
 **********************************************
@@ -77,7 +77,7 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 

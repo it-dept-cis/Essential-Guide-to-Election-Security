@@ -32,8 +32,8 @@ Enterprise or greater).
 Goals
 **********************************************
 
-#.	Understand VPN technology and its role in election environments
-#.	Know how to properly implement a VPN service with your environment
+#.      Understand VPN technology and its role in election environments
+#.      Know how to properly implement a VPN service with your environment
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -53,8 +53,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 At the |Maturity1| maturity, organizations should use a VPN for all remote connections. To do so:
 
-*	Implement multi-factor authentication on all VPN connections.
-*	Review CIS’s “Telework and Small Office Network Security Guide” for tips on securing a remote work setup.
+*      Implement multi-factor authentication on all VPN connections.
+*      Review CIS’s “Telework and Small Office Network Security Guide” for tips on securing a remote work setup.
 * If a trusted third party, like a vendor, provides the VPN used to connect to your network, confirm they are following the same security principles as your organization.
   * For more tips on working with vendors, review CIS’s _`“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`
 
@@ -70,7 +70,7 @@ In addition to the actions at the |Maturity1| maturity, at the |Maturity2| matur
 Cost-Effective Tools
 **********************************************
 
-•	[CIS Telework and Small Office Network Security Guide]: [This Guide is meant to assist individuals and organizations in securing commodity routers, modems, and other network devices. Securing these devices is important as there are serious cybersecurity considerations surrounding the usage of network devices.][(https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide)]
+•      [CIS Telework and Small Office Network Security Guide]: [This Guide is meant to assist individuals and organizations in securing commodity routers, modems, and other network devices. Securing these devices is important as there are serious cybersecurity considerations surrounding the usage of network devices.][(https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide)]
 
 Terms
 **********************************************
@@ -79,6 +79,6 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
