@@ -16,8 +16,8 @@ Once an organization points its domain name system (DNS) requests to the MDBR DN
 Goals
 **********************************************
 
-#.	[Goal 1]
-#.	[Goal 2]
+#.      [Goal 1]
+#.      [Goal 2]
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -46,7 +46,7 @@ The EI-ISAC hosts all reporting data, including both successful and blocked DNS 
 Cost-Effective Tools
 **********************************************
 
-•	EI-ISAC MDBR service: A no-cost, lightweight MDBR solution for EI-ISAC members [https://mdbr.cisecurity.org]
+•      EI-ISAC MDBR service: A no-cost, lightweight MDBR solution for EI-ISAC members [https://mdbr.cisecurity.org]
 
 Terms
 **********************************************
@@ -55,7 +55,7 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 

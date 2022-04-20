@@ -73,7 +73,7 @@ At the Adaptive maturity, you should be implementing sophisticated controls and 
 Cost-Effective Tools
 **********************************************
 
-•	CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
+•      CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
 * [tool]: [description][(link)]
 
 Terms

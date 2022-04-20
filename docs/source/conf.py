@@ -313,7 +313,7 @@ latex_logo = '_static/cis-logo.png'
 #
 # latex_appendices = []
 
-# It false, will not define \strong, \code, 	itleref, \crossref ... but only
+# It false, will not define \strong, \code,       itleref, \crossref ... but only
 # \sphinxstrong, ..., \sphinxtitleref, ... To help avoid clash with user added
 # packages.
 #
@@ -325,7 +325,7 @@ latex_logo = '_static/cis-logo.png'
 
 # Global variables for use in all pages
 #
-# Maturity level names
+# Maturity names
 Maturity1 = 'Level 1'
 Maturity2 = 'Level 2'
 Maturity3 = 'Level 3'

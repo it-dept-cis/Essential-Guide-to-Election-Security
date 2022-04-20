@@ -6,7 +6,7 @@
 
 *Status: draft*
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 The CIS _`Critical Security Controls™ <https://www.cisecurity.org/controls>` are a prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks.
@@ -24,8 +24,8 @@ The CIS Controls are internationally recognized for bringing together expert ins
 Goals
 **********************************************
 
-#.	[Goal 1]
-#.	[Goal 2]
+#.      [Goal 1]
+#.      [Goal 2]
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -56,21 +56,13 @@ For |bp_title|, the necessary actions [e.g., "are the same for all maturity leve
 Cost-Effective Tools
 **********************************************
 
-•	CIS Controls Navigator: [description][(https://www.cisecurity.org/controls/cis-controls-navigator)]
-•	CIS Controls version 8: [description][(https://www.cisecurity.org/controls/v8)]
-
-Terms
-**********************************************
-
-[links to glossary or has defs embedded…need to see if it’s possible to do that dynamically in github]
-* Implementation Group (IG1)
+•      CIS Controls Navigator: [description][(https://www.cisecurity.org/controls/cis-controls-navigator)]
+•      CIS Controls version 8: [description][(https://www.cisecurity.org/controls/v8)]
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 
 Have a question, suggestion, recommendation, or correction? Contact us at |eges_email|.
-
-This page last updated on |last_update|.

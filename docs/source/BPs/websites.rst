@@ -37,8 +37,8 @@ While in most cases they seem to be simply a nuisance, website defacements pose 
 Goals
 **********************************************
 
-#.	Understand the .gov top-level domain and why it's important
-#.	Know why HTTPS matters and how to ensure your site is protected with it
+#.      Understand the .gov top-level domain and why it's important
+#.      Know why HTTPS matters and how to ensure your site is protected with it
 #.  Understand denial of service attacks and how to prevent them
 #.  Understand typosquatting and what to do about it
 #.  Know about website defacements and how to prevent them
@@ -72,8 +72,8 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 Cost-Effective Tools
 **********************************************
 
-•	DotGov.gov: The government portal to obtain and manage a .gov domain  https://dotgov.gov
-•	_`CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`
+•      DotGov.gov: The government portal to obtain and manage a .gov domain  https://dotgov.gov
+•      _`CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`
 • _`Cloudflare <https://www.cloudflare.com/athenian/>`
 • _`Google <https://projectshield.withgoogle.com/landing>`
 
@@ -84,8 +84,8 @@ Terms
 
 Learn More
 **********************************************
-•	_`Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`
-•	_`Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`
+•      _`Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`
+•      _`Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`
 
 -----------------------------------------------
 

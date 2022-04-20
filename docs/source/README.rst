@@ -55,13 +55,13 @@ You can get more detailed information the Essential Guide in our :doc:`how to <A
 Identifying Your Organization's Security Lead
 --------------------------------------------------------
 
-One of the most important functions in determining your organization’s maturity level and implementing best practices is identifying one or more individuals within your organization who will own and maintain this process. Whether you work in a small resource-constrained office or a large well-staffed and resourced office, one of the most effective steps to increasing your security posture is identifying someone who you'll hold accountable for making progress in examining your current maturity status, maintaining existing security processes, implementing best practices, and taking additional steps towards increasing your security posture.
+One of the most important functions in determining your organization’s maturity and implementing best practices is identifying one or more individuals within your organization who will own and maintain this process. Whether you work in a small resource-constrained office or a large well-staffed and resourced office, one of the most effective steps to increasing your security posture is identifying someone who you'll hold accountable for making progress in examining your current maturity status, maintaining existing security processes, implementing best practices, and taking additional steps towards increasing your security posture.
 
 
 A Little Encouragement Before You Start
 --------------------------------------------------------
 
-Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity level, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
+Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 
 Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be empowered to reach out to the CIS elections, the CIS elections team, and trusted partners and peers at the Federal, State and Local levels for guidance and support.
 

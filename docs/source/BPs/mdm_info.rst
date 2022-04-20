@@ -24,8 +24,8 @@ Influencing the political environment through social discourse is a tactic obser
 Goals
 **********************************************
 
-#.	Recognize MDMinfo and its potential impact on election administration
-#.	Know what to do when you encounter MDMinfo
+#.      Recognize MDMinfo and its potential impact on election administration
+#.      Know what to do when you encounter MDMinfo
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -42,16 +42,16 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 At the |Maturity1| maturity, simple steps can help you manage MDMinfo and address it when it occurs.
 
-#	Set up multi-factor authentication to protect social media accounts from compromise.
+#      Set up multi-factor authentication to protect social media accounts from compromise.
 # Use public forums to actively counter disinformation and misinformation.
 # Regularly publish official messaging about the state of your election infrastructure, responding with accurate information as quickly as possible. This rapid response is even more important as an election nears.
-#	Work with local media to promote official sources of information.
+#      Work with local media to promote official sources of information.
 Remediating Disinformation and Misinformation
 
 When you see MDMinfo, report it.
 
-#	Election officials can report identified disinformation and misinformation to misinformation@cisecurity.org. Include the following information: **Are we publishing this email address in this way now? It is in the spotlight and CISA has put it out**
-  -	**update with new 1-pager language**
+#      Election officials can report identified disinformation and misinformation to misinformation@cisecurity.org. Include the following information: **Are we publishing this email address in this way now? It is in the spotlight and CISA has put it out**
+  -      **update with new 1-pager language**
   - A screenshot of the social media post and, if possible, the URL
   - Your name, role, jurisdiction, and official email address
   - A description of why this is misinformation. This doesn’t have to be more than a couple sentences, but more detail is better. Citing a law is even better.
@@ -64,13 +64,13 @@ When you see MDMinfo, report it.
 At the |Maturity2| maturity level, you should take the actions above as well as some additional steps to protect against impacts from MDMinfo.
 
 # The Cybersecurity and Infrastructure Security Agency (CISA) offers an end user guide and additional resources to spot and manage responses to disinformation:
-  -	Recognize the risk of foreign actor operations.
+  -      Recognize the risk of foreign actor operations.
   - Question the source of content and question intent.
   - Investigate the issue for other reliable sources before sharing.
   - Think before you share, disinformation is designed to evoke an emotional response.
   - Talk with your circle about the risks of spreading disinformation.
 # Review the Harvard Kennedy School’s Belfer Center publication, “The Election Influence Operations Playbook” for a deeper understanding of these issues and response guidance.
-#	Establish a mechanism for the public to report disinformation and misinformation to your office, such as an email or phone number (e.g.disinfo@example.gov).
+#      Establish a mechanism for the public to report disinformation and misinformation to your office, such as an email or phone number (e.g.disinfo@example.gov).
 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -85,8 +85,8 @@ At the |Maturity3| maturity, consider having focused work stream to identify and
 Cost-Effective Tools
 **********************************************
 
-•	[Election Tools Checklist for combating election misinformation]: [A framework to help election departments respond to influence operations][(https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/)]
-•	[CISA Rumor Control Page]: [This page offers the public accurate and authoritative sources of information which will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives][(https://www.cisa.gov/rumorcontrol)]
+•      [Election Tools Checklist for combating election misinformation]: [A framework to help election departments respond to influence operations][(https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/)]
+•      [CISA Rumor Control Page]: [This page offers the public accurate and authoritative sources of information which will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives][(https://www.cisa.gov/rumorcontrol)]
 
 Terms
 **********************************************
@@ -95,7 +95,7 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 

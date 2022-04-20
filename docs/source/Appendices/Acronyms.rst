@@ -22,6 +22,7 @@ Acronyms
     Election Management System
 
   MDM
+    mobile device management OR
     mis-, dis-, and mal-information; see also MDMinfo
   
   MDMinfo

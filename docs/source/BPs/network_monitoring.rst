@@ -18,7 +18,7 @@ The EI-ISAC offers an IDS called Albert to election offices. Under this service,
 Goals
 **********************************************
 
-#.	Understand what an IDS is and why it's important
+#.      Understand what an IDS is and why it's important
 #.  Know how to get an IDS installed and what it can do for you
 
 Mappings to CIS Controls and Safeguards
@@ -48,8 +48,8 @@ At the |Maturity2| and |Maturity3| maturities, consider investing in an IDS or I
 Cost-Effective Tools
 **********************************************
 
-•	[tool]: [description][(link)]
-•	[tool]: [description][(link)]
+•      [tool]: [description][(link)]
+•      [tool]: [description][(link)]
 
 Terms
 **********************************************
@@ -58,7 +58,7 @@ Terms
 
 Learn More
 **********************************************
-•	[links to other random resources or knowledge or any relevant knowledge base entry]
+•      [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
 
