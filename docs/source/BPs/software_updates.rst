@@ -15,6 +15,8 @@ Software development companies, such as Microsoft and Adobe, regularly release b
 
 Successful exploitation of unpatched election infrastructure may result in data breaches, malware infections, and website defacements, among other things. Information at risk includes personally identifiable information (PII) and other voter information.
 
+The MS-ISAC regularly disseminates _`Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`, which address critical patches in commercial software commonly used by government agencies and are available to all EI-ISAC members. To subscribe to Cybersecurity Advisories, EI-ISAC members should contact their account manager or complete the _`subscription form <https://learn.cisecurity.org/ms-isac-subscription>`.
+
 Goals
 **********************************************
 
@@ -36,15 +38,15 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION 1: Begin patching key systems on a regular timetable.
+#.  Verify that all software used in the office is supported an active development company.
+#.  Begin patching all operating systems on a regular timetable.
+#.  Begin patching all software applications on a regular timetable.
 
-At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and conssistent manner.
+At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and consistent manner.
 
-Every organization is different, but it's often best to start patching your operating systems first, and then move to your software applications. Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
+Every organization is different, but it's often best to start patching your operating systems first, and then move to your software applications. Systems should be set to update by default. Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
 
 Devices and applications will often make patches available via a diagnostic menu or administrative console. Each device or application will be different, and this may require research. Not all systems used in elections can be patched immediately. Particularly when patching voting systems, be sure to consider your state’s or the U.S. Election Assistance Commission’s (EAC) System Certification Process and account for scheduled primary and election day system configuration freezes.
-
-The MS-ISAC regularly disseminates _`Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`, which address critical patches in commercial software commonly used by government agencies and are available to all EI-ISAC members. To subscribe to Cybersecurity Advisories, EI-ISAC members should contact their account manager or complete the _`subscription form <https://learn.cisecurity.org/ms-isac-subscription>`.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -63,8 +65,9 @@ For more comprehensive recommendations and technical insight on this topic, plea
 Cost-Effective Tools
 **********************************************
 
-•      [tool]: [description][(link)]
-•      [tool]: [description][(link)]
+* Itarian: Patch management solution for Windows (https://www.itarian.com)
+* Opsi: A more complicated solution that can help to manage both Windows and Linux platforms (https://www.opsi.org)
+* OpenVAS: Free, open-source framework for vulnerability scanning and management (https://www.openvas.org)
 
 Terms
 **********************************************
@@ -74,10 +77,10 @@ Terms
 Learn More
 **********************************************
 
-* Apple Auto-update - iOS
-* Apple Auto-update - MacOS
-* Auto-update Windows
-* Auto-update MS Office on macOS
-* Auto-update Android
+* Apple Auto-update - iOS (https://support.apple.com/en-us/HT202180)
+* Apple Auto-update - MacOS (https://support.apple.com/en-us/HT201541)
+* Auto-update Windows (https://support.microsoft.com/en-us/windows/keep-your-pc-up-to-date-de79813c-7919-5fed-080f-0871c7bd9bde)
+* Auto-update MS Office on macOS (https://support.microsoft.com/en-us/office/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1?ui=en-us&rs=en-us&ad=us)
+* Auto-update Android (https://support.google.com/googleplay/answer/113412)
 
 -----------------------------------------------
