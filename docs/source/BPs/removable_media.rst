@@ -18,8 +18,8 @@ While keeping hardware and software off of networks can eliminate certain threat
 Goals
 **********************************************
 
-#.  Understand media sanitization
-#.  Understand how to use removable media in the election environment
+#. Understand media sanitization
+#. Understand how to use removable media in the election environment
 
 Mappings to CIS Controls and Safeguards
 **********************************************

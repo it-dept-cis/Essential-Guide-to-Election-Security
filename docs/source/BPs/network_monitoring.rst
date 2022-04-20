@@ -18,15 +18,15 @@ The EI-ISAC offers an IDS called Albert to election offices. Under this service,
 Goals
 **********************************************
 
-#.      Understand what an IDS is and why it's important
-#.  Know how to get an IDS installed and what it can do for you
+#. Understand what an IDS is and why it's important
+#. Know how to get an IDS installed and what it can do for you
 
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 13.3: Deploy a Network Intrusion Detection Solution
-- 13.4: Perform Traffic Filtering Between Network Segments
-- 13.8: Deploy a Network Intrusion Prevention Solution
+* 13.3: Deploy a Network Intrusion Detection Solution
+* 13.4: Perform Traffic Filtering Between Network Segments
+* 13.8: Deploy a Network Intrusion Prevention Solution
 
 Actions
 **********************************************

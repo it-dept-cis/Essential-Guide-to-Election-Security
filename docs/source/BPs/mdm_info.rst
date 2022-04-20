@@ -24,8 +24,8 @@ Influencing the political environment through social discourse is a tactic obser
 Goals
 **********************************************
 
-#.      Recognize MDMinfo and its potential impact on election administration
-#.      Know what to do when you encounter MDMinfo
+#. Recognize MDMinfo and its potential impact on election administration
+#. Know what to do when you encounter MDMinfo
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -42,10 +42,10 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 At the |Maturity1| maturity, simple steps can help you manage MDMinfo and address it when it occurs.
 
-#      Set up multi-factor authentication to protect social media accounts from compromise.
-# Use public forums to actively counter disinformation and misinformation.
-# Regularly publish official messaging about the state of your election infrastructure, responding with accurate information as quickly as possible. This rapid response is even more important as an election nears.
-#      Work with local media to promote official sources of information.
+#.      Set up multi-factor authentication to protect social media accounts from compromise.
+#. Use public forums to actively counter disinformation and misinformation.
+#. Regularly publish official messaging about the state of your election infrastructure, responding with accurate information as quickly as possible. This rapid response is even more important as an election nears.
+#.      Work with local media to promote official sources of information.
 Remediating Disinformation and Misinformation
 
 When you see MDMinfo, report it.

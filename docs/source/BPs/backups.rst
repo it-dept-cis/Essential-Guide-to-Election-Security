@@ -6,8 +6,6 @@
 
 .. |bp_title| replace:: Backups
 
-*Status: draft*
-
 |bp_title|
 ----------------------------------------------
 
@@ -35,11 +33,11 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 11.1: Establish and maintain a data recovery process (Reactive)
-- 11.2: Perform automated backups of in-scope enterprise assets
-- 11.3: Protect recovery data
-- 11.4: Establish and maintain an isolated instance of recovery data (Reactive)
-- 11.5: Test backup recovery
+* 11.1: Establish and maintain a data recovery process (Reactive)
+* 11.2: Perform automated backups of in-scope enterprise assets
+* 11.3: Protect recovery data
+* 11.4: Establish and maintain an isolated instance of recovery data (Reactive)
+* 11.5: Test backup recovery
 
 Actions
 **********************************************
@@ -54,8 +52,6 @@ Creating a data inventory for a reactive maturity organization should include:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-**Actions**
 
 #. Perform a data inventory to understand the most important data residing within your network.
 #. Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.

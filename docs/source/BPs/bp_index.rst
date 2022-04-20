@@ -17,15 +17,15 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | bp_index                         | Placeholder draft           |
 +----------------------------------+-----------------------------+
-| asset_management                 | CIS team review             |
+| asset_management                 | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
-| backups                          | CIS team review             |
+| backups                          | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | cis_controls                     | CIS team review             |
 +----------------------------------+-----------------------------+
-| encryptdataatrest                | CIS team review             |
+| encryptdataatrest                | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
-| endpoint_protection              | CIS team review             |
+| endpoint_protection              | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | exercising_plans                 | draft 4/16                  |
 +----------------------------------+-----------------------------+
@@ -35,7 +35,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | join_ei_isac                     | CIS team review             |
 +----------------------------------+-----------------------------+
-| manage_remote_connections        | CIS team review             |
+| manage_remote_connections        | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | managing_staff                   | draft 4/16                  |
 +----------------------------------+-----------------------------+
@@ -53,11 +53,11 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | removable_media                  | CIS team review             |
 +----------------------------------+-----------------------------+
-| software_updates                 | CIS team review             |
+| software_updates                 | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | user_management                  | CIS team review             |
 +----------------------------------+-----------------------------+
-| websites                         | CIS team review             |
+| websites                         | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | wireless_management              | draft 4/16                  |
 +----------------------------------+-----------------------------+

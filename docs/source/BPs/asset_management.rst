@@ -20,11 +20,10 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 1.1:      Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1|)
-- 1.2:      Address Unauthorized Assets (|Maturity1|)
-- 1.3:      Utilize an Active Discovery Tool (Maturity2|)
-- 1.4:      Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3|)
-
+* 1.1: Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1|)
+* 1.2: Address Unauthorized Assets (|Maturity1|)
+* 1.3: Utilize an Active Discovery Tool (Maturity2|)
+* 1.4: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3|)
 
 Actions
 **********************************************
@@ -34,10 +33,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-
 For those organizations operating at a |Maturity1| maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained. Understanding this information will help you properly defend your network and other IT assets.
-
-**Actions**
 
 #.  Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
     *   If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though it’s best to also maintain a digital records that you can backup.
@@ -47,7 +43,11 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including maintaining digital inventory records, applying asset tags, and implementing software tools to discover physical devices on your networks.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including
+
+#. maintaining digital inventory records
+#. applying asset tags, and
+#. implementing software tools to discover physical devices on your networks.
 
 Enterprise tools exist to automate this process and if you are at a higher maturity, you should be implementing one of them.
 

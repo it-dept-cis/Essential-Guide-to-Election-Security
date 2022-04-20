@@ -26,9 +26,9 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 2.2: Ensure Authorized Software is Currently Supported
-- 7.3: Perform Automated Operating System Patch Management
-- 7.4: Perform Automated Application Patch Management
+* 2.2: Ensure Authorized Software is Currently Supported
+* 7.3: Perform Automated Operating System Patch Management
+* 7.4: Perform Automated Application Patch Management
 
 Actions
 **********************************************

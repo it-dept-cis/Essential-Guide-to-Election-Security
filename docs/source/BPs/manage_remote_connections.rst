@@ -23,8 +23,8 @@ Election offices can use a VPN to:
 Goals
 **********************************************
 
-#.      Understand VPN technology and its role in election environments.
-#.      Know how to properly implement a VPN service with your environment.
+#. Understand VPN technology and its role in election environments.
+#. Know how to properly implement a VPN service with your environment.
 
 Mappings to CIS Controls and Safeguards
 **********************************************
