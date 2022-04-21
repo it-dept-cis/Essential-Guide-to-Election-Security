@@ -2,7 +2,7 @@
 
 ## About the project
 
-doc explainer for those that stumble on the repo goes here
+Doc explainer for those that stumble on the repo goes here
 
 ## Installation
 
