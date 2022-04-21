@@ -35,6 +35,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 For those organizations operating at a |Maturity1| maturity, the important thing is to keep it simple. You need to know what physical assets you have, where they are, how they’re used, how they’re protected, and how they’re maintained. Understanding this information will help you properly defend your network and other IT assets.
 
+**Actions**
+
 #.  Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
     *   If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though it’s best to also maintain a digital records that you can backup.
     *   Even if your county maintains these records, its best to do so yourself as you’re ultimately accountable for what happens in your environment. Accordingly, contractor systems should be included in your inventory. Note that this inventory will contain sensitive information from a security perspective that should not be shared within untrusted parties.
