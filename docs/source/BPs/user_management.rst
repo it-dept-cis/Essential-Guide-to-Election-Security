@@ -22,11 +22,11 @@ Goals
 
 Understand:
 
-#.  Good password practices, like requiring passphrases and salting and hashing them
-#.  When to require MFA
-#.  When to ban or limit shared or generic accounts
-#.  Least privilege, especially with administrative access, and revoking access
-#.  User activity logging
+#. Good password practices, like requiring passphrases and salting and hashing them
+#. When to require MFA
+#. When to ban or limit shared or generic accounts
+#. Least privilege, especially with administrative access, and revoking access
+#. User activity logging
 
 Mappings to CIS Controls and Safeguards
 **********************************************

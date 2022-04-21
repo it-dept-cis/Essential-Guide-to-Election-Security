@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Website Security Basics
 
-*Status: draft*
-
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
@@ -37,11 +35,11 @@ While in most cases they seem to be simply a nuisance, website defacements pose 
 Goals
 **********************************************
 
-#.      Understand the .gov top-level domain and why it's important
-#.      Know why HTTPS matters and how to ensure your site is protected with it
-#.  Understand denial of service attacks and how to prevent them
-#.  Understand typosquatting and what to do about it
-#.  Know about website defacements and how to prevent them
+#. Understand the .gov top-level domain and why it's important
+#. Know why HTTPS matters and how to ensure your site is protected with it
+#. Understand denial of service attacks and how to prevent them
+#. Understand typosquatting and what to do about it
+#. Know about website defacements and how to prevent them
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -72,10 +70,10 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 Cost-Effective Tools
 **********************************************
 
-•      DotGov.gov: The government portal to obtain and manage a .gov domain  https://dotgov.gov
-•      _`CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`
-• _`Cloudflare <https://www.cloudflare.com/athenian/>`
-• _`Google <https://projectshield.withgoogle.com/landing>`
+* DotGov.gov: The government portal to obtain and manage a .gov domain  https://dotgov.gov
+* _`CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`
+* _`Cloudflare <https://www.cloudflare.com/athenian/>`
+* _`Google <https://projectshield.withgoogle.com/landing>`
 
 Terms
 **********************************************

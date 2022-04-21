@@ -33,8 +33,8 @@ The EI-ISAC provides access to valuable services to fulfill many of the best pra
 Goals
 **********************************************
 
-#.      Understand the EI-ISAC
-#.      Join the EI-ISAC
+#. Understand the EI-ISAC
+#. Join the EI-ISAC
 
 Mappings to CIS Controls and Safeguards
 **********************************************

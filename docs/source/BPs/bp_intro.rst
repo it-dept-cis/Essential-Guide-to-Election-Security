@@ -7,7 +7,7 @@
 *Status: draft*
 
 
-Introducton to Best Practices
+Introduction to Best Practices
 ----------------------------------------------
 
 in development

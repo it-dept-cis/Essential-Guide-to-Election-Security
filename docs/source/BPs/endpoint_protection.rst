@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Endpoint Protection
 
-*Status: draft*
-
 |bp_title|
 ----------------------------------------------
 
@@ -34,8 +32,8 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 10.1: Deploy and Maintain Anti-Malware Software
-- 10.6: Centrally Manage Anti-Malware Software
+* 10.1: Deploy and Maintain Anti-Malware Software
+* 10.6: Centrally Manage Anti-Malware Software
 
 Actions
 **********************************************
@@ -47,13 +45,11 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-**Actions**
-
-1.  Deploy EDR on systems throughout your network.
+#.  Deploy EDR on systems throughout your network.
     * All your systems and endpoints that touch the elections processes are covered at no cost to you by the federally-funded EDR program. Additionally, your jurisdiction’s non-election endpoints can also sign up for the same services at a discounted cost. Contact the |eiisac_email| for more information.
     * You may also review CIS's _`Guide for Ensuring Security in Election Technology Procurements <https://www.cisecurity.org/elections>` for best practices in crafting proposals and other necessary documents.
-2.  Take advantage of vendor-offered user training for usage of EDR tools.
-3.  Implement best practices for EDR:
+#.  Take advantage of vendor-offered user training for usage of EDR tools.
+#.  Implement best practices for EDR:
     * Delegate personnel to monitor and act on detections.
     * Export information regularly from the control panel to local hardware backups, so you always have access to data needed for audits and investigations.
     * Consider available staffing resources to support any new security infrastructure and the associated responsibilities. Many EDR providers offer solutions supported by a 24×7 team to manage and respond to identified incidents.
@@ -63,7 +59,6 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 For the |Maturity2| and |Maturity3| maturities, all of the guidance for the |Maturity1| maturity applies, but the specifics of your network configuration and the number of endpoints you serve may affect whether you can implement EDR through the EI-ISAC. Contact the |eiisac_email| for more information.
-
 
 Cost-Effective Tools
 **********************************************

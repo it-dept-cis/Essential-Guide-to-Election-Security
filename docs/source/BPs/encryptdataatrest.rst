@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Encrypt Data at Rest
 
-*Status: draft*
-
 |bp_title|
 ----------------------------------------------
 
@@ -17,17 +15,17 @@ In modern laptops, desktops, and server enviornments, encryption capabilities of
 Goals
 **********************************************
 
-#.      Utilize full-disk encryption for laptops, desktos, servers, and mobile devices.
-#.      Encrypt removable devices, where practical, such as with USB devices.
-#.  Encrypt backups.
+#. Utilize full-disk encryption for laptops, desktos, servers, and mobile devices.
+#. Encrypt removable devices, where practical, such as with USB devices.
+#. Encrypt backups.
 
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 3.6: Encrypt Data on End-User Devices
-- 3.9: Encrypt Data on Removable Media
-- 3.11: Encrypt Sensitive Data at Rest
-- 11.3: Protect Recovery Data
+* 3.6: Encrypt Data on End-User Devices
+* 3.9: Encrypt Data on Removable Media
+* 3.11: Encrypt Sensitive Data at Rest
+* 11.3: Protect Recovery Data
 
 Actions
 **********************************************
@@ -37,7 +35,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION: Enable full disk encryption on all devices that have encryption technologies built into the device. 
+ACTION: Enable full disk encryption on all devices that have encryption technologies built into the device.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

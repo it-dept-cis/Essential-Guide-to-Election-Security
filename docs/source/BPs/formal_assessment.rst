@@ -17,7 +17,7 @@ Formal cybersecurity assessments are a fundamental aspect of managing cybersecur
 
 Most critically, you need to be prepared to do something about the results of your assessments. Most will provide some prioritization of results. Once you have these results, develop a plan of action and milestones to get issues addressed.
 
-Risk assessments are a common form of asessement that can be sorted into two categories:
+Risk assessments are a common form of assessment that can be sorted into two categories:
 
 #. Self-assessments: In-house risk assessments are generally faster and less expensive while still providing useful insight into your cybersecurity posture.
 #. Independent assessments: Because they are conducted by outside assessment specialists, independent assessments usually cost more and take longer, but they are more objective and thorough. Where time and resources permit, they are preferable even when an organization has deep cybersecurity experience.
@@ -44,13 +44,13 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION 1: Choose a type of assessment.
+#.  Choose a type of assessment.
 
-ACTION 2: Perform a security assessment.
+#.  Perform a security assessment.
 
-ACTION 3. Receive results of asessment.
+#.  Receive results of assessment.
 
-ACTION 4. Do something about the results.
+#.  Do something about the results.
 
 Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at vulnerability_info@cisa.dhs.gov for more information.
 
@@ -59,7 +59,7 @@ Whatever you choose to do, figure out how often you should do it, stick to it, a
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-With at least some technical staff, you can consider a more robust assessment program. While conducting large assessments can provide signifcant information about your systems and put you in a great position to harden them, they can be expensive and resource-intensive.
+With at least some technical staff, you can consider a more robust assessment program. While conducting large assessments can provide significant information about your systems and put you in a great position to harden them, they can be expensive and resource-intensive.
 
 At least initially, it's good to focus on automated, free, or structured tools and services for understanding your systems. There are many options available to you. Review the options CISA offers through its `resource hub <https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
 

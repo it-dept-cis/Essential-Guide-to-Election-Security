@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Publicly-Facing Network Scanning
 
-*Status: draft*
-
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
@@ -22,14 +20,14 @@ Common types of scanning or network testing include:
 Goals
 **********************************************
 
-#.      Understand the types of scanning and how they can help protect publicly-facing assets
-#.      Know how to access free, automated services for scanning publicly-facing assets
+#. Understand the types of scanning and how they can help protect publicly-facing assets
+#. Know how to access free, automated services for scanning publicly-facing assets
 
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
-- 7.7: Remediate Detected Vulnerabilities
+* 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+* 7.7: Remediate Detected Vulnerabilities
 
 Actions
 **********************************************
@@ -39,9 +37,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION 1: Use free tools and services to conduct scans of your publicly-facing assets. This should include your website and any online portals you are responsible for that are used for elections purposes.
+#. Use free tools and services to conduct scans of your publicly-facing assets. This should include your website and any online portals you are responsible for that are used for elections purposes.
 
-ACTION 2: Remediate any vulnerabilities or known issues found during the scans.
+#. Remediate any vulnerabilities or known issues found during the scans.
 
 Note that scanning online systems you do not own may run afoul of the Computer Fraud and Abuse Act of 1986 (:term:`CFAA`).
 
@@ -57,7 +55,7 @@ CISA offers all of its cybersecurity assessment services at no cost to election 
 
 At the |Maturity2| maturity, you should also implement remote penetration testing.
 
-* Sign up for free remote penetration testing by contacting CISA at |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services."
+#. Sign up for free remote penetration testing by contacting CISA at |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services."
 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

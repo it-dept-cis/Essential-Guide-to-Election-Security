@@ -28,7 +28,7 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
-For |bp_title|, the necessary actions nvary by maturity as detailed below.
+For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
