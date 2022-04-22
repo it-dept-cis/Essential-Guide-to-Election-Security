@@ -35,29 +35,29 @@ Actions
 
 For those organizations operating at a |Maturity1| maturity, the important thing is to keep it simple. Avoid using wireless in risky scenarios, such as transmitting election results without the technical support of a state agency or other technical body providing guidance.
 
-#. Leverage the Advanced Encryption Standard (AES) to Encrypt Wireless Data
-#. Create Separate Wireless Network for Personal and Untrusted Devices
+#. Leverage the advanced encryption standard (AES) to encrypt wireless data.
+#. Create separate wireless network for personal and untrusted devices.
+
+All wireless access points owned and operated by the jurisdiction should utilize either WPA2 or WPA3 with a strong password.
+
+Untrusted devices from users outside of your jurisdiction should not be provided access to the jurisdiction's primary wireless network. If they are not part of your team, they should not be on the same wireless network as jurisdiction equipment. A guest network should be used to enforce separation.
 
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-With at least some technical staff, you can
+With at least some technical staff, you can:
 
-#. Disable Wireless Access on Devices if Not Required
-#. Maintain an Inventory of Authorized Wireless Access Points
-#. Detect Wireless Access Points Connected to the Wired Network
-#. Disable Peer-to-Peer Wireless Network Capabilities on Wireless Clients
-#. Disable Wireless Peripheral Access of Devices
+#. Maintain an inventory of authorized wireless access points to ensure rogue ones are not introduced.
+#. Disable wireless access on devices if the device does not require access.
+#. Disable peer-to-peer wireless network capabilities on wireless clients to prevent communication between devices that is not visible on the wireless network.
 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 At the Adaptive maturity, you should be
 
-#. Limit Wireless Access on Client Devices
-#. Use a Wireless Intrusion Detection System
-#. Use Wireless Authentication Protocols that Require Mutual, Multi-Factor Authentication
-
+#. Use wireless authentication protocols that require mutual, multi-factor authentication.
+#. Detect wireless access points connected to the wired network.
 
 
 For |bp_title|, the necessary actions are the same for all maturity levels.

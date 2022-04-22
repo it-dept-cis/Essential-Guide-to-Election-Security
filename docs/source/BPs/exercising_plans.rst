@@ -22,8 +22,15 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#] [title of control]
-- [#.#] [title of control]
+* 17.1: Designate Personnel to Manage Incident Handling
+* 17.2: Establish and Maintain Contact Information for Reporting Security Incidents
+* 17.3: Establish and Maintain an Enterprise Process for Reporting Incidents
+* 17.4: Establish and Maintain an Incident Response Process
+* 17.5: Assign Key Roles and Responsibilities 
+* 17.6: Define Mechanisms for Communicating During Incident Response
+* 17.7: Conduct Routine Incident Response Exercises
+* 17.8: Conduct Post-Incident Reviews
+* 17.9: Establish and Maintain Security Incident Thresholds
 
 Actions
 **********************************************
