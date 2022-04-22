@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Managing Wireless Networks
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Wireless networks are a critical piece of modern connectivity. In the election environment, some systems, like voting machines, are never connected to a wireless network. Others, like e-pollbooks, often have to be to on a wireless network to properly update voter rolls. Some jurisdictions may even use wireless networks to transmit election results on election night.
@@ -30,6 +30,8 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
+For |bp_title|, the necessary actions vary by maturity as detailed below.
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -37,6 +39,14 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 
 #. Leverage the advanced encryption standard (AES) to encrypt wireless data.
 #. Create separate wireless network for personal and untrusted devices.
+#. Change administrator passwords on routers and other wireless access points to a secure passphrase.
+#. Change the default access passphrase for wireless networks regularly, or enable user level authentication for private networks.
+#. Don't permit visitors to use your primary wireless network. Instead set up a separate network or enable a guest network.
+#. Carefully decide whether a new device will be allowed on the network; you don't need to permit every new device onto the network.
+#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching <software_updates>` schedule.
+#. Use :doc:`the encryption best practice <encryptdataatrest>` for all network traffic.
+#. Track what's on your network.
+#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater).
 
 All wireless access points owned and operated by the jurisdiction should utilize either WPA2 or WPA3 with a strong password.
 
@@ -45,7 +55,7 @@ Untrusted devices from users outside of your jurisdiction should not be provided
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-With at least some technical staff, you can:
+In addition to those actions for the |Maturity1| maturity, with at least some technical staff, you should:
 
 #. Maintain an inventory of authorized wireless access points to ensure rogue ones are not introduced.
 #. Disable wireless access on devices if the device does not require access.
@@ -54,22 +64,10 @@ With at least some technical staff, you can:
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the Adaptive maturity, you should be
+At the |Maturity3| maturity, you should do all of the above and:
 
 #. Use wireless authentication protocols that require mutual, multi-factor authentication.
 #. Detect wireless access points connected to the wired network.
-
-
-For |bp_title|, the necessary actions are the same for all maturity levels.
-
-#. Change administrator passwords on routers and other wireless access points to a secure passphrase.
-#. Change the default access passphrase for wireless networks regularly, or enable user level authentication for private networks.
-#. Don't permit visitors to use your primary wireless network. Instead set up a separate network or enable a guest network.
-#. Carefully decide whether a new device will be allowed on the network; you don't need to permit every new device onto the network.
-#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching` schedule.
-#. Use :doc:`encryption` for all network traffic.
-#. Track what's on your network.
-#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater).
 
 Cost-Effective Tools
 **********************************************
