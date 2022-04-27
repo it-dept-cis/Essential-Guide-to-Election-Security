@@ -13,7 +13,7 @@ The Essential Guide to Election Security
 A Best Practices Resource for Election Professionals
 --------------------------------------------------------
 
-As a follow-on to The Handbook for Election Infrastructure Security, the `Center for Internet Security <https://cisecurity.org>`_ (CIS) has developed the Essential Guide to Election Security to serve as a first-stop resource for election officials to learn about best practices in election security. This can aid the process of building a program designed to meet individual needs and abilities of any given election office.
+As a follow-on to `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_, the `Center for Internet Security <https://cisecurity.org>`_ (CIS) has developed this Essential Guide to Election Security to serve as a first-stop resource for election officials to learn about best practices in election security. This can aid the process of building a program designed to meet individual needs and abilities of any given election office.
 
 When the Handbook was published in 2018, election officials had much less guidance to rely on. Today, they have an enormous amount of guidance they need to navigate. With so much guidance and so many tools and approaches available, which is best for any given jurisdiction? This Guide considers the wide range of technical capabilities and resource availability among the many thousands of election offices in the United States. While providing guidance for all organizational maturities, it emphasizes designing guidance for small jurisdictions without extensive cybersecurity resources available to them. The most important practices are included for those jurisdictions, with opportunities to ramp up as they mature.
 
