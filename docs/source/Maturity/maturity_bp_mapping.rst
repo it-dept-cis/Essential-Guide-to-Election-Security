@@ -26,14 +26,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-1.  Manage assets by complete an IT inventory. This inventory consists of six worksheets. Together, they fulfill the `Asset Management <../BPs/asset_management>`_ best practice for |Maturity1|:
-
-    a.  Enterprise asset inventory.
-    #.  Software asset inventory.
-    #.  Service provider inventory.
-    #.  Account inventory.
-    #.  Data inventory.
-
+1.  Complete the six simple :doc:`IT inventory worksheets <../appendices/worksheets.rst#IT-Inventory-Worksheets>`_. Together, these fulfill the `Asset Management <../BPs/asset_management>`_ best practice for |Maturity1|.
 2.  Complete the asset protection worksheet for each asset in the inventory.
   encrypt_data_at_rest
   managing_workstations
