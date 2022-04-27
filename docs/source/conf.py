@@ -45,6 +45,7 @@ extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
+    'sphinx.ext.autosectionlabel'
     #'sphinx.ext.imgconverter',
     'recommonmark',
     #'sphinx_markdown_tables',
