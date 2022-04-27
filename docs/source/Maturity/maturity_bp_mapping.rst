@@ -16,13 +16,11 @@ If you are at the |Maturity1| maturity, your first goal should be to commit to i
 
 Often the most important thing is to establish a priority for the tasks you want to complete so that you know exactly what to do the next time you have (or manage to create) a little time to focus on cybersecurity.
 
-To help with that priority, we recommend CIS's _`Small Business Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-sme-guide>`. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
+To help with that priority, we recommend CIS's `Small Business Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-sme-guide>`_. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
 
 
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-(Convert these to links to BPs when available)
 
 1.  Complete inventory worksheets:
     a.  Enterprise asset inventory.
