@@ -26,7 +26,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-Download and complete the worksheets for |Maturity1| maturity baseline. six simple :doc:`IT inventory worksheets <../Appendices/worksheets#testing>`. Together, these fulfill the :doc:`Asset Management <../BPs/asset_management>` best practice for |Maturity1|.
+Download and complete the worksheets for |Maturity1| maturity baseline. six simple :ref:`IT inventory worksheets <#testing>`. Together, these fulfill the :doc:`Asset Management <../BPs/asset_management>` best practice for |Maturity1|.
 2.  Complete the asset protection worksheet for each asset in the inventory.
   encrypt_data_at_rest
   managing_workstations
