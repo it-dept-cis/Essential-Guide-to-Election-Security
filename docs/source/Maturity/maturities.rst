@@ -4,7 +4,7 @@
 
 *Status: draft*
 
-Maturities 
+Maturities
 ---------------------------------
 
 The Purpose of Maturities
@@ -17,7 +17,7 @@ While an election office should implement best practices that best fit its needs
 Maturities in the Essential Guide
 ********************************************
 
-This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three _`CIS Controls <BPs/cis_controls>` Implementation Groups, with important differences based on the nature of and risks associated with election administration. The CIS Controls are a prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks. The Implementation Groups in the CIS Controls are determined based on three attributes:
+This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three :doc:`CIS Controls <BPs/cis_controls>` Implementation Groups, with important differences based on the nature of and risks associated with election administration. The CIS Controls are a prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks. The Implementation Groups in the CIS Controls are determined based on three attributes:
 
 #. Data sensitivity and criticality of services offered by the organization
 #. Expected level of technical expertise exhibited by staff or on contract
