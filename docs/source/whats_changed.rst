@@ -15,12 +15,10 @@ CIS received positive feedback from the election community on the Handbook's val
 
 
 1.  The CIS Controls, on which many of the 88 best practices are based, underwent a major revision.
-#.  The Election Infrastructure Information Sharing and Analysis Center (:term`EI-ISAC`) has greatly increased the number of freely available tools and services for election offices across the country.
+#.  The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the number of freely available tools and services for election offices across the country.
 #.  Since releasing the Handbook, CIS has developed a series of `best practice guides <https://www.cisecurity.org/elections>`_ and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
-
-    * A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
-    * A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
-
+  #. A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
+  #. A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
 #.  Election officials have made significant strides in meeting today’s threats, but uneven and insufficient funding has caused a wide array of differences in cybersecurity postures.
 #.  The nature of threats has changed. In 2016, national state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.
 #.  Mis-, dis-, and mal-information (:term:`MDMinfo`) has become one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation and threats and harassment of election officials. This includes many types of MDMinfo, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.

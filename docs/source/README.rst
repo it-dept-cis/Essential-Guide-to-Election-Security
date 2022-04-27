@@ -5,7 +5,7 @@
 
 **SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
 
-    * This is a pre-release, draft version of this Guide. We welcomed feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
+    This is a pre-release, draft version of this Guide. We welcomed feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
 
 The Essential Guide to Election Security
 ===============================================
