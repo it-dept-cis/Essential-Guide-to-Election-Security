@@ -26,7 +26,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-1.  Download and complete the six simple :doc:`IT inventory worksheets <../Appendices/worksheets.rst#it-inventory-worksheets>`. Together, these fulfill the :doc:`Asset Management <../BPs/asset_management>` best practice for |Maturity1|.
+1.  Download and complete the six simple :doc:`IT inventory worksheets <../Appendices/worksheets#it-inventory-worksheets>`. Together, these fulfill the :doc:`Asset Management <../BPs/asset_management>` best practice for |Maturity1|.
 2.  Complete the asset protection worksheet for each asset in the inventory.
   encrypt_data_at_rest
   managing_workstations
@@ -47,7 +47,7 @@ While the needed effort can vary greatly depending on the size of your office an
 In addition to the above, you should be implementing some measures of particular importance to the election community:
 
 1.  Join the :doc:`EI-ISAC <BPs/join_ei_isac>`.
-..  #.  Become a member of the EI-ISAC’s Peer Support Tool so you can ask questions and find practical guidance from election officials facing the same concerns as you.
+.. #.  Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
 #.  Put your website on a .gov domain through the _`dotgov.gov <https://dotgov.gov>` program.
 #.  Implement an :doc:`endpoint protection <BPs/endpoint_protection>` program through a commercial provider or for free through the EI-ISAC.
 #.  Implement the :doc:`malicious domain blocking and reporting <BPs/mdbr>` tool for free through the EI-ISAC.
