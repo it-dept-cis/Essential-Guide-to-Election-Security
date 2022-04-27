@@ -10,7 +10,7 @@ This page links to a set of worksheets for use at the |Maturity1| maturity level
 Completing these worksheets provides the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>` for |Maturity1|.
 
 A organization at the |Maturity1| maturity will still want to complete the
-|Maturity1| :doc:`election priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>`.
+|Maturity1| :doc:`election priorities <../Maturity/maturity_bp_mapping#|Maturity1|-Maturity-Baseline-Priorities>`.
 
 Download the full set of worksheets :doc:`here <../_worksheets/EGES_level_1_baseline_wksts.xlsx>`.
 
