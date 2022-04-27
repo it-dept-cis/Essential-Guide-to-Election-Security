@@ -5,9 +5,16 @@
 |Maturity1| Worksheets
 =========================
 
-This page links to a series of worksheets for use at the |Maturity1| maturity level.
+This page links to a set of worksheets for use at the |Maturity1| maturity level.
 
-Together, these provide most of the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>` for |Maturity1|.
+Completing these worksheets provides the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>` for |Maturity1|.
+
+A organization at the |Maturity1| maturity will still want to complete the
+|Maturity1| :doc:`election priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>`.
+
+Download the full set of worksheets :doc:`here <../_worksheets/EGES_level_1_worksheets.xlsx>`.
+
+Each worksheet in the set is described below.
 
 IT Inventory Worksheets
 ----------------------------------------------
