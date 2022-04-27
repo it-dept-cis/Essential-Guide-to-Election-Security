@@ -2,8 +2,6 @@
   created by: mike garcia
   to: provide a map from maturities to best practices. this is a shortcut for all maturities. individual pointers should exist in each maturity and this is a summary of them
 
-*Status: draft*
-
 Maturity Alignment to Best Practices
 ----------------------------------------------
 
@@ -27,11 +25,11 @@ To help with that priority, we recommend CIS's _`Small Business Guide <https://w
 (Convert these to links to BPs when available)
 
 1.  Complete inventory worksheets:
-      a.  Enterprise asset inventory.
-      #.  Software asset inventory.
-      #.  Service provider inventory.
-      #.  Account inventory.
-      #.  Data inventory.
+    a.  Enterprise asset inventory.
+    #.  Software asset inventory.
+    #.  Service provider inventory.
+    #.  Account inventory.
+    #.  Data inventory.
 2.  Complete the asset protection worksheet for each asset in the inventory.
 3.  Complete authentication worksheet for each account in the account inventory.
 4.  Complete backup worksheet for each asset.
