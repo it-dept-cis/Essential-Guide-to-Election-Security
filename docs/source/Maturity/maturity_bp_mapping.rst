@@ -22,12 +22,14 @@ To help with that priority, we recommend CIS's `Small Business Guide <https://ww
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.  Complete inventory worksheets:
+1.  Complete an IT inventory by implementing the `Assess Management <../BPs/asset_management>`_ best practice for |Maturity1|:
+
     a.  Enterprise asset inventory.
     #.  Software asset inventory.
     #.  Service provider inventory.
     #.  Account inventory.
     #.  Data inventory.
+
 2.  Complete the asset protection worksheet for each asset in the inventory.
 3.  Complete authentication worksheet for each account in the account inventory.
 4.  Complete backup worksheet for each asset.
