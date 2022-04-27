@@ -7,7 +7,7 @@
 
 This page links to a series of worksheets for use at the |Maturity1| maturity level.
 
-Together, these provide most of the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>`_ for |Maturity1|.
+Together, these provide most of the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>` for |Maturity1|.
 
 IT Inventory Worksheets
 ----------------------------------------------
