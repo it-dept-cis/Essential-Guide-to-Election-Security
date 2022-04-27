@@ -23,7 +23,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | cis_controls                     | CIS team review             |
 +----------------------------------+-----------------------------+
-| encryptdataatrest                | JTAG rework. Pls review     |
+| encrypt_data_at_rest             | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
 | endpoint_protection              | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
