@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Best Practice Title
 
-*Status: draft*
-
 *Best Practice:* |bp_title|
 ----------------------------------------------
 
