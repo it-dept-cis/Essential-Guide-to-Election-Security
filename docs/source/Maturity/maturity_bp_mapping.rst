@@ -22,7 +22,11 @@ To help with that priority, we recommend CIS's `Small Business Guide <https://ww
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.  Complete an IT inventory by implementing the `Asset Management <../BPs/asset_management>`_ best practice for |Maturity1|:
+The following is the list of priority actions at the |Maturity1| maturity. If you are at the |Maturity1| maturity, we recommend starting with these to establish a baseline of cyber hygiene.
+
+**Actions**
+
+1.  Manage assets by complete an IT inventory. This inventory consists of six worksheets. Together, they fulfill the `Asset Management <../BPs/asset_management>`_ best practice for |Maturity1|:
 
     a.  Enterprise asset inventory.
     #.  Software asset inventory.
