@@ -2,7 +2,6 @@
   Created by: mike garcia
   to: capture EGES instructions for officials to determine their own organizational maturity in cybersecurity
 
-*Status: draft*
 
 Determine Maturity
 ---------------------------------------

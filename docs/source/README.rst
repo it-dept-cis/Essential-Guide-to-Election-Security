@@ -3,9 +3,9 @@
   On: 1/25/2022
   To: Serve as the landing page for the EGES
 
-*Status: draft*
+**SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
 
-**EARLY DRAFT VERSION. CONTENT NOT FINALIZED**
+    * This is a pre-release, draft version of this Guide. We welcomed feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
 
 The Essential Guide to Election Security
 ===============================================

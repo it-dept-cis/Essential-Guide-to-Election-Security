@@ -2,8 +2,6 @@
   Created by: mike garcia
   To: introduces the maturities in the EGES
 
-*Status: draft*
-
 Maturities
 ---------------------------------
 
