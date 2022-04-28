@@ -7,30 +7,33 @@
 
 This page links to a set of worksheets for use at the |Maturity1| maturity level.
 
-Completing these worksheets provides the :doc:`baseline priorities <../Maturity/maturity_bp_mapping.rst#|Maturity1|-Maturity-Baseline-Priorities>` for |Maturity1|.
+Completing these worksheets provides the :ref:`baseline priorities <maturity-1-maturity-baseline-priorities>` for |Maturity1|.
 
 A organization at the |Maturity1| maturity will still want to complete the
-|Maturity1| :doc:`election priorities <../Maturity/maturity_bp_mapping#|Maturity1|-Maturity-Baseline-Priorities>`.
+|Maturity1| :doc:`election priorities <maturity-1-maturity-election-priorities>`.
 
-Download the full set of worksheets :doc:`here <../_worksheets/EGES_level_1_baseline_wksts.xlsx>`.
-
-Each worksheet in the set is described below.
-
-testingLink
---------------
-
-foo
+Each worksheet in the set is described below. Download the full set of worksheets in `xlsx <../_downloads/EGES_level_1_baseline_wksts.xlsx>`_.
 
 IT Inventory Worksheets
 ----------------------------------------------
 
-There are six worksheets for IT Inventory. They are simple and, together, should only take a couple hours to complete for an office  office:
+There are five worksheets about IT Inventory. Each is simple and, together, should only take a few hours to complete for a small office. Together, these fulfill action #1 of the :ref:`Asset Management <asset_management_maturity_1>` best practice for the |Maturity1| maturity.
 
-#.  Hardware asset inventory (:doc:`docx <../_worksheets/hardware_asset_wkst.docx>`)(:doc:`xlsx <../_worksheets/hardware_asset_wkst.xlsx>`)
-#.  Software asset inventory (:doc:`docx <../_worksheets/software_asset_wkst.docx>`)(:doc:`xlsx <../_worksheets/software_asset_wkst.xlsx>`)
-#.  Service provider inventory (:doc:`docx <../_worksheets/service_provider_wkst.docx>`)(:doc:`xlsx <../_worksheets/service_provider_wkst.xlsx>`)
-#.  Account inventory (:doc:`docx <../_worksheets/accounts_inventory_wkst.docx>`)(:doc:`xlsx <../_worksheets/accounts_inventory_wkst.xlsx>`)
-#.  Data inventory (:doc:`docx <../_worksheets/data_inventory_wkst.docx>`)(:doc:`xlsx <../_worksheets/data_inventory_wkst.xlsx>`)
+#.  Hardware asset inventory: (brief description)
+#.  Software asset inventory: (brief description)
+#.  Service provider inventory: (brief description)
+#.  Account inventory: (brief description)
+#.  Data inventory: (brief description)
 
+Cybersecurity Action Worksheets
+----------------------------------------------
+
+There are five worksheets about taking action on cybersecurity in your office. Each is simple and, together, should only take a few hours to complete for a small office. Together, these fulfill the remainder of the |Maturity1| maturity, as described in the |Maturity1| :doc:`election priorities <maturity-1-maturity-election-priorities>`.
+
+#.  Asset Protection: (brief description)
+#.  Account Security: (brief description)
+#.  Backup & Recovery: (brief description)
+#.  Incident Response: (brief description)
+#.  Cyber Education: (brief description)
 
 --------------------------------------

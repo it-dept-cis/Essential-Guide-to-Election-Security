@@ -30,6 +30,8 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
+.. _managing_workstations_maturity_1:
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

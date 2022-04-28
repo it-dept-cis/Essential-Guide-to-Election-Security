@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Asset Management
 
-*Status: draft*
-
 |bp_title|
 ----------------------------------------------
 
@@ -29,6 +27,8 @@ Actions
 **********************************************
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
+
+.. _asset_management_maturity_1:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -60,11 +60,7 @@ This inventory should include assets connected to the infrastructure physically,
 Cost-Effective Tools
 **********************************************
 
-•      CIS Enterprise Asset Inventory Worksheet: An excel workbook suitable for small operations with a limited number of assets (https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/)
-•      Nmap: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network (https://nmap.org/)
-•      ZenMap: Easy-to-use graphic user interface for Nmap (https://nmap.org/zenmap/)
-•      Spiceworks: Free IT inventory and asset management software to identify devices and software on your network (https://www.spiceworks.com/)
-
------------------------------------------------
-
-Have a question, suggestion, recommendation, or correction? Contact us at |eges_email|.
+*  CIS Enterprise Asset Inventory Worksheet: An excel workbook suitable for small operations with a limited number of assets (https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/)
+*  Nmap: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network (https://nmap.org/)
+*  ZenMap: Easy-to-use graphic user interface for Nmap (https://nmap.org/zenmap/)
+*  Spiceworks: Free IT inventory and asset management software to identify devices and software on your network (https://www.spiceworks.com/)
