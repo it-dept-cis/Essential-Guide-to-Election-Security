@@ -26,15 +26,16 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-1. Download and complete the worksheets for |Maturity1| maturity baseline: :ref:`#testing`.
+1. Download and complete the worksheets for |Maturity1| maturity baseline: :ref:`testingLink`_.
 
 Together, these fulfill all of the |Maturity1| baseline priorities:
 
 +----------------------+-----------------------------+----------------------+
-| Worksheet            | Fulfilled Best Practice     | Actions Covered      |
+| Worksheet            | Best Practice               | Actions Covered      |
 +======================+=============================+======================+
 | Hardware Inventory   | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
 +----------------------+-----------------------------+----------------------+
+| Software Inventory   | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
 +----------------------------------+-----------------------------+
 | bp_index                         | Placeholder draft           |
 +----------------------------------+-----------------------------+
