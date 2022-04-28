@@ -27,7 +27,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-1. Download and complete the worksheets for |Maturity1| maturity baseline: `testingLink`_.
+1. Download and complete the :doc:worksheets for |Maturity1| maturity baseline.
 
 Together, these fulfill all of the |Maturity1| baseline priorities:
 
