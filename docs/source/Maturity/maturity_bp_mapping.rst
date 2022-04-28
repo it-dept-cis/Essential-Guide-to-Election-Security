@@ -9,6 +9,8 @@ Not everyone needs to implement every best practice, and most best practices hav
 
 This section provides some baseline goals for each maturity and maps these to best practices. Each best practice is placed in one of three groups. We recommend you implement based on those groupings, but adjust as it makes sense for your organization.
 
+.. _maturity-1-maturity:
+
 |Maturity1| Maturity
 ***************************************
 
@@ -18,6 +20,7 @@ Often the most important thing is to establish a priority for the tasks you want
 
 To help with that priority, we recommend CIS's `Small Business Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-sme-guide>`_. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
 
+.. _maturity-1-maturity-baseline-priorities:
 
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
