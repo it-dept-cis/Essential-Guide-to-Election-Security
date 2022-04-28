@@ -32,10 +32,12 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
+.. _encrypt_data_at_rest_maturity_1:
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-ACTION: Enable full disk encryption on all devices that have encryption technologies built into the device.
+#. Enable full disk encryption on all devices that have encryption technologies built into the device.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
