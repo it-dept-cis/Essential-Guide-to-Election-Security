@@ -69,7 +69,7 @@ In addition to the above, you should be implementing some measures of particular
 #.  Implement the :doc:`malicious domain blocking and reporting <../BPs/mdbr>` tool for free through the EI-ISAC.
 #.  A :doc:`removable media sanitization program <../BPs/removable_media>`.
 #.  Establish a baseline incident response and recovery program (best practice coming in phase 2).
-..  Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
+..  #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
 
 |Maturity2| Maturity
 ***************************************
