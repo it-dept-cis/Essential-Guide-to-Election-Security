@@ -44,14 +44,14 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 | Asset Protection     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All              |
 |                      | :ref:`Managing Workstations <managing_workstations_maturity_1>` |   #1 and #2      |
 +----------------------+-----------------------------------------------------------------+------------------+
-| Account Security     | :ref:`encrypt_data_at_rest_maturity_1`                          | All User         |
+| Account Security     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All User         |
 |                      |                                                                 | Recommendations  |
 +----------------------+-----------------------------------------------------------------+------------------+
-| Backup & Recovery    | :ref:`backups_maturity_1`                                       | All              |
+| Backup & Recovery    | :ref:`Backups <backups_maturity_1>`                             | All              |
 +----------------------+-----------------------------------------------------------------+------------------+
 | Incident Response    | Coming in Phase 2                                               | All              |
 +----------------------+-----------------------------------------------------------------+------------------+
-| Cyber Education      | :ref:`managing_staff_maturity_1`                                | All              |
+| Cyber Education      | :ref:`Managing Staff <managing_staff_maturity_1>`               | All              |
 +----------------------+-----------------------------------------------------------------+------------------+
 
 While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each exercise is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestions: set aside time to do one a week until you've got them all done; then they're easy to repeat.
