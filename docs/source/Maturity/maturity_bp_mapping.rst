@@ -33,7 +33,7 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 +----------------------+-----------------------------+----------------------+
 | Worksheet            | Fulfilled Best Practice     | Actions Covered      |
 +======================+=============================+======================+
-| Hardware Inventory   | Asset Management            | #1                   |
+| Hardware Inventory   | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
 +----------------------+-----------------------------+----------------------+
 +----------------------------------+-----------------------------+
 | bp_index                         | Placeholder draft           |
