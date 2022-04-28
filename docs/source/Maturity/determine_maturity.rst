@@ -2,7 +2,6 @@
   Created by: mike garcia
   to: capture EGES instructions for officials to determine their own organizational maturity in cybersecurity
 
-*Status: draft*
 
 Determine Maturity
 ---------------------------------------
@@ -11,7 +10,7 @@ Every organization is different; there's no perfect way to describe an organizat
 
 This section provides some general characteristics for each of the three maturities. Read through them, determine your current maturity, and use that maturity throughout the Guide to choose your implementation strategy.
 
-Many organizations will be more mature in some aspects of cybersecurity than others. This is normal. If you've already implemented the guidance in a best practice for your overall maturity, consider leveling up to the next maturity for that best practice. It's all part of the process of continual improvement!
+Many organizations will be more mature in some aspects of cybersecurity than others. This is normal. If you've already implemented the guidance in a best practice for your overall maturity, consider leveling up to the next maturity for that best practice. It's all part of the process of continual improvement.
 
 |Maturity1| Maturity
 *************************************************
@@ -20,7 +19,7 @@ An organization is likely at a |Maturity1| maturity if most of the following sta
 
 1.      You have no dedicated cybersecurity staff, though you may contract for IT staff or share an IT security resource with other governmental functions, such as a county recorder.
 #.      While cybersecurity matters to you, you most often consider it in terms of keeping systems operational and not about detailed threats.
-#.      You have not undergone a formal cybersecurity assessment, like the `National Cybersecurity Review <https://www.cisecurity.org/ms-isac/services/ncsr>` (:term:`NCSR`). This is not just automated scanning, but a full expert assessment.
+#.      You have not undergone a formal cybersecurity assessment, like the `National Cybersecurity Review <https://www.cisecurity.org/ms-isac/services/ncsr>`_ (:term:`NCSR`). This is more than just automated scanning, but a full expert assessment.
 #.      You do not have current continuity of operations or disaster recovery plans or have rarely tested them.
 #.      You receive cybersecurity guidance and alerts from external sources, but have difficulty understanding or knowing how to apply them within your organization.
 #.      You don’t have a thorough incident response plan, don’t exercise it regularly, or don’t feel confident in what to do when an incident occurs.

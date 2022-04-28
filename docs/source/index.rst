@@ -25,7 +25,7 @@ CIS's Essential Guide for Election Security
    BPs/asset_management
    BPs/backups
    BPs/cis_controls
-   BPs/encrypdataatrest
+   BPs/encrypt_data_at_rest
    BPs/endpoint_protection
    BPs/exercising_plans
    BPs/firewalls_ports
@@ -52,7 +52,8 @@ CIS's Essential Guide for Election Security
 
    Appendices/appendix_index
    Appendices/how_to_guide
-   Appendices/Acronyms
+   Appendices/acronyms
+   Appendices/worksheets
 
 .. toctree::
    :maxdepth: 1
