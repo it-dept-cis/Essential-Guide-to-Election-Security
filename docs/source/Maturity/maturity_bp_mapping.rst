@@ -26,7 +26,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 **Actions**
 
-1. Download and complete the worksheets for |Maturity1| maturity baseline: :ref:`testingLink`_.
+1. Download and complete the worksheets for |Maturity1| maturity baseline: `testingLink`_.
 
 Together, these fulfill all of the |Maturity1| baseline priorities:
 
@@ -37,7 +37,12 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 +----------------------+-----------------------------+----------------------+
 | Software Inventory   | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
 +----------------------------------+-----------------------------+
-| bp_index                         | Placeholder draft           |
+| Data Inventory       | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
++----------------------------------+-----------------------------+
+| Service Provider     | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
+| Inventory            | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
++----------------------------------+-----------------------------+
+| Account Inventory    | :doc:`Asset Management <../BPs/asset_management>`            | #1                   |
 +----------------------------------+-----------------------------+
 
 :doc:`Asset Management <../BPs/asset_management>` best practice for |Maturity1|.
