@@ -26,8 +26,8 @@ The CIS Controls are organized into the three IGs, each with its own unique list
 Goals
 **********************************************
 
-#.  Understand the CIS Controls and their applicability to this Guide.
-#.  Understand the IGs and their applicability to this Guide's Maturity Levels.
+#.  Understand the CIS Controls and their applicability to this Guide (|Maturity1| maturity)
+#.  Understand the IGs and their applicability to this Guide's Maturity Levels (|Maturity1| maturity)
 
 Mappings to CIS Controls and Safeguards
 **********************************************
