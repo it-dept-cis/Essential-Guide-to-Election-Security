@@ -74,7 +74,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'Essential Guide for Election Security'
 copyright = '{}, Center for Internet Security'.format(datetime.date.today().year)
-author = 'CIS Election Best Practices Team'
+author = 'EI-ISAC Best Practices Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -270,41 +270,86 @@ htmlhelp_basename = 'EGES'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+latex_engine = 'pdflatex'
+# latex_maketitle = r'''
+# \begin{titlepage}
+# \noindent\rule{\textwidth}{1pt}\par
+# \sphinxlogo
+# \py@HeaderFamily
+# {\Huge \title \par}
+# \noindent\rule{\textwidth}{1pt}\par
+# \end{titlepage}
+# \clearpage
+# '''
+latex_maketitle = r'''
+\sphinxmaketitle
+'''
+
+latex_tableofcontents = r'''
+\sphinxtableofcontents
+\clearpage
+'''
+latex_preamble = r'''
+\makeatletter
+   \fancypagestyle{normal}{
+% this is the stuff in sphinx.sty
+    \fancyhf{}
+    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+% add copyright stuff
+    \fancyfoot[LO,RE]{{\textcopyright\ 2022 \@author}}
+% again original stuff
+    \fancyhead[LE,RO]{{\py@HeaderFamily \py@release}}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+    }
+% this is applied to each opening page of a chapter
+   \fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+% add copyright stuff for example at left of footer on odd pages,
+% which is the case for chapter opening page by default
+    \fancyhead[LO,RE]{{\py@HeaderFamily \py@release}}
+    }
+\makeatother
+'''
+
 latex_elements = {
-     # The paper size ('letterpaper' or 'a4paper').
-     #
-     # 'papersize': 'letterpaper',
+    # The paper size ('letterpaper' or 'a4paper').
+    #
+    # 'papersize': 'letterpaper',
 
-     # The font size ('10pt', '11pt' or '12pt').
-     #
-     # 'pointsize': '10pt',
+    # The font size ('10pt', '11pt' or '12pt').
+    #
+    # 'pointsize': '10pt',
 
-     # Additional stuff for the LaTeX preamble.
-     #
-     # 'preamble': '',
-
-     # Latex figure (float) alignment
-     #
-     # 'figure_align': 'htbp',
+    # Additional stuff for the LaTeX preamble.
+    #
+    'preamble': latex_preamble,
+    'maketitle': latex_maketitle,
+    'tableofcontents': latex_tableofcontents,
+    # Latex figure (float) alignment
+    #
+    # 'figure_align': 'htbp',
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'EGES.tex', 'EGES',
-     'CIS Election Security Best Practices Team', 'howto'),
+    (master_doc, 'EGES.tex', project, author, 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 
-latex_logo = '_static/cis-logo.png'
+latex_logo = '_static/EI-ISAC-Logo-Stack-2Spot-RGB.png'
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
-#
-# latex_use_parts = False
+
+latex_use_parts = True
 
 # If true, show page references after internal links.
 #
