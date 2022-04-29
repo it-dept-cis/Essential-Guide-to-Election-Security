@@ -296,7 +296,7 @@ latex_preamble = r'''
     \fancyhf{}
     \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
 % add copyright stuff
-    \fancyfoot[LO,RE]{{\textcopyright\ \@date\ \@author}}
+    \fancyfoot[LO,RE]{{\textcopyright\ 2022 \@author}}
 % again original stuff
     \fancyhead[LE,RO]{{\py@HeaderFamily \py@release}}
     \renewcommand{\headrulewidth}{0.4pt}
