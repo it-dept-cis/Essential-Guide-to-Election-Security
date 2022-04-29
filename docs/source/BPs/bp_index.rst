@@ -27,21 +27,21 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | backups                          | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| cis_controls                     | CIS team review             |
+| cis_controls                     | JTAG buildout               |
 +----------------------------------+-----------------------------+
-| encrypt_data_at_rest             | JTAG rework. Pls review     |
+| encrypt_data_at_rest             | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | endpoint_protection              | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
-| exercising_plans                 | draft 4/16                  |
+| exercising_plans                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| firewalls_ports                  | draft 4/16                  |
+| firewalls_ports                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| formal_assessment                | CIS team review             |
+| formal_assessment                | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| join_ei_isac                     | CIS team review             |
+| join_ei_isac                     | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| manage_remote_connections        | JTAG rework. Pls review     |
+| manage_remote_connections        | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | managing_staff                   | draft 4/16                  |
 +----------------------------------+-----------------------------+

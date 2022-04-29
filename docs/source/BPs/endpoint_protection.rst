@@ -11,8 +11,9 @@
 
 If a threat is identified, it is blocked, and an alert is generated. Administrators can typically view alerts through a vendor control panel or a connection to their own security platform. Also, many EDR solutions include a traditional antivirus functionality and the ability for responders to remotely access compromised systems for remediation.
 
-.. figure:: ../_static/EDR-Vendor-Cloud-Diagram-v21.01.png
+.. figure:: ../_static/EDR-Vendor-Cloud-Diagram.png
    :width: 90%
+   :alt: Graphic showing EDR with a Cloud-based Vendor Solution
 
    EDR with a Cloud-based Vendor Solution
 
