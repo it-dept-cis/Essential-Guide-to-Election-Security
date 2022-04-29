@@ -9,18 +9,18 @@
 |bp_title|
 ----------------------------------------------
 
-Backups are necessary due to the constant threat of modification or erasure of data due to accidental deletions, :term:`malware` (including :term:`ransomware`), natural disasters, or other events. Good backup proactices are especially important during critical points of operational cycles, like the beginning of early voting.
+Backups are necessary due to the constant threat of modification or erasure of data due to accidental deletions, :term:`malware` (including :term:`ransomware`), natural disasters, or other events. Good backup practices are especially important during critical points of operational cycles, like the beginning of early voting.
 
-Backups play a crucial role in expediting the recovery from malicious cyber activity, allowing the restoration of a system to a reliable state that is free of malware infections and retains the original data. Rebuilding or re-imaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without having to wait to identify remove all possible malicious files.
+Backups play a crucial role in expediting the recovery from malicious cyber activity, allowing the restoration of a system to a reliable state that is free of malware and retains the original data. Rebuilding or re-imaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without having to wait to identify remove all possible malicious files.
 
 Backup programs should developed based on six characteristics:
 
-#. Data Classification: Knowing what you want to backup will help you determine what and how frequently that data should be backed up. For instance, data vital to election operations, such as voter registration information, would be considered a high priority, and the risk management process may justify the use of nightly full backups. Retention requirements can play a role in classification.
-#. Frequency: Consider how much data loss would be acceptable in the event of a catastrophic failure. The amount of data that would be acceptable to lose (e.g., 24 hours’ worth) should then be used to determine how often data should be backed up.
-#. Encrypted: Backups should be encrypted. Having the backup encrypted will safeguard it if an unauthorized individual tries to access it.
-#. Offline: Backups must be stored offline to reduce the risk of malware infecting the copies. Some malware, such as ransomware, will specifically look for backups that are available on the network to hinder the recovery process.
-#. Offsite – Backups should be stored offsite to ensure recovery is possible in the event of disasters, such as fire or flooding. Offsite backups could be physical copies or cloud-based. The backup location is vital to the recovery process and must be a place where the backups will be secure but quickly accessible.
-#. Tested: Testing the backup’s integrity and the ability to successfully restore a system from the backup is essential to a successful restoration. This ensures that, if needed, the backups will be able to restore what has been corrupted or destroyed. Too often backups are untested and can't actually be restored in times of crisis.
+#. **Data Classification**: Knowing what you want to backup will help you determine what and how frequently that data should be backed up. For instance, data vital to election operations, such as voter registration information, would be considered a high priority, and the risk management process may justify the use of nightly full backups. Retention requirements can play a role in classification.
+#. **Frequency**: Consider how much data loss would be acceptable in the event of a catastrophic failure. The amount of data that would be acceptable to lose (e.g., 24 hours’ worth) should then be used to determine how often data should be backed up.
+#. **Encrypted**: Backups should be encrypted. Having the backup encrypted will safeguard it if an unauthorized individual tries to access it.
+#. **Offline**: Backups must be stored offline to reduce the risk of malware infecting the copies. Some malware, such as ransomware, will specifically look for backups that are available on the network to hinder the recovery process.
+#. **Offsite**: Backups should be stored offsite to ensure recovery is possible in the event of disasters, such as fire or flooding. Offsite backups could be physical copies or cloud-based. The backup location is vital to the recovery process and must be a place where the backups will be secure but quickly accessible.
+#. **Tested**: Testing the backup’s integrity and the ability to successfully restore a system from the backup is essential to a successful restoration. This ensures that, if needed, the backups will be able to restore what has been corrupted or destroyed. Too often backups are untested and can't actually be restored in times of crisis.
 
 Goals
 **********************************************
@@ -33,11 +33,11 @@ Goals
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-* 11.1: Establish and maintain a data recovery process (Reactive)
-* 11.2: Perform automated backups of in-scope enterprise assets
-* 11.3: Protect recovery data
-* 11.4: Establish and maintain an isolated instance of recovery data (Reactive)
-* 11.5: Test backup recovery
+* 11.1: Establish and maintain a data recovery process (|Maturity1| maturity)
+* 11.2: Perform automated backups of in-scope enterprise assets (|Maturity1| maturity)
+* 11.3: Protect recovery data (|Maturity1| maturity)
+* 11.4: Establish and maintain an isolated instance of recovery data (|Maturity1| maturity)
+* 11.5: Test backup recovery (|Maturity2| maturity)
 
 Actions
 **********************************************
@@ -46,9 +46,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 Creating a data inventory for a reactive maturity organization should include:
 
-* voter registration information
-* ballot definitions
-* election equipment security processes
+  * voter registration information
+  * ballot definitions
+  * election equipment security processes
 
 .. _backups_maturity_1:
 

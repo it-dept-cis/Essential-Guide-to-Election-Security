@@ -5,17 +5,21 @@
   Last update by: mike garcia
 
 
-*Status: draft*
-
 Index of Best Practices
 -----------------------------------------------
+
+    NOTE: This is a table of best practices currently in the Guide. It will be updated to reflect upcoming changes and additions to best practices based on feedback.
+
+    In the launch version, it will have maturity relevance--if a |Maturity1| maturity doesn't have any actions in a BP, this will show that.
+
+    There will also be an associated checklist to follow along your work.
 
 +----------------------------------+-----------------------------+
 | BP                               | Status                      |
 +==================================+=============================+
 | bp_intro                         | Not started                 |
 +----------------------------------+-----------------------------+
-| bp_index                         | Placeholder draft           |
+| bp_index                         | Placeholder for soft launch |
 +----------------------------------+-----------------------------+
 | asset_management                 | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
@@ -61,7 +65,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | wireless_management              | draft 4/16                  |
 +----------------------------------+-----------------------------+
-| working_with_IT                  | draft 4/16                  |
+| working_with_IT                  | phase 2                     |
 +----------------------------------+-----------------------------+
 
 
