@@ -14,6 +14,8 @@ Index of Best Practices
 
     There will also be an associated checklist to follow along your work.
 
+    Best practices are currently alphabetical by filename. Prior to full release they will be prioritized by the Community Defense Model.
+
 +----------------------------------+-----------------------------+
 | BP                               | Status                      |
 +==================================+=============================+
@@ -21,9 +23,9 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | bp_index                         | Placeholder for soft launch |
 +----------------------------------+-----------------------------+
-| asset_management                 | JTAG rework. Pls review     |
+| asset_management                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| backups                          | JTAG rework. Pls review     |
+| backups                          | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | cis_controls                     | CIS team review             |
 +----------------------------------+-----------------------------+
