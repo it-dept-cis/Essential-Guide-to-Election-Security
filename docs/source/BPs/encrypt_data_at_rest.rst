@@ -7,17 +7,20 @@
 |bp_title|
 ----------------------------------------------
 
-Any data stored on a computer system that is not being actively transfered can be referred to "data at rest." This includes data residing on HDDs, SSDs, USB sticks, and even third party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach. Elections offices may maintain a number of systems that must utilize encryption and are responsible for identifying data that should be encrypted.
+Any data stored on a computer system that is not being actively transferred can be referred to "data at rest." This includes data residing on HDDs, SSDs, USB sticks, and even third party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach.
 
-In modern laptops, desktops, and server enviornments, encryption capabilities of some form are often built into the software and hardware stack. These capabilities may be enabled by default or will need to be properly configured. Third-party encryption utilities may also be needed to encrypt specific data, such as within an application, database, or a USB device.
+Elections offices may maintain a number of systems that must utilize encryption and are responsible for identifying data that should be encrypted.
+
+In modern laptops, desktops, and server environments, encryption capabilities of some form are often built into the software and hardware stack. These capabilities may be enabled by default or will need to be properly configured. Third-party encryption utilities may also be needed to encrypt specific data, such as within an application, database, or a USB device.
 
 
 Goals
 **********************************************
 
-#. Utilize full-disk encryption for laptops, desktos, servers, and mobile devices.
-#. Encrypt removable devices, where practical, such as with USB devices.
-#. Encrypt backups.
+#. Utilize full-disk encryption for laptops, desktops, servers, and mobile devices (|Maturity1| maturity)
+#. Encrypt backups (|Maturity1| maturity)
+#. Encrypt removable devices, where practical, such as with USB devices (|Maturity2| maturity)
+
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -37,7 +40,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Enable full disk encryption on all devices that have encryption technologies built into the device.
+#. Enable full disk encryption on all devices that have encryption technologies built into the device. You can use the |Maturity1| maturity :ref:`Asset Protection worksheet <cybersecurity-action-worksheets>` as a template.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -46,9 +49,9 @@ Work with those who provide IT infrastructure, whether vendors or your own IT st
 
 Implement encryption when data is at rest (e.g., stored in a database or on a device) and in transit (e.g., sending through email) and ensure your election office’s adherence to encryption standards.
 
-The National Institute of Standards and Technology (NIST) _`Special Publication 800-175B <https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final>` provides the U.S. federal requirements for encryption standards to secure data at different sensitivity and classification levels.
+The National Institute of Standards and Technology (:term:`NIST`) `Special Publication 800-175B <https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final>`_ provides the U.S. federal requirements for encryption standards to secure data at different sensitivity and classification levels.
 
-NIST _`Special Publication 800-122 <https://csrc.nist.gov/publications/detail/sp/800-122/final>` provides the U.S. federal requirements for protecting the confidentiality of personal information.
+NIST `Special Publication 800-122 <https://csrc.nist.gov/publications/detail/sp/800-122/final>`_ provides the U.S. federal requirements for protecting the confidentiality of personal information.
 
 Cost-Effective Tools
 **********************************************
@@ -59,5 +62,3 @@ Cost-Effective Tools
 •      EaseUS: This free program can encrypt system images. https://www.easeus.com/backup-software/tb-free.html
 
 -----------------------------------------------
-
-Have a question, suggestion, recommendation, or correction? Contact us at |contact_email|.

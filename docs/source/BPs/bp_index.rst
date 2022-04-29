@@ -5,39 +5,45 @@
   Last update by: mike garcia
 
 
-*Status: draft*
-
 Index of Best Practices
 -----------------------------------------------
+
+    NOTE: This is a table of best practices currently in the Guide. It will be updated to reflect upcoming changes and additions to best practices based on feedback.
+
+    In the launch version, it will have maturity relevance--if a |Maturity1| maturity doesn't have any actions in a BP, this will show that.
+
+    There will also be an associated checklist to follow along your work.
+
+    Best practices are currently alphabetical by filename. Prior to full release they will be prioritized by the Community Defense Model.
 
 +----------------------------------+-----------------------------+
 | BP                               | Status                      |
 +==================================+=============================+
 | bp_intro                         | Not started                 |
 +----------------------------------+-----------------------------+
-| bp_index                         | Placeholder draft           |
+| bp_index                         | Placeholder for soft launch |
 +----------------------------------+-----------------------------+
-| asset_management                 | JTAG rework. Pls review     |
+| asset_management                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| backups                          | JTAG rework. Pls review     |
+| backups                          | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| cis_controls                     | CIS team review             |
+| cis_controls                     | JTAG buildout               |
 +----------------------------------+-----------------------------+
-| encrypt_data_at_rest             | JTAG rework. Pls review     |
+| encrypt_data_at_rest             | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | endpoint_protection              | JTAG rework. Pls review     |
 +----------------------------------+-----------------------------+
-| exercising_plans                 | draft 4/16                  |
+| exercising_plans                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| firewalls_ports                  | draft 4/16                  |
+| firewalls_ports                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| formal_assessment                | CIS team review             |
+| formal_assessment                | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| join_ei_isac                     | CIS team review             |
+| join_ei_isac                     | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| manage_remote_connections        | JTAG rework. Pls review     |
+| manage_remote_connections        | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_staff                   | draft 4/16                  |
+| managing_staff                   | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | managing_vendors                 | draft 4/16                  |
 +----------------------------------+-----------------------------+
@@ -61,7 +67,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | wireless_management              | draft 4/16                  |
 +----------------------------------+-----------------------------+
-| working_with_IT                  | draft 4/16                  |
+| working_with_IT                  | phase 2                     |
 +----------------------------------+-----------------------------+
 
 

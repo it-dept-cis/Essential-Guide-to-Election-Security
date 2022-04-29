@@ -10,9 +10,11 @@ This page links to a set of worksheets for use at the |Maturity1| maturity level
 Completing these worksheets provides the :ref:`baseline priorities <maturity-1-maturity-baseline-priorities>` for |Maturity1|.
 
 A organization at the |Maturity1| maturity will still want to complete the
-|Maturity1| :doc:`election priorities <maturity-1-maturity-election-priorities>`.
+|Maturity1| :ref:`election priorities <maturity-1-maturity-election-priorities>`.
 
 Each worksheet in the set is described below. Download the full set of worksheets in :download:`xlsx <../_downloads/EGES_level_1_baseline_wksts.xlsx>`.
+
+.. _IT-inventory-worksheets:
 
 IT Inventory Worksheets
 ----------------------------------------------
@@ -24,6 +26,8 @@ There are five worksheets about IT Inventory. Each is simple and, together, shou
 #.  Service provider inventory: (brief description)
 #.  Account inventory: (brief description)
 #.  Data inventory: (brief description)
+
+.. _cybersecurity-action-worksheets:
 
 Cybersecurity Action Worksheets
 ----------------------------------------------

@@ -2,8 +2,6 @@
   Created by: mike garcia
   To: describes changes from the handbook
 
-*Status: draft*
-
 What's Changed
 -------------------------
 

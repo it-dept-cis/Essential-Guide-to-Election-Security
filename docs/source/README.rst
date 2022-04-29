@@ -5,7 +5,9 @@
 
 **SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
 
-    This is a pre-release, draft version of this Guide. We welcomed feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
+    NOTE: This is a pre-release, draft version of this Guide. We're calling it a soft launch, but it's more of an 'open review period.'
+
+    We welcome feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
 
 The Essential Guide to Election Security
 ===============================================
@@ -19,8 +21,10 @@ When the Handbook was published in 2018, election officials had much less guidan
 
 This Guide considers the wide range of technical capabilities and resource availability among the many thousands of election offices in the United States. While providing guidance for all organizational maturities, it emphasizes designing guidance for small jurisdictions without extensive cybersecurity resources available to them. The most important practices are included for those jurisdictions, with opportunities to ramp up as they mature.
 
-Why does this Guide look like a webpage?
+Why does this Guide look like a webpage? (Or does it??)
 ----------------------------------------------
+
+You might be reading this online. Or you might be reading a PDF. If the latter, it's because your PDF was built from an online version. Here's why we're keeping all of the content for the Guide online:
 
 CIS published The Handbook for Election Infrastructure Security in early 2018, just before the `Election Infrastructure Information Sharing and Analysis Center <BPs/join_ei_isac.rst>`_ (EI-ISAC) launch.
 
