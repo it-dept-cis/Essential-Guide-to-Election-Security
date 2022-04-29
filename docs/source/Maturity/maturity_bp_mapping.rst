@@ -21,7 +21,7 @@ To help with that priority, we recommend CIS's `Small Business Guide <https://ww
 .. _maturity-1-maturity-baseline-priorities:
 
 |Maturity1| Maturity Baseline Priorities
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following is the list of priority actions at the |Maturity1| maturity. If you are at the |Maturity1| maturity, we recommend starting with these to establish a baseline of cyber hygiene.
 
@@ -31,35 +31,35 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 Together, these fulfill all of the |Maturity1| baseline priorities:
 
-+----------------------+-------------------------------+------------------+
-| Worksheet            | Best Practice                 | Actions Covered  |
-+======================+===============================+==================+
-| Hardware Inventory   |                               |                  |
-| Software Inventory   |                               |                  |
-| Data Inventory       | :ref:`Asset Management <asset_management_maturity_1>`  | #1               |
-| Service Provider     |                               |                  |
-| Inventory            |                               |                  |
-| Account Inventory    |                               |                  |
-+----------------------+-------------------------------+------------------+
-| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>` | All          |
-|                      | :ref:`Managing Workstations <managing_workstations_maturity_1>` |   #1 and #2   |
-+----------------------+-------------------------------+------------------+
-| Account Security     | :ref:`Encrypt Data At Rest <user_management_maturity_1>` | All User   |
-|                      |                               | Recommendations  |
-+----------------------+-------------------------------+------------------+
-| Backup & Recovery    | :ref:`Backups <backups_maturity_1>` | All        |
-+----------------------+-------------------------------+------------------+
-| Incident Response    | Coming in Phase 2             | All              |
-+----------------------+-------------------------------+------------------+
-| Cyber Education      | :ref:`Managing Staff <managing_staff_maturity_1>` | All        |
-+----------------------+-------------------------------+------------------+
++----------------------+-----------------------------------------------------------------+------------------+
+| Worksheet            | Best Practice                                                   | Actions Covered  |
++======================+=================================================================+==================+
+| Hardware Inventory   |                                                                 |                  |
+| Software Inventory   |                                                                 |                  |
+| Data Inventory       | :ref:`Asset Management <asset_management_maturity_1>`           | #1               |
+| Service Provider     |                                                                 |                  |
+| Inventory            |                                                                 |                  |
+| Account Inventory    |                                                                 |                  |
++----------------------+-----------------------------------------------------------------+------------------+
+| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All              |
+|                      | :ref:`Managing Workstations <managing_workstations_maturity_1>` |   #1 and #2      |
++----------------------+-----------------------------------------------------------------+------------------+
+| Account Security     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All User         |
+|                      |                                                                 | Recommendations  |
++----------------------+-----------------------------------------------------------------+------------------+
+| Backup & Recovery    | :ref:`Backups <backups_maturity_1>`                             | All              |
++----------------------+-----------------------------------------------------------------+------------------+
+| Incident Response    | Coming in Phase 2                                               | All              |
++----------------------+-----------------------------------------------------------------+------------------+
+| Cyber Education      | :ref:`Managing Staff <managing_staff_maturity_1>`               | All              |
++----------------------+-----------------------------------------------------------------+------------------+
 
 While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each exercise is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestions: set aside time to do one a week until you've got them all done; then they're easy to repeat.
 
 .. _maturity-1-maturity-election-priorities:
 
 |Maturity1| Maturity Election Priorities
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In addition to the above, you should be implementing some measures of particular importance to the election community:
 
@@ -69,7 +69,9 @@ In addition to the above, you should be implementing some measures of particular
 #.  Implement the :doc:`malicious domain blocking and reporting <../BPs/mdbr>` tool for free through the EI-ISAC.
 #.  A :doc:`removable media sanitization program <../BPs/removable_media>`.
 #.  Establish a baseline incident response and recovery program (best practice coming in phase 2).
-..  #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
+
+..
+    #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
 
 |Maturity2| Maturity
 ***************************************
