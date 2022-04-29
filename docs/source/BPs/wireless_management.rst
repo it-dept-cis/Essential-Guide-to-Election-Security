@@ -44,13 +44,9 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 #. Don't permit visitors to use your primary wireless network. Instead set up a separate network or enable a guest network.
 #. Carefully decide whether a new device will be allowed on the network; you don't need to permit every new device onto the network.
 #. Keep firmware and software up to date by including your router and other access points in your :doc:`patching <software_updates>` schedule.
-#. Use :doc:`the encryption best practice <encryptdataatrest>` for all network traffic.
 #. Track what's on your network.
-#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater).
+#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater). All wireless access points owned and operated by the jurisdiction should utilize either WPA2 or WPA3 with a strong password.
 
-All wireless access points owned and operated by the jurisdiction should utilize either WPA2 or WPA3 with a strong password.
-
-Untrusted devices from users outside of your jurisdiction should not be provided access to the jurisdiction's primary wireless network. If they are not part of your team, they should not be on the same wireless network as jurisdiction equipment. A guest network should be used to enforce separation.
 
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
