@@ -81,4 +81,4 @@ In addition to the above, you should be implementing some measures of particular
 |Maturity3| Maturity
 ***************************************
 
-NOTE: |Maturity2| prioritization will be developed using the Community Defense Model. We anticipate having this implemented before the formal launch of the Guide this summer.
+    NOTE: |Maturity2| prioritization will be developed using the Community Defense Model. We anticipate having this implemented before the formal launch of the Guide this summer.
