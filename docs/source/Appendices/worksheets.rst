@@ -12,7 +12,7 @@ Completing these worksheets provides the :ref:`baseline priorities <maturity-1-m
 A organization at the |Maturity1| maturity will still want to complete the
 |Maturity1| :doc:`election priorities <maturity-1-maturity-election-priorities>`.
 
-Each worksheet in the set is described below. Download the full set of worksheets in :download:`xlsx <../_downloads/EGES_level_1_baseline_wksts.xlsx>`_.
+Each worksheet in the set is described below. Download the full set of worksheets in :download:`xlsx <../_downloads/EGES_level_1_baseline_wksts.xlsx>`.
 
 IT Inventory Worksheets
 ----------------------------------------------
