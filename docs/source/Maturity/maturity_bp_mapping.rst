@@ -41,8 +41,8 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 | Inventory            |                                                                 |                  |
 | Account Inventory    |                                                                 |                  |
 +----------------------+-----------------------------------------------------------------+------------------+
-| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All              |
-|                      | :ref:`Managing Workstations <managing_workstations_maturity_1>` |   #1 and #2      |
+| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>` & | All              |
+|                      | :ref:`Managing Workstations <managing_workstations_maturity_1>` | #1 and #2        |
 +----------------------+-----------------------------------------------------------------+------------------+
 | Account Security     | :ref:`Encrypt Data At Rest <encrypt_data_at_rest_maturity_1>`   | All User         |
 |                      |                                                                 | Recommendations  |
