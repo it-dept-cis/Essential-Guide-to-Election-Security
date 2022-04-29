@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Managing Wireless Networks
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Wireless networks are a critical piece of modern connectivity. In the election environment, some systems, like voting machines, are never connected to a wireless network. Others, like e-pollbooks, often have to be to on a wireless network to properly update voter rolls. Some jurisdictions may even use wireless networks to transmit election results on election night.
@@ -30,46 +30,40 @@ Mappings to CIS Controls and Safeguards
 Actions
 **********************************************
 
+For |bp_title|, the necessary actions vary by maturity as detailed below.
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 For those organizations operating at a |Maturity1| maturity, the important thing is to keep it simple. Avoid using wireless in risky scenarios, such as transmitting election results without the technical support of a state agency or other technical body providing guidance.
 
-#. Leverage the Advanced Encryption Standard (AES) to Encrypt Wireless Data
-#. Create Separate Wireless Network for Personal and Untrusted Devices
-
-|Maturity2| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-With at least some technical staff, you can
-
-#. Disable Wireless Access on Devices if Not Required
-#. Maintain an Inventory of Authorized Wireless Access Points
-#. Detect Wireless Access Points Connected to the Wired Network
-#. Disable Peer-to-Peer Wireless Network Capabilities on Wireless Clients
-#. Disable Wireless Peripheral Access of Devices
-
-|Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-At the Adaptive maturity, you should be
-
-#. Limit Wireless Access on Client Devices
-#. Use a Wireless Intrusion Detection System
-#. Use Wireless Authentication Protocols that Require Mutual, Multi-Factor Authentication
-
-
-
-For |bp_title|, the necessary actions are the same for all maturity levels.
-
+#. Leverage the advanced encryption standard (AES) to encrypt wireless data.
+#. Create separate wireless network for personal and untrusted devices.
 #. Change administrator passwords on routers and other wireless access points to a secure passphrase.
 #. Change the default access passphrase for wireless networks regularly, or enable user level authentication for private networks.
 #. Don't permit visitors to use your primary wireless network. Instead set up a separate network or enable a guest network.
 #. Carefully decide whether a new device will be allowed on the network; you don't need to permit every new device onto the network.
-#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching` schedule.
-#. Use :doc:`encryption` for all network traffic.
+#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching <software_updates>` schedule.
 #. Track what's on your network.
-#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater).
+#. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (WPA2) Enterprise or greater). All wireless access points owned and operated by the jurisdiction should utilize either WPA2 or WPA3 with a strong password.
+
+
+|Maturity2| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+In addition to those actions for the |Maturity1| maturity, with at least some technical staff, you should:
+
+#. Maintain an inventory of authorized wireless access points to ensure rogue ones are not introduced.
+#. Disable wireless access on devices if the device does not require access.
+#. Disable peer-to-peer wireless network capabilities on wireless clients to prevent communication between devices that is not visible on the wireless network.
+
+|Maturity3| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+At the |Maturity3| maturity, you should do all of the above and:
+
+#. Use wireless authentication protocols that require mutual, multi-factor authentication.
+#. Detect wireless access points connected to the wired network.
 
 Cost-Effective Tools
 **********************************************

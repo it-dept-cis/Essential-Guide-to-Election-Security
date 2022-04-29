@@ -31,8 +31,8 @@ Understand:
 Mappings to CIS Controls and Safeguards
 **********************************************
 
-- [#.#] [title of control]
-- [#.#] [title of control]
+* [title of control]
+* [#.#] [title of control]
 
 Actions
 **********************************************

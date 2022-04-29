@@ -20,8 +20,8 @@ The MS-ISAC regularly disseminates _`Cybersecurity Advisories <https://www.cisec
 Goals
 **********************************************
 
-#.      Understand the importance of patching and how patching schedules work
-#.      Know which of your systems should have timely patching and which need additional approvals
+#. Understand the importance of patching and how patching schedules work
+#. Know which of your systems should have timely patching and which need additional approvals
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -38,9 +38,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#.  Verify that all software used in the office is supported an active development company.
-#.  Begin patching all operating systems on a regular timetable.
-#.  Begin patching all software applications on a regular timetable.
+#. Verify that all software used in the office is supported an active development company.
+#. Begin patching all operating systems on a regular timetable.
+#. Begin patching all software applications on a regular timetable.
 
 At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and consistent manner.
 
