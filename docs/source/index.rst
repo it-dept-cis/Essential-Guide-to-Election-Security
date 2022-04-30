@@ -12,48 +12,48 @@ CIS's Essential Guide for Election Security
    :maxdepth: 1
    :caption: Maturity
 
-   Maturity/maturities
-   Maturity/determine_maturity
-   Maturity/maturity_bp_mapping
+   maturity/maturities
+   maturity/determine_maturity
+   maturity/maturity_bp_mapping
 
 .. toctree::
    :maxdepth: 1
    :caption: Best Practices
 
-   BPs/bp_intro
-   BPs/bp_index
-   BPs/asset_management
-   BPs/backups
-   BPs/cis_controls
-   BPs/encrypt_data_at_rest
-   BPs/endpoint_protection
-   BPs/exercising_plans
-   BPs/firewalls_ports
-   BPs/formal_assessment
-   BPs/join_ei_isac
-   BPs/manage_remote_connections
-   BPs/managing_staff
-   BPs/managing_vendors
-   BPs/managing_workstations
-   BPs/mdbr
-   BPs/mdm_info
-   BPs/network_monitoring
-   BPs/public_asset_scanning
-   BPs/removable_media
-   BPs/software_updates
-   BPs/user_management
-   BPs/websites
-   BPs/wireless_management
-   BPs/working_with_IT
+   bp/bp_intro
+   bp/bp_index
+   bp/asset_management
+   bp/backups
+   bp/cis_controls
+   bp/encrypt_data_at_rest
+   bp/endpoint_protection
+   bp/exercising_plans
+   bp/firewalls_ports
+   bp/formal_assessment
+   bp/join_ei_isac
+   bp/manage_remote_connections
+   bp/managing_staff
+   bp/managing_vendors
+   bp/managing_workstations
+   bp/mdbr
+   bp/mdm_info
+   bp/network_monitoring
+   bp/public_asset_scanning
+   bp/removable_media
+   bp/software_updates
+   bp/user_management
+   bp/websites
+   bp/wireless_management
+   bp/working_with_IT
 
 .. toctree::
    :maxdepth: 1
    :caption: Appendices
 
-   Appendices/appendix_index
-   Appendices/how_to_guide
-   Appendices/acronyms
-   Appendices/worksheets
+   appendices/appendix_index
+   appendices/how_to_guide
+   appendices/acronyms
+   appendices/worksheets
 
 .. toctree::
    :maxdepth: 1
