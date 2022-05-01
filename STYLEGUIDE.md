@@ -1,16 +1,26 @@
 # Essential Guide to Election Security Style Guide
 
-The Essential Guide to Election Security&ndash;referred to here as the Guide&ndash;is developed on GitHub and published on [Read The Docs](https://readthedocs.org).
+The Essential Guide to Election Security&ndash;referred to here as the Guide&ndash;is developed on GitHub and published on [Read The Docs](https://readthedocs.org). Each section deals with a specific type of file, but all files within the repository should:
+
+* Have an encoding of UTF-8.
+* Have line endings of LF (as opposed to CRLF).
+* Have trailing white space removed from the end of lines.
+* End with a blank line.
+* Use spaces instead of tabs (NB: see the file-type specific section for how many spaces should be used for indentations).
 
 ## ReST Files
 
 ReStructuredText does allow for some variability in how certain content is rendered. To mitigate any consistency issues, please follow the these conventions when developing content for the guide.
 
+### Indentation
+
+Unless otherwise necessary for white-space-specific strutural reasons, indentation should be two spaces.
+
 ### Lists
 
 #### Unordered lists
 
-Unordered lists can be generated with hyphens (-), addition sign (+), and asterisks (\*). For the Guide, please only use asterisks.
+Unordered lists can be generated with hyphens (-), addition sign (+), and asterisks (\*). For the Guide, please only use asterisks. There should only be a single space between the list character (i.e., asterisk) and the list item content.
 
 ##### Correct
 
@@ -40,6 +50,14 @@ The following list uses hyphens instead of asterisks.
 - List item 1
 - List item 2
 - List item 3
+```
+
+The list item content is separated by two spaces from the list character.
+
+```rst
+*  List item 1
+*  List item 2
+*  List item 3
 ```
 
 The inner list below would render as a blockquote containing a list instead of the intended sublist.
@@ -86,6 +104,14 @@ The following list uses explicit numbers instead of the auto-numbering method an
 1. List item 1
 2. List item 2
 3. List item 3
+```
+
+The list item content is separated by two spaces from the list characters (i.e., the hash and period)..
+
+```rst
+#.  List item 1
+#.  List item 2
+#.  List item 3
 ```
 
 Similar to the incorrect unordered list example, the inner list below would render as a blockquote containing a list, but it would also have the additional unintended side effect of breaking the numbering sequence (i.e., "List item 3" would be preceded by a "1.").
