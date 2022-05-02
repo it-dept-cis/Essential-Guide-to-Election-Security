@@ -26,7 +26,10 @@ Acronyms
 
    CISA
      Cybersecurity and Infrastructure Security Agency
-  
+
+   DNS
+     Domain name system
+
    DVD-R
      Digital Video Disc Read-only
 
@@ -54,14 +57,17 @@ Acronyms
    IT
      Information Technology
 
+   MDBR
+     :term:`Malicious Domain Blocking and Reporting <malicious domain blocking and reporting>`
+
    MDM
      Mobile Device Management OR
 
      Mis-, Dis-, and Mal-Information; see also :term:`MDMinfo`
-  
+
    MDMinfo
      Mis-, Dis-, and Mal-information; see also :term:`MDM`
- 
+
    MFA
      multi-factor authentication
 

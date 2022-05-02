@@ -4,6 +4,11 @@
 
 .. |bp_title| replace:: Join the EI-ISAC
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
 |bp_title|
 ----------------------------------------------
 

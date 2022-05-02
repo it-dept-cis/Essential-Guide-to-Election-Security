@@ -27,7 +27,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | backups                          | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| cis_controls                     | JTAG buildout               |
+| cis_controls                     | complete in phase 2         |
 +----------------------------------+-----------------------------+
 | encrypt_data_at_rest             | Soft launch ready           |
 +----------------------------------+-----------------------------+
@@ -45,29 +45,31 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | managing_staff                   | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_vendors                 | draft 4/16                  |
+| managing_vendors                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_workstations            | draft 4/16                  |
+| managing_workstations            | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| mdbr                             | CIS team review             |
+| mdbr                             | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| mdm_info                         | CIS team review             |
+| mdm_info                         | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| network_monitoring               | CIS team review             |
+| network_monitoring               | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| public_asset_scanning            | CIS team review             |
+| public_asset_scanning            | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| removable_media                  | CIS team review             |
+| removable_media                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| software_updates                 | JTAG rework. Pls review     |
+| software_updates                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| user_management                  | CIS team review             |
+| user_management                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| websites                         | JTAG rework. Pls review     |
+| websites                         | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| wireless_management              | draft 4/16                  |
+| wireless_management              | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | working_with_IT                  | phase 2                     |
++----------------------------------+-----------------------------+
+| addressing_physical_threats      | phase 2                     |
 +----------------------------------+-----------------------------+
 
 -----------------------------------------------

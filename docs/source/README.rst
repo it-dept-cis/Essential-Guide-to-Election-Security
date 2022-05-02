@@ -12,6 +12,28 @@
 
     We welcome feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
 
+.. tip:: As this is a soft launch version, there are some known issues:
+
+   * Best practices are alphabetical. For |Maturity1| maturity, we have a prioritization in :doc:`Maturity by BP Mapping </maturity/maturity_bp_mapping>`. For the other maturities, we'll prioritize using the `Community Defense Model <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_, but we're still working on that.
+   * Some downloadable worksheets are still under construction, so you may get an error on a download.
+   * Some graphics currently only render well in light mode or dark mode, but not both.
+   * Some mappings to CIS Controls are still missing.
+   * Mappings to the best practices in CIS's `Handbook for Election Infrastructure Security <https://www.cisecurity.org/wp-content/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf>`_ aren't yet completed.
+   * Only phase 1 best practices are done. :doc:`BP Index </bp/bp_index>` lists the current best practices and, at the bottom of the list, those we're still working on.
+
+.. important:: We're looking for any and all feedback on this guide, but would greatly appreciate any of the following:
+
+   * Best practices that we're missing. See :doc:`BP Index </bp/bp_index>` for the current best practices and, at the bottom of the list, those we're still working on.
+   * Additional actions within any given best practice.
+   * Additional tools we should know about and include.
+   * Feedback on readability, especially for Maturity 1.
+   * Great names for our three maturity levels.
+   * Spots where graphics would help.
+
+   Send any feedback to |eges_email|. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over v:latest). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
+
+   Thank you!
+
 The Essential Guide to Election Security
 ===============================================
 
@@ -33,7 +55,7 @@ You might be reading this online. Or you might be reading a PDF. If the latter, 
 
 CIS published The Handbook for Election Infrastructure Security in early 2018, just before the `Election Infrastructure Information Sharing and Analysis Center <bp/join_ei_isac.rst>`_ (EI-ISAC) launch.
 
-In 2021, CIS began working with the election community to update that Handbook. A common item of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
+In 2021, the EI-ISAC began working with the election community to update that Handbook. A common item of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
 
 Creating an updated version of that Handbook would've left us in the same position: the pace of new best practices and services available to secure election infrastructure is too rapid to rely on a static model for communicating them to election officials.
 
@@ -78,7 +100,7 @@ A Little Encouragement Before You Start
 
 Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 
-Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be empowered to reach out to the CIS elections, the CIS elections team, and trusted partners and peers at the Federal, State and Local levels for guidance and support.
+Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be empowered to reach out to the EI-ISAC elections team at |eiisac_email| and trusted partners and peers at the Federal, State and Local levels for guidance and support.
 
 ---------------
 

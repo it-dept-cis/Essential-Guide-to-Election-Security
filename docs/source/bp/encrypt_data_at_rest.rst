@@ -4,6 +4,11 @@
 
 .. |bp_title| replace:: Encrypt Data at Rest
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
 |bp_title|
 ----------------------------------------------
 

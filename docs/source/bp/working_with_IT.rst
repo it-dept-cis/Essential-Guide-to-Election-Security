@@ -9,7 +9,7 @@
 
    Draft
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 [2-3 sentence description/rationale]

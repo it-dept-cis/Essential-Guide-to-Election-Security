@@ -4,7 +4,12 @@
 
 .. |bp_title| replace:: Firewalls and Port Restrictions
 
-*Best Practice:* |bp_title|
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
+|bp_title|
 ----------------------------------------------
 
 Firewalls are an important part of cyber defense. You can set policies to manage firewalls to prevent unwanted behavior and reduce the risk of successful attack. On the other hand, a poorly protected firewall or bad configuration decisions can give threat actors an opportunity to gain access to private assets and resources.

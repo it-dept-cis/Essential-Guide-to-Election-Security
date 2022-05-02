@@ -10,7 +10,7 @@ The Purpose of Maturities
 
 Not all election offices have the same experience, resources, or needs. States and territories vary from a few thousand residents to tens of millions, counties and municipalities from a few dozen residents to more than 10 million. The differences in populations served result in widely varying tax bases, staffing levels, number and type of IT and physical assets, and more. Correspondingly, different election offices will implement different best practices at different times.
 
-While an election office should implement best practices that best fit its needs, establishing maturities provides rough contours around these differences. By defining maturities, CIS can provide a starting point that any given office can implement or use to tailor its approach.
+While an election office should implement best practices that best fit its needs, establishing maturities provides rough contours around these differences. By defining maturities, the EI-ISAC can provide a starting point that any given office can implement or use to tailor its approach.
 
 Maturities in the Essential Guide
 ********************************************
