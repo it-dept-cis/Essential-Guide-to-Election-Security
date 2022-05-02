@@ -16,7 +16,7 @@ Some of the most commonly exploited vulnerabilities are those that take place wh
 
 To reduce this risk, you both need strong protections on every user account and limitations on the amount of damage that can be done when a single user account goes bad.
 
-#. Passwords: Like it or not, passwords are a reality of online life and will be for some time to come. They are also common vector of attack by adversaries. You can't have good user management without good password policies.
+#. Passwords: Like it or not, passwords are a reality of online life and will be for some time to come. They are also common vector of attack by threat actors. You can't have good user management without good password policies.
 #. Multi-factor authentication (:term:`MFA`): The best way to address weaknesses in :term:`authentication` is to have the right MFA requirements in place.
 #. User accounts: How you manage user accounts--creating, managing, tracking, and deleting--can have a huge impact on your overall cybersecurity posture.
 
@@ -73,7 +73,7 @@ Organizational Recommendations
 #. Complete all of the actions for the |Maturity1| maturity.
 #. Review :term:`MS-ISAC’s <MS-ISAC>` Security Primers on Exposed Credentials and Securing Login Credentials, as well as the United States Computer Emergency Readiness Team’s (:term:`US-CERT's <US-CERT>`) Security Tip on Choosing and Protecting Passwords.
 #. The :term:`EI-ISAC` regularly monitors the Internet for stolen credentials using open source datasets from various security organizations and researchers, as well as information received from trusted partners. To subscribe to this service, simply provide your IP addresses and domains to |soc_email|.
-#. Use services to search for breaches of your users' email addresses and passwords. 
+#. Use services to search for breaches of your users' email addresses and passwords.
 
 Learn More
 **********************************************

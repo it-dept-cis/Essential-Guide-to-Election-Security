@@ -12,7 +12,7 @@
 |bp_title|
 ----------------------------------------------
 
-All code needs to be tested for flaws, and given the types of attacks that work on a given type of code change as adversaries develop new techniques, deployed code needs to be tested regularly for known vulnerabilities.
+All code needs to be tested for flaws, and given the types of attacks that work on a given type of code change as threat actors develop new techniques, deployed code needs to be tested regularly for known vulnerabilities.
 
 For public-facing assets, various types of scanning can find known vulnerabilities and provide reports that prioritize them based on standardized severities. These scanning tools are automated and can run regularly to always keep you informed of your progress and any new issues due to changes you make or the evolving threat environment.
 

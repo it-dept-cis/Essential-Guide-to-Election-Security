@@ -7,6 +7,12 @@ The Essential Guide to Election Security&ndash;referred to here as the Guide&nda
 * Have trailing white space removed from the end of lines.
 * End with a blank line.
 * Use spaces instead of tabs (NB: see the file-type specific section for how many spaces should be used for indentations).
+* End lines with punctuation. Typically this is a '.' unless preceding a list, when it is a ':'.
+
+## Terminology
+
+* Unless grammatically problematic, use 'actor' or 'threat actor' rather than 'attacker' or 'adversary'.
+* Unless factually problematic, use EI-ISAC rather than CIS when referring to what 'we' do.
 
 ## ReST Files
 

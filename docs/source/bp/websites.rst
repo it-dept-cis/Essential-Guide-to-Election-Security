@@ -33,9 +33,9 @@ HTTPS is the norm across the internet. Major web browsers label websites that do
 About denial of service attacks
 ```````````````````````````````
 
-A denial of service attack (DoS) seeks to disrupt the availability of a system or service. Additionally, attackers may use multiple source computers in a distributed denial of service (DDoS) attack.
+A denial of service attack (DoS) seeks to disrupt the availability of a system or service. Additionally, threat actors may use multiple source computers in a distributed denial of service (DDoS) attack.
 
-Typically, these attacks target webservers in order to overwhelm the webserver’s internet connection or its ability to respond to user requests. If the attacker can send more requests than permitted by the system, the webserver or internet connection will be too busy to respond to additional requests, resulting in a “denial of service” to legitimate users. Of note, computers participating in a DDoS attack may be infected with malware that conducts the attack, which means they are also victims of malicious activity.
+Typically, these attacks target webservers in order to overwhelm the webserver’s internet connection or its ability to respond to user requests. If the threat actors can send more requests than permitted by the system, the webserver or internet connection will be too busy to respond to additional requests, resulting in a “denial of service” to legitimate users. Of note, computers participating in a DDoS attack may be infected with malware that conducts the attack, which means they are also victims of malicious activity.
 
 Recognizing typosquatting
 `````````````````````````
