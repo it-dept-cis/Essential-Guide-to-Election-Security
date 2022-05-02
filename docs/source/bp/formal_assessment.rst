@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 A security assessment is a thorough, proactive study of an organization’s systems that helps identify security challenges and implement solutions. It is a benefit to election offices as they can use assessments to prevent cyberattacks, meet national standards, and gain voter trust.
