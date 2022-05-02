@@ -97,7 +97,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 Cost-Effective Tools
 --------------------
 
-* `DotGov.gov <https://dotgov.gov`_: The government portal to obtain and manage a .gov domain.
+* `DotGov.gov <https://dotgov.gov>`_: The government portal to obtain and manage a .gov domain.
 * `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_
 * `Cloudflare <https://www.cloudflare.com/athenian/>`_
 * `Google <https://projectshield.withgoogle.com/landing>`_

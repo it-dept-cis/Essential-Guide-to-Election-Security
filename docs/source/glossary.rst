@@ -33,5 +33,8 @@ Glossary
    misinformation
      tk
 
+   patching
+     tk
+
    ransomware
      tk

@@ -74,7 +74,7 @@ At the |Maturity2| maturity level, you should take the actions above as well as 
    * Think before you share; disinformation is designed to evoke an emotional response.
    * Talk with your circle about the risks of spreading disinformation.
 
-#. Review the Harvard Kennedy School’s Belfer Center publication, “`The Election Influence Operations Playbook <https://www.belfercenter.org/publication/election-influence-operations-playbook-part-1`_” for a deeper understanding of these issues and response guidance.
+#. Review the Harvard Kennedy School’s Belfer Center publication, “`The Election Influence Operations Playbook <https://www.belfercenter.org/publication/election-influence-operations-playbook-part-1>`_” for a deeper understanding of these issues and response guidance.
 #. Establish a mechanism for the public to report disinformation and misinformation to your office, such as an email or phone number.
 
 |Maturity3| Maturity
@@ -91,6 +91,6 @@ Cost-Effective Tools
 **********************************************
 
 * `Election Tools Checklist for combating election misinformation <https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/>`_: A framework to help election departments respond to influence operations.
-* `CISA Rumor Control Page <https://www.cisa.gov/rumorcontrol`_: This page offers the public accurate and authoritative sources of information that will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives.
+* `CISA Rumor Control Page <https://www.cisa.gov/rumorcontrol>`_: This page offers the public accurate and authoritative sources of information that will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives.
 
 ----------------------------------

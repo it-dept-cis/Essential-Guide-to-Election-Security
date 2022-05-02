@@ -19,11 +19,11 @@
    * Some graphics currently only render well in light mode or dark mode, but not both.
    * Some mappings to CIS Controls are still missing.
    * Mappings to the best practices in CIS's `Handbook for Election Infrastructure Security <https://www.cisecurity.org/wp-content/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf>`_ aren't yet completed.
-   * Only phase 1 best practices are done. :doc:`BP Index </bps/bp_index>` lists the current best practices and, at the bottom of the list, those we're still working on.
+   * Only phase 1 best practices are done. :doc:`BP Index </bp/bp_index>` lists the current best practices and, at the bottom of the list, those we're still working on.
 
 .. important:: We're looking for any and all feedback on this guide, but would greatly appreciate any of the following:
 
-   * Best practices that we're missing. See :doc:`BP Index </bps/bp_index>` for the current best practices and, at the bottom of the list, those we're still working on.
+   * Best practices that we're missing. See :doc:`BP Index </bp/bp_index>` for the current best practices and, at the bottom of the list, those we're still working on.
    * Additional actions within any given best practice.
    * Additional tools we should know about and include.
    * Feedback on readability, especially for Maturity 1.

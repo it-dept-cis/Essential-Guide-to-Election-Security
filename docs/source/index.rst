@@ -1,5 +1,5 @@
 The EI-ISAC's Essential Guide for Election Security
-===========================================
+===================================================
 
 .. toctree::
    :maxdepth: 1
@@ -44,7 +44,8 @@ The EI-ISAC's Essential Guide for Election Security
    bp/user_management
    bp/websites
    bp/wireless_management
-   .. bp/working_with_IT
+
+.. bp/working_with_IT
 
 .. toctree::
    :maxdepth: 1
