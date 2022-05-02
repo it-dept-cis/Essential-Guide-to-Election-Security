@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Asset Management
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Without a clear understanding of what computers and other technology you must protect, you’ll have a hard time ensuring everything you own is properly secured.
