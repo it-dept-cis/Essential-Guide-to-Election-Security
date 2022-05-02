@@ -47,10 +47,14 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.autosectionlabel',
     #'sphinx.ext.imgconverter',
-    'recommonmark',
+    # 'recommonmark',
     #'sphinx_markdown_tables',
-    'sphinx_last_updated_by_git'
+    'sphinx_last_updated_by_git',
+    'myst_parser',
 ]
+
+# Config for sphinx.ext.autosectionlabel
+autosectionlabel_prefix_document = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -58,11 +62,11 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.txt': 'markdown',
-    '.md': 'markdown',
-}
+#source_suffix = {
+#    '.rst': 'restructuredtext',
+#    '.txt': 'markdown',
+#    '.md': 'markdown',
+#}
 
 # The encoding of source files.
 #

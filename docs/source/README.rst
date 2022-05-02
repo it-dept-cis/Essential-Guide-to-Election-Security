@@ -3,9 +3,12 @@
   On: 1/25/2022
   To: Serve as the landing page for the EGES
 
-**SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
+.. admonition:: Status
+   :class: caution
 
-    NOTE: This is a pre-release, draft version of this Guide. We're calling it a soft launch, but it's more of an 'open review period.'
+   **SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
+
+.. note:: This is a pre-release, draft version of this Guide. We're calling it a soft launch, but it's more of an 'open review period.'
 
     We welcome feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
 
@@ -21,12 +24,14 @@ When the Handbook was published in 2018, election officials had much less guidan
 
 This Guide considers the wide range of technical capabilities and resource availability among the many thousands of election offices in the United States. While providing guidance for all organizational maturities, it emphasizes designing guidance for small jurisdictions without extensive cybersecurity resources available to them. The most important practices are included for those jurisdictions, with opportunities to ramp up as they mature.
 
+.. _why-does-this-guide-look-like-a-webpage:
+
 Why does this Guide look like a webpage? (Or does it??)
-----------------------------------------------
+-------------------------------------------------------
 
 You might be reading this online. Or you might be reading a PDF. If the latter, it's because your PDF was built from an online version. Here's why we're keeping all of the content for the Guide online:
 
-CIS published The Handbook for Election Infrastructure Security in early 2018, just before the `Election Infrastructure Information Sharing and Analysis Center <BPs/join_ei_isac.rst>`_ (EI-ISAC) launch.
+CIS published The Handbook for Election Infrastructure Security in early 2018, just before the `Election Infrastructure Information Sharing and Analysis Center <bp/join_ei_isac.rst>`_ (EI-ISAC) launch.
 
 In 2021, CIS began working with the election community to update that Handbook. A common item of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
 
@@ -54,11 +59,11 @@ How do I use this Guide?
 The Guide is organized into several sections:
 
 #. An introduction,
-#. A description of :doc:`maturities <Maturity/maturities>` and how they are used in the document,
-#. A set of :doc:`best practices <BPs/bp_intro>` for organizations to implement, and
+#. A description of :doc:`maturities <maturity/maturities>` and how they are used in the document,
+#. A set of :doc:`best practices <bp/bp_intro>` for organizations to implement, and
 #. Additional references, tools, and related information.
 
-You can get more detailed information the Essential Guide in our :doc:`how to <Appendices/how_to_guide>`.
+You can get more detailed information the Essential Guide in our :doc:`how to <appendices/how_to_guide>`.
 
 Identifying Your Organization's Security Lead
 --------------------------------------------------------
