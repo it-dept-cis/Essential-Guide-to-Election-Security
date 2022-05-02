@@ -4,6 +4,10 @@
 
 Doc explainer for those that stumble on the repo goes here
 
+## Contributing
+
+Before contributing to the EGES, please read the [style guide](STYLEGUIDE.md).
+
 ## Installation
 
 ### Prerequisites
