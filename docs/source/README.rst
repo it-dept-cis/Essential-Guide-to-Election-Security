@@ -30,7 +30,9 @@
    * Great names for our three maturity levels.
    * Spots where graphics would help.
 
-   Send any feedback to |eges_email|. And thank you!
+   Send any feedback to |eges_email|. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over v:latest). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
+
+   Thank you!
 
 The Essential Guide to Election Security
 ===============================================
