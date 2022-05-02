@@ -70,7 +70,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 
 #. Stop DOS attacks by using no-cost tools
 
-   * Tool include those from from _`Cloudflare <https://www.cloudflare.com/athenian/>` and _`Google <https://projectshield.withgoogle.com/landing>` will mitigate instances of these attacks.
+   * Tools include those from from _`Cloudflare <https://www.cloudflare.com/athenian/>` and _`Google <https://projectshield.withgoogle.com/landing>` will mitigate instances of these attacks.
    * Learn more through the EI-ISAC's _`Guide to DDoS Attacks <https://www.cisecurity.org/insights/white-papers/technical-white-paper-guide-to-ddos-attacks>`.
 
 #. Reduce the risk of typosquatting by
