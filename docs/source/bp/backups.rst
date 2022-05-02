@@ -6,7 +6,7 @@
 
 .. |bp_title| replace:: Backups
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Backups are necessary due to the constant threat of modification or erasure of data due to accidental deletions, :term:`malware` (including :term:`ransomware`), natural disasters, or other events. Good backup practices are especially important during critical points of operational cycles, like the beginning of early voting.
