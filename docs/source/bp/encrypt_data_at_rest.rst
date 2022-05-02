@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Encrypt Data at Rest
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Any data stored on a computer system that is not being actively transferred can be referred to "data at rest." This includes data residing on HDDs, SSDs, USB sticks, and even third party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach.
