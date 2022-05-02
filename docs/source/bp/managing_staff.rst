@@ -36,7 +36,7 @@ Actions
 For |bp_title|, the necessary actions are the same for all maturity levels.
 
 #. Conduct at least a national agency check for any hires. Your state or county may have other background check options for you.
-#. Provide security awareness training for all staff. Leadership should
+#. Provide security awareness training for all staff.
 #. Track training either through a human resources portal or manually through a :download:`worksheet <training_tracker.xls>`
 #. Implement actions for proper logical access in :doc:`User Management <user_management>`
 #. Implement actions for proper system configuration in :doc:`Managing Workstations <managing_workstations>`
