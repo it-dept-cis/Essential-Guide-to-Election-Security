@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Exercising Plans
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Exercising plans before incidents occur is almost as important as having plans in the first place. Virtual any type of plan can be exercised, including around network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
