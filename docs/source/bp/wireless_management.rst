@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Managing Wireless Networks
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Wireless networks are a critical piece of modern connectivity. In the election environment, some systems, like voting machines, are never connected to a wireless network. Others, like e-pollbooks, often have to be to on a wireless network to properly update voter rolls. Some jurisdictions may even use wireless networks to transmit election results on election night.
