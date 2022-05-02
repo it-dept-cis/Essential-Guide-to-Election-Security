@@ -45,6 +45,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 At |Maturity1| maturity, simple steps can help you manage MDMinfo and address it when it occurs.
 
+Preparing for Mis-, Dis-, and Malinformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 #. Set up multi-factor authentication to protect social media accounts from compromise.
 #. Use public forums to actively counter disinformation and misinformation.
 #. Regularly publish official messaging about the state of your election infrastructure, responding with accurate information as quickly as possible. This rapid response is even more important as an election nears.
@@ -53,7 +56,7 @@ At |Maturity1| maturity, simple steps can help you manage MDMinfo and address it
 Remediating Disinformation and Misinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Track important information by, for instance, following your county name and the names of your eleciton official and other public figures.
+#. Track important information by, for instance, following your county name and the names of your election official and other public figures.
 #. Election officials can report identified disinformation and misinformation to misinformation@cisecurity.org. Include the following information:
 
    * A screenshot of the social media post and, if possible, the URL.

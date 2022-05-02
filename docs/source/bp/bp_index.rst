@@ -44,6 +44,7 @@ Index of Best Practices
 | manage_remote_connections        | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | managing_staff                   | Soft launch ready           |
+|                                  | Add training in phase 2     |
 +----------------------------------+-----------------------------+
 | managing_vendors                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
