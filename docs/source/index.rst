@@ -1,4 +1,4 @@
-CIS's Essential Guide for Election Security
+The EI-ISAC's Essential Guide for Election Security
 ===========================================
 
 .. toctree::

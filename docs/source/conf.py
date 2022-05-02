@@ -171,7 +171,7 @@ html_theme_options = {
 # "<project> v<release> documentation" by default.
 #
 
-html_title = 'CIS Essential Guide to Election Security'
+html_title = 'EI-ISAC Essential Guide to Election Security'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #

@@ -9,12 +9,12 @@ Election offices operate in an environment heavy on information technology (:ter
 
 In early 2018, :term:`CIS`, with significant contributions from the election community, published its Handbook for Election Infrastructure Security, a guide to assist election offices in defending their IT systems from cybersecurity threat actors. It consisted of 88 best practices to mitigate risk across all types of election equipment.
 
-CIS received positive feedback from the election community on the Handbook's value. In the four years since then, several significant changes have occurred:
+The EI-ISAC received positive feedback from the election community on the Handbook's value. In the four years since then, several significant changes have occurred:
 
 
 #. The CIS Controls, on which many of the 88 best practices are based, underwent a major revision.
 #. The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the number of freely available tools and services for election offices across the country.
-#. Since releasing the Handbook, CIS has developed a series of `best practice guides <https://www.cisecurity.org/elections>`_ and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
+#. Since releasing the Handbook, the EI-ISAC has developed a series of `best practice guides <https://www.cisecurity.org/elections>`_ and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
 
     #. A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
     #. A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.

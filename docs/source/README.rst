@@ -53,7 +53,7 @@ You might be reading this online. Or you might be reading a PDF. If the latter, 
 
 CIS published The Handbook for Election Infrastructure Security in early 2018, just before the `Election Infrastructure Information Sharing and Analysis Center <bp/join_ei_isac.rst>`_ (EI-ISAC) launch.
 
-In 2021, CIS began working with the election community to update that Handbook. A common item of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
+In 2021, the EI-ISAC began working with the election community to update that Handbook. A common item of feedback we received was that the static nature of the Handbook meant it didn't include any of new and evolving the best practices that weren't already in place in early 2018.
 
 Creating an updated version of that Handbook would've left us in the same position: the pace of new best practices and services available to secure election infrastructure is too rapid to rely on a static model for communicating them to election officials.
 
@@ -98,7 +98,7 @@ A Little Encouragement Before You Start
 
 Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 
-Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be empowered to reach out to the CIS elections, the CIS elections team, and trusted partners and peers at the Federal, State and Local levels for guidance and support.
+Regardless of your current expertise level in this area, there is always capacity for growth, both in our own abilities and in the support of peers and colleagues. If you find yourself not understanding something, be empowered to reach out to the EI-ISAC elections team at |eiisac_email| and trusted partners and peers at the Federal, State and Local levels for guidance and support.
 
 ---------------
 

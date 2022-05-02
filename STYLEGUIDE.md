@@ -13,6 +13,7 @@ The Essential Guide to Election Security&ndash;referred to here as the Guide&nda
 
 * Unless grammatically problematic, use 'actor' or 'threat actor' rather than 'attacker' or 'adversary'.
 * Unless factually problematic, use EI-ISAC rather than CIS when referring to what 'we' do.
+* The singular possessive of CIS is CIS's.
 
 ## ReST Files
 
