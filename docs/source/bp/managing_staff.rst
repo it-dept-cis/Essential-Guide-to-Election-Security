@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Building and Managing Staff
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Cybersecurity is more than technology and processes. People are at the heart of any cybersecurity program. This means hiring people you can trust with the sensitive tasks they have to complete and giving them the tools they need to be successful.
