@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Implementing the CIS Controls
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 The CIS `Critical Security Controls™ <https://www.cisecurity.org/controls>`_ are a prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks.
