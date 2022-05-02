@@ -8,11 +8,7 @@
 
    **SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
 
-.. note:: This is a pre-release, draft version of this Guide. We're calling it a soft launch, but it's more of an 'open review period.'
-
-    We welcome feedback. It will be continually updated as we move toward a formal launch of the site in Summer 2022. Feel free to contact us at |eges_email|. Thank you!
-
-.. tip:: As this is a soft launch version, there are some known issues:
+.. note:: As this is a soft launch version, there are some known issues:
 
    * Best practices are alphabetical. For |Maturity1| maturity, we have a prioritization in :doc:`Maturity by BP Mapping </maturity/maturity_bp_mapping>`. For the other maturities, we'll prioritize using the `Community Defense Model <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_, but we're still working on that.
    * Some downloadable worksheets are still under construction, so you may get an error on a download.
