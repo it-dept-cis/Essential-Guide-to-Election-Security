@@ -44,7 +44,7 @@ CIS's Essential Guide for Election Security
    bp/user_management
    bp/websites
    bp/wireless_management
-   bp/working_with_IT
+   .. bp/working_with_IT
 
 .. toctree::
    :maxdepth: 1
