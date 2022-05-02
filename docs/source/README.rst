@@ -20,6 +20,7 @@
    * Some mappings to CIS Controls are still missing.
    * Mappings to the best practices in CIS's `Handbook for Election Infrastructure Security <https://www.cisecurity.org/wp-content/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf>`_ aren't yet completed.
    * Only phase 1 best practices are done. :doc:`BP Index </bp/bp_index>` lists the current best practices and, at the bottom of the list, those we're still working on.
+   * Some terms and acronyms aren't yet defined in the glossaries.
 
 .. important:: We're looking for any and all feedback on this guide, but would greatly appreciate any of the following:
 

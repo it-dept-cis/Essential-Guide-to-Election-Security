@@ -14,7 +14,10 @@
 
 An election office's website is often the first and most important source of information for voter, the media, and other interested parties. It is extremely important to have a secure website that prevents attacks, looks official, and provides critical information.
 
-This best practice covers five important topics about websites:
+Introduction
+------------
+
+This best practice covers five important topics about websites, as detailed below.
 
 The .gov top-level domain
 `````````````````````````
@@ -30,19 +33,19 @@ Hyper Text Transfer Protocol Secure (HTTPS) is an internet communication protoco
 
 HTTPS is the norm across the internet. Major web browsers label websites that do not use HTTPS as "not secure" and often require users to take additional steps to visit the site. Even if the site doesn't contain malicious content, this can dissuade people from trusting your official site.
 
-About denial of service attacks
+Denial of service attacks
 ```````````````````````````````
 
 A denial of service attack (DoS) seeks to disrupt the availability of a system or service. Additionally, threat actors may use multiple source computers in a distributed denial of service (DDoS) attack.
 
 Typically, these attacks target webservers in order to overwhelm the webserver’s internet connection or its ability to respond to user requests. If the threat actors can send more requests than permitted by the system, the webserver or internet connection will be too busy to respond to additional requests, resulting in a “denial of service” to legitimate users. Of note, computers participating in a DDoS attack may be infected with malware that conducts the attack, which means they are also victims of malicious activity.
 
-Recognizing typosquatting
+Typosquatting
 `````````````````````````
 
 Typosquatting attempts to take advantage of errors users might make when URLs are typed directly into the address bar. Similarly, malicious actors may seek to trick users into taking a quick glance at a URL into opening a visually similar yet malicious link.
 
-Understanding website defacements
+Website defacements
 `````````````````````````````````
 
 Website defacements are the unauthorized modification of web pages, including the addition, removal, or alteration of existing content. Websites that are unpatched or misconfigured are easily susceptible to simple probing tools used by these actors, which can lead to unauthorized access to websites.

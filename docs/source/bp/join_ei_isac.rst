@@ -14,13 +14,13 @@
 
 CIS and the EI-ISAC are available to provide a wide range of resources to support the cybersecurity needs of the election community. The EI-ISAC and Multi-State ISAC (:term:`MS-ISAC`) are supported by CISA, and all three provide tools, resources, and support to election officials.
 
+Membership in the EI-ISAC is open to all state, local, tribal, and territorial government organizations that support the election officials of the United States of America and associations thereof. It’s a free and voluntary membership for these eligible organizations.
+
 .. figure:: /_static/CISA-ISAC-ModelDRAFT.png
    :width: 90%
    :alt: Graphic showing the relationships between CISA, the MS-ISAC, and the EI-ISAC
 
    Relationship between CISA, the MS-ISAC, and the EI-ISAC
-
-Membership in the EI-ISAC is open to all state, local, tribal, and territorial government organizations that support the election officials of the United States of America and associations thereof. It’s a free and voluntary membership for these eligible organizations.
 
 The EI-ISAC provides access to valuable services to fulfill many of the best practices described elsewhere in this Guide. Some of them include:
 
