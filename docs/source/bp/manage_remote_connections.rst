@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Managing Remote Connections
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 Remote or traveling employees often require access to enterprise data while physically outside of the workplace. This can be accomplished via Virtual Private Networks (VPNs). Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship.
