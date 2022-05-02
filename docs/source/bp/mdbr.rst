@@ -20,7 +20,7 @@ Once an organization points its domain name system (:term:`DNS`) requests to the
    :width: 90%
    :alt: Graphic showing MDBR working in an election office environment
 
-   :term: MDBR  in an election office environment
+   :term:`MDBR` in an election office environment
 
 Goals
 **********************************************

@@ -57,6 +57,9 @@ Acronyms
    IT
      Information Technology
 
+   MDBR
+     :term:`Malicious Domain Blocking and Reporting <malicious domain blocking and reporting>`
+
    MDM
      Mobile Device Management OR
 
