@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Join the EI-ISAC
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 CIS and the EI-ISAC are available to provide a wide range of resources to support the cybersecurity needs of the election community. The EI-ISAC and Multi-State ISAC (:term:`MS-ISAC`) are supported by CISA, and all three provide tools, resources, and support to election officials.
