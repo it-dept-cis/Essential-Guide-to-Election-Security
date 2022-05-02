@@ -31,7 +31,10 @@
    * Great names for our three maturity levels.
    * Spots where graphics would help.
 
-   Send any feedback to |eges_email|. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over v:latest). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
+   Provide feedback 1 of 2 ways:
+
+   #. Send any feedback to |eges_email|. You can export a PDF (hover over "v:latest" in the bottom left and hit "PDF") and comments directly in it. You can also put feedback directly in the email.
+   #. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over "v:latest" and hit "view" under "On Github"). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
 
    Thank you!
 
