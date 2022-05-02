@@ -26,7 +26,10 @@ Acronyms
 
    CISA
      Cybersecurity and Infrastructure Security Agency
-  
+
+   DNS
+     Domain name system
+
    DVD-R
      Digital Video Disc Read-only
 
@@ -58,10 +61,10 @@ Acronyms
      Mobile Device Management OR
 
      Mis-, Dis-, and Mal-Information; see also :term:`MDMinfo`
-  
+
    MDMinfo
      Mis-, Dis-, and Mal-information; see also :term:`MDM`
- 
+
    MFA
      multi-factor authentication
 

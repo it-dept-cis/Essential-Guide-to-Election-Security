@@ -4,6 +4,11 @@
 
 .. |bp_title| replace:: Implementing the CIS Controls
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
 |bp_title|
 ----------------------------------------------
 

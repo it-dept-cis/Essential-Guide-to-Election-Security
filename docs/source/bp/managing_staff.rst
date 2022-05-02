@@ -4,6 +4,11 @@
 
 .. |bp_title| replace:: Building and Managing Staff
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
 |bp_title|
 ----------------------------------------------
 

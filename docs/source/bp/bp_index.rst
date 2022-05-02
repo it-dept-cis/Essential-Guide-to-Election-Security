@@ -45,11 +45,11 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | managing_staff                   | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_vendors                 | draft 4/16                  |
+| managing_vendors                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_workstations            | draft 4/16                  |
+| managing_workstations            | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| mdbr                             | CIS team review             |
+| mdbr                             | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | mdm_info                         | CIS team review             |
 +----------------------------------+-----------------------------+

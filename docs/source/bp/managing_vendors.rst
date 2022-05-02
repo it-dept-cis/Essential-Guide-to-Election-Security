@@ -7,19 +7,21 @@
 .. admonition:: Status
    :class: caution
 
-   Draft
+   Soft Launch Draft
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
-In nearly all election jurisdictions, many of the hardware, software, and services that underpin our elections—-from voter registration and election management systems to pollbooks and vote capture devices—-are procured from private vendors. Even simple public-facing websites may be procured and their security—or lack thereof—may have consequences on elections. The industry partners from which information technology (IT) is procured play a critical role in managing the security risks inherent in elections.
+In nearly all election jurisdictions, many of the hardware, software, and services that underpin our elections—from voter registration and election management systems to pollbooks and vote capture devices—are procured from private vendors.
+
+Even simple public-facing websites may be procured and their security—or lack thereof—may have consequences on elections. The industry partners from which :term:`IT` is procured play a critical role in managing the security risks inherent in elections.
 
 Understanding and properly managing security expectations in the procurement process can have a substantial impact on the success of the election process.
 
 Goals
 **********************************************
 
-#. Understand how to use procurements to achieve security goals.
+#. Understand how to use procurements to achieve security goals (|Maturity1| maturity)
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -32,20 +34,12 @@ Actions
 
 For |bp_title|, the necessary actions are the same for all maturity levels.
 
-**Actions**
-
-#. Use CIS's "`A Guide for Ensuring Security in Election Technology Procurements`_" to guide your procurements.
+#. Use CIS's `A Guide for Ensuring Security in Election Technology Procurements`_ to guide your procurements.
 
 Cost-Effective Tools
 **********************************************
 
-* CIS's "`A Guide for Ensuring Security in Election Technology Procurements`_"
-* [tool]: [description][(link)]
-
-Learn More
-**********************************************
-
-* [links to other random resources or knowledge or any relevant knowledge base entry]
+* CIS's `A Guide for Ensuring Security in Election Technology Procurements`_
 
 -----------------------------------------------
 
