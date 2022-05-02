@@ -51,21 +51,21 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | mdbr                             | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| mdm_info                         | CIS team review             |
+| mdm_info                         | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| network_monitoring               | CIS team review             |
+| network_monitoring               | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| public_asset_scanning            | CIS team review             |
+| public_asset_scanning            | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| removable_media                  | CIS team review             |
+| removable_media                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| software_updates                 | JTAG rework. Pls review     |
+| software_updates                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| user_management                  | CIS team review             |
+| user_management                  | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| websites                         | JTAG rework. Pls review     |
+| websites                         | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| wireless_management              | draft 4/16                  |
+| wireless_management              | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | working_with_IT                  | phase 2                     |
 +----------------------------------+-----------------------------+

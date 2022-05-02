@@ -4,6 +4,11 @@
 
 .. |bp_title| replace:: Managing Wireless Networks
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
+
 |bp_title|
 ----------------------------------------------
 
@@ -16,8 +21,9 @@ Good cybersecurity outcomes require proper management of the wireless networks a
 Goals
 **********************************************
 
-#. Understand situations where the use of wireless networks introduces additional risk.
-#. Understand how to protect wireless networks
+#. Protect all wireless networks with basic wireless security practices (|Maturity1| maturity)
+#. Deploy additional tools and measures to limit risk (|Maturity2| maturity)
+#. Deploy mutual MFA for wireless access (|Maturity3| maturity)
 
 Mappings to CIS Controls and Safeguards
 **********************************************
@@ -64,16 +70,5 @@ At the |Maturity3| maturity, you should do all of the above and:
 
 #. Use wireless authentication protocols that require mutual, multi-factor authentication.
 #. Detect wireless access points connected to the wired network.
-
-Cost-Effective Tools
-**********************************************
-
-* [tool]: [description][(link)]
-* [tool]: [description][(link)]
-
-Learn More
-**********************************************
-
-* [links to other random resources or knowledge or any relevant knowledge base entry]
 
 -----------------------------------------------
