@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Endpoint Protection
 
-*Best Practice:* |bp_title|
+|bp_title|
 ----------------------------------------------
 
 :term:`Endpoint protection` is security software that is deployed on workstations and servers, which are commonly referred to as “endpoints.” A common name for this is :term:`Endpoint Detection and Response`, or :term:`EDR`. EDR collects technical data from these endpoints and transmits it back to the vendor or a local server. The data is then analyzed for suspicious patterns and threats.
