@@ -105,4 +105,4 @@ Regardless of your current expertise level in this area, there is always capacit
 
 ---------------
 
-*This Guide was made possible through support from the Democracy Fund. It is the sole responsibility of CIS and may not reflect the views of its funders.*
+*This Guide was made possible through support from the Democracy Fund. The content of this Guide is the sole responsibility of CIS and may not reflect the views of its funders.*
