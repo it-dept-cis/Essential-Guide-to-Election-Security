@@ -7,7 +7,7 @@
 .. admonition:: Status
    :class: caution
 
-   Draft
+   Soft Launch Draft
 
 Appendix: Index of Appendices
 --------------------------------------

@@ -5,7 +5,7 @@
 .. admonition:: Status
    :class: caution
 
-   Draft
+   Soft Launch Draft
 
 Acronyms
 =========
