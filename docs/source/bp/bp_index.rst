@@ -4,6 +4,10 @@
   To: Serve as an index for all best practices in the EGES
   Last update by: mike garcia
 
+.. admonition:: Status
+   :class: caution
+
+   Soft Launch Draft
 
 Index of Best Practices
 -----------------------------------------------
@@ -31,7 +35,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | encrypt_data_at_rest             | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| endpoint_protection              | JTAG rework. Pls review     |
+| endpoint_protection              | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | exercising_plans                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
@@ -43,7 +47,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | manage_remote_connections        | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_staff                   | Soft launch ready           |
+| managing_staff                   | Soft launch ready.          |
 |                                  | Add training in phase 2     |
 +----------------------------------+-----------------------------+
 | managing_vendors                 | Soft launch ready           |

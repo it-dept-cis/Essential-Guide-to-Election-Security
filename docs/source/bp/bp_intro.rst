@@ -7,7 +7,7 @@
 .. admonition:: Status
    :class: caution
 
-   Draft
+   Soft Launch Draft
 
 Introduction to Best Practices
 ----------------------------------------------
