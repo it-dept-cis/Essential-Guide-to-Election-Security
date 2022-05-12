@@ -76,7 +76,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Essential Guide for Election Security'
+project = 'Essential Guide to Election Security'
 copyright = '{}, Center for Internet Security'.format(datetime.date.today().year)
 author = 'EI-ISAC Best Practices Team'
 
