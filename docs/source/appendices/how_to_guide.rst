@@ -8,7 +8,7 @@
 
    Soft Launch Draft
 
-Appendix: How to Use the Essential Guide for Election Security
+Appendix: How to Use the Essential Guide to Election Security
 ---------------------------------------------------------------------
 
 [still in development]

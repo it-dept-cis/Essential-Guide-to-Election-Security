@@ -1,4 +1,4 @@
-# The Essential Guide for Election Security
+# The Essential Guide to Election Security
 
 ## About the project
 
