@@ -18,7 +18,13 @@ Within each of the 18 CIS Controls is a set of safeguards focused on a specific 
 
 The CIS Implementation Groups (:term:`IGs <IG>`) were created to address this need. These IGs provide a simple and accessible way to help organizations of different classes focus their scarce security resources, and still leverage the value of the CIS Controls program, community, and complementary tools and working aids.
 
-The CIS Controls are organized into the three IGs, each with its own unique list of Safeguards. The maturities in this Guide are loosely based on those IG classifications:
+The CIS Controls are organized into IGs, each with its own unique list of Safeguards. The IGs are defined according to three attributes:
+
+#. Data sensitivity and criticality of services offered by the organization
+#. Expected level of technical expertise exhibited by staff or on contract
+#. Resources and expertise available and dedicated toward cybersecurity activities
+
+This results in three IGs, and the maturities in this Guide are loosely based on those IG classifications:
 
 * **IG1: Basic.** Contains controls that help an organization assess its current security and take simple steps to improve it. Roughly equivalent to the |Maturity1| maturity.
 * **IG2: Foundational.** Contains more advanced guidance to improve an organization’s security. Roughly equivalent to the |Maturity2| maturity.

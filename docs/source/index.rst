@@ -52,6 +52,7 @@ The EI-ISAC's Essential Guide to Election Security
    :caption: Appendices
 
    appendices/appendix_index
+   appendices/about_the_guide
    appendices/how_to_guide
    appendices/acronyms
    appendices/worksheets
