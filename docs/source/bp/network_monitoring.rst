@@ -26,13 +26,6 @@ Goals
 #. Understand what an :term:`IDS` is and why it's important (|Maturity1| maturity)
 #. Deploy an :term:`IDS` (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 13.3: Deploy a Network Intrusion Detection Solution
-* 13.4: Perform Traffic Filtering Between Network Segments
-* 13.8: Deploy a Network Intrusion Prevention Solution
-
 Actions
 **********************************************
 
@@ -51,5 +44,17 @@ While it can provide protection in any network environment, there are more funda
 #. Consider investing in an :term:`IDS` or :term:`IPS`.
 
    * The Albert sensor and service is a low-cost way to do this that is optimized for use in the election offices and other state, local, tribal, and territorial governments. Contact  |eiisac_email| to get information about Albert.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 13.3: Deploy a Network Intrusion Detection Solution
+* 13.4: Perform Traffic Filtering Between Network Segments
+* 13.8: Deploy a Network Intrusion Prevention Solution
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 7
 
 -----------------------------------------------

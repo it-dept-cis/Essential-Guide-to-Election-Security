@@ -26,15 +26,6 @@ Goals
 #. Encrypt backups (|Maturity1| maturity)
 #. Encrypt removable devices, where practical, such as with USB devices (|Maturity2| maturity)
 
-
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 3.6: Encrypt Data on End-User Devices
-* 3.9: Encrypt Data on Removable Media
-* 3.11: Encrypt Sensitive Data at Rest
-* 11.3: Protect Recovery Data
-
 Actions
 **********************************************
 
@@ -65,5 +56,18 @@ Cost-Effective Tools
 * `FileVault <https://support.apple.com/en-us/HT204837>`_: Built-in encryption for MacOS devices.
 * `Veracrypt <https://www.veracrypt.fr/en/How%20to%20Back%20Up%20Securely.html>`_: Open-source, free full disk encryption utility.
 * `EaseUS <https://www.easeus.com/backup-software/tb-free.html>`_: This free program can encrypt system images.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 3.6: Encrypt Data on End-User Devices
+* 3.9: Encrypt Data on Removable Media
+* 3.11: Encrypt Sensitive Data at Rest
+* 11.3: Protect Recovery Data
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 4, 12, 55, 84
 
 -----------------------------------------------

@@ -23,12 +23,6 @@ Goals
 
 #. Understand how to use procurements to achieve security goals (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -40,6 +34,17 @@ Cost-Effective Tools
 **********************************************
 
 * CIS's `A Guide for Ensuring Security in Election Technology Procurements`_
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 18, 20, 34, 37, 62, 73
 
 -----------------------------------------------
 

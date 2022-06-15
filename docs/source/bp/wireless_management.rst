@@ -25,14 +25,6 @@ Goals
 #. Deploy additional tools and measures to limit risk (|Maturity2| maturity)
 #. Deploy mutual MFA for wireless access (|Maturity3| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 3.10: Encrypt Sensitive Data in Transit
-* 12.1: Ensure Network Infrastructure is Up-to-Date
-* 12.3: Securely Manage Network Infrastructure  [#.#] [title of control]
-* 12.6 Use of Secure Network Management and Communication Protocols 
-
 Actions
 **********************************************
 
@@ -70,5 +62,18 @@ At the |Maturity3| maturity, you should do all of the above and:
 
 #. Use wireless authentication protocols that require mutual, multi-factor authentication.
 #. Detect wireless access points connected to the wired network.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 3.10: Encrypt Sensitive Data in Transit
+* 12.1: Ensure Network Infrastructure is Up-to-Date
+* 12.3: Securely Manage Network Infrastructure  [#.#] [title of control]
+* 12.6 Use of Secure Network Management and Communication Protocols 
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 5, 56
 
 -----------------------------------------------

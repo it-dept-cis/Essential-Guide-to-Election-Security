@@ -25,12 +25,6 @@ Goals
 #. Enable firewall management on networks (|Maturity1| maturity)
 #. Enable firewall management on end-user devices (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -60,6 +54,17 @@ Cost-Effective Tools
 
 * Free vulnerability scanning from CISA (contact |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services")
 * `CIS Benchmark`_ for firewall management
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 41, 42
 
 -----------------------------------------------
 

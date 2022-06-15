@@ -23,14 +23,6 @@ Goals
 #. Always know the physical location of hardware (|Maturity1| maturity)
 #. Conduct maintenance and protecting assets from loss, theft, and tampering (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 1.1: Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1| maturity)
-* 1.2: Address Unauthorized Assets (|Maturity1| maturity)
-* 1.3: Utilize an Active Discovery Tool (|Maturity2| maturity)
-* 1.4: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3| maturity)
-
 Actions
 **********************************************
 
@@ -73,4 +65,19 @@ Cost-Effective Tools
 * `ZenMap <https://nmap.org/zenmap/>`_: Easy-to-use graphic user interface for Nmap
 * `Spiceworks <https://www.spiceworks.com/>`_: Free IT inventory and asset management software to identify devices and software on your network
 
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 1.1: Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1| maturity)
+* 1.2: Address Unauthorized Assets (|Maturity1| maturity)
+* 1.3: Utilize an Active Discovery Tool (|Maturity2| maturity)
+* 1.4: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 23, 27, 28, 30, 45, 55, 65, 67, 68, 69, 79, 86, 88
+
+--------------------------------
+ 
 .. _CIS Enterprise Asset Inventory Worksheet: https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/

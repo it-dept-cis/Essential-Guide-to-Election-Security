@@ -29,12 +29,6 @@ Goals
 #. Deploy web application scanning tools (|Maturity1| maturity)
 #. Use penetration testing to harden networks (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
-* 7.7: Remediate Detected Vulnerabilities
-
 Actions
 **********************************************
 
@@ -64,5 +58,16 @@ Cost-Effective Tools
 
 * `CISA Cyber Hygiene Services <https://www.cisa.gov/cyber-hygiene-services>`_: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing.
 * `ShieldsUP! <https://www.grc.com/shieldsup>`_: ShieldsUP is an online port scanning service that can alert the users of any ports that have been opened through their firewalls or through their NAT routers, which can be used by malicious users to take advantage of security vulnerabilities.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
+* 7.7: Remediate Detected Vulnerabilities
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 2, 19
 
 -----------------------------------------------

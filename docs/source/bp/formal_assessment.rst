@@ -33,12 +33,6 @@ Goals
 #. Implement a risk assessment program
 #. Use the results to improve your cybersecurity posture
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#][tab][title of control]
-* [#.#][tab][title of control]
-
 Actions
 **********************************************
 
@@ -77,5 +71,16 @@ Cost-Effective Tools
 * CIS Controls: see :doc:`CIS Controls best practice <cis_controls>`
 * CIS Benchmarks: Secure configurations for more than a hundred of the most common software applications. (https://www.cisecurity.org/cis-benchmarks/)
 * CIS-CAT: a tool freely available to :doc:`EI-ISAC members <join_ei_isac>` to support implementation of the CIS Controls
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#][tab][title of control]
+* [#.#][tab][title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* None
 
 -----------------------------------------------

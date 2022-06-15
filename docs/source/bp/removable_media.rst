@@ -24,12 +24,6 @@ Goals
 #. Understand media sanitization (|Maturity1| maturity)
 #. Effectively use removable media in the election environment (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -54,4 +48,15 @@ Cost-Effective Tools
 
 * CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_. A buying guide for EI-ISAC members, providing products from trusted vendors at discounted rates.
 
-----------------------------
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 4, 22, 63, 55
+
+-----------------------------------------------
