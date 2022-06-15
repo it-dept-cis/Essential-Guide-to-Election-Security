@@ -5,20 +5,14 @@
 Maturity Alignment to Best Practices
 ----------------------------------------------
 
-Not everyone needs to implement every best practice, and most best practices have guidance tailored for each maturity.
-
-This section provides some baseline goals for each maturity and maps these to best practices. Each best practice is placed in one of three groups. We recommend you implement based on those groupings, but adjust as it makes sense for your organization.
+This section provides baseline goals for each maturity and maps these to best practices. Each best practice is placed in one of three groups. We recommend you implement based on those groupings, but adjust as it makes sense for your organization.
 
 .. _maturity-mapping-to-bp-maturity-one-description:
 
 |Maturity1| Maturity
 ***************************************
 
-If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals: complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter.
-
-Often the most important thing is to establish a priority for the tasks you want to complete so that you know exactly what to do the next time you have (or manage to create) a little time to focus on cybersecurity.
-
-To help with that priority, we recommend CIS's `Small Business Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-sme-guide>`_. It provides a very straightforward set of exercises to help you slowly build maturity in cybersecurity.
+If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals: complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
 
 .. _maturity-one-maturity-baseline-priorities:
 
