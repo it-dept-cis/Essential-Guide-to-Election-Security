@@ -30,11 +30,6 @@ Goals
 #. Recognize MDMinfo and its potential impact on election administration (|Maturity1| maturity)
 #. Take action when you encounter MDMinfo (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-There are no relevant CIS Controls.
-
 Actions
 **********************************************
 
@@ -96,4 +91,14 @@ Cost-Effective Tools
 * `Election Tools Checklist for combating election misinformation <https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/>`_: A framework to help election departments respond to influence operations.
 * `CISA Rumor Control Page <https://www.cisa.gov/rumorcontrol>`_: This page offers the public accurate and authoritative sources of information that will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives.
 
-----------------------------------
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+There are no relevant CIS Controls.
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* None
+
+-----------------------------------------------

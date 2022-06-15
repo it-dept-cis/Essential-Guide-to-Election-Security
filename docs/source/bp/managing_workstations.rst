@@ -22,12 +22,6 @@ Goals
 #. Properly configure workstation permissions (|Maturity1| maturity)
 #. Leverage CIS Benchmarks for workstation configuration (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -57,5 +51,16 @@ Cost-Effective Tools
 * `Applocker <https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx>`_: Free Microsoft® Windows tool to identify and restrict the software that is allowed to run.
 * `Netwrix <https://www.netwrix.com>`_: Variety of free tools to identify information about administrative access on your systems.
 * `OpenAudIT <http://www.open-audit.org/>`_: Inventory applications and software on workstation servers and network devices.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 23, 27, 65, 68, 88
 
 -----------------------------------------------

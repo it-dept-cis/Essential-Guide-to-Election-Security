@@ -24,12 +24,6 @@ Goals
 #. Conduct background checks for new hires (|Maturity1| maturity)
 #. Use available cybersecurity training to improve your cybersecurity posture (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -46,5 +40,16 @@ Learn More
 **********************************************
 
 * Learn how to protect yourself, your family and your devices with tips and resources from the National Cybersecurity Alliance (https://staysafeonline.org/stay-safe-online).
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 13, 16, 54, 57, 58, 59, 82, 87
 
 -----------------------------------------------

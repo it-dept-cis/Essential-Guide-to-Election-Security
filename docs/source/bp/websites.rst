@@ -62,11 +62,6 @@ Goals
 #. Know about website defacements and how to prevent them  (|Maturity1| maturity)
 #. Enroll in the EI-ISAC's vulnerability disclosure program (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
----------------------------------------
-
-There are no relevant CIS Controls.
-
 Actions
 -------
 
@@ -110,5 +105,15 @@ Learn More
 
 * `Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`_
 * `Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`_
+
+Mapping to CIS Controls and Safeguards
+---------------------------------------
+
+* There are no relevant CIS Controls
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 9
 
 -----------------------------------------------

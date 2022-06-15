@@ -34,11 +34,6 @@ Goals
 #. Understand the CIS Controls and their applicability to this Guide (|Maturity1| maturity)
 #. Understand the IGs and their applicability to this Guide's Maturity Levels (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* All!
-
 Actions
 **********************************************
 
@@ -64,5 +59,15 @@ Cost-Effective Tools
 
 * `CIS Controls Navigator <https://www.cisecurity.org/controls/cis-controls-navigator>`_: [description]
 * `CIS Controls version 8 <https://www.cisecurity.org/controls/v8>`_: [description]
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* All!
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* None
 
 -----------------------------------------------

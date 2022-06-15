@@ -20,12 +20,6 @@ Goals
 #. [Goal 1]
 #. [Goal 2]
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -56,5 +50,16 @@ Learn More
 **********************************************
 
 * [links to other random resources or knowledge or any relevant knowledge base entry]
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* None
 
 -----------------------------------------------

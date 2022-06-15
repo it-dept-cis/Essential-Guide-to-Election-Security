@@ -36,14 +36,6 @@ Goals
 #. Understand VPN technology and its role in election environments (|Maturity1| maturity)
 #. Properly implement a VPN service with your environment (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 3.10: Encrypt Sensitive Data in Transit
-* 6.4: Require MFA for Remote Network Access
-* 12.6: Use of Secure Network Management and Communication Protocols
-* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
-
 Actions
 **********************************************
 
@@ -77,5 +69,18 @@ Learn More
 **********************************************
 
 * For more tips on working with vendors, review CIS’s _`“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 3.10: Encrypt Sensitive Data in Transit
+* 6.4: Require MFA for Remote Network Access
+* 12.6: Use of Secure Network Management and Communication Protocols
+* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 44, 46, 83
 
 -----------------------------------------------

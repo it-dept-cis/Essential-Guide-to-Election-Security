@@ -29,12 +29,6 @@ Goals
 #. Employ least privilege, especially with administrative access, and revoke access appropriately (|Maturity1| maturity)
 #. Log user activity (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -81,5 +75,16 @@ Learn More
 * Get more password guidance from :term:`NIST`: `SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`_
 * `Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>`_ (This spotlight has some out-of-date recommendations. Use in conjunction with the NIST guidance)
 * Understand the logic behind `using passphrases <https://www.nist.gov/blogs/taking-measure/easy-ways-build-better-p5w0rd>`_.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* [#.#] [title of control]
+* [#.#] [title of control]
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 24, 25, 26, 47, 49, 50, 51, 52, 66, 77, 78, 81
 
 -----------------------------------------------

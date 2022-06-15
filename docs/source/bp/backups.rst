@@ -35,15 +35,6 @@ Goals
 #. Protect backups
 #. Test your recovery plan
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 11.1: Establish and maintain a data recovery process (|Maturity1| maturity)
-* 11.2: Perform automated backups of in-scope enterprise assets (|Maturity1| maturity)
-* 11.3: Protect recovery data (|Maturity1| maturity)
-* 11.4: Establish and maintain an isolated instance of recovery data (|Maturity1| maturity)
-* 11.5: Test backup recovery (|Maturity2| maturity)
-
 Actions
 **********************************************
 
@@ -84,5 +75,19 @@ Cost-Effective Tools
 * `Bacula <http://blog.bacula.org/doku.php>`_: Bacula is a set of Open Source computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
 * `Microsoft Backup & Restore <https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c>`_: In Windows 11, you can restore files from a backup created with Backup and Restore or File History.
 * `DHS, CISA, and MS-ISAC Joint Ransomware Guide <https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf>`_: A guide written by US federal agencies to assist with ransomware.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 11.1: Establish and maintain a data recovery process (|Maturity1| maturity)
+* 11.2: Perform automated backups of in-scope enterprise assets (|Maturity1| maturity)
+* 11.3: Protect recovery data (|Maturity1| maturity)
+* 11.4: Establish and maintain an isolated instance of recovery data (|Maturity1| maturity)
+* 11.5: Test backup recovery (|Maturity2| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 21, 60
 
 -----------------------------------------------

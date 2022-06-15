@@ -37,12 +37,6 @@ Goals
 
 #. Get EDR services through the EI-ISAC or commercial vendors (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 10.1: Deploy and Maintain Anti-Malware Software
-* 10.6: Centrally Manage Anti-Malware Software
-
 Actions
 **********************************************
 
@@ -79,5 +73,16 @@ Learn More
 **********************************************
 
 * `EI-ISAC EDR program brochure </_static/EI-ISAC EDR Overview Online.22.01.pdf>`_
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 10.1: Deploy and Maintain Anti-Malware Software
+* 10.6: Centrally Manage Anti-Malware Software
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 32, 40
 
 -----------------------------------------------

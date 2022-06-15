@@ -27,12 +27,6 @@ Goals
 
 #. Deploy MDBR for all internet-facing IT assets (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 9.2: Use DNS Filtering Services
-* 9.3: Maintain and Enforce Network-Based URL Filters
-
 Actions
 **********************************************
 
@@ -58,4 +52,15 @@ Cost-Effective Tools
 
 * EI-ISAC MDBR service: A no-cost, lightweight MDBR solution for EI-ISAC members [https://mdbr.cisecurity.org]
 
---------------------------
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 9.2: Use DNS Filtering Services
+* 9.3: Maintain and Enforce Network-Based URL Filters
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* None
+
+-----------------------------------------------
