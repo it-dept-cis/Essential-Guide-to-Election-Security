@@ -65,9 +65,12 @@ Goals
 Actions
 -------
 
-For |bp_title|, the necessary actions are the same for all maturity levels.
+For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-#. Visit https://dotgov.gov to sign up for and manage a .gov domain.
+|Maturity1| Maturity
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+#. Visit https://dotgov.gov to sign up for and manage a .gov website and email domain.
 
    * Effectively managing a website can be difficult, but the good news is that you can mitigate many of the risks with one simple step: getting a .gov domain. A .gov domain automatically provides HTTPS and reduces the likelihood of your constituents confusing other websites for yours.
 
@@ -91,6 +94,13 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 
    * Maintain :doc:`up-to-date software <software_updates>`.
    * Enroll in CISA's `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_ or the EI-ISAC’s `Vulnerability Assessment <https://www.cisecurity.org/ei-isac/ei-isac-services>`_ to receive notifications on outdated software.
+
+|Maturity2| and |Maturity3| Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+#. Establish a vulnerability management program (:term:`VDP`): A VDP is a formalized process to receive, validate, remediate, and communicate vulnerability information identified by security researchers on specific technology systems.
+   * By working with external security researchers, organizations can broaden their vulnerability management efforts and remake them as a continuous process—all while saving time and money.
+   * The EI-ISAC offers a VDP that makes it easier for election offices to create and operate a VDP. Contact elections-vdp@cisecurity.org for more information.
 
 Cost-Effective Tools
 --------------------

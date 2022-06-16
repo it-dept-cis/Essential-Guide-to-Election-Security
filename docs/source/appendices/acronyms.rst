@@ -98,5 +98,8 @@ Acronyms
    USB
      Universal Serial Bus
 
+   VDP
+     Vulnerability Disclosure Program
+     
    WPA
      Wi-Fi Protected Access
