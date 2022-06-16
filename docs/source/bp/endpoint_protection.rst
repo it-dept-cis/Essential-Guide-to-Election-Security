@@ -32,6 +32,8 @@ Election offices can use :term:`EDR` to:
 * Enable analysis to find and mitigate threats, and
 * Disable and restrict the ability of suspicious users on your network to cause harm.
 
+Election officies should put EDR on internet-connected and critical endpoints, including workstations, mobile devices, webservers, and other important networked systems. EDR should not be deployed on voting systems.
+
 Goals
 **********************************************
 
@@ -47,9 +49,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Deploy EDR on systems throughout your network.
+#. Deploy EDR on systems throughout your network. EDR should not be deployed on voting systems.
 
-   * All your systems and endpoints that touch the elections processes are covered at no cost to you by the federally-funded EDR program. Additionally, your jurisdiction’s non-election endpoints can also sign up for the same services at a discounted cost. Contact |eiisac_email| for more information.
+   * All your systems and endpoints that touch administrative election processes are covered at no cost to you by the federally-funded EDR program. Additionally, your jurisdiction’s non-election endpoints can also sign up for the same services at a discounted cost. Contact |eiisac_email| for more information.
    * For commercial solutions, you may also review CIS's `Guide for Ensuring Security in Election Technology Procurements <https://www.cisecurity.org/elections>`_ for best practices in crafting proposals and other necessary documents.
 
 #. Take advantage of vendor-offered user training for usage of EDR tools, including when you sign up for the EI-ISAC EDR program.
