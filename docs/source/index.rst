@@ -6,7 +6,6 @@ The EI-ISAC's Essential Guide to Election Security
    :caption: Introduction
 
    README
-   whats_changed
 
 .. toctree::
    :maxdepth: 1
