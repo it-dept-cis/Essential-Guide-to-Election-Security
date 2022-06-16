@@ -11,8 +11,9 @@
 
 Appendix: Index of Appendices
 --------------------------------------
+
 in development
 
 index for appendices with descriptions
 
-pushes to first (to be determined) appendix, likley how to guide
+pushes to first (to be determined) appendix, likely about_the_guide
