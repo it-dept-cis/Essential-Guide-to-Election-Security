@@ -50,7 +50,7 @@ The EI-ISAC received positive feedback from the election community on the Handbo
 
 #. Election officials have made significant strides in meeting today’s threats, but uneven and insufficient funding has caused a wide array of differences in cybersecurity postures.
 #. The nature of threats has changed. In 2016, national state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.
-#. Mis-, dis-, and mal-information (:term:`MDMinfo`) has become one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation and threats and harassment of election officials. This includes many types of MDMinfo, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.
+#. Mis-, dis-, and mal-information (:term:`MDM`) has become one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation and threats and harassment of election officials. This includes many types of MDM, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.
 
 
 How is this version different?
@@ -59,7 +59,7 @@ How is this version different?
 These changes to the election ecosystem warrant a rethinking of the original Handbook. Developed in collaboration with federal partners, state and local election officials, and election technology providers, this update takes several major steps to address this continual evolution of the election space:
 
 #. We’ve developed a more rigorous maturity model. The original Handbook simply listed high, medium and low priorities for each of the 88 best practices. This roughly said what in what order to do things, but didn't account for a given jurisdiction's resources or capabilities. We now have three maturities and a decision tree for finding an organization’s fit. For any best practice, the approach to implementation adresses whether, for instance, the office has limited technical expertise or well-trained teams of IT security specialists. These are described in detail in the :doc:`maturity/maturities` section.
-#. We've incorporated new best practices that cover the many threats and opportunities that have emerged,  like around managing mis-, dis- and mal-information (:term:`MDMinfo`) and free services. We'll continue adding and evolving guidance as necessary.
+#. We've incorporated new best practices that cover the many threats and opportunities that have emerged,  like around managing mis-, dis- and mal-information (:term:`MDM`) and free services. We'll continue adding and evolving guidance as necessary.
 #. For each best practice, we've provided more information on what actions to take and how to get the job done, so even readers with the least technical knowledge know how to get started.
 #. We’ve added a substantial listing of available resources and additional direction throughout the best practices.
 #. We've moved from the original Handbook—a static paper or PDF document—to a more dynamic web-based experience. As described :ref:`earlier <why-does-this-guide-look-like-a-webpage>`, this allows continually updated online tools, videos, and resources as threats evolve and new opportunities emerge.
