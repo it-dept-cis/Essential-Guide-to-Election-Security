@@ -12,8 +12,15 @@
 Appendix: Index of Appendices
 --------------------------------------
 
-in development
+The Essential Guide to Election Security includes several appendices to provide additional information that may be helpful to users. 
 
-index for appendices with descriptions
+The appendices are: 
 
-pushes to first (to be determined) appendix, likely about_the_guide
+#. :doc:`About the Guide <about_the_guide>`: Information about the structure of the document, its history, and its relevance to CIS's Handbook for Election Infrastructure Security.
+#. :doc:`How To <how_to_guide>`: Information on the best uses and most effective ways to work with the Guide to achieve that which you wish to accomplish. 
+#. :doc:`Acronyms <acronyms>`: Expansions of acronyms used in the Guide.
+#. Small Jurisdiction :doc:`Worksheets <worksheets>`: A set of worksheets for use at the |Maturity1| maturity level.
+
+In addition, there is a :doc:`glossary <glossary>`` of technical terms used throughout the Guide.
+
+-----------------------
