@@ -40,14 +40,14 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 | Asset Protection     | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` & | All              |
 |                      | :ref:`Managing Workstations <managing-workstations-maturity-one>` | #1 and #2        |
 +----------------------+-------------------------------------------------------------------+------------------+
-| Account Security     | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>`   | All User         |
+| Account Security     | :ref:`User Management <user-management-maturity-one>`             | All User         |
 |                      |                                                                   | Recommendations  |
 +----------------------+-------------------------------------------------------------------+------------------+
 | Backup & Recovery    | :ref:`Backups <backups-maturity-one>`                             | All              |
 +----------------------+-------------------------------------------------------------------+------------------+
-| Incident Response    | Coming in Phase 2                                                 | All              |
+| Incident Response    | :ref:`Incident Response <incident-reponse-maturity-one>`          | All              |
 +----------------------+-------------------------------------------------------------------+------------------+
-| Cyber Education      | :ref:`Managing Staff <managing-staff-maturity-one>`               | All              |
+| Cyber Education      | :ref:`Building and Managing Staff <managing-staff-maturity-one>`  | All              |
 +----------------------+-------------------------------------------------------------------+------------------+
 
 While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each exercise is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestions: set aside time to do one a week until you've got them all done; then they're easy to repeat.

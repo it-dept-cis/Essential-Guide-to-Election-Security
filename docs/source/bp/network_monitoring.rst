@@ -36,7 +36,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 We don't recommend investing in an :term:`IDS` at the |Maturity1| maturity.
 
-While it can provide protection in any network environment, there are more fundamental steps to take, as described in the :ref:`this description <maturity-mapping-to-bp-maturity-one-description>`.
+While it can provide protection in any network environment, there are more fundamental steps to take, as described in the :ref:`here <maturity-mapping-to-bp-maturity-one-description>`.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

@@ -1,17 +1,10 @@
 ..
   Created by: mike garcia
-  On: 1/25/2022
   To: Serve as the landing page for the EGES
-
-.. admonition:: Status
-   :class: caution
-
-   **SOFT LAUNCH DRAFT VERSION. CONTENT NOT FINALIZED**
 
 .. note:: As this is a soft launch version, there are some known issues:
 
    * Best practices are alphabetical. For |Maturity1| maturity, we have a prioritization in :doc:`Maturity by BP Mapping </maturity/maturity_bp_mapping>`. For the other maturities, we'll prioritize using the `Community Defense Model <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_, but we're still working on that.
-   * Some downloadable worksheets are still under construction, so you may get an error on a download.
    * Some graphics currently only render well in light mode or dark mode, but not both.
    * Some mappings to CIS Controls are still missing.
    * Only phase 1 best practices are done. :doc:`BP Index </bp/bp_index>` lists the current best practices and, at the bottom of the list, those we're still working on.
@@ -26,13 +19,6 @@
    * Feedback on readability, especially for Maturity 1.
    * Great names for our three maturity levels.
    * Spots where graphics would help.
-
-   Provide feedback 1 of 2 ways:
-
-   #. Send any feedback to |eges_email|. You can export a PDF (hover over "v:latest" in the bottom left and hit "PDF") and comments directly in it. You can also put feedback directly in the email.
-   #. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over "v:latest" and hit "view" under "On Github"). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
-
-   Thank you!
 
 The Essential Guide to Election Security
 ===============================================
@@ -72,7 +58,7 @@ The Guide is organized into several sections:
 
 #. An introduction,
 #. A description of :doc:`maturities <maturity/maturities>` and how they are used in the document,
-#. A set of :doc:`best practices <bp/bp_intro>` for organizations to implement, and
+#. A set of :doc:`best practices <bp/bp_index>` for organizations to implement, and
 #. Additional references, tools, and related information.
 
 You can get more detailed information this Guide and how to use it in our :doc:`how to <appendices/how_to_guide>`.

@@ -2,11 +2,6 @@
   Created by: mike garcia
   To: Provide background on the EGES including history of Handbook
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 Appendix: About the Essential Guide to Election Security
 --------------------------------------------------------
 
@@ -66,5 +61,15 @@ These changes to the election ecosystem warrant a rethinking of the original Han
 #. We’re developing a “peer support” tool to enable election teams to communicate with each other, creatively solve problems, share best practices, and rapidly and collaboratively respond to emerging issues. Expect to see this later in 2022.
 
 In addition to these, there are many minor updates we hope improve the usability of this Guide, allowing it to serve as an effective tool for every election office regardless of size, resources, or technical sophistication.
+
+We Love Feedback
+----------------
+
+We'll take feedback at any time. Provide feedback 1 of 2 ways:
+
+#. Send any feedback to |eges_email|. You can export a PDF (hover over "v:latest" in the bottom left and hit "PDF") and comments directly in it. You can also put feedback directly in the email.
+#. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over "v:latest" and hit "view" under "On Github"). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
+
+Thank you!
 
 -----------------------
