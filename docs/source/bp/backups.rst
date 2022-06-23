@@ -1,15 +1,8 @@
 ..
   Created by: mike garcia
-  On: 2022-02-27
   To: Backups. Derived largely from dec 2018 spotlight
-  Last update by: mike garcia
 
 .. |bp_title| replace:: Backups
-
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
 
 |bp_title|
 ----------------------------------------------
@@ -40,18 +33,18 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-Creating a data inventory for a reactive maturity organization should include, at a minimum:
-
-* voter registration information
-* ballot definitions
-* election equipment security processes
-
 .. _backups-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Perform a data inventory to understand the most important data residing within your network.
+#. Creating a data inventory for a |Maturity1| maturity organization should i
+#. Create a data inventory to understand the most important data residing within your network. Include, at a minimum:
+
+   * voter registration information
+   * ballot definitions
+   * election equipment security processes
+
 #. Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.
 
 There are many automated methods for creating backups. Most solutions are encrypted and can be set to the desired frequency. But many are only either offline or offsite, whereas both are necessary to have a complete backup program. Offline backups help protect from ransomware, while offsite backups help protect from local disasters.

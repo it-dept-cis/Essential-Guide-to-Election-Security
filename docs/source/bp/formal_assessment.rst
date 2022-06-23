@@ -46,7 +46,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 #. Receive results of  the assessment.
 #. Do something about the results.
 
-Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at |CISA_vuln_email| for more information.
+Keep it simple. If you haven't implemented the critical actions for the |Maturity1| maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at |CISA_vuln_email| for more information.
 
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
@@ -62,7 +62,7 @@ Also consider implementing the CIS Controls and CIS Benchmarks. Tools available 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
+At the |Maturity3| maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
 
 Cost-Effective Tools
 **********************************************
