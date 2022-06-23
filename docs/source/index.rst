@@ -19,7 +19,6 @@ The EI-ISAC's Essential Guide to Election Security
    :maxdepth: 1
    :caption: Best Practices
 
-   bp/bp_intro
    bp/bp_index
    bp/asset_management
    bp/backups
@@ -37,6 +36,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/mdbr
    bp/mdm_info
    bp/network_monitoring
+   bp/physical_threats
    bp/public_asset_scanning
    bp/removable_media
    bp/software_updates

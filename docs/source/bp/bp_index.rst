@@ -23,15 +23,11 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | BP                               | Status                      |
 +==================================+=============================+
-| bp_intro                         | Not started                 |
-+----------------------------------+-----------------------------+
-| bp_index                         | Placeholder for soft launch |
-+----------------------------------+-----------------------------+
-| asset_management                 | Soft launch ready           |
+| asset_management                 | ▢ Soft launch ready         |
 +----------------------------------+-----------------------------+
 | backups                          | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| cis_controls                     | complete in phase 2         |
+| cis_controls                     | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | encrypt_data_at_rest             | Soft launch ready           |
 +----------------------------------+-----------------------------+
@@ -47,8 +43,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | manage_remote_connections        | Soft launch ready           |
 +----------------------------------+-----------------------------+
-| managing_staff                   | Soft launch ready.          |
-|                                  | Add training in phase 2     |
+| managing_staff                   | Soft launch ready           |
 +----------------------------------+-----------------------------+
 | managing_vendors                 | Soft launch ready           |
 +----------------------------------+-----------------------------+
@@ -74,7 +69,7 @@ Index of Best Practices
 +----------------------------------+-----------------------------+
 | working_with_IT                  | phase 2                     |
 +----------------------------------+-----------------------------+
-| addressing_physical_threats      | phase 2                     |
+| addressing_physical_threats      | Soft launch ready           |
 +----------------------------------+-----------------------------+
 
 -----------------------------------------------
