@@ -41,9 +41,11 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 #. Creating a data inventory for a |Maturity1| maturity organization should i
 #. Create a data inventory to understand the most important data residing within your network. Include, at a minimum:
 
-   * voter registration information
-   * ballot definitions
-   * election equipment security processes
+   * Voter registration information and databases
+   * Ballot definitions
+   * Election equipment security processes
+   * Geopological boundary data and shapefiles
+   * Other critical data
 
 #. Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.
 
