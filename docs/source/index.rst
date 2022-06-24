@@ -33,7 +33,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/manage_remote_connections
    bp/managing_staff
    bp/managing_vendors
-   bp/managing_workstations
+   bp/managing_infrastructure
    bp/mdbr
    bp/mdm_info
    bp/network_monitoring

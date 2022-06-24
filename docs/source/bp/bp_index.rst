@@ -1,57 +1,52 @@
 ..
   Created by: mike garcia
-  On: 1/26/2022
   To: Serve as an index for all best practices in the EGES
-  Last update by: mike garcia
-
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
 
 Index of Best Practices
 -----------------------------------------------
 
-.. note:: This is a table of best practices currently in the Guide. It will be updated to reflect upcoming changes and additions to best practices based on feedback.
+The following table lists the best practices and indicated if they have actions associated with them for each maturity level ("in" or "out") and if they are a priority action for each maturity level ("Priority"). 
 
-    In the launch version, it will have maturity relevance--if a |Maturity1| maturity doesn't have any actions in a BP, this will show that.
+For more details on maturities in this Guide, see the :doc:`maturities descriptions <../maturity/maturities>`. 
 
-    There will also be an associated checklist to follow along your work.
+To learn how to determine the maturity at which your organization operates, see the :doc:`maturity determination <determine_maturity>` guide. 
 
-    Best practices are currently alphabetical by filename. Prior to full release they will be prioritized by the Community Defense Model.
+For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the maturity to best practice :doc:`mapping <maturity_bp_mapping>`.
+
+You can use this table as a checklist to help track your progress.
 
 +------+--------------------------------------------+-----------------------------------------+
 |      |                                            |           Maturity Priorities           |
 |      |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|  ▢   | Asset Management                           |  Priority   |     In      |     In      |
+|  ▢   | Asset Management                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Backups                                    |  Priority   |     In      |     In      |
+|  ▢   | Backups                                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Implementing the CIS Controls              |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Encrypt Data at Rest                       |  Priority   |     In      |     In      |
+|  ▢   | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Endpoint Protection                        |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Exercising Plans                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Firewalls and Port Restrictions            |     In      |     In      |     In      |
+|  ▢   | Firewalls and Port Restrictions            |     In      |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Formal Cybersecurity Assessments           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Incident Response                          |  Priority   |     In      |     In      |
+|  ▢   | Incident Response                          |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Join the EI-ISAC                           |     In      |     In      |     In      |
+|  ▢   | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Manage Remote Connections                  |     In      |     In      |     In      |
+|  ▢   | Manage Remote Connections                  |     In      |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Building and Managing Staff                |  Priority   |     In      |     In      |
+|  ▢   | Building and Managing Staff                |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Managing Vendors                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Workstations                      |  Priority   |     In      |     In      |
+|  ▢   | Managing Infrastructure                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Malicious Domain Blocking & Reporting      |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
@@ -65,13 +60,11 @@ Index of Best Practices
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Software Updates                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | User Management                            |  Priority   |     In      |     In      |
+|  ▢   | User Management                            |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Website Security                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Managing Wireless Networks                 |     In      |     In      |     In      |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Working with IT Staff                      |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Addressing Physical Threats                |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+

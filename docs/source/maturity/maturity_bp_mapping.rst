@@ -38,7 +38,7 @@ Together, these fulfill all of the |Maturity1| baseline priorities:
 | Account Inventory    |                                                                   |                  |
 +----------------------+-------------------------------------------------------------------+------------------+
 | Asset Protection     | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` & | All              |
-|                      | :ref:`Managing Workstations <managing-workstations-maturity-one>` | #1 and #2        |
+|                      | :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>` | #1 and #2        |
 +----------------------+-------------------------------------------------------------------+------------------+
 | Account Security     | :ref:`User Management <user-management-maturity-one>`             | All User         |
 |                      |                                                                   | Recommendations  |
@@ -69,12 +69,62 @@ In addition to the above, you should be implementing some measures of particular
 ..
     #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
 
-|Maturity2| Maturity
-***************************************
+.. _maturity-two-and-three-maturity-baseline-priorities:
 
-.. note:: |Maturity2| prioritization will be developed using the Community Defense Model. We anticipate having this implemented before the formal launch of the Guide this summer.
+|Maturity2| and |Maturity3| Maturities
+**************************************
 
-|Maturity3| Maturity
-***************************************
+No one wants to suffer a cybersecurity incident. The intent to protect networks is universal, but resource limitations leave many organizations facing perhaps the most difficult question in all of cybersecurity: What do I do next?
 
-.. note:: |Maturity2| prioritization will be developed using the Community Defense Model. We anticipate having this implemented before the formal launch of the Guide this summer.
+The CIS Community Defense Model
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To help answer question of where cybersecurity practioners should invest their next dollar, CIS developed the Community Defense Model (:term:`CDM`). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../cis_controls>`.
+
+Using authoritative data sources like the Verizon `Data Breach Investigations Report <https://www.verizon.com/business/resources/reports/dbir/>`_, CIS identified the top attack types that enterprises should defend against. 
+
+The top five attack types are:
+
+#. Malware
+#. Ransomware
+#. Web Application Hacking
+#. Insider and Privilege Misuse
+#. Targeted Intrusions 
+
+Certain techniques are used to execute each of these types of attacks. The CDM uses the MITRE ATT&CK framework to cateogize these techniques and sub-techniques. These are mapped to mitigations, such as the Safeguards contained with the CIS Controls and the actions within this Guide's best practices, that protect against one or more sub-technique.
+
+The goal of the CDM is to determine with mitigations are most effective at thwarting attacks. Using real world data, the CDM determines which Safeguards are the most efficient--the Safeguards that mitigate the most sub-techniques and thus, when implemented, are most likely to stop any given attack. 
+
+In the table below, we map the highest efficiency Safeguards from the CIS Controls to the best practices in this Guide to establish the priority best practices. For more details on the efficiency rankings, see Figure 13 of the CDM 2.0.
+
+.. table:: CIS Most Efficient Safeguard Mapping to Priority Best Practices
+   :widths: auto
+
+   ====  =========  ===========================================================================  ===============================
+   Rank  Safeguard  Safeguard Title                                                              Essential Guide Best Practice
+   ====  =========  ===========================================================================  ===============================
+   #.    4.1        Establish and Maintain a Secure Configuration Process                        Managing Infrastructure
+   #.    4.7        Manage Default Accounts on Enterprise Assets and Software                    Managing Infrastructure
+   #.    5.3        Disable Dormant Accounts                                                     User Management
+   #.    6.1        Establish an Access Granting Process                                         User Management
+   #.    6.2        Establish an Access Revoking Process                                         User Management
+   #.    5.4        Restrict Administrator Privileges to Dedicated Administrator Accounts        Managing Infrastructure
+   #.    18.3       Remediate Penetration Test Findings                                          [Coming in 2022Q3 update]
+   #.    18.5       Perform Periodic Internal Penetration Tests                                  [Coming in 2022Q3 update]
+   #.    6.8        Define and Maintain Role-Based Access Control                                User Management
+   #.    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  Managing Infrastructure
+   #.    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q3 update]
+   #.    5.2        Use Unique Passwords                                                         User Management
+   #.    6.4        Require MFA for Remote Network Access                                        Manage Remote Connections
+   #.    6.5        Require MFA for Administrative Access                                        User Management
+   #.    12.8       Maintain Dedicated Computing Resources for All Administrative Work           Managing Infrastructure
+   #.    2.3        Address Unauthorized Software                                                Asset Management
+   #.    2.5        Allowlist Authorized Software                                                Asset Management
+   #.    4.2        Maintain a Secure Configuration Process for Network Infrastructure           Managing Infrastructure
+   #.    4.4        Implement and Manage a Firewall on Servers                                   Firewalls and Port Restrictions
+   #.    6.3        Require MFA for Externally-Exposed Applications                              User Management
+   ====  =========  ===========================================================================  ===============================
+   
+The best practices in the right column are listed as priority actions in the best practice index and should be implemented first of the |Maturity2| and |Maturity3| maturities. 
+
+------------------

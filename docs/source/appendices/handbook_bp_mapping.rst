@@ -91,7 +91,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | dispose of the media.                        |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      23       | Maintain detailed maintenance record of all  | Asset Management          |
-|               | system components                            | Managing Workstations     |
+|               | system components                            | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
 |      24       | Require the use of multi-factor              | User Management           |
 |               | authentication                               |                           |
@@ -105,7 +105,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | remove default credentials                   |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      27       | Ensure that all devices are documented and   | Asset Management          |
-|               | accounted for throughout their lifecycle     | Managing Workstations     |
+|               | accounted for throughout their lifecycle     | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
 |      28       | Utilize tamper evident seals on all external | Asset Management          |
 |               | ports that are not required for use and      |                           |
@@ -253,7 +253,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | activities                                   |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      65       | Maintain detailed maintenance records of all | Asset Management          |
-|               | system components                            | Managing Workstations     |
+|               | system components                            | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
 |      66       | Limit the number of individuals with         | User Management           |
 |               | administrative access to the platform and    |                           |
@@ -263,7 +263,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | ports that are not required for use          |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      68       | Ensure that all devices are documented and   | Asset Management          |
-|               | accounted for throughout their lifecycle     | Managing Workstations     |
+|               | accounted for throughout their lifecycle     | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
 |      69       | Establish and follow rigorous protocol for   | Asset Management          |
 |               | installing tamper evident seals and          |                           |
@@ -337,7 +337,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | contractors supporting the election process  |                           | 
 +---------------+----------------------------------------------+---------------------------+
 |      88       | Track all hardware assets used for           | Asset Management          |
-|               | transferring data throughout their lifecycle | Managing Workstations     |
+|               | transferring data throughout their lifecycle | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
 
 ------------------

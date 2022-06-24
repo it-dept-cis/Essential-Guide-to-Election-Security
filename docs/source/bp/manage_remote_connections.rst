@@ -73,10 +73,11 @@ Learn More
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* 3.10: Encrypt Sensitive Data in Transit
-* 6.4: Require MFA for Remote Network Access
-* 12.6: Use of Secure Network Management and Communication Protocols
-* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
+* 3.10: Encrypt Sensitive Data in Transit (|Maturity1| maturity)
+* 6.3: Require MFA for Externally-Exposed Applications (|Maturity1| maturity)
+* 6.4: Require MFA for Remote Network Access (|Maturity1| maturity)
+* 12.6: Use of Secure Network Management and Communication Protocols (|Maturity1| maturity)
+* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************
