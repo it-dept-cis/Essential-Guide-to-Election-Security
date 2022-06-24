@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: websites, including .gov, https, dos, typosquatting, defacements
 
-.. |bp_title| replace:: Website Security Basics
+.. |bp_title| replace:: Website Security
 
 .. admonition:: Status
    :class: caution

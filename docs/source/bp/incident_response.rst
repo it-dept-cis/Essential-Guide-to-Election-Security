@@ -85,6 +85,6 @@ Mapping to CIS Controls and Safeguards
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* a
+* 73
 
 -----------------------------------------------
