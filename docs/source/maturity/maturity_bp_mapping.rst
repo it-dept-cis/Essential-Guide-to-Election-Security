@@ -27,28 +27,28 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 Together, these fulfill all of the |Maturity1| baseline priorities:
 
-+----------------------+-------------------------------------------------------------------+------------------+
-| Worksheet            | Best Practice                                                     | Actions Covered  |
-+======================+===================================================================+==================+
-| Hardware Inventory   |                                                                   |                  |
-| Software Inventory   |                                                                   |                  |
-| Data Inventory       | :ref:`Asset Management <asset-management-maturity-one>`           | #1               |
-| Service Provider     |                                                                   |                  |
-| Inventory            |                                                                   |                  |
-| Account Inventory    |                                                                   |                  |
-+----------------------+-------------------------------------------------------------------+------------------+
-| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` & | All              |
++----------------------+-----------------------------------------------------------------------+------------------+
+| Worksheet            | Best Practice                                                         | Actions Covered  |
++======================+=======================================================================+==================+
+| Hardware Inventory   |                                                                       |                  |
+| Software Inventory   |                                                                       |                  |
+| Data Inventory       | :ref:`Asset Management <asset-management-maturity-one>`               | #1               |
+| Service Provider     |                                                                       |                  |
+| Inventory            |                                                                       |                  |
+| Account Inventory    |                                                                       |                  |
++----------------------+-----------------------------------------------------------------------+------------------+
+| Asset Protection     | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` &     | All              |
 |                      | :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>` | #1 and #2        |
-+----------------------+-------------------------------------------------------------------+------------------+
-| Account Security     | :ref:`User Management <user-management-maturity-one>`             | All User         |
-|                      |                                                                   | Recommendations  |
-+----------------------+-------------------------------------------------------------------+------------------+
-| Backup & Recovery    | :ref:`Backups <backups-maturity-one>`                             | All              |
-+----------------------+-------------------------------------------------------------------+------------------+
-| Incident Response    | :ref:`Incident Response <incident-response-maturity-one>`         | All              |
-+----------------------+-------------------------------------------------------------------+------------------+
-| Cyber Education      | :ref:`Building and Managing Staff <managing-staff-maturity-one>`  | All              |
-+----------------------+-------------------------------------------------------------------+------------------+
++----------------------+-----------------------------------------------------------------------+------------------+
+| Account Security     | :ref:`User Management <user-management-maturity-one>`                 | All User         |
+|                      |                                                                       | Recommendations  |
++----------------------+-----------------------------------------------------------------------+------------------+
+| Backup & Recovery    | :ref:`Backups <backups-maturity-one>`                                 | All              |
++----------------------+-----------------------------------------------------------------------+------------------+
+| Incident Response    | :ref:`Incident Response <incident-response-maturity-one>`             | All              |
++----------------------+-----------------------------------------------------------------------+------------------+
+| Cyber Education      | :ref:`Building and Managing Staff <managing-staff-maturity-one>`      | All              |
++----------------------+-----------------------------------------------------------------------+------------------+
 
 While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each exercise is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestions: set aside time to do one a week until you've got them all done; then they're easy to repeat.
 
@@ -79,7 +79,7 @@ No one wants to suffer a cybersecurity incident. The intent to protect networks 
 The CIS Community Defense Model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To help answer question of where cybersecurity practioners should invest their next dollar, CIS developed the Community Defense Model (:term:`CDM`). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../cis_controls>`.
+To help answer question of where cybersecurity practioners should invest their next dollar, CIS developed the Community Defense Model (:term:`CDM`). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../bp/cis_controls>`.
 
 Using authoritative data sources like the Verizon `Data Breach Investigations Report <https://www.verizon.com/business/resources/reports/dbir/>`_, CIS identified the top attack types that enterprises should defend against. 
 

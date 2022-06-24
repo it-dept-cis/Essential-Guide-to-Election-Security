@@ -9,9 +9,9 @@ The following table lists the best practices and indicated if they have actions 
 
 For more details on maturities in this Guide, see the :doc:`maturities descriptions <../maturity/maturities>`. 
 
-To learn how to determine the maturity at which your organization operates, see the :doc:`maturity determination <determine_maturity>` guide. 
+To learn how to determine the maturity at which your organization operates, see the :doc:`maturity determination <../maturity/determine_maturity>` guide. 
 
-For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the maturity to best practice :doc:`mapping <maturity_bp_mapping>`.
+For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the maturity to best practice :doc:`mapping <../maturity/maturity_bp_mapping>`.
 
 You can use this table as a checklist to help track your progress.
 
