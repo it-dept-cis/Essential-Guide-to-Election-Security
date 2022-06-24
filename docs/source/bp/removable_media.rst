@@ -51,8 +51,9 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 3.9: Encrypt Data on Removable Media (|Maturity1| maturity)
+* 10.3: Disable Autorun and Autoplay for Removable Media (|Maturity1| maturity)
+* 10.4: Configure Automatic Anti-Malware Scanning of Removable Media (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************

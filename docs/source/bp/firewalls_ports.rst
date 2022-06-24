@@ -58,8 +58,10 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 4.4: Implement and Manage a Firewall on Servers (|Maturity1| maturity)
+* 4.5: Implement and Manage a Firewall on End-User Devices (|Maturity1| maturity)
+* 13.9: Deploy Port-Level Access Control (|Maturity3| maturity)
+* 13.10: Perform Application Layer Filtering (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************

@@ -41,12 +41,12 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* No relevant CIS Controls
+* There are no relevant CIS Controls
 
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* No relevant Handbook best practices
+* There are no relevant Handbook best practices
 
 --------------------------------
 
