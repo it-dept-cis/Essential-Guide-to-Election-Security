@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Building and Managing Staff
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -31,8 +26,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 
 #. Conduct at least a national agency check for any hires. Your state or county may have other background check options for you.
 #. Provide security awareness training for all staff.
-#. Track training either through a human resources portal or manually through a :download:`worksheet <training_tracker.xls>`
-   * NOTE: more on training to be added during phase 2 of bp development.
+#. Track training either through a human resources portal or manually through a worksheet. You can use the |Maturity1| maturity :ref:`Cyber Education worksheet <cybersecurity-action-worksheets>` as a template.
 #. Implement actions for proper logical access in :doc:`User Management <user_management>`
 #. Implement actions for proper system configuration in :doc:`Managing Infrastructure <managing_infrastructure>`
 
