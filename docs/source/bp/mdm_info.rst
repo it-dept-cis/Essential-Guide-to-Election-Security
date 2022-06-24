@@ -109,6 +109,6 @@ There are no relevant CIS Controls.
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* None
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

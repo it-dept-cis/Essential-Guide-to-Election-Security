@@ -54,12 +54,11 @@ Learn More
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* There are no relevant CIS Controls
 
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* None
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

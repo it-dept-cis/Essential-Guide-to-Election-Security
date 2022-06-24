@@ -67,6 +67,6 @@ Mapping to CIS Controls and Safeguards
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* None
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

@@ -44,8 +44,15 @@ Learn More
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 14.1: Establish and Maintain a Security Awareness Program (|Maturity1| maturity)
+* 14.2: Train Workforce Members to Recognize Social Engineering Attacks (|Maturity1| maturity)
+* 14.3: Train Workforce Members on Authentication Best Practices (|Maturity1| maturity)
+* 14.4: Train Workforce on Data Handling Best Practices (|Maturity1| maturity)
+* 14.5: Train Workforce Members on Causes of Unintentional Data Exposure (|Maturity1| maturity)
+* 14.6: Train Workforce Members on Recognizing and Reporting Security Incidents (|Maturity1| maturity)
+* 14.7: Train Workforce on How to Identify and Report if Their Enterprise Assets are Missing Security Updates (|Maturity1| maturity)
+* 14.8: Train Workforce on the Dangers of Connecting to and Transmitting Enterprise Data Over Insecure Networks (|Maturity1| maturity)
+* 14.9: Conduct Role-Specific Security Awareness and Skills Training (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************

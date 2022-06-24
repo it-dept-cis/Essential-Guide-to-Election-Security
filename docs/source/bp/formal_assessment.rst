@@ -68,19 +68,18 @@ Cost-Effective Tools
 **********************************************
 
 * CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
-* CIS Controls: see :doc:`CIS Controls best practice <cis_controls>`
+* CIS Controls: see the :doc:`CIS Controls <cis_controls>` best practice
 * CIS Benchmarks: Secure configurations for more than a hundred of the most common software applications. (https://www.cisecurity.org/cis-benchmarks/)
 * CIS-CAT: a tool freely available to :doc:`EI-ISAC members <join_ei_isac>` to support implementation of the CIS Controls
 
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#][tab][title of control]
-* [#.#][tab][title of control]
+* There are no relevant CIS Controls, though assessments can be conducted against the CIS Controls using the tools listed above.
 
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* None
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

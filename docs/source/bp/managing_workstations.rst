@@ -55,8 +55,9 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 4.3: Configure Automatic Session Locking on Enterprise Assets (|Maturity1| maturity)
+* 5.4: Restrict Administrator Privileges to Dedicated Administrator Accounts (|Maturity1| maturity)
+* 12.8: Establish and Maintain Dedicated Computing Resources for All Administrative Work (|Maturity1| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************

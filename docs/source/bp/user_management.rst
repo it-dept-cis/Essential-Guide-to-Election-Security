@@ -79,8 +79,19 @@ Learn More
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 4.7: Manage Default Accounts on Enterprise Assets and Software (|Maturity1| maturity)
+* 5.1: Establish and Maintain an Inventory of Accounts (|Maturity1| maturity)
+* 5.2: Use Unique Passwords (|Maturity1| maturity)
+* 5.3: Disable Dormant Accounts (|Maturity1| maturity)
+* 5.5: Establish and Maintain an Inventory of Service Accounts (|Maturity2| maturity)
+* 5.6: Centralize Account Management (|Maturity2| maturity)
+* 6.1: Establish an Access Granting Process (|Maturity1| maturity)
+* 6.2: Establish an Access Revoking Process (|Maturity1| maturity)
+* 6.3: Require MFA for Externally-Exposed Applications (|Maturity1| maturity)
+* 6.4: Require MFA for Remote Network Access (|Maturity1| maturity)
+* 6.5: Require MFA for Administrative Access (|Maturity1| maturity)
+* 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems (|Maturity2| maturity)
+* 6.7: Centralize Access Control (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************
