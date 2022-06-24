@@ -34,7 +34,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 #. Track training either through a human resources portal or manually through a :download:`worksheet <training_tracker.xls>`
    * NOTE: more on training to be added during phase 2 of bp development.
 #. Implement actions for proper logical access in :doc:`User Management <user_management>`
-#. Implement actions for proper system configuration in :doc:`Managing Workstations <managing_workstations>`
+#. Implement actions for proper system configuration in :doc:`Managing Infrastructure <managing_infrastructure>`
 
 Learn More
 **********************************************

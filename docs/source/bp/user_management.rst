@@ -92,6 +92,7 @@ Mapping to CIS Controls and Safeguards
 * 6.5: Require MFA for Administrative Access (|Maturity1| maturity)
 * 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems (|Maturity2| maturity)
 * 6.7: Centralize Access Control (|Maturity2| maturity)
+* 6.8: Define and Maintain Role-Based Access Control (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************
