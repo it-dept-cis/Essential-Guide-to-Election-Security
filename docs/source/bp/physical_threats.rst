@@ -36,7 +36,7 @@ Ensure your entire team prepared and knows to take these actions if necessary.
 Cost-Effective Tools
 **********************************************
 
-* CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`.
+* CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
 
 Mapping to CIS Controls and Safeguards
 **********************************************
