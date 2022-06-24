@@ -34,7 +34,7 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-.. _user-management-maturity-one:
+.. _incident-response-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -60,6 +60,7 @@ Organizational Recommendations
 #. Employ user logging on your networks. You should be able to tell when, and maintain a record of, a user logs into a device or network.
 #. Allow and encourage use of password managers.
 
+.. _incident-response-maturity-two:
 
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

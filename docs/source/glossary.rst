@@ -11,6 +11,9 @@ Glossary
    authentication
      tk
 
+   CIS Controls
+     tk
+
    disinformation
      tk
 
