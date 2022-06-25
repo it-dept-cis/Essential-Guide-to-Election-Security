@@ -103,25 +103,25 @@ In the table below, we map the highest efficiency Safeguards from the CIS Contro
    ====  =========  ===========================================================================  ===============================
    Rank  Safeguard  Safeguard Title                                                              Essential Guide Best Practice
    ====  =========  ===========================================================================  ===============================
-   1     4.1        Establish and Maintain a Secure Configuration Process                        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
-   2     4.7        Manage Default Accounts on Enterprise Assets and Software                    :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
+   1     4.1        Establish and Maintain a Secure Configuration Process                        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
+   2     4.7        Manage Default Accounts on Enterprise Assets and Software                    :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
    3     5.3        Disable Dormant Accounts                                                     :ref:`User Management <user-management-maturity-two-three>`
    4     6.1        Establish an Access Granting Process                                         :ref:`User Management <user-management-maturity-two-three>`
    5     6.2        Establish an Access Revoking Process                                         :ref:`User Management <user-management-maturity-two-three>`
-   6     5.4        Restrict Administrator Privileges to Dedicated Administrator Accounts        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
+   6     5.4        Restrict Administrator Privileges to Dedicated Administrator Accounts        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
    7     18.3       Remediate Penetration Test Findings                                          [Coming in 2022Q3 update]
    8     18.5       Perform Periodic Internal Penetration Tests                                  [Coming in 2022Q3 update]
    9     6.8        Define and Maintain Role-Based Access Control                                :ref:`User Management <user-management-maturity-two-three>`
-   10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
+   10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
    11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q3 update]
    12    5.2        Use Unique Passwords                                                         :ref:`User Management <user-management-maturity-two-three>`
-   13    6.4        Require MFA for Remote Network Access                                        :ref:`Managing Remote Connections <managing-remote-connections-maturity-two-three>`
+   13    6.4        Require MFA for Remote Network Access                                        :ref:`Managing Remote Connections <manage-remote-connections-maturity-two-three>`
    14    6.5        Require MFA for Administrative Access                                        :ref:`User Management <user-management-maturity-two-three>`
-   15    12.8       Maintain Dedicated Computing Resources for All Administrative Work           :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
+   15    12.8       Maintain Dedicated Computing Resources for All Administrative Work           :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
    16    2.3        Address Unauthorized Software                                                :ref:`Asset Management <asset-management-maturity-two-three>`
    17    2.5        Allowlist Authorized Software                                                :ref:`Asset Management <asset-management-maturity-two-three>`
-   18    4.2        Maintain a Secure Configuration Process for Network Infrastructure           :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three`
-   19    4.4        Implement and Manage a Firewall on Servers                                   :ref:`Firewalls and Port Restrictions <_firewalls-ports-maturity-two-three>`
+   18    4.2        Maintain a Secure Configuration Process for Network Infrastructure           :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
+   19    4.4        Implement and Manage a Firewall on Servers                                   :ref:`Firewalls and Port Restrictions <firewalls-ports-maturity-two-three>`
    20    6.3        Require MFA for Externally-Exposed Applications                              :ref:`User Management <user-management-maturity-two-three>`
    ====  =========  ===========================================================================  ===============================
    
