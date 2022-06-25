@@ -30,6 +30,8 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
+.. _firewalls-ports-maturity-one:
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -41,6 +43,8 @@ Manage firewalls on all servers and end-user devices.
 #. Update firewall software automatically or on a set schedule. Stick to that schedule.
 #. Limit administrative access to the firewalls to as few individuals as possible.
 #. Review firewall rules on a set schedule. Stick to that schedule.
+
+.. _firewalls-ports-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

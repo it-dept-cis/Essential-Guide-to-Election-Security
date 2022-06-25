@@ -41,6 +41,8 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
+.. _manage-remote-connections-maturity-one:
+
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -50,6 +52,8 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 #. Implement multi-factor authentication on all VPN connections.
 #. Review CIS’s `Telework and Small Office Network Security Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide>`_ for tips on securing a remote work environment.
 #. If a trusted third party, like a vendor, provides the VPN used to connect to your network, confirm they are following the same security principles as your organization.
+
+.. _manage-remote-connections-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&

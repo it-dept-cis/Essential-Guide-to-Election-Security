@@ -42,6 +42,8 @@ For those organizations operating at a |Maturity1| maturity, keep it simple. You
 
 #. Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network. This includes both hardware and software assets.
 
+.. _asset-management-maturity-two-three:
+
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
