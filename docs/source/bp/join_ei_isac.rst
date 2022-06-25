@@ -45,11 +45,6 @@ Goals
 #. Understand what the EI-ISAC has to offer (|Maturity1| maturity)
 #. Join the EI-ISAC (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-There are no relevant CIS Controls.
-
 Actions
 **********************************************
 
@@ -63,5 +58,15 @@ Cost-Effective Tools
 **********************************************
 
 * The EI-ISAC has many tools available once you become a member. https://learn.cisecurity.org/ei-isac-registration
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* There are no relevant CIS Controls.
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

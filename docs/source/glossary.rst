@@ -11,6 +11,12 @@ Glossary
    authentication
      tk
 
+   CDM
+     tk
+
+   CIS Controls
+     tk
+
    disinformation
      tk
 

@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: websites, including .gov, https, dos, typosquatting, defacements
 
-.. |bp_title| replace:: Website Security Basics
+.. |bp_title| replace:: Website Security
 
 .. admonition:: Status
    :class: caution
@@ -62,17 +62,15 @@ Goals
 #. Know about website defacements and how to prevent them  (|Maturity1| maturity)
 #. Enroll in the EI-ISAC's vulnerability disclosure program (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
----------------------------------------
-
-There are no relevant CIS Controls.
-
 Actions
 -------
 
-For |bp_title|, the necessary actions are the same for all maturity levels.
+For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-#. Visit https://dotgov.gov to sign up for and manage a .gov domain.
+|Maturity1| Maturity
+`````````````````````````
+
+#. Visit https://dotgov.gov to sign up for and manage a .gov website and email domain.
 
    * Effectively managing a website can be difficult, but the good news is that you can mitigate many of the risks with one simple step: getting a .gov domain. A .gov domain automatically provides HTTPS and reduces the likelihood of your constituents confusing other websites for yours.
 
@@ -97,6 +95,13 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
    * Maintain :doc:`up-to-date software <software_updates>`.
    * Enroll in CISA's `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_ or the EI-ISAC’s `Vulnerability Assessment <https://www.cisecurity.org/ei-isac/ei-isac-services>`_ to receive notifications on outdated software.
 
+|Maturity2| and |Maturity3| Maturities
+``````````````````````````````````````
+
+#. Establish a vulnerability management program (:term:`VDP`): A VDP is a formalized process to receive, validate, remediate, and communicate vulnerability information identified by security researchers on specific technology systems.
+   * By working with external security researchers, organizations can broaden their vulnerability management efforts and remake them as a continuous process—all while saving time and money.
+   * The EI-ISAC offers a VDP that makes it easier for election offices to create and operate a VDP. Contact elections-vdp@cisecurity.org for more information.
+
 Cost-Effective Tools
 --------------------
 
@@ -110,5 +115,15 @@ Learn More
 
 * `Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`_
 * `Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`_
+
+Mapping to CIS Controls and Safeguards
+---------------------------------------
+
+* There are no relevant CIS Controls
+
+Mapping to CIS Handbook Best Practices
+---------------------------------------
+
+* 9
 
 -----------------------------------------------

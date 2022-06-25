@@ -36,18 +36,12 @@ Goals
 #. Understand VPN technology and its role in election environments (|Maturity1| maturity)
 #. Properly implement a VPN service with your environment (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 3.10: Encrypt Sensitive Data in Transit
-* 6.4: Require MFA for Remote Network Access
-* 12.6: Use of Secure Network Management and Communication Protocols
-* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure
-
 Actions
 **********************************************
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
+
+.. _manage-remote-connections-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -58,6 +52,8 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 #. Implement multi-factor authentication on all VPN connections.
 #. Review CIS’s `Telework and Small Office Network Security Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide>`_ for tips on securing a remote work environment.
 #. If a trusted third party, like a vendor, provides the VPN used to connect to your network, confirm they are following the same security principles as your organization.
+
+.. _manage-remote-connections-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -77,5 +73,19 @@ Learn More
 **********************************************
 
 * For more tips on working with vendors, review CIS’s _`“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 3.10: Encrypt Sensitive Data in Transit (|Maturity1| maturity)
+* 6.3: Require MFA for Externally-Exposed Applications (|Maturity1| maturity)
+* 6.4: Require MFA for Remote Network Access (|Maturity1| maturity)
+* 12.6: Use of Secure Network Management and Communication Protocols (|Maturity1| maturity)
+* 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure (|Maturity2| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 44, 46, 83
 
 -----------------------------------------------

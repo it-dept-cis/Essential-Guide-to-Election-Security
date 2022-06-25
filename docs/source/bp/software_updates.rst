@@ -30,13 +30,6 @@ Goals
 #. Establish and execute on a policy for systems that need additional approvals prior to patching (|Maturity1| maturity)
 #. Establish a formal patch management plan leveraging automated tools and aligned with your asset management plan (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 2.2: Ensure Authorized Software is Currently Supported
-* 7.3: Perform Automated Operating System Patch Management
-* 7.4: Perform Automated Application Patch Management
-
 Actions
 **********************************************
 
@@ -88,5 +81,17 @@ Learn More
 * `Auto-update Windows <https://support.microsoft.com/en-us/windows/keep-your-pc-up-to-date-de79813c-7919-5fed-080f-0871c7bd9bde>`_
 * `Auto-update MS Office on macOS <https://support.microsoft.com/en-us/office/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1?ui=en-us&rs=en-us&ad=us>`_
 * `Auto-update Android <https://support.google.com/googleplay/answer/113412>`_
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 2.2: Ensure Authorized Software is Currently Supported
+* 7.3: Perform Automated Operating System Patch Management
+* 7.4: Perform Automated Application Patch Management
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 43, 44, 76
 
 -----------------------------------------------

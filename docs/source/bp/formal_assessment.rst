@@ -33,12 +33,6 @@ Goals
 #. Implement a risk assessment program
 #. Use the results to improve your cybersecurity posture
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#][tab][title of control]
-* [#.#][tab][title of control]
-
 Actions
 **********************************************
 
@@ -52,7 +46,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 #. Receive results of  the assessment.
 #. Do something about the results.
 
-Keep it simple. If you haven't implemented the critical actions for the Reactive maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at |CISA_vuln_email| for more information.
+Keep it simple. If you haven't implemented the critical actions for the |Maturity1| maturity yet, start with those. If you have, consider stepping up to vulnerability scanning or a risk and vulnerability assessment. Review the CISA's `CyHy site <https://www.cisa.gov/cyber-hygiene-services>`_ or contact CISA at |CISA_vuln_email| for more information.
 
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
@@ -68,14 +62,24 @@ Also consider implementing the CIS Controls and CIS Benchmarks. Tools available 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the Adaptive maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
+At the |Maturity3| maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
 
 Cost-Effective Tools
 **********************************************
 
 * CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
-* CIS Controls: see :doc:`CIS Controls best practice <cis_controls>`
+* CIS Controls: see the :doc:`CIS Controls <cis_controls>` best practice
 * CIS Benchmarks: Secure configurations for more than a hundred of the most common software applications. (https://www.cisecurity.org/cis-benchmarks/)
 * CIS-CAT: a tool freely available to :doc:`EI-ISAC members <join_ei_isac>` to support implementation of the CIS Controls
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* There are no relevant CIS Controls, though assessments can be conducted against the CIS Controls using the tools listed above.
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* There are no relevant Handbook best practices
 
 -----------------------------------------------

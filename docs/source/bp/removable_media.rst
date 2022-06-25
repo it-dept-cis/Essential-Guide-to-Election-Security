@@ -24,12 +24,6 @@ Goals
 #. Understand media sanitization (|Maturity1| maturity)
 #. Effectively use removable media in the election environment (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -54,4 +48,16 @@ Cost-Effective Tools
 
 * CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_. A buying guide for EI-ISAC members, providing products from trusted vendors at discounted rates.
 
-----------------------------
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 3.9: Encrypt Data on Removable Media (|Maturity1| maturity)
+* 10.3: Disable Autorun and Autoplay for Removable Media (|Maturity1| maturity)
+* 10.4: Configure Automatic Anti-Malware Scanning of Removable Media (|Maturity2| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 4, 22, 55, 63
+
+-----------------------------------------------

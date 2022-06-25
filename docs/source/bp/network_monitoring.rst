@@ -26,13 +26,6 @@ Goals
 #. Understand what an :term:`IDS` is and why it's important (|Maturity1| maturity)
 #. Deploy an :term:`IDS` (|Maturity2| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 13.3: Deploy a Network Intrusion Detection Solution
-* 13.4: Perform Traffic Filtering Between Network Segments
-* 13.8: Deploy a Network Intrusion Prevention Solution
-
 Actions
 **********************************************
 
@@ -43,7 +36,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 We don't recommend investing in an :term:`IDS` at the |Maturity1| maturity.
 
-While it can provide protection in any network environment, there are more fundamental steps to take, as described in the :ref:`this description <maturity-mapping-to-bp-maturity-one-description>`.
+While it can provide protection in any network environment, there are more fundamental steps to take, as described in the :ref:`here <maturity-mapping-to-bp-maturity-one-description>`.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -51,5 +44,17 @@ While it can provide protection in any network environment, there are more funda
 #. Consider investing in an :term:`IDS` or :term:`IPS`.
 
    * The Albert sensor and service is a low-cost way to do this that is optimized for use in the election offices and other state, local, tribal, and territorial governments. Contact  |eiisac_email| to get information about Albert.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 13.3: Deploy a Network Intrusion Detection Solution
+* 13.4: Perform Traffic Filtering Between Network Segments
+* 13.8: Deploy a Network Intrusion Prevention Solution
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 7
 
 -----------------------------------------------

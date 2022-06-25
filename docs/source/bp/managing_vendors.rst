@@ -23,12 +23,6 @@ Goals
 
 #. Understand how to use procurements to achieve security goals (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
@@ -40,6 +34,22 @@ Cost-Effective Tools
 **********************************************
 
 * CIS's `A Guide for Ensuring Security in Election Technology Procurements`_
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 15.1: Establish and Maintain an Inventory of Service Providers (|Maturity1| maturity)
+* 15.2: Establish and Maintain a Service Provider Management Policy (|Maturity2| maturity)
+* 15.3: Classify Service Providers (|Maturity2| maturity)
+* 15.4: Ensure Service Provider Contracts Include Security Requirements (|Maturity2| maturity)
+* 15.5: Assess Service Providers (|Maturity3| maturity)
+* 15.6: Monitor Service Providers (|Maturity3| maturity)
+* 15.7: Securely Decommission Service Providers (|Maturity3| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 18, 20, 34, 37, 62, 73
 
 -----------------------------------------------
 

@@ -15,17 +15,9 @@ While an election office should implement best practices that best fit its needs
 Maturities in the Essential Guide
 ********************************************
 
-This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities are derived from the three :doc:`CIS Controls <../bp/cis_controls>` Implementation Groups, with important differences based on the nature of and risks associated with election administration. The CIS Controls are a prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks. The Implementation Groups in the CIS Controls are determined based on three attributes:
+This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities closely align to the three :term:`CIS Controls` Implementation Groups (:term:`IG`), with important differences based on the nature of and risks associated with election administration. You can learn more about the CIS Controls and its IGs in the :doc:`CIS Controls <../bp/cis_controls>` best practice. 
 
-#. Data sensitivity and criticality of services offered by the organization
-#. Expected level of technical expertise exhibited by staff or on contract
-#. Resources and expertise available and dedicated toward cybersecurity activities
-
-Because this Guide's audience is those operating in the election environment, we know that for the first attribute election infrastructure is critical infrastructure, election operations are critical services, and the organization deals with sensitive data related to the elections it administers.
-
-Many election offices, through no fault of their own, unfortunately face a misalignment between the level of criticality of their services and the resources available to dedicate to cybersecurity. This Guide focuses on meeting election offices where they are and incrementally helping raise them to higher levels of maturity.
-
-Later in the Guide we use these maturities to provide specific recommendations for managing cybersecurity risk and, ultimately, leveling up an organization’s maturity. The three maturities are:
+The three maturities are:
 
 #. |Maturity1|: The organization responds to threats when presented to them or when attacked but has little capacity to predict, foresee, or model attacks.
 #. |Maturity2|: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned. Some staff and contractors may specialize in cybersecurity but generally don't have specialized domains within in cybersecurity.
@@ -34,14 +26,8 @@ Later in the Guide we use these maturities to provide specific recommendations f
 Using the Maturity Levels
 ********************************************
 
-The next page will provide questions that can help guide you to one of the three maturities.
+The next page will provide questions that can help guide you to one of the three maturities. Use it as a starting point and adjust as needed.
 
-While you should feel free to choose your own path, implementing the priority actions for the maturity that best describes your organization can give you a quick route to improving your cybersecurity posture.
-
-The goal is to use the maturities to guide your election office to best practice guidance you can most readily use. Each best practice has tailored guidance for each maturity, ranging from small, simple, and free guidance and tools for the |Maturity1| maturity to enterprise-driven and sophisticated guidance and tools for the |Maturity3| maturity.
-
-The next section provides a guide to determining your own maturity, which then maps to that tailored guidance. Use it as a starting point and adjust as needed.
+Each best practice has tailored guidance for each maturity, ranging from simple guidance and (usually free) tools for the |Maturity1| maturity to enterprise-driven and sophisticated guidance and tools for the |Maturity3| maturity.
 
 -----------------------------------------------
-
-Have a question, suggestion, recommendation, or correction? Contact us at |eges_email|.

@@ -1,8 +1,8 @@
 ..
   Created by: mike garcia
-  To: authN, MFA, least privilege, and related
+  To: Incident Response
 
-.. |bp_title| replace:: User Management
+.. |bp_title| replace:: Incident Response
 
 .. admonition:: Status
    :class: caution
@@ -34,7 +34,7 @@ Actions
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
-.. _user-management-maturity-one:
+.. _incident-response-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -60,7 +60,7 @@ Organizational Recommendations
 #. Employ user logging on your networks. You should be able to tell when, and maintain a record of, a user logs into a device or network.
 #. Allow and encourage use of password managers.
 
-.. _user-management-maturity-two-three:
+.. _incident-response-maturity-two:
 
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -80,24 +80,12 @@ Learn More
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* 4.7: Manage Default Accounts on Enterprise Assets and Software (|Maturity1| maturity)
-* 5.1: Establish and Maintain an Inventory of Accounts (|Maturity1| maturity)
-* 5.2: Use Unique Passwords (|Maturity1| maturity)
-* 5.3: Disable Dormant Accounts (|Maturity1| maturity)
-* 5.5: Establish and Maintain an Inventory of Service Accounts (|Maturity2| maturity)
-* 5.6: Centralize Account Management (|Maturity2| maturity)
-* 6.1: Establish an Access Granting Process (|Maturity1| maturity)
-* 6.2: Establish an Access Revoking Process (|Maturity1| maturity)
-* 6.3: Require MFA for Externally-Exposed Applications (|Maturity1| maturity)
-* 6.4: Require MFA for Remote Network Access (|Maturity1| maturity)
-* 6.5: Require MFA for Administrative Access (|Maturity1| maturity)
-* 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems (|Maturity2| maturity)
-* 6.7: Centralize Access Control (|Maturity2| maturity)
-* 6.8: Define and Maintain Role-Based Access Control (|Maturity2| maturity)
+* [#.#] [title of control]
+* [#.#] [title of control]
 
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* 24, 25, 26, 47, 49, 50, 51, 52, 66, 77, 78, 81
+* 73
 
 -----------------------------------------------

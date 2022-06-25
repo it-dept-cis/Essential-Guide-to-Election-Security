@@ -19,6 +19,12 @@ Once an organization points its domain name system (:term:`DNS`) requests to the
 .. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01.png
    :width: 90%
    :alt: Graphic showing MDBR working in an election office environment
+   :figclass: only-light
+
+.. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01-dark.png
+   :width: 90%
+   :alt: Graphic showing MDBR working in an election office environment
+   :figclass: only-dark
 
    :term:`MDBR` in an election office environment
 
@@ -26,12 +32,6 @@ Goals
 **********************************************
 
 #. Deploy MDBR for all internet-facing IT assets (|Maturity1| maturity)
-
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 9.2: Use DNS Filtering Services
-* 9.3: Maintain and Enforce Network-Based URL Filters
 
 Actions
 **********************************************
@@ -58,4 +58,15 @@ Cost-Effective Tools
 
 * EI-ISAC MDBR service: A no-cost, lightweight MDBR solution for EI-ISAC members [https://mdbr.cisecurity.org]
 
---------------------------
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 9.2: Use DNS Filtering Services
+* 9.3: Maintain and Enforce Network-Based URL Filters
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* There are no relevant Handbook best practices
+
+-----------------------------------------------

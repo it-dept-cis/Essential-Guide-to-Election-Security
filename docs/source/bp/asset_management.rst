@@ -23,14 +23,6 @@ Goals
 #. Always know the physical location of hardware (|Maturity1| maturity)
 #. Conduct maintenance and protecting assets from loss, theft, and tampering (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 1.1: Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1| maturity)
-* 1.2: Address Unauthorized Assets (|Maturity1| maturity)
-* 1.3: Utilize an Active Discovery Tool (|Maturity2| maturity)
-* 1.4: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3| maturity)
-
 Actions
 **********************************************
 
@@ -48,7 +40,9 @@ For those organizations operating at a |Maturity1| maturity, keep it simple. You
    * If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though if you use paper, you should also maintain a digital records that you can backup. You can use the |Maturity1| maturity :ref:`IT Inventory Worksheets <IT-inventory-worksheets>` as a template or the `CIS Enterprise Asset Inventory Worksheet`_.
    * Even if your county maintains these records, it's best to do so yourself, as you’re ultimately accountable for what happens in your environment. Accordingly, contractor systems should be included in your inventory. Note that this inventory will contain sensitive information from a security perspective that should not be shared with untrusted parties.
 
-#. Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network.
+#. Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network. This includes both hardware and software assets.
+
+.. _asset-management-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -58,6 +52,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 #. Maintaining digital inventory records.
 #. Applying asset tags.
 #. Implementing software tools to discover physical devices on your networks.
+#. Allowlist authorized software to prevent unwanted software installation.
 
 Enterprise tools exist to automate this process and if you are at a higher maturity, you should be implementing one of them.
 
@@ -73,4 +68,21 @@ Cost-Effective Tools
 * `ZenMap <https://nmap.org/zenmap/>`_: Easy-to-use graphic user interface for Nmap
 * `Spiceworks <https://www.spiceworks.com/>`_: Free IT inventory and asset management software to identify devices and software on your network
 
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 1.1: Establish and Maintain Detailed Enterprise Asset Inventory (|Maturity1| maturity)
+* 1.2: Address Unauthorized Assets (|Maturity1| maturity)
+* 2.3: Address Unauthorized Software (|Maturity1| maturity)
+* 1.3: Utilize an Active Discovery Tool (|Maturity2| maturity)
+* 2.5: Allowlist Authorized Software (|Maturity2| maturity)
+* 1.4: Use Dynamic Host Configuration Protocol (DHCP) Logging to Update Enterprise Asset Inventory (|Maturity3| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 23, 27, 28, 30, 45, 55, 65, 67, 68, 69, 79, 86, 88
+
+--------------------------------
+ 
 .. _CIS Enterprise Asset Inventory Worksheet: https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/

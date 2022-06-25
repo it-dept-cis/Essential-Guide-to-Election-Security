@@ -22,19 +22,6 @@ Goals
 #. Learn the types of exercises that make sense for your organization (|Maturity1| maturity)
 #. Participate in exercises or create your own (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 17.1: Designate Personnel to Manage Incident Handling
-* 17.2: Establish and Maintain Contact Information for Reporting Security Incidents
-* 17.3: Establish and Maintain an Enterprise Process for Reporting Incidents
-* 17.4: Establish and Maintain an Incident Response Process
-* 17.5: Assign Key Roles and Responsibilities
-* 17.6: Define Mechanisms for Communicating During Incident Response
-* 17.7: Conduct Routine Incident Response Exercises
-* 17.8: Conduct Post-Incident Reviews
-* 17.9: Establish and Maintain Security Incident Thresholds
-
 Actions
 **********************************************
 
@@ -57,5 +44,23 @@ Cost-Effective Tools
 **********************************************
 
 * [tool]: [description][(link)]
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 17.1: Designate Personnel to Manage Incident Handling
+* 17.2: Establish and Maintain Contact Information for Reporting Security Incidents
+* 17.3: Establish and Maintain an Enterprise Process for Reporting Incidents
+* 17.4: Establish and Maintain an Incident Response Process
+* 17.5: Assign Key Roles and Responsibilities
+* 17.6: Define Mechanisms for Communicating During Incident Response
+* 17.7: Conduct Routine Incident Response Exercises
+* 17.8: Conduct Post-Incident Reviews
+* 17.9: Establish and Maintain Security Incident Thresholds
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 33, 72
 
 -----------------------------------------------

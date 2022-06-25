@@ -25,16 +25,12 @@ Goals
 #. Enable firewall management on networks (|Maturity1| maturity)
 #. Enable firewall management on end-user devices (|Maturity1| maturity)
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* [#.#] [title of control]
-* [#.#] [title of control]
-
 Actions
 **********************************************
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
+
+.. _firewalls-ports-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -48,6 +44,8 @@ Manage firewalls on all servers and end-user devices.
 #. Limit administrative access to the firewalls to as few individuals as possible.
 #. Review firewall rules on a set schedule. Stick to that schedule.
 
+.. _firewalls-ports-maturity-two-three:
+
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -60,6 +58,19 @@ Cost-Effective Tools
 
 * Free vulnerability scanning from CISA (contact |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services")
 * `CIS Benchmark`_ for firewall management
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 4.4: Implement and Manage a Firewall on Servers (|Maturity1| maturity)
+* 4.5: Implement and Manage a Firewall on End-User Devices (|Maturity1| maturity)
+* 13.9: Deploy Port-Level Access Control (|Maturity3| maturity)
+* 13.10: Perform Application Layer Filtering (|Maturity3| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 41, 42
 
 -----------------------------------------------
 

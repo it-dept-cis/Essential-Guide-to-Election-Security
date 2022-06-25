@@ -1,15 +1,8 @@
 ..
   Created by: mike garcia
-  On: 2022-02-27
   To: Backups. Derived largely from dec 2018 spotlight
-  Last update by: mike garcia
 
 .. |bp_title| replace:: Backups
-
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
 
 |bp_title|
 ----------------------------------------------
@@ -35,32 +28,25 @@ Goals
 #. Protect backups
 #. Test your recovery plan
 
-Mappings to CIS Controls and Safeguards
-**********************************************
-
-* 11.1: Establish and maintain a data recovery process (|Maturity1| maturity)
-* 11.2: Perform automated backups of in-scope enterprise assets (|Maturity1| maturity)
-* 11.3: Protect recovery data (|Maturity1| maturity)
-* 11.4: Establish and maintain an isolated instance of recovery data (|Maturity1| maturity)
-* 11.5: Test backup recovery (|Maturity2| maturity)
-
 Actions
 **********************************************
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
-
-Creating a data inventory for a reactive maturity organization should include, at a minimum:
-
-* voter registration information
-* ballot definitions
-* election equipment security processes
 
 .. _backups-maturity-one:
 
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Perform a data inventory to understand the most important data residing within your network.
+#. Creating a data inventory for a |Maturity1| maturity organization should i
+#. Create a data inventory to understand the most important data residing within your network. Include, at a minimum:
+
+   * Voter registration information and databases
+   * Ballot definitions
+   * Election equipment security processes
+   * Geopological boundary data and shapefiles
+   * Other critical data
+
 #. Ensure data critical to the operation of your state organization or local jurisdiction is backed up and stored offsite.
 
 There are many automated methods for creating backups. Most solutions are encrypted and can be set to the desired frequency. But many are only either offline or offsite, whereas both are necessary to have a complete backup program. Offline backups help protect from ransomware, while offsite backups help protect from local disasters.
@@ -81,8 +67,22 @@ Cost-Effective Tools
 
 * `Apple Time Machine <https://support.apple.com/en-us/HT201250>`_: Time Machine is the backup mechanism of macOS, the desktop operating system developed by Apple. The software is designed to work with both local storage devices and network-attached disks and is most commonly used with external disk drives connected using either USB or Thunderbolt.
 * `Amanda Network Backup <http://www.amanda.org>`_: AMANDA, the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media. Amanda uses native utilities and formats (e.g. dump and/or GNU tar) and can back up a large number of servers and workstations running multiple versions of Linux or Unix. Amanda uses a native Windows client to back up Microsoft Windows desktops and servers.
-* `Bacula <http://blog.bacula.org/doku.php>`_: Bacula is a set of Open Source computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
+* `Bacula <https://www.bacula.org>`_: Bacula is a set of Open Source computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
 * `Microsoft Backup & Restore <https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c>`_: In Windows 11, you can restore files from a backup created with Backup and Restore or File History.
 * `DHS, CISA, and MS-ISAC Joint Ransomware Guide <https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf>`_: A guide written by US federal agencies to assist with ransomware.
+
+Mapping to CIS Controls and Safeguards
+**********************************************
+
+* 11.1: Establish and maintain a data recovery process (|Maturity1| maturity)
+* 11.2: Perform automated backups of in-scope enterprise assets (|Maturity1| maturity)
+* 11.3: Protect recovery data (|Maturity1| maturity)
+* 11.4: Establish and maintain an isolated instance of recovery data (|Maturity1| maturity)
+* 11.5: Test backup recovery (|Maturity2| maturity)
+
+Mapping to CIS Handbook Best Practices
+****************************************
+
+* 21, 60
 
 -----------------------------------------------

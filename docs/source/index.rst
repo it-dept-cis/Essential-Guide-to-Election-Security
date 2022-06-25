@@ -6,7 +6,6 @@ The EI-ISAC's Essential Guide to Election Security
    :caption: Introduction
 
    README
-   whats_changed
 
 .. toctree::
    :maxdepth: 1
@@ -20,7 +19,6 @@ The EI-ISAC's Essential Guide to Election Security
    :maxdepth: 1
    :caption: Best Practices
 
-   bp/bp_intro
    bp/bp_index
    bp/asset_management
    bp/backups
@@ -30,14 +28,16 @@ The EI-ISAC's Essential Guide to Election Security
    bp/exercising_plans
    bp/firewalls_ports
    bp/formal_assessment
+   bp/incident_response
    bp/join_ei_isac
    bp/manage_remote_connections
    bp/managing_staff
    bp/managing_vendors
-   bp/managing_workstations
+   bp/managing_infrastructure
    bp/mdbr
    bp/mdm_info
    bp/network_monitoring
+   bp/physical_threats
    bp/public_asset_scanning
    bp/removable_media
    bp/software_updates
@@ -52,10 +52,12 @@ The EI-ISAC's Essential Guide to Election Security
    :caption: Appendices
 
    appendices/appendix_index
+   appendices/about_the_guide
    appendices/how_to_guide
    appendices/acronyms
    appendices/worksheets
-
+   appendices/handbook_bp_mapping
+   
 .. toctree::
    :maxdepth: 1
    :caption: Glossary

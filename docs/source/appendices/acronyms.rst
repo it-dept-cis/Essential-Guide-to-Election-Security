@@ -63,10 +63,7 @@ Acronyms
    MDM
      Mobile Device Management OR
 
-     Mis-, Dis-, and Mal-Information; see also :term:`MDMinfo`
-
-   MDMinfo
-     Mis-, Dis-, and Mal-information; see also :term:`MDM`
+     Mis-, Dis-, and Mal-Information
 
    MFA
      multi-factor authentication
@@ -98,5 +95,8 @@ Acronyms
    USB
      Universal Serial Bus
 
+   VDP
+     Vulnerability Disclosure Program
+     
    WPA
      Wi-Fi Protected Access
