@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Malicious Domain Blocking and Reporting
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -68,5 +63,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
------------------------------------------------

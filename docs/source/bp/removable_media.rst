@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Managing Removable Media
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -59,5 +54,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 4, 22, 55, 63
-
------------------------------------------------

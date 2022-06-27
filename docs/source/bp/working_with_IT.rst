@@ -60,5 +60,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
------------------------------------------------

@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Incident Response
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -87,5 +82,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 73
-
------------------------------------------------

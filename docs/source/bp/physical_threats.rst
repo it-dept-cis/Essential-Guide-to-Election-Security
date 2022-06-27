@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Responding to Personal and Physical Threats
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -47,6 +42,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
---------------------------------
-

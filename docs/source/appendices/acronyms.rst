@@ -2,11 +2,6 @@
   Created by: mike garcia
   To: maintain an ReST glossary that serves as an acronym list
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 Acronyms
 =========
 

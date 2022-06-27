@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Implementing the CIS Controls
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -74,7 +69,5 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
------------------------------------------------
 
 .. _CIS Controls Navigator: https://www.cisecurity.org/controls/cis-controls-navigator

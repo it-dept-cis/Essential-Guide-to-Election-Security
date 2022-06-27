@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Managing Vendors
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -50,7 +45,5 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 18, 20, 34, 37, 62, 73
-
------------------------------------------------
 
 .. _A Guide for Ensuring Security in Election Technology Procurements: https://www.cisecurity.org/elections

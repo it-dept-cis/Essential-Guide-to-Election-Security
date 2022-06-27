@@ -54,5 +54,3 @@ What to do with your maturity?
 Based on your maturity, you can begin implementation based on the guidance for that maturity within each best practice. If you find that guidance isn’t what you expected, consider moving up or down in maturity. If you are at the |Maturity2| or |Maturity3| maturity, take the time to review best practices and recommendations from the earlier maturity(ies) to make sure that you’ve covered everything that makes sense for you.
 
 All organizations are different with unique combinations of skills and resources. Election offices should tailor these implementation programs to make sense in the context of their respective capabilities and responsibilities, keeping in mind that the ultimate goal is not to fill in checkboxes but to develop effective and continually improving risk mitigation strategies.
-
------------------------------------------------

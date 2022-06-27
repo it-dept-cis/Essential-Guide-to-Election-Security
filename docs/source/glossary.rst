@@ -1,8 +1,3 @@
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 Glossary
 ========
 

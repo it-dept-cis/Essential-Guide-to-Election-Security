@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Exercising Plans
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -62,5 +57,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 33, 72
-
------------------------------------------------

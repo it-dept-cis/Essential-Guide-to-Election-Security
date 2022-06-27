@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Managing Wireless Networks
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -75,5 +70,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 5, 56
-
------------------------------------------------
