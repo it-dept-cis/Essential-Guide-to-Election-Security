@@ -5,7 +5,7 @@
 Acronyms
 =========
 
-NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
+NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
 
 .. glossary::
 
@@ -25,7 +25,7 @@ NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/g
      Cybersecurity and Infrastructure Security Agency
 
    CVE
-     Common Vulnerabilities and Exploits
+     :term:`Common Vulnerabilities and Exploits``
 
    DNS
      Domain name system

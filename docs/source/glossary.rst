@@ -1,7 +1,7 @@
 Glossary
 ========
 
-NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
+NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
 
 .. glossary::
 
@@ -19,7 +19,7 @@ NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/g
      A prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks
 
    common vulnerabilities and exploits
-     The generic name for known cybersecurity vulnerabilities that have been catalogued by the :ref:`CVE program <https://www.cve.org>`_. There is one CVE Record for each vulnerability in the catalog. 
+     The generic name for known cybersecurity vulnerabilities that have been catalogued by the `CVE program <https://www.cve.org>`_. There is one CVE Record for each vulnerability in the catalog. 
    
    disinformation
      Information deliberately created to mislead, harm, or manipulate a person, social group, organization, or country
