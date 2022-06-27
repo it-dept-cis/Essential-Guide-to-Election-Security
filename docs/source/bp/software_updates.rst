@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Software Updates
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -93,5 +88,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 43, 44, 76
-
------------------------------------------------

@@ -339,5 +339,3 @@ Mapping to the Handbook for Election Infrastructure Security
 |      88       | Track all hardware assets used for           | Asset Management          |
 |               | transferring data throughout their lifecycle | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
-
-------------------

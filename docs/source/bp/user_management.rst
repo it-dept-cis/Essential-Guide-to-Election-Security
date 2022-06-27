@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: User Management
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -99,5 +94,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 24, 25, 26, 47, 49, 50, 51, 52, 66, 77, 78, 81
-
------------------------------------------------

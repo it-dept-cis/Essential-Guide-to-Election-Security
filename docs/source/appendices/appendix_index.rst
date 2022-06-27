@@ -16,5 +16,3 @@ The appendices are:
 #. For legacy purposes, a :doc:`mapping <handbook_bp_mapping>` of the best practices to the best practices from the Handbook for Election Infrastructure Security.
 
 In addition, there is a :doc:`glossary <../glossary>` of technical terms used throughout the Guide.
-
------------------------

@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Formal Cybersecurity Assessments
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -81,5 +76,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
------------------------------------------------

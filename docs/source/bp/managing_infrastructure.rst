@@ -4,19 +4,14 @@
 
 .. |bp_title| replace:: Managing Infrastructure
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
-Infrastructure management involves configuring systems to reduce the risk of cyber attacks. Most workstations (e.g., desktop, laptops, tablets) should have capabilities limited to the job function they serve. Often, this is tied to the type of employee to which the workstation is issued. Other times, it's about the use the workstation plays in the office.
+Infrastructure management involves adjusting configuration settings for systems to reduce the risk of cyber attacks. Most workstations (e.g., desktop, laptops, tablets) should have capabilities limited to the job function they serve. Often, this is tied to the type of employee to which the workstation is issued, such as an admin versus a poll worker. Sometimes, it's about the use the workstation plays in the office. A similar rule applies to servers and other shared infrastructure. 
 
-Servers and other such infrastructure should have secure configurations that are consistent and have changes carefully tracked. 
+In general, having a few configurations you use repeatedly is better than creating or allowing custom configurations for each system you allow in your environment. You should create these configurations or get them from a trusted source and carefully track any changes to them.
 
-Configurations can be done manually or with automated tools.
+Implementing these configurations can be done manually or with automated tools.
 
 Goals
 **********************************************
@@ -35,9 +30,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Limit administrative access to machines that perform administrative functions.
-#. Log out machines after a short period of inactivity.
+#. If a machine has a short period of inactivity, force a lock screen or log out.
 #. Employ the restrictions from the :doc:`User Management <user_management>` best practice.
-#. Establish a process for configuring network infrastructre to ensure it is secure, consistent, and tracked.
+#. Work with IT staff or vendors to establish a process for configuring network infrastructre to ensure it is secure, consistent, and tracked.
 
 .. _managing-infrastructure-maturity-two-three:
 
@@ -71,5 +66,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 23, 27, 65, 68, 88
-
------------------------------------------------

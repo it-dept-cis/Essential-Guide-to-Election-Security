@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Network Monitoring and Intrusion Detection
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -56,5 +51,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 7
-
------------------------------------------------

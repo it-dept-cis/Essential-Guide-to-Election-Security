@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Endpoint Protection
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -86,5 +81,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 32, 40
-
------------------------------------------------

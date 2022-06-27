@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Asset Management
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -83,6 +78,4 @@ Mapping to CIS Handbook Best Practices
 
 * 23, 27, 28, 30, 45, 55, 65, 67, 68, 69, 79, 86, 88
 
---------------------------------
- 
 .. _CIS Enterprise Asset Inventory Worksheet: https://www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/
