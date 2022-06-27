@@ -55,9 +55,10 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 
 In addition to the actions at the |Maturity1| maturity, at the |Maturity2| maturity, you should also:
 
-* Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
-* Review `CISA’s Enterprise VPN Security Alert <https://www.cisa.gov/uscert/ncas/alerts/aa20-073a>`_
-* Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
+#. Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
+   * For example, see examples of Common Vulnerabilities and Exposures (:term:`CVE`) :ref:`here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-13379>`_ and :ref:`here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11510>`_, that led to :ref:`this <https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/>`_ joint advisory.
+#. Review `CISA’s Enterprise VPN Security Alert <https://www.cisa.gov/uscert/ncas/alerts/aa20-073a>`_
+#. Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
 
 Cost-Effective Tools
 **********************************************

@@ -24,6 +24,9 @@ NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/g
    CISA
      Cybersecurity and Infrastructure Security Agency
 
+   CVE
+     Common Vulnerabilities and Exploits
+
    DNS
      Domain name system
 
