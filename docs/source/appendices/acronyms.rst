@@ -5,6 +5,8 @@
 Acronyms
 =========
 
+NIST's Computer Security Resource Center :ref:`Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
+
 .. glossary::
 
    AES
@@ -14,7 +16,7 @@ Acronyms
      Compact Disc Read-only
 
    CFAA
-     tk
+     Computer Fraud and Abuse Act of 1986
 
    CIS
      Center for Internet Security
@@ -67,7 +69,7 @@ Acronyms
      Multi-State Information Sharing and Analysis Center
 
    NCSR
-     tk
+     National Cybersecurity Review
 
    NIST
      National Institute of Standards and Technology
