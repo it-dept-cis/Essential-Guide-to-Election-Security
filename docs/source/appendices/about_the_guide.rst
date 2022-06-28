@@ -5,7 +5,7 @@
 Appendix: About the Essential Guide to Election Security
 --------------------------------------------------------
 
-When `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_ was published in 2018, election officials had much less guidance to rely on. Today, they often have the opposite problem: an enormous amount of guidance to navigate. With so much guidance and so many tools and approaches available, it's difficult for any given election official to know what will best work for them.
+When `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_ was published in 2018, election officials had much less guidance to rely on. Today, they often have the opposite problem: an enormous amount of guidance to navigate. With so much guidance and so many tools and approaches available, it's difficult for any given election official to know what will best work for them. 
 
 This Guide aims to solve that problem and aid the process of building a program designed to meet the individual needs and abilities of any given election office.
 
