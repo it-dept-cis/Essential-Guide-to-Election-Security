@@ -36,7 +36,7 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 #. Change the default access passphrase for wireless networks regularly, or enable user level authentication for private networks.
 #. Don't permit visitors to use your primary wireless network. Instead set up a separate network or enable a guest network.
 #. Carefully decide whether a new device will be allowed on the network; you don't need to permit every new device onto the network.
-#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching <software_updates>` schedule.
+#. Keep firmware and software up to date by including your router and other access points in your :doc:`patching <patching_vuln_management>` schedule.
 #. Track what's on your network.
 #. Use secure network management and communication protocols (e.g., 802.1X, Wi-Fi Protected Access 2 (:term:`WPA2 <WPA>`) Enterprise or greater). All wireless access points owned and operated by the jurisdiction should utilize either :term:`WPA2 <WPA>` or :term:`WPA3 <WPA>` with a strong password.
 
