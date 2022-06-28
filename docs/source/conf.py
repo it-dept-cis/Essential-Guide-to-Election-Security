@@ -275,16 +275,16 @@ htmlhelp_basename = 'EGES'
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_engine = 'pdflatex'
-# latex_maketitle = r'''
-# \begin{titlepage}
-# \noindent\rule{\textwidth}{1pt}\par
-# \sphinxlogo
-# \py@HeaderFamily
-# {\Huge \title \par}
-# \noindent\rule{\textwidth}{1pt}\par
-# \end{titlepage}
-# \clearpage
-# '''
+latex_maketitle = r'''
+\begin{titlepage}
+\noindent\rule{\textwidth}{1pt}\par
+\sphinxlogo
+\py@HeaderFamily
+{\Huge \title \par}
+\noindent\rule{\textwidth}{1pt}\par
+\end{titlepage}
+\clearpage
+'''
 latex_maketitle = r'''
 \sphinxmaketitle
 '''
@@ -336,6 +336,7 @@ latex_elements = {
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
+    'extraclassoptions': 'openany,oneside'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
