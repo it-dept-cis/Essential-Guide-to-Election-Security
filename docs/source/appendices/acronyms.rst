@@ -25,7 +25,7 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Cybersecurity and Infrastructure Security Agency
 
    CVE
-     :term:`Common Vulnerabilities and Exploits``
+     :term:`Common Vulnerabilities and Exploits`
 
    DNS
      Domain name system
