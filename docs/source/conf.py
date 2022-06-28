@@ -279,9 +279,9 @@ latex_engine = 'pdflatex'
 # \begin{titlepage}
 # \noindent\rule{\textwidth}{1pt}\par
 # \sphinxlogo
-# \py@HeaderFamily
 # {\Huge \title \par}
 # \noindent\rule{\textwidth}{1pt}\par
+# {\itshape\large \py@release \releaseinfo}\par
 # \end{titlepage}
 # \clearpage
 # '''
@@ -330,12 +330,13 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': latex_preamble,
+    #'preamble': latex_preamble,
     'maketitle': latex_maketitle,
     'tableofcontents': latex_tableofcontents,
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
+    'extraclassoptions': 'openany,oneside'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
