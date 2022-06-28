@@ -9,7 +9,7 @@
 
 Cybersecurity is more than technology and processes. People are at the heart of any cybersecurity program. This means hiring people you can trust with the sensitive tasks they have to complete and giving them the tools they need to be successful.
 
-Background checks, including criminal and financial checks, are essential for a healthy hiring process. With people on staff, manage their access, both physical and logical. And provide them the training they need so they can make good cybersecurity decisions.
+Background checks, including criminal and financial checks, are essential for a healthy hiring process. In addition, carefully manage staff access, both physical and electronic, and provide them the training they need so they can make good cybersecurity decisions.
 
 .. _managing-staff-maturity-one:
 
