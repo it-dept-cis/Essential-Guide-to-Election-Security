@@ -27,11 +27,17 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    domain name system
      The system by which Internet domain names and addresses are tracked and regulated as defined by IETF RFC 1034 and other related RFCs.
 
+   encryption
+     Any procedure used in cryptography to convert plain text into cipher text to prevent anyone but the intended recipient from reading that data
+
    Endpoint Detection and Response
      Security software that is deployed on workstations and servers, to collect technical data and analyze it for suspicious patterns and threats.
 
    Endpoint Protection
      Safeguards implemented through software to protect end-user machines such as workstations and laptops against attack (e.g., antivirus, antispyware, anti-adware, personal firewalls, host-based intrusion detection and prevention systems, etc.)
+
+   hashing
+     The process of using a mathematical algorithm against data to produce a numeric value that is representative of that data
 
    Implementation Group
      The recommended guidance to prioritize implementation of the CIS Critical Security Controls (CIS Controls). They are based on the risk profile and resources an enterprise has available to them to implement the CIS Controls.
@@ -48,8 +54,17 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    misinformation
      Information that is false but not created or shared with the intention of causing harm
 
+   multi-factor authentication
+     An authentication system that requires more than one distinct authentication factor for successful authentication. Multi-factor authentication can be performed using a multi-factor authenticator or by a combination of authenticators that provide different factors. The three authentication factors are something you know, something you have, and something you are.
+
    patching
      The act of applying a change to installed software – such as firmware, operating systems, or applications – that corrects security or functionality problems or adds new capabilities
 
    ransomware
      A type of malware that blocks access to a system, device, or file until a ransom is paid
+  
+   salting
+     A non-secret value used in a cryptographic process, usually to ensure that the results of computations for one instance cannot be reused by an attacker 
+
+   virtual private network
+     Protected information system link utilizing tunneling, security controls, and endpoint address translation giving the impression of a dedicated line

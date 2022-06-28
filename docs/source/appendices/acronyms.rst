@@ -66,7 +66,7 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Mis-, Dis-, and Mal-Information
 
    MFA
-     multi-factor authentication
+     :term:`multi-factor authentication`
 
    MS-ISAC
      Multi-State Information Sharing and Analysis Center
@@ -98,5 +98,8 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    VDP
      Vulnerability Disclosure Program
      
+   VPN
+     Virtual Private Network
+
    WPA
      Wi-Fi Protected Access
