@@ -275,16 +275,16 @@ htmlhelp_basename = 'EGES'
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_engine = 'pdflatex'
-latex_maketitle = r'''
-\begin{titlepage}
-\noindent\rule{\textwidth}{1pt}\par
-\sphinxlogo
-\py@HeaderFamily
-{\Huge \title \par}
-\noindent\rule{\textwidth}{1pt}\par
-\end{titlepage}
-\clearpage
-'''
+# latex_maketitle = r'''
+# \begin{titlepage}
+# \noindent\rule{\textwidth}{1pt}\par
+# \sphinxlogo
+# {\Huge \title \par}
+# \noindent\rule{\textwidth}{1pt}\par
+# {\itshape\large \py@release \releaseinfo}\par
+# \end{titlepage}
+# \clearpage
+# '''
 latex_maketitle = r'''
 \sphinxmaketitle
 '''
@@ -330,7 +330,7 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': latex_preamble,
+    #'preamble': latex_preamble,
     'maketitle': latex_maketitle,
     'tableofcontents': latex_tableofcontents,
     # Latex figure (float) alignment
