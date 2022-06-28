@@ -17,7 +17,7 @@ You can use this table as a checklist to help track your progress.
 
 +------+--------------------------------------------+-----------------------------------------+
 |      |                                            |           Maturity Priorities           |
-|      |           Best Practice                    +-------------+-------------+-------------+
+|  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
 |  □   | Asset Management                           |  Priority   |  Priority   |  Priority   |
