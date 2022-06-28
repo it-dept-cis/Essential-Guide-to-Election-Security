@@ -37,10 +37,10 @@ The EI-ISAC's Essential Guide to Election Security
    bp/mdbr
    bp/mdm_info
    bp/network_monitoring
+   bp/patching_vuln_management
    bp/physical_threats
    bp/public_asset_scanning
    bp/removable_media
-   bp/software_updates
    bp/user_management
    bp/websites
    bp/wireless_management

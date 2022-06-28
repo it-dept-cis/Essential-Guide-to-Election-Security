@@ -2,12 +2,12 @@
   Created by: mike garcia
   To: Patching best practice largely from 2018-06-08 spotlight
 
-.. |bp_title| replace:: Software Updates
+.. |bp_title| replace:: Patching and Vulnerability Management
 
 |bp_title|
 ----------------------------------------------
 
-:term:`Patching <patching>` is the process of applying available software updates to an operating system, application, browser, mobile app, plugin or other type of software. While patches may bring new and useful functionality, patches are also security updates that address known vulnerabilities that could allow cyber threat actors unauthorized access to information systems or networks.
+:term:`Patching` is the process of applying available software updates to an operating system, application, browser, mobile app, plugin or other type of software. While patches may bring new and useful functionality, patches are also security updates that address known vulnerabilities that could allow cyber threat actors unauthorized access to information systems or networks. While there are some differences, for the purposes of this guide, patching and vulnerability management are synonymous.
 
 Unpatched vulnerabilities remain one of the primary infection vectors observed by the :term:`EI-ISAC` and our partners. Once patches are publicly announced, information on the associated vulnerabilities they remediate is generally available to anyone, including cyber threat actors. This significantly increases the likelihood that the threat actors will attempt to exploit unpatched systems using information deduced from the patch release.
 
@@ -37,12 +37,13 @@ At the |Maturity1| maturity, organizations should simply begin patching their sy
 
 Devices and applications will often make patches available via a diagnostic menu or administrative console. Each device or application will be different, and this may require research. Not all systems used in elections can be patched immediately. Particularly when patching voting systems, be sure to consider your state’s or the U.S. Election Assistance Commission’s (:term:`EAC`) System Certification Process and account for scheduled primary and election day system configuration freezes.
 
-#. Verify that all software used in the office is supported an active development company. If not, update or replace the software.
+#. Verify that all software used in the office is supported by an active development company. If not, update or replace the software. Only download patches from authoritative sources.
 #. Patch all operating systems on a regular timetable.
 
-   * Every organization is different, but it's often best to start patching your operating systems first, and then move to your software applications. Systems should be set to update by default. Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
+   * Every organization is different, but it's often best to start patching your operating systems first, and then move to your software applications. Systems should be set to update by automatically. Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
 
 #. Patch all software applications on a regular timetable.
+#. Where complex or mission critical systems are used, test and verify patches before patching production systems. 
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
