@@ -20,51 +20,51 @@ You can use this table as a checklist to help track your progress.
 |  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|  □   | Asset Management                           |  Priority   |  Priority   |  Priority   |
+|      | Asset Management                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ☐   | Backups                                    |  Priority   |  Priority   |  Priority   |
+|      | Backups                                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Implementing the CIS Controls              |     In      |     In      |     In      |
+|      | Implementing the CIS Controls              |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
+|      | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Endpoint Protection                        |     In      |     In      |     In      |
+|      | Endpoint Protection                        |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Exercising Plans                           |     In      |     In      |     In      |
+|      | Exercising Plans                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Firewalls and Port Restrictions            |     In      |  Priority   |  Priority   |
+|      | Firewalls and Port Restrictions            |     In      |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Formal Cybersecurity Assessments           |     In      |     In      |     In      |
+|      | Formal Cybersecurity Assessments           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Incident Response                          |  Priority   |  Priority   |  Priority   |
+|      | Incident Response                          |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
+|      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Manage Remote Connections                  |     In      |  Priority   |  Priority   |
+|      | Manage Remote Connections                  |     In      |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Building and Managing Staff                |  Priority   |  Priority   |  Priority   |
+|      | Building and Managing Staff                |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Vendors                           |     In      |     In      |     In      |
+|      | Managing Vendors                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Infrastructure                    |  Priority   |  Priority   |  Priority   |
+|      | Managing Infrastructure                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Malicious Domain Blocking & Reporting      |     In      |     In      |     In      |
+|      | Malicious Domain Blocking & Reporting      |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Mis-, Dis-, and Malinformation    |     In      |     In      |     In      |
+|      | Managing Mis-, Dis-, and Malinformation    |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Network Monitoring and Intrusion Detection |     Out     |     In      |     In      |
+|      | Network Monitoring and Intrusion Detection |     Out     |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Public Facing Network Scanning             |     In      |     In      |     In      |
+|      | Public Facing Network Scanning             |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Removable Media                   |     In      |     In      |     In      |
+|      | Managing Removable Media                   |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Software Updates                           |     In      |     In      |     In      |
+|      | Software Updates                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | User Management                            |  Priority   |  Priority   |  Priority   |
+|      | User Management                            |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Website Security                           |     In      |     In      |     In      |
+|      | Website Security                           |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Wireless Networks                 |     In      |     In      |     In      |
+|      | Managing Wireless Networks                 |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Addressing Physical Threats                |     In      |     In      |     In      |
+|      | Addressing Physical Threats                |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
