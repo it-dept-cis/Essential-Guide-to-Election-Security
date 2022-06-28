@@ -22,7 +22,7 @@ You can use this table as a checklist to help track your progress.
 +======+============================================+=============+=============+=============+
 |  □   | Asset Management                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Backups                                    |  Priority   |  Priority   |  Priority   |
+|  ☐   | Backups                                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |  ▢   | Implementing the CIS Controls              |     In      |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
