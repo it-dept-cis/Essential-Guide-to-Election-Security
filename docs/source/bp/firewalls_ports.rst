@@ -44,7 +44,7 @@ Manage firewalls on all servers and end-user devices.
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Take more advance measures to manage firewalls.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Implement a `CIS Benchmark`_ for firewall management.
 

@@ -7,7 +7,7 @@
 |bp_title|
 ----------------------------------------------
 
-Exercising a plan before its needed is almost as important as having the plan in the first place. Virtual any type of plan can be exercised, including normal operations and in the face of network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
+Exercising a plan before it is needed is almost as important as having the plan in the first place. Virtually any type of plan can be exercised, including normal operations and in the face of network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
 
 Generally, you can either take part in exercises offered by others--such as a state election office or CISA--or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you may not have considered.
 
@@ -31,6 +31,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Consider participating in other exercises or creating your own with the CISA critical infrastructure exercise `guides <https://www.cisa.gov/critical-infrastructure-exercises>`_.
 #. Have a regular schedule for exercises. Stick to it.

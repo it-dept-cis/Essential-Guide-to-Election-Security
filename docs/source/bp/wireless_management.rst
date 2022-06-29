@@ -44,7 +44,7 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-In addition to those actions for the |Maturity1| maturity, with at least some technical staff, you should:
+Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
 #. Maintain an inventory of authorized wireless access points to ensure rogue ones are not introduced.
 #. Disable wireless access on devices if the device does not require access.
@@ -53,7 +53,7 @@ In addition to those actions for the |Maturity1| maturity, with at least some te
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the |Maturity3| maturity, you should do all of the above and:
+Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
 #. Use wireless authentication protocols that require mutual, multi-factor authentication.
 #. Detect wireless access points connected to the wired network.

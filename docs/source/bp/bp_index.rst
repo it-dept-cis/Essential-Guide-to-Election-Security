@@ -5,7 +5,7 @@
 Index of Best Practices
 -----------------------------------------------
 
-The following table lists the best practices and indicated if they have actions associated with them for each maturity level ("in" or "out") and if they are a priority action for each maturity level ("Priority"). 
+The following table lists the best practices and indicated if they have actions associated with them for each maturity level ("In Scope" or "Out of Scope") and if they are a priority action ("Priority") for each maturity level. 
 
 For more details on maturities in this Guide, see the :doc:`maturities descriptions <../maturity/maturities>`. 
 

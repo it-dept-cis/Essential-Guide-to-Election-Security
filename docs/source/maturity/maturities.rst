@@ -8,14 +8,14 @@ Maturities
 The Purpose of Maturities
 *********************************
 
-Not all election offices have the same experience, resources, or needs. States and territories vary from a few thousand residents to tens of millions, counties and municipalities from a few dozen residents to more than 10 million. The differences in populations served result in widely varying tax bases, staffing levels, number and type of IT and physical assets, and more. Correspondingly, different election offices will implement different best practices at different times.
+Not all election offices have the same experience, resources, or needs. States and territories vary from a few thousand residents to tens of millions, counties and municipalities from a few dozen residents to more than ten million. The differences in populations-served result in widely varying tax bases, staffing levels, number and type of IT and physical assets, and more. Correspondingly, different election offices will implement different best practices at different times.
 
 While an election office should implement best practices that best fit its needs, establishing maturities provides rough contours around these differences. By defining maturities, the EI-ISAC can provide a starting point that any given office can implement or use to tailor its approach.
 
 Maturities in the Essential Guide
 ********************************************
 
-This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities closely align to the three :term:`CIS Controls` Implementation Groups (:term:`IG`), with important differences based on the nature of and risks associated with election administration. You can learn more about the CIS Controls and its IGs in the :doc:`CIS Controls <../bp/cis_controls>` best practice. 
+This section will help election officials determine their current maturity. This Guide defines three levels to reflect an organization’s capabilities in managing cybersecurity risk. The maturities closely align to the three :term:`CIS Controls` Implementation Groups (IGs), with important differences based on the nature of and risks associated with election administration. You can learn more about the CIS Controls and its IGs in the :doc:`CIS Controls <../bp/cis_controls>` best practice. 
 
 The three maturities are:
 

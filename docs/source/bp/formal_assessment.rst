@@ -57,7 +57,9 @@ Also consider implementing the CIS Controls and CIS Benchmarks. Tools available 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the |Maturity3| maturity, you should be implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
+#. Implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
 
 Cost-Effective Tools
 **********************************************

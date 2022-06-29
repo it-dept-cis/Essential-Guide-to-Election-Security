@@ -50,6 +50,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
 #. When an incident does occur, conduct an after action reviews to identify what went right, what went wrong, and make improvements to your plan.
 
 Mapping to CIS Controls and Safeguards

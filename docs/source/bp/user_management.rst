@@ -60,6 +60,8 @@ Organizational Recommendations
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
 #. Complete all of the actions for the |Maturity1| maturity.
 #. Review :term:`MS-ISAC’s <MS-ISAC>` Security Primers on Exposed Credentials and Securing Login Credentials, as well as the United States Computer Emergency Readiness Team’s (:term:`US-CERT's <US-CERT>`) Security Tip on Choosing and Protecting Passwords.
 #. The :term:`EI-ISAC` regularly monitors the Internet for stolen credentials using open source datasets from various security organizations and researchers, as well as information received from trusted partners. To subscribe to this service, simply provide your IP addresses and domains to |soc_email|.

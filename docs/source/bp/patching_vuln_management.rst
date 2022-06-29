@@ -48,6 +48,8 @@ Devices and applications will often make patches available via a diagnostic menu
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
 #. Use automated tools to conduct software patching of your systems.
 #. Establish a formal, written plan in place that references the organization's vulnerability management program, as identifying and remediating vulnerabilities goes hand-in-hand with updating software.
 
