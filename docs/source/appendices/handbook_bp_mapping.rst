@@ -6,7 +6,7 @@ Mapping to the Handbook for Election Infrastructure Security
 ------------------------------------------------------------
 
 +---------------+----------------------------------------------+---------------------------+
-| Handbook BP # |	Handbook BP Title                            | Essential Guide BP        |
+| Handbook BP # |	Handbook BP Title                      | Essential Guide BP        |
 +===============+==============================================+===========================+
 |      1        | Whitelist which IPs can access the device    |                           |
 +---------------+----------------------------------------------+---------------------------+
@@ -171,7 +171,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | available                                    |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      44       | Ensure vendors distribute software packages  | Managing Remote           |
-|               | and updates using secure protocols           |   Connections             |
+|               | and updates using secure protocols           | Connections               |
 |               |                                              | Software Updates          |
 +---------------+----------------------------------------------+---------------------------+
 |      45       | Maintain a chain of custody for all core     | Asset Management          |

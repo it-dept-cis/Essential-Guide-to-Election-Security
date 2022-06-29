@@ -299,9 +299,9 @@ latex_preamble = r'''
    \fancypagestyle{normal}{
 % this is the stuff in sphinx.sty
     \fancyhf{}
-    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+    \fancyfoot[R]{{\py@HeaderFamily\thepage}}
 % add copyright stuff
-    \fancyfoot[LO,RE]{{\textcopyright\ 2022 \@author}}
+    \fancyfoot[L]{{\textcopyright\ 2022 Center for Internet Security}}
 % again original stuff
     \fancyhead[LE,RO]{{\py@HeaderFamily \py@release}}
     \renewcommand{\headrulewidth}{0.4pt}
@@ -310,12 +310,13 @@ latex_preamble = r'''
 % this is applied to each opening page of a chapter
    \fancypagestyle{plain}{
     \fancyhf{}
-    \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
+    \fancyfoot[R]{{\py@HeaderFamily\thepage}}
+    \fancyfoot[L]{{\textcopyright\ 2022 Center for Internet Security}}
     \renewcommand{\headrulewidth}{0pt}
     \renewcommand{\footrulewidth}{0.4pt}
 % add copyright stuff for example at left of footer on odd pages,
 % which is the case for chapter opening page by default
-    \fancyhead[LO,RE]{{\py@HeaderFamily \py@release}}
+    \fancyhead[L]{{\py@HeaderFamily \py@release}}
     }
 \makeatother
 '''
@@ -331,7 +332,7 @@ latex_elements = {
 
     # Additional stuff for the LaTeX preamble.
     #
-    #'preamble': latex_preamble,
+    'preamble': latex_preamble,
     'maketitle': latex_maketitle,
     'tableofcontents': latex_tableofcontents,
     # Latex figure (float) alignment
