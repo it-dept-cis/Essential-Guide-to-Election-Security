@@ -33,7 +33,9 @@ For those organizations operating at a |Maturity1| maturity, keep it simple. You
 #. Create an inventory of all state and county technology owned and operated in support of election activities. This includes hardware assets, software, and cloud service providers such as laptops, software suites (e.g., Adobe), and email providers.
 
    * If you have a fewer than a couple dozen of assets to track, it’s probably easiest to do so with a table or spreadsheet. You can do this on paper, though if you use paper, you should also maintain a digital records that you can backup. You can use the |Maturity1| maturity :ref:`IT Inventory Worksheets <IT-inventory-worksheets>` as a template or the `CIS Enterprise Asset Inventory Worksheet`_.
-   * Even if your county maintains these records, it's best to do so yourself, as you’re ultimately accountable for what happens in your environment. Accordingly, contractor systems should be included in your inventory. Note that this inventory will contain sensitive information from a security perspective that should not be shared with untrusted parties.
+   * Even if your county maintains these records, it's best to do so yourself, as you’re ultimately accountable for what happens in your environment.
+   * Contractor systems should be included in your inventory. 
+   * This inventory will contain sensitive security information that should not be shared with untrusted parties.
 
 #. Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network. This includes both hardware and software assets.
 
@@ -42,7 +44,7 @@ For those organizations operating at a |Maturity1| maturity, keep it simple. You
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Maintaining digital inventory records.
 #. Applying asset tags.

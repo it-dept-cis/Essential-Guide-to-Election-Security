@@ -24,7 +24,7 @@ It's an online guide and is continually updated, though readers can easily expor
 Who should use this Guide?
 ----------------------------
 
-This Guide helps election officials and their staffs understand their organization's cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on several factors, including, but not limited to:
+This Guide helps election officials and their staffs understand their organizational cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on several factors, including, but not limited to:
 
 * The type of jurisdiction (state vs. county vs. municipality),
 * The structure of election administration in a given state (top-down vs. bottom-up),
@@ -41,7 +41,7 @@ The Guide is organized into several sections:
 #. An introduction,
 #. A description of :doc:`maturities <maturity/maturities>` and how they are used in the document,
 #. A set of :doc:`best practices <bp/bp_index>` for organizations to implement, and
-#. Additional references, tools, and related information.
+#. Additional references, tools, and related information in :doc:`appendices <appendices/appendix_index>`.
 
 You can get more detailed information this Guide and how to use it in our :doc:`how to <appendices/how_to_guide>`.
 
@@ -58,7 +58,7 @@ A Little Encouragement Before You Start
 
 Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 
-If you find yourself not understanding something, be empowered to reach out to the EI-ISAC elections team at |eiisac_email| and trusted partners and peers at the federal, state, and local levels for guidance and support.
+If you find yourself not understanding something, please reach out to the EI-ISAC elections team at |eiisac_email| and trusted partners and peers at the federal, state, and local levels for guidance and support.
 
 ---------------
 

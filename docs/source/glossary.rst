@@ -8,19 +8,15 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    authentication
      Verifying the identity of a user, process, or device, often as a prerequisite to allowing access to resources in an information system
 
-   CDM
-     Community Defense Model
-
-     Continuous Diagnostics and Mitigation
-
-     Continuous Diagnostics and Monitoring
-
    CIS Controls
      A prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks
 
    common vulnerabilities and exploits
      The generic name for known cybersecurity vulnerabilities that have been catalogued by the `CVE program <https://www.cve.org>`_. There is one CVE Record for each vulnerability in the catalog. 
    
+   Community Defense Model
+     A set or real-world analyses used to design, prioritize, implement, and improve an enterprise’s cybersecurity program. See the `CDM 2.0 release <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_.
+
    disinformation
      Information deliberately created to mislead, harm, or manipulate a person, social group, organization, or country
 

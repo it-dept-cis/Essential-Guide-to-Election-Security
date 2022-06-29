@@ -39,9 +39,10 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Work with those who provide IT infrastructure, whether vendors or your own IT staff, to implement encryption for all sensitive data.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-Implement encryption when data is at rest (e.g., stored in a database or on a device) and in transit (e.g., sending through email) and ensure your election office’s adherence to encryption standards.
+#. Work with those who provide IT infrastructure, whether vendors or your own IT staff, to implement encryption for all sensitive data.
+#. Implement encryption when data is at rest (e.g., stored in a database or on a device) and in transit (e.g., sending through email) and ensure all encryption meets your election office’s adherence to encryption standards.
 
 The National Institute of Standards and Technology (:term:`NIST`) `Special Publication 800-175B <https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final>`_ provides the U.S. federal requirements for encryption standards to secure data at different sensitivity and classification levels.
 

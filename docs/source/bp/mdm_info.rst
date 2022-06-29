@@ -64,7 +64,7 @@ Remediating Misinformation
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the |Maturity2| maturity level, you should take the actions above as well as some additional steps to protect against impacts from MDM.
+Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
 #. The Cybersecurity and Infrastructure Security Agency (CISA) offers resources to spot and manage responses to MDM:
 
@@ -80,12 +80,14 @@ At the |Maturity2| maturity level, you should take the actions above as well as 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the |Maturity3| maturity, consider having a focused workstream to identify and remediate MDM. This can include things like:
+Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
-#. Track hashtags, keywords, and other trends on various social media platforms.
-#. Follow activity related to your election across a number of platforms, including smaller, niche apps.
-#. Contract with a third party to provide these services for you.
-#. If a state, provide services for your locals.
+#. Consider having a focused workstream to identify and remediate MDM. This can include things like:
+
+  #. Track hashtags, keywords, and other trends on various social media platforms.
+  #. Follow activity related to your election across a number of platforms, including smaller, niche apps.
+  #. Contract with a third party to provide these services for you.
+  #. If a state, provide services for your locals.
 
 Cost-Effective Tools
 **********************************************

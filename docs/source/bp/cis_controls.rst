@@ -47,10 +47,14 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Implement the IG2 controls in addition to the IG1 controls. Use the `CIS Controls Navigator`_ to get this done.
+Organizations operating at a |Maturity2| maturity should take additional actions, including:
+
+#. Implement the IG2 controls. Use the `CIS Controls Navigator`_ to get this done.
 
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
 #. Implement all of the CIS Controls that are applicable for your environment. Use the `CIS Controls Navigator`_ to get this done.
 

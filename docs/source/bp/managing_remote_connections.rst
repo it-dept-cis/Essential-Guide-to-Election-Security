@@ -53,7 +53,7 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-In addition to the actions at the |Maturity1| maturity, at the |Maturity2| maturity, you should also:
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
    * For example, see examples of Common Vulnerabilities and Exposures (:term:`CVE`) `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-13379>`__ and `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11510>`__, that led to `this <https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/>`_ joint advisory.

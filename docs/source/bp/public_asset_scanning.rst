@@ -44,9 +44,11 @@ Note that scanning online systems you do not own may run afoul of the Computer F
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-At the |Maturity2| maturity, you should also implement remote penetration testing.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-#. Sign up for free remote penetration testing by contacting :term:`CISA` at |CISA_vuln_email| with the subject line "Requesting Cyber Hygiene Services."
+#. Implement remote penetration testing.
+
+   * Sign up for free remote penetration testing by contacting :term:`CISA` at |CISA_vuln_email| with the subject line "Requesting Cyber Hygiene Services."
 
 Cost-Effective Tools
 **********************************************
