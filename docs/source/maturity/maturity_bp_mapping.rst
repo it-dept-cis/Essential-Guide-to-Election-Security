@@ -43,11 +43,11 @@ Together, these fulfill all of the |Maturity1| baseline priorities. In the table
 +------------------------------+------------------------------------------------------------------------------------------------+
 | Account Security             | :ref:`User Management <user-management-maturity-one>` (All Actions under User Recommendations) |
 +------------------------------+------------------------------------------------------------------------------------------------+
-| Backup & Recovery            | :ref:`Backups <backups-maturity-one>`                                                          |
+| Backup & Recovery            | :ref:`Backups <backups-maturity-one>`  (Action #1)                                             |
 +------------------------------+------------------------------------------------------------------------------------------------+
-| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`                                      |
+| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`  (Actions #1 and $4)                 |
 +------------------------------+------------------------------------------------------------------------------------------------+
-| Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`                               |
+| Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`  (Actions #2 and #3)          |
 +------------------------------+------------------------------------------------------------------------------------------------+
 
 While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each :doc:`worksheet <../appendices/worksheets>` is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
