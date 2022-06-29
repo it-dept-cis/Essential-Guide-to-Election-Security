@@ -35,12 +35,12 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 
 #. If you're an EI-ISAC member, you can sign up for no-cost MDBR by registering at https://mdbr.cisecurity.org. You will be asked to provide the following information:
 
-  * Your contact information
-  * Technical contact(s) for MDBR setup, troubleshooting, and general technical support
-  * Reporting contact(s) for receiving reports on your MDBR service
-  * Public IP addresses or CIDR netblocks from which your organization’s DNS queries are sent
+   * Your contact information
+   * Technical contact(s) for MDBR setup, troubleshooting, and general technical support
+   * Reporting contact(s) for receiving reports on your MDBR service
+   * Public IP addresses or CIDR netblocks from which your organization’s DNS queries are sent
 
-#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1!
+#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1
 
 The EI-ISAC provides members with a free MDBR service. Members sign up and configure their DNS server, and the EI-ISAC will then provide reporting that includes log information for all blocked requests and assist in remediation if needed.
 

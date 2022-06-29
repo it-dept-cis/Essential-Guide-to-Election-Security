@@ -6,7 +6,7 @@ Mapping to the Handbook for Election Infrastructure Security
 ------------------------------------------------------------
 
 +---------------+----------------------------------------------+---------------------------+
-| Handbook BP # |	Handbook BP Title                      | Essential Guide BP        |
+| Handbook BP # |	Handbook BP Title                            | Essential Guide BP        |
 +===============+==============================================+===========================+
 |      1        | Whitelist which IPs can access the device    |                           |
 +---------------+----------------------------------------------+---------------------------+
@@ -16,9 +16,9 @@ Mapping to the Handbook for Election Infrastructure Security
 |      3        | Limit the devices that are on the same       |                           |
 |               | subnet to only those devices required        |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      4        | Only utilize approved and managed USB        | Encrypt Data at Rest      |
-|               | devices with appropriate device encryption   |                           |
-|               | and device authentication                    | Removable Media           |
+|      4        | Only utilize approved and managed USB        | * Encrypt Data at Rest    |
+|               | devices with appropriate device encryption   | * Removable Media         |
+|               | and device authentication                    |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      5        | Disable wireless peripheral access of        | Managing Wireless         |
 |               | devices unless required and the risk is      |   Networks                |
@@ -90,8 +90,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | single destination device) and securely      |                           |
 |               | dispose of the media.                        |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      23       | Maintain detailed maintenance record of all  | Asset Management          |
-|               | system components                            | Managing Infrastructure   |
+|      23       | Maintain detailed maintenance record of all  | * Asset Management        |
+|               | system components                            | * Managing Infrastructure |
 +---------------+----------------------------------------------+---------------------------+
 |      24       | Require the use of multi-factor              | User Management           |
 |               | authentication                               |                           |
@@ -104,8 +104,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | administrative access to the platform and    |                           |
 |               | remove default credentials                   |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      27       | Ensure that all devices are documented and   | Asset Management          |
-|               | accounted for throughout their lifecycle     | Managing Infrastructure   |
+|      27       | Ensure that all devices are documented and   | * Asset Management        |
+|               | accounted for throughout their lifecycle     | * Managing Infrastructure |
 +---------------+----------------------------------------------+---------------------------+
 |      28       | Utilize tamper evident seals on all external | Asset Management          |
 |               | ports that are not required for use and      |                           |
@@ -170,9 +170,9 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | algorithms and digital signatures where      |                           |
 |               | available                                    |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      44       | Ensure vendors distribute software packages  | Managing Remote           |
+|      44       | Ensure vendors distribute software packages  | * Managing Remote         |
 |               | and updates using secure protocols           |   Connections             |
-|               |                                              | Software Updates          |
+|               |                                              | * Software Updates        |
 +---------------+----------------------------------------------+---------------------------+
 |      45       | Maintain a chain of custody for all core     | Asset Management          |
 |               | devices                                      |                           |
@@ -210,8 +210,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | of which details the appropriate uses of the |                           |
 |               | system                                       |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      55       | For data transfers that utilize physical     | Asset Management          |
-|               | transmission, utilize tamper evident seals   | Removable Media           |
+|      55       | For data transfers that utilize physical     | * Asset Management        |
+|               | transmission, utilize tamper evident seals   | * Removable Media         |
 |               | on the exterior of the packaging             |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      56       | Disable wireless peripheral access of        | Managing Wireless         |
@@ -253,8 +253,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |      64       | Only use the devices for election related    |                           |
 |               | activities                                   |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      65       | Maintain detailed maintenance records of all | Asset Management          |
-|               | system components                            | Managing Infrastructure   |
+|      65       | Maintain detailed maintenance records of all | * Asset Management        |
+|               | system components                            | * Managing Infrastructure |
 +---------------+----------------------------------------------+---------------------------+
 |      66       | Limit the number of individuals with         | User Management           |
 |               | administrative access to the platform and    |                           |
@@ -263,8 +263,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |      67       | Utilize tamper evident seals on all external | Asset Management          |
 |               | ports that are not required for use          |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      68       | Ensure that all devices are documented and   | Asset Management          |
-|               | accounted for throughout their lifecycle     | Managing Infrastructure   |
+|      68       | Ensure that all devices are documented and   | * Asset Management        |
+|               | accounted for throughout their lifecycle     | * Managing Infrastructure |
 +---------------+----------------------------------------------+---------------------------+
 |      69       | Establish and follow rigorous protocol for   | Asset Management          |
 |               | installing tamper evident seals and          |                           |
@@ -282,9 +282,9 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | elections to help eliminate gaps in process  |                           |
 |               | and legal areas                              |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      73       | Identify and maintain information on network | Incident Response         |
-|               |  service providers and third-party companies |                           |
-|               |  contacts with a role in supporting election | Managing Vendors          |
+|      73       | Identify and maintain information on network | * Incident Response       |
+|               |  service providers and third-party companies | * Managing Vendors        |
+|               |  contacts with a role in supporting election |                           |
 |               |  activities                                  |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      74       | Implement a change freeze prior to peak      |                           |
@@ -337,6 +337,6 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | staff including vendors, consultants and     |   Managing Staff          |
 |               | contractors supporting the election process  |                           | 
 +---------------+----------------------------------------------+---------------------------+
-|      88       | Track all hardware assets used for           | Asset Management          |
-|               | transferring data throughout their lifecycle | Managing Infrastructure   |
+|      88       | Track all hardware assets used for           | * Asset Management        |
+|               | transferring data throughout their lifecycle | * Managing Infrastructure |
 +---------------+----------------------------------------------+---------------------------+

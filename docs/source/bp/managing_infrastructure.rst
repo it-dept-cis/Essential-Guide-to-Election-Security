@@ -54,7 +54,7 @@ Cost-Effective Tools
 * `Applocker <https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx>`_: Free Microsoft® Windows tool to identify and restrict the software that is allowed to run.
 * `Netwrix <https://www.netwrix.com>`_: Variety of free tools to identify information about administrative access on your systems.
 * `OpenAudIT <http://www.open-audit.org/>`_: Inventory applications and software on workstation servers and network devices.
-* CIS `Benchmarks <<https://www.cisecurity.org/benchmark>`_.
+* CIS `Benchmarks <https://www.cisecurity.org/benchmark>`_.
 * EMS Gateway `Benchmark <https://www.cisecurity.org/insights/blog/new-guidance-to-secure-election-management-system-machines>`_. 
 
 Mapping to CIS Controls and Safeguards

@@ -85,10 +85,10 @@ Organizations operating at a |Maturity3| maturity should take additional actions
 
 #. Consider having a focused workstream to identify and remediate MDM. This can include things like:
 
-  * Tracking hashtags, keywords, and other trends on various social media platforms.
-  * Following activity related to your election across a number of platforms, including smaller, niche apps.
-  * Contracting with a third party to provide these services for you.
-  * If a state, providing services for your locals.
+   * Tracking hashtags, keywords, and other trends on various social media platforms.
+   * Following activity related to your election across a number of platforms, including smaller, niche apps.
+   * Contracting with a third party to provide these services for you.
+   * If a state, providing services for your locals.
 
 Cost-Effective Tools
 **********************************************
