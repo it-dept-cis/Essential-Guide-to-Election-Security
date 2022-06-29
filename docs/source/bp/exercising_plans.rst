@@ -9,7 +9,7 @@
 
 Exercising a plan before it is needed is almost as important as having the plan in the first place. Virtually any type of plan can be exercised, including normal operations and in the face of network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
 
-Generally, you can either take part in exercises offered by others--such as a state election office or CISA--or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you may not have considered.
+Generally, you can either take part in exercises offered by others -- such as a state election office or CISA -- or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you may not have considered.
 
 Goals
 **********************************************

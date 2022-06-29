@@ -43,7 +43,7 @@ For |bp_title|, the necessary actions vary by maturity, as detailed below.
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-#. Make removable media sanitization a part of your larger media sanitization program. `NIST SP 800-88 <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`_ is the gold standard for such a program.
+#. Make removable media sanitization a part of your larger media sanitization program. NIST `SP 800-88 <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`_ is the gold standard for such a program.
 
 Cost-Effective Tools
 **********************************************

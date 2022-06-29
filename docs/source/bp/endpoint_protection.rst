@@ -37,8 +37,6 @@ Goals
 Actions
 **********************************************
 
-The EI-ISAC offers EDR services at no charge to state and local election offices. Election offices should contact the |eiisac_email| for more information.
-
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
@@ -51,6 +49,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 #. Take advantage of vendor-offered user training for usage of EDR tools, including when you sign up for the EI-ISAC EDR program.
 #. Implement best practices for EDR:
+
    * Delegate personnel to monitor and act on detections.
    * Export information regularly from the control panel to local hardware backups, so you always have access to data needed for audits and investigations.
    * Consider available staffing resources to support any new security infrastructure and the associated responsibilities. Many EDR providers offer solutions supported by a 24×7 team to manage and respond to identified incidents.

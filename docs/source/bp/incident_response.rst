@@ -7,9 +7,9 @@
 |bp_title|
 ----------------------------------------------
 
-Incidents can take all shapes. From power failures to flooding to malicous cyber attacks, incidents occur. While the type of incident and sophistication of the threat actors plays a major role in the outcomes, often the difference between minor and severe consequences have more to do with how you prepare for and respond to the incident. 
+From power failures to flooding to malicous cyber attacks, incidents occur. While the type of incident and sophistication of the threat actors plays a major role in the outcomes, often the difference between minor and severe consequences have more to do with how you prepare for and respond to the incident. 
 
-A good response to an incident gets you back up and running more quickly. To respond well to an incident, you have to plan well. This means developing written plans--often call incident response plans, disaster recovery plans, or business continuity plans. It also means testing those plans through exercises.
+To get back up and running quickly after an incident, you have to plan well. This means developing written plans -- often called incident response plans, disaster recovery plans, or business continuity plans. It also means testing those plans through exercises.
 
 Goals
 **********************************************
@@ -34,9 +34,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
    * Identify and prioritize critical systems.
    * There are many resources available to help you out, including:
 
-     * The Belfer Center's Election `Playbook <https://www.belfercenter.org/publication/elections-battle-staff-playbook>`_.
      * The Election Assistance Commission's `tips <https://www.eac.gov/documents/2017/08/03/six-tips-contingency-and-disaster-planning-eac>`_ for disaster planning.
      * CISA's Incident Response `Support for Election Partners <https://www.cisa.gov/sites/default/files/publications/incident_handling_elections_final_508_0.pdf>`_.
+     * The Belfer Center's Election `Playbook <https://www.belfercenter.org/publication/elections-battle-staff-playbook>`_.
 
 #. :doc:`Exercise your plan <exercising_plans>` regularly. At least once a year; before each election is better.
 #. When an incident does occur, execute your plan.
