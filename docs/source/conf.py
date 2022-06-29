@@ -78,8 +78,8 @@ master_doc = 'index'
 # General information about the project.
 project = 'Essential Guide to Election Security'
 copyright = '{}, Center for Internet Security'.format(datetime.date.today().year)
-owner = 'Center for Internet Security'
-author = 'EI-ISAC Best Practices Team'
+# owner = 'Center for Internet Security'
+author = 'Center for Internet Security'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -301,7 +301,7 @@ latex_preamble = r'''
     \fancyhf{}
     \fancyfoot[LE,RO]{{\py@HeaderFamily\thepage}}
 % add copyright stuff
-    \fancyfoot[LO,RE]{{\textcopyright\ 2022 \@owner}}
+    \fancyfoot[LO,RE]{{\textcopyright\ 2022 \@author}}
 % again original stuff
     \fancyhead[LE,RO]{{\py@HeaderFamily \py@release}}
     \renewcommand{\headrulewidth}{0.4pt}
