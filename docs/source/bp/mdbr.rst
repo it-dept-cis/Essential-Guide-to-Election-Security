@@ -46,7 +46,7 @@ The EI-ISAC hosts all reporting data, including both successful and blocked DNS 
   * Reporting contact(s) for receiving reports on your MDBR service
   * Public IP addresses or CIDR netblocks from which your organization’s DNS queries are sent
 
-* If you aren't an MS-ISAC or EI-ISAC member, _`join today <join_ei_isac>`!
+* If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>`!
 
 Cost-Effective Tools
 **********************************************

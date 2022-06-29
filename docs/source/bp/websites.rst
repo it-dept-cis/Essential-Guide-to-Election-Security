@@ -7,7 +7,7 @@
 |bp_title|
 ===========================
 
-An election office's website is often the first and most important source of information for voter, the media, and other interested parties. It is extremely important to have a secure website that prevents attacks, looks official, and provides critical information.
+An election office's website is often the first and most important source of information for voters, the media, and other interested parties. It is extremely important to have a secure website that is resistant to attacks and provides critical information with an official, professional manner and appearance.
 
 Introduction
 ------------
@@ -38,7 +38,7 @@ Typically, these attacks target webservers in order to overwhelm the webserverâ€
 Typosquatting
 `````````````````````````
 
-Typosquatting attempts to take advantage of errors users might make when URLs are typed directly into the address bar. Similarly, malicious actors may seek to trick users into taking a quick glance at a URL into opening a visually similar yet malicious link.
+Typosquatting attempts to take advantage of errors users might make when URLs are typed directly into the address bar. Similarly, malicious actors may seek to trick users into taking a quick glance at a URL and opening a visually similar yet malicious link.
 
 Website defacements
 `````````````````````````````````
@@ -50,7 +50,7 @@ While in most cases they seem to be simply a nuisance, website defacements pose 
 Goals
 -----
 
-#. Move your website to the .gov top-level domain and why it is important (|Maturity1| maturity)
+#. Move your website to the .gov top-level domain (|Maturity1| maturity)
 #. Use HTTPS everywhere (|Maturity1| maturity)
 #. Prevent denial of service attacks (|Maturity1| maturity)
 #. Understand typosquatting and what to do about it (|Maturity1| maturity)
@@ -69,9 +69,9 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
    * Effectively managing a website can be difficult, but the good news is that you can mitigate many of the risks with one simple step: getting a .gov domain. A .gov domain automatically provides HTTPS and reduces the likelihood of your constituents confusing other websites for yours.
 
-#. Stop DOS attacks by using no-cost tools.
+#. Stop denial-of-service (DOS) attacks by using no-cost tools.
 
-   * Tools include those from from `Cloudflare <https://www.cloudflare.com/athenian/>`_ and `Google <https://projectshield.withgoogle.com/landing>`_ will mitigate instances of these attacks.
+   * Tools, including those from from `Cloudflare <https://www.cloudflare.com/athenian/>`_ and `Google <https://projectshield.withgoogle.com/landing>`_, will mitigate instances of these attacks.
    * Learn more through the EI-ISAC's `Guide to DDoS Attacks <https://www.cisecurity.org/insights/white-papers/technical-white-paper-guide-to-ddos-attacks>`_.
 
 #. Reduce the risk of typosquatting by:

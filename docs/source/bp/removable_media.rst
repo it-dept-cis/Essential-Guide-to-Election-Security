@@ -7,7 +7,7 @@
 |bp_title|
 ----------------------------------------------
 
-While removable media such as :term:`USB` drives and :term:`PCMCIA` cards are going extinct in most IT environments, they are still an important tool where not some machines are not network connected.
+While removable media such as :term:`USB` drives and :term:`PCMCIA` cards are going extinct in most IT environments, they are still an important tool for environments in which some machines are not network connected.
 
 In the election environment, the election management system and voting systems typically have no network connections and are not on the internet, so removable media remains a part of everyday life.
 
@@ -16,7 +16,7 @@ While keeping hardware and software off of networks can eliminate certain threat
 Goals
 **********************************************
 
-#. Understand media sanitization (|Maturity1| maturity)
+#. Employ appropriate media sanitization (|Maturity1| maturity)
 #. Effectively use removable media in the election environment (|Maturity1| maturity)
 
 Actions
@@ -27,11 +27,16 @@ For |bp_title|, the necessary actions vary by maturity, as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-It's best to use removable media only once. This could mean using a :term:`CD-R`, :term:`DVD-R`, or other once-write media, but that can be difficult with today's machines.
+#. Wherever possible, use removable media only once. This could mean using a :term:`CD-R`, :term:`DVD-R`, or other once-write media, but that can be difficult with today's machines.
+#. Instead, use :term:`USB` sticks or other removable media like flash cards. 
 
-Instead, use :term:`USB` sticks or other removable media like flash cards. If your budget can sustain it, use them once. If not, follow a media sanitization guide to reduce the risk of introducing :term:`malware` into your non-networked machines.
+   * If your budget can sustain it, use them once. If not, follow a media sanitization guide to reduce the risk of introducing :term:`malware` into your non-networked machines.
 
-Also, be sure to source your removable media from trusted sources or, if you can't, the consumer market, like a big box store where there's enough volume that it would be difficult to target you as an election office. CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_ offers :term:`USB` sticks and other products from vetted vendors.
+#. Source your removable media from trusted sources or, if you can't, the consumer market, like a big box store where there's enough volume that it would be difficult to target you as an election office. 
+
+   * CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_ offers USB sticks and other products from vetted vendors.
+
+#. Regardless of all other guidance, be sure to follow the guidance and directives of their chief election official and voting system vendor.
 
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
