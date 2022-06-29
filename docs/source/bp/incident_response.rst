@@ -38,7 +38,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
      * The Election Assistance Commission's `tips <https://www.eac.gov/documents/2017/08/03/six-tips-contingency-and-disaster-planning-eac>`_ for disaster planning.
      * CISA's Incident Response `Support for Election Partners <https://www.cisa.gov/sites/default/files/publications/incident_handling_elections_final_508_0.pdf>`_.
 
-#. Exercise your plan regularly. At least once a year; before each election is better.
+#. :doc:`Exercise your plan <exercising_plans>` regularly. At least once a year; before each election is better.
 #. When an incident does occur, execute your plan.
 
    * The EI-ISAC is here to help during an incident. Contact |soc_email|. 
