@@ -2,7 +2,7 @@
   created by: mike garcia
   to: provide a map from maturities to best practices. this is a shortcut for all maturities. individual pointers should exist in each maturity and this is a summary of them
 
-Prioritzing Best Practices
+Prioritizing Best Practices
 ----------------------------------------------
 
 No one wants to suffer a cybersecurity incident. The intent to protect networks is universal, but resource limitations leave many organizations facing perhaps the most difficult question in all of cybersecurity: What do I do next?
