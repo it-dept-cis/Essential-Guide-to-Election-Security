@@ -45,7 +45,7 @@ Together, these fulfill all of the |Maturity1| baseline priorities. In the table
 +------------------------------+------------------------------------------------------------------------------------------------+
 | Backup & Recovery            | :ref:`Backups <backups-maturity-one>`  (Action #1)                                             |
 +------------------------------+------------------------------------------------------------------------------------------------+
-| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`  (Actions #1 and $4)                 |
+| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`  (Actions #1 and #4)                 |
 +------------------------------+------------------------------------------------------------------------------------------------+
 | Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`  (Actions #2 and #3)          |
 +------------------------------+------------------------------------------------------------------------------------------------+
