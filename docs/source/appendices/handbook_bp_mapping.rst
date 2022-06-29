@@ -6,7 +6,7 @@ Mapping to the Handbook for Election Infrastructure Security
 ------------------------------------------------------------
 
 +---------------+----------------------------------------------+---------------------------------+
-| Handbook BP # |	Handbook BP Title                            | Essential Guide BP              |
+| Handbook BP # | Handbook Best Practice Title                 | Essential Guide Best Practice   |
 +===============+==============================================+=================================+
 |      1        | Whitelist which IPs can access the device    |                                 |
 +---------------+----------------------------------------------+---------------------------------+

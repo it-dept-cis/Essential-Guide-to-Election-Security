@@ -13,7 +13,7 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Advanced Encryption Standard
 
    CDM
-     :term:`Community Defense Model``
+     :term:`Community Defense Model`
 
      Continuous Diagnostics and Mitigation
 

@@ -41,10 +41,10 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-#. Leverage the a CIS `Benchmark <https://www.cisecurity.org/cis-benchmarks/>`_ on workstation management for your operating systems. This will allow for maintenance of a secure configuration process for network infrastructure.
+#. Leverage the `CIS Benchmark <https://www.cisecurity.org/cis-benchmarks/>`_ on workstation management for your operating systems. This will allow for maintenance of a secure configuration process for network infrastructure.
 
    * Choose stricter security levels for systems with sensitive functions.
-   * Consider `CIS benchmarks <https://www.cisecurity.org/benchmark>`_ for servers, desktops, laptops, mobile devices, and software on systems.
+   * Consider `CIS Benchmarks <https://www.cisecurity.org/cis-benchmarks/>`_ for servers, desktops, laptops, mobile devices, and software on systems.
    * Use the :term:`EMS` Gateway `Benchmark <https://www.cisecurity.org/insights/blog/new-guidance-to-secure-election-management-system-machines>`_ for machines that, through removable media, exchange data with the EMS.
    * Uninstall or disable unnecessary services on enterprise assets and software
 
@@ -54,7 +54,7 @@ Cost-Effective Tools
 * `Applocker <https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx>`_: Free Microsoft® Windows tool to identify and restrict the software that is allowed to run.
 * `Netwrix <https://www.netwrix.com>`_: Variety of free tools to identify information about administrative access on your systems.
 * `OpenAudIT <http://www.open-audit.org/>`_: Inventory applications and software on workstation servers and network devices.
-* CIS `Benchmarks <https://www.cisecurity.org/benchmark>`_.
+* `CIS Benchmarks <https://www.cisecurity.org/cis-benchmarks/>`_.
 * EMS Gateway `Benchmark <https://www.cisecurity.org/insights/blog/new-guidance-to-secure-election-management-system-machines>`_. 
 
 Mapping to CIS Controls and Safeguards
