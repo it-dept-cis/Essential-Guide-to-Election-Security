@@ -58,8 +58,8 @@ You can use this table as a checklist to help track your progress.
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Managing Wireless Networks                 |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|      | Network Monitoring and Intrusion Detection |   Out of    |     In      |     In      |
-|      |                                            |   scope     |     In      |     In      |
+|      | Network Monitoring and Intrusion Detection |   Out of    |  In scope   |  In scope   |
+|      |                                            |   scope     |             |             |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Patching and Vulnerability Management      |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+

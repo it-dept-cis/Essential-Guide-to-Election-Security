@@ -29,56 +29,30 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 Together, these fulfill all of the |Maturity1| baseline priorities. In the table below, the left column is the name of a |Maturity1| maturity worksheet described :doc:`here <../appendices/worksheets>`. On that page you can download one file with all ten worksheets. The middle column gives the relevant best practice in this Guide for the worksheet tab, and the right columns lists the actions within that best practice that are fulfilled by completing the worksheet tab. 
 
-.. list-table:: |Maturity1| Maturity Worksheet Mapping to this Guide's Best Practices
-   :header-rows: 1
++------------------------------+-------------------------------------------------------------------------------+
+| Worksheet                    | Best Practice (Actions from the Best Practice Adressed by the Worksheet)      |
++==============================+===============================================================================+
+| * Hardware Inventory         |                                                                               |
+| * Software Inventory         |                                                                               |
+| * Data Inventory             | :ref:`Asset Management <asset-management-maturity-one>` (Action #1)           |
+| * Service Provider Inventory |                                                                               |
+| * Account Inventory          |                                                                               |
++------------------------------+-------------------------------------------------------------------------------+
+| Asset Protection             | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` (All Actions) |
+|                              | & :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>`       |
+|                              | (Actions #1 and #2)                                                           |
++------------------------------+-------------------------------------------------------------------------------+
+| Account Security             | :ref:`User Management <user-management-maturity-one>` (All Actions under User |
+|                              | Recommendations)                                                              |
++------------------------------+-------------------------------------------------------------------------------+
+| Backup & Recovery            | :ref:`Backups <backups-maturity-one>`                                         |
++------------------------------+-------------------------------------------------------------------------------+
+| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`                     |
++------------------------------+-------------------------------------------------------------------------------+
+| Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`              |
++------------------------------+-------------------------------------------------------------------------------+
 
-   * - Worksheet
-     - Best Practice
-     - Actions from the Best Practice Adressed by the Worksheet
-   * - Inventory worksheets:
-       * Hardware
-       * Software
-       * Data
-       * Service Provider
-       * Account
-     - :ref:`Asset Management <asset-management-maturity-one>`
-     - #1
-   * - Asset Protection
-     - Best practices:
-       * :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>`
-       * :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>`
-     - Actions:
-       * All
-       * #1 and #2 
-
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Worksheet                    | Best Practice                                                         | Actions from the  |
-|                              |                                                                       | Best Practice     |
-|                              |                                                                       | Addressed by      |
-|                              |                                                                       | the Worksheet     |
-+==============================+=======================================================================+===================+
-| * Hardware Inventory         |                                                                       |                   |
-| * Software Inventory         |                                                                       |                   |
-| * Data Inventory             | :ref:`Asset Management <asset-management-maturity-one>`               | #1                |
-| * Service Provider Inventory |                                                                       |                   |
-| * Service Provider Inventory |                                                                       |                   |
-| * Account Inventory          |                                                                       |                   |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Asset Protection             | :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` &     | All               |
-|                              | :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>` | #1 and #2         |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Account Security             | :ref:`User Management <user-management-maturity-one>`                 | All User          |
-|                              |                                                                       | Recommendations   |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Backup & Recovery            | :ref:`Backups <backups-maturity-one>`                                 | All               |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`             | All               |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-| Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`      | All               |
-+------------------------------+-----------------------------------------------------------------------+-------------------+
-
-
-While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each worksheet is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
+While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each :doc:`worksheet <../appendices/worksheets>` is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
 
 .. _maturity-one-maturity-election-priorities:
 
