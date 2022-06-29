@@ -38,8 +38,8 @@ User Recommendations
 ^^^^^^^^^^^^^^^^^^^^
 
 #. Do not reuse passwords across multiple platforms, systems, or software. This includes never using the same login credentials for work and personal use.
-#. Never use personal information, such as your name, children’s names, dates of birth, etc. that someone might already know or can easily obtain.
-#. Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols. An example of a good passphrase is "blender sauté pendant chair."
+#. Never use personal information, such as your name, children’s names, dates of birth, etc., that someone might already know or can easily obtain.
+#. Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols. An example of a good passphrase is "blender saute pendant chair."
 #. Use a password manager, and protect access to it with MFA.
 
 Organizational Recommendations
@@ -50,7 +50,7 @@ Organizational Recommendations
 #. Store all passwords and passphrases using :term:`salting` and :term:`hashing` functions and **not** with reversible :term:`encryption`. Make sure your vendors do the same.
 #. Set login thresholds to 10 or fewer invalid login attempts before locking the user out and increase the interval between a failed attempt and allowing the next attempt. Log and monitor all login attempts.
 #. Ban or limit shared or generic accounts. In some environments, like with an e-pollbook, it might not be possible or practical to do this. Instead, rotate passwords, passcodes, and biometrics (like TouchID) when reasonable, like with each election.
-#. Employ least privilege by only giving a user access to the devices, applications, and services they need to do their jobs. This limits the damage that may be caused by take over of any single account. This is particularly important for any account with administrative access to sensitive network controls or confidential materials.
+#. Employ least privilege by only giving a user access to the devices, applications, and services they need to do their jobs. This limits the damage that may be caused by takeover of any single account. This is particularly important for any account with administrative access to sensitive network controls or confidential materials.
 #. Review individuals’ access and revoke any unnecessary or inappropriate access. Establish a plan to do this regularly, and make it part of the offboarding and job change processes to ensure that user has access to what they need and nothing else.
 #. Employ user logging on your networks. You should be able to see whenever a user logs into a device or network. Maintain records of these logs.
 #. Allow and encourage use of password managers.

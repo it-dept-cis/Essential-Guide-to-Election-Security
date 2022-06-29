@@ -1,12 +1,9 @@
 ..
   Created by: mike garcia
-  On: 1/26/2022
   To: Provide instructions and helpful tips on how to use EGES as a tool to improve cybersecurity posture
 
-Appendix: How to Use the Essential Guide to Election Security
----------------------------------------------------------------------
-
-[still in development]
+How to Use the Essential Guide to Election Security
+---------------------------------------------------
 
 You can navigate the document online by using the navigation panel at the left or the previous and next links at the bottom of each page.
 

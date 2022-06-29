@@ -36,6 +36,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
    * You can use the |Maturity1| maturity :ref:`Asset Protection worksheet <cybersecurity-action-worksheets>` as a template to track your work. 
    * The :ref:`cost effective tools <encrypt-data-at-rest-cost-effective-tools>` section below may help, depending on the types of systems you have in your environment.
 
+#. Encrypt backups. Use the :doc:`backups <backups>` best practice as a guide.
+
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

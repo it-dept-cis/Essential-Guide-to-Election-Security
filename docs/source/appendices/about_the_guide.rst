@@ -2,8 +2,8 @@
   Created by: mike garcia
   To: Provide background on the EGES including history of Handbook
 
-Appendix: About the Essential Guide to Election Security
---------------------------------------------------------
+About the Essential Guide to Election Security
+----------------------------------------------
 
 When `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_ was published in 2018, election officials had much less guidance to rely on. Today, they often have the opposite problem: an enormous amount of guidance to navigate. With so much guidance and so many tools and approaches available, it's difficult for any given election official to know what will best work for them. 
 
@@ -12,7 +12,7 @@ This Guide aims to solve that problem and aid the process of building a program 
 .. _why-does-this-guide-look-like-a-webpage:
 
 Why does this Guide look like a webpage? (Or does it??)
--------------------------------------------------------
+*******************************************************
 
 You might be reading this online. Or you might be reading a PDF. If the latter, it's because your PDF was built from an online version. Here's why we're keeping all of the content for the Guide online:
 
@@ -27,7 +27,7 @@ Instead, we decided to create this dynamic, always up-to-date online Guide. It c
 We can also embed and link to more engaging content like videos and examples. When best practices change, officials face new risks, or different resources become available, we can quickly update the Guide to reflect the new state of the world.
 
 What's Changed
--------------------------
+**************
 
 Election offices operate in an environment heavy on information technology (:term:`IT`). The teams administering elections have been protecting these environments for decades. Still, as the threats evolve and the measures for mitigating IT risk increase in complexity, their task becomes ever more difficult.
 
@@ -40,8 +40,8 @@ The EI-ISAC received positive feedback from the election community on the Handbo
 #. The Election Infrastructure Information Sharing and Analysis Center (:term:`EI-ISAC`) has greatly increased the number of freely available tools and services for election offices across the country.
 #. Since releasing the Handbook, the EI-ISAC has developed a series of `best practice guides <https://www.cisecurity.org/elections>`_ and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
 
-   #. A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
-   #. A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
+   * A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
+   * A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
 
 #. Election officials have made significant strides in meeting today’s threats, but uneven and insufficient funding has caused a wide array of differences in cybersecurity postures.
 #. The nature of threats has changed. In 2016, nation-state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.
@@ -49,7 +49,7 @@ The EI-ISAC received positive feedback from the election community on the Handbo
 
 
 How is this version different?
------------------------------------
+******************************
 
 These changes to the election ecosystem warrant a rethinking of the original Handbook. Developed in collaboration with federal partners, state and local election officials, and election technology providers, this update takes several major steps to address this continual evolution of the election space:
 
@@ -63,7 +63,7 @@ These changes to the election ecosystem warrant a rethinking of the original Han
 In addition to these, there are many minor updates we hope improve the usability of this Guide, allowing it to serve as an effective tool for every election office regardless of size, resources, or technical sophistication.
 
 We Love Feedback
-----------------
+****************
 
 We'll take feedback at any time. Provide feedback 1 of 2 ways:
 

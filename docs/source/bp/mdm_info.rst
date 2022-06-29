@@ -40,15 +40,16 @@ At |Maturity1| maturity, simple steps can help you manage misinformation and add
 Preparing for Mis-, Dis-, and Malinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Set up multi-factor authentication to protect social media accounts from compromise.
+#. Set up :term:`multi-factor authentication` to protect social media accounts from compromise.
 #. Use public forums to actively counter misinformation.
-#. Regularly publish official messaging about the state of your election infrastructure, responding with accurate information as quickly as possible. This rapid response is even more important as an election nears.
+#. Regularly publish official messaging about the state of your election infrastructure.
 #. Work with local media to promote official sources of information.
 
 Remediating Misinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Track important information by, for instance, following your county name and the names of your election official and other public figures.
+#. Respond to inaccurate information with accurate information as quickly as possible. This rapid response is even more important as an election nears.
 #. Election officials can report identified misinformation to misinformation@cisecurity.org. 
 
    * Report anything on social media that’s about your jurisdiction, pertains to the administration or security of an election in the United States, and is inaccurate or misleading.
@@ -84,10 +85,10 @@ Organizations operating at a |Maturity3| maturity should take additional actions
 
 #. Consider having a focused workstream to identify and remediate MDM. This can include things like:
 
-  #. Track hashtags, keywords, and other trends on various social media platforms.
-  #. Follow activity related to your election across a number of platforms, including smaller, niche apps.
-  #. Contract with a third party to provide these services for you.
-  #. If a state, provide services for your locals.
+   * Tracking hashtags, keywords, and other trends on various social media platforms.
+   * Following activity related to your election across a number of platforms, including smaller, niche apps.
+   * Contracting with a third party to provide these services for you.
+   * If a state, providing services for your locals.
 
 Cost-Effective Tools
 **********************************************

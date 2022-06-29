@@ -35,12 +35,14 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and consistent manner.
 
-Devices and applications will often make patches available via a diagnostic menu or administrative console. Each device or application will be different, and this may require research. Not all systems used in elections can be patched immediately. Particularly when patching voting systems, be sure to consider your state’s or the U.S. Election Assistance Commission’s (:term:`EAC`) System Certification Process and account for scheduled primary and election day system configuration freezes.
+Not all systems used in elections can be patched immediately. Particularly when patching voting systems, be sure to consider your state’s or the U.S. Election Assistance Commission’s (:term:`EAC`) System Certification Process and account for scheduled primary and election day system configuration freezes.
 
 #. Verify that all software used in the office is supported by an active development company. If not, update or replace the software. Only download patches from authoritative sources.
 #. Patch all operating systems on a regular timetable.
 
-   * Every organization is different, but it's often best to start patching your operating systems first, and then move to your software applications. Systems should be set to update by automatically. Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
+   * It's usually best to patch your operating systems first, and then move to your software applications. Systems should be set to update by automatically. 
+   * Network devices also need to receive software updates, but this may require a consultation with IT staff or contractors before it's agreed to patch these devices.
+   * Devices and applications will often make patches available via a diagnostic menu or administrative console. Each device or application will be different, and this may require some research.
 
 #. Patch all software applications on a regular timetable.
 #. Where complex or mission critical systems are used, test and verify patches before patching production systems. 
@@ -55,10 +57,10 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 
    * When creating a patch management program for your office, begin by understanding all the hardware and software assets that you are responsible for by conducting :doc:`Asset Management <asset_management>`. Then implement a conssistent process that:
 
-     * Readily identifies patches as they become available;
-     * Prioritizes patches for known vulnerable systems;
-     * Downloads patches from authoritative sources;
-     * Tests and verifies patches in the operating environment; and
+     * Readily identifies patches as they become available.
+     * Prioritizes patches for known vulnerable systems.
+     * Downloads patches from authoritative sources.
+     * Tests and verifies patches in the operating environment.
      * Applies appropriately tested patches to vulnerable systems.
 
 For more comprehensive recommendations and technical insight on this topic, please see the MS-ISAC’s Technical White Paper `Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`_.

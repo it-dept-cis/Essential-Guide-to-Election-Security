@@ -2,8 +2,8 @@
   Created by: mike garcia
   To: index/toc for appendices
 
-Appendix: Index of Appendices
---------------------------------------
+Index of Appendices
+-------------------
 
 The Essential Guide to Election Security includes several appendices to provide additional information that may be helpful to users. 
 

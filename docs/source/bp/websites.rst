@@ -96,6 +96,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Establish a vulnerability management program (:term:`VDP`): A VDP is a formalized process to receive, validate, remediate, and communicate vulnerability information identified by security researchers on specific technology systems.
+
    * By working with external security researchers, organizations can broaden their vulnerability management efforts and remake them as a continuous process—all while saving time and money.
    * The EI-ISAC offers a VDP that makes it easier for election offices to create and operate a VDP. Contact elections-vdp@cisecurity.org for more information.
 
@@ -111,7 +112,6 @@ Learn More
 ----------
 
 * `Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`_
-* `Defending the 2018 Midterm Elections from Foreign Adversaries <https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Joshua-Franklin-and-Kevin-Franklin-Defending-the-2018-Midterm-Elections.pdf>`_
 
 Mapping to CIS Controls and Safeguards
 ---------------------------------------
