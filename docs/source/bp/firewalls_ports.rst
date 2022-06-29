@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Firewalls and Port Restrictions
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -71,7 +66,5 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 41, 42
-
------------------------------------------------
 
 .. _CIS Benchmark: https://www.cisecurity.org/cis-benchmarks/

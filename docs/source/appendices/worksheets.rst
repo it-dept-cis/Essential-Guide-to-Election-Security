@@ -2,11 +2,6 @@
   Created by: mike garcia
   To: serve as a placeholder for linking to all worksheets
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |Maturity1| Worksheets
 =========================
 
@@ -16,7 +11,7 @@ Completing these worksheets provides the :ref:`baseline priorities <maturity-one
 
 A organization at the |Maturity1| maturity will still want to complete the |Maturity1| :ref:`election priorities <maturity-one-maturity-election-priorities>`.
 
-Each worksheet in the set is described below. Download the full set of worksheets in :download:`xlsx <../_downloads/EGES_level_1_baseline_wksts.xlsx>`.
+There are 10 total worksheets. Download the full set of worksheets in `Excel format`_.
 
 .. _IT-inventory-worksheets:
 
@@ -44,4 +39,4 @@ There are five worksheets about taking action on cybersecurity in your office. E
 #. Incident response
 #. Cyber education
 
---------------------------------------
+.. _`Excel format`: https://cis-essential-guide-to-election-security.readthedocs.io/en/latest/_worksheets/EGES_level_1_baseline_wksts.xlsx

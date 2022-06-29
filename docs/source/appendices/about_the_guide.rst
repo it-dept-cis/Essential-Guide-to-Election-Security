@@ -5,7 +5,7 @@
 Appendix: About the Essential Guide to Election Security
 --------------------------------------------------------
 
-When `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_ was published in 2018, election officials had much less guidance to rely on. Today, they often have the opposite problem: an enormous amount of guidance to navigate. With so much guidance and so many tools and approaches available, it's difficult for any given election official to know what will best work for them.
+When `The Handbook for Election Infrastructure Security <https://www.cisecurity.org/elections>`_ was published in 2018, election officials had much less guidance to rely on. Today, they often have the opposite problem: an enormous amount of guidance to navigate. With so much guidance and so many tools and approaches available, it's difficult for any given election official to know what will best work for them. 
 
 This Guide aims to solve that problem and aid the process of building a program designed to meet the individual needs and abilities of any given election office.
 
@@ -44,7 +44,7 @@ The EI-ISAC received positive feedback from the election community on the Handbo
    #. A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
 
 #. Election officials have made significant strides in meeting today’s threats, but uneven and insufficient funding has caused a wide array of differences in cybersecurity postures.
-#. The nature of threats has changed. In 2016, national state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.
+#. The nature of threats has changed. In 2016, nation-state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.
 #. Mis-, dis-, and mal-information (:term:`MDM`) has become one of the thorniest and most pervasive threats to democracy and election officials need guidance on mitigating misinformation and threats and harassment of election officials. This includes many types of MDM, including about the administration of a specific election, issue- and candidate-based, and delegitimization of election results.
 
 
@@ -53,7 +53,7 @@ How is this version different?
 
 These changes to the election ecosystem warrant a rethinking of the original Handbook. Developed in collaboration with federal partners, state and local election officials, and election technology providers, this update takes several major steps to address this continual evolution of the election space:
 
-#. We’ve developed a more rigorous maturity model. The original Handbook simply listed high, medium and low priorities for each of the 88 best practices. This roughly said what in what order to do things, but didn't account for a given jurisdiction's resources or capabilities. We now have three maturities and a decision tree for finding an organization’s fit. For any best practice, the approach to implementation adresses whether, for instance, the office has limited technical expertise or well-trained teams of IT security specialists. These are described in detail in the :doc:`../maturity/maturities` section.
+#. We’ve developed a more rigorous maturity model. The original Handbook simply listed high, medium and low priorities for each of the 88 best practices. This gave a rough order in which to implement best practices, but didn't account for a given jurisdiction's resources or capabilities. We now have three maturities and a decision tree for finding an organization’s fit. For any best practice, the approach to implementation addresses whether, for instance, the office has limited technical expertise or well-trained teams of IT security specialists. These are described in detail in the :doc:`../maturity/maturities` section.
 #. We've incorporated new best practices that cover the many threats and opportunities that have emerged,  like around managing mis-, dis- and mal-information (:term:`MDM`) and free services. We'll continue adding and evolving guidance as necessary.
 #. For each best practice, we've provided more information on what actions to take and how to get the job done, so even readers with the least technical knowledge know how to get started.
 #. We’ve added a substantial listing of available resources and additional direction throughout the best practices.
@@ -71,5 +71,3 @@ We'll take feedback at any time. Provide feedback 1 of 2 ways:
 #. If you're familiar with GitHub, we'd love to get feedback through issues and pull requests. You can get to the repo through the menu in the bottom left of any Read The Docs page (hover over "v:latest" and hit "view" under "On Github"). Feel free to fork the repo and create a PR when you're ready, or directly add issues to the repo with the tag "community review."
 
 Thank you!
-
------------------------

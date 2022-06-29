@@ -17,56 +17,55 @@ You can use this table as a checklist to help track your progress.
 
 +------+--------------------------------------------+-----------------------------------------+
 |      |                                            |           Maturity Priorities           |
-|      |           Best Practice                    +-------------+-------------+-------------+
+|  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|  ▢   | Asset Management                           |  Priority   |  Priority   |  Priority   |
+|      | Addressing Physical Threats                |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Backups                                    |  Priority   |  Priority   |  Priority   |
+|      | Asset Management                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Implementing the CIS Controls              |     In      |     In      |     In      |
+|      | Backups                                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
+|      | Building and Managing Staff                |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Endpoint Protection                        |     In      |     In      |     In      |
+|      | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Exercising Plans                           |     In      |     In      |     In      |
+|      | Endpoint Protection                        |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Firewalls and Port Restrictions            |     In      |  Priority   |  Priority   |
+|      | Exercising Plans                           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Formal Cybersecurity Assessments           |     In      |     In      |     In      |
+|      | Firewalls and Port Restrictions            |  In scope   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Incident Response                          |  Priority   |  Priority   |  Priority   |
+|      | Formal Cybersecurity Assessments           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
+|      | Implementing the CIS Controls              |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Manage Remote Connections                  |     In      |  Priority   |  Priority   |
+|      | Incident Response                          |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Building and Managing Staff                |  Priority   |  Priority   |  Priority   |
+|      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Vendors                           |     In      |     In      |     In      |
+|      | Malicious Domain Blocking & Reporting      |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Infrastructure                    |  Priority   |  Priority   |  Priority   |
+|      | Managing Infrastructure                    |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Malicious Domain Blocking & Reporting      |     In      |     In      |     In      |
+|      | Managing Mis-, Dis-, and Malinformation    |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Mis-, Dis-, and Malinformation    |     In      |     In      |     In      |
+|      | Managing Remote Connections                |  In scope   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Network Monitoring and Intrusion Detection |     Out     |     In      |     In      |
+|      | Managing Removable Media                   |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Public Facing Network Scanning             |     In      |     In      |     In      |
+|      | Managing Vendors                           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Removable Media                   |     In      |     In      |     In      |
+|      | Managing Wireless Networks                 |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Software Updates                           |     In      |     In      |     In      |
+|      | Network Monitoring and Intrusion Detection |   Out of    |     In      |     In      |
+|      |                                            |   scope     |     In      |     In      |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | User Management                            |  Priority   |  Priority   |  Priority   |
+|      | Patching and Vulnerability Management      |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Website Security                           |     In      |     In      |     In      |
+|      | Public Facing Network Scanning             |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Managing Wireless Networks                 |     In      |     In      |     In      |
+|      | User Management                            |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-|  ▢   | Addressing Physical Threats                |     In      |     In      |     In      |
+|      | Website Security                           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
-
------------------------------------------------

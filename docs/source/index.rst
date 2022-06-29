@@ -20,31 +20,31 @@ The EI-ISAC's Essential Guide to Election Security
    :caption: Best Practices
 
    bp/bp_index
+   bp/physical_threats
    bp/asset_management
    bp/backups
-   bp/cis_controls
+   bp/managing_staff
    bp/encrypt_data_at_rest
    bp/endpoint_protection
    bp/exercising_plans
    bp/firewalls_ports
    bp/formal_assessment
+   bp/cis_controls
    bp/incident_response
    bp/join_ei_isac
-   bp/manage_remote_connections
-   bp/managing_staff
-   bp/managing_vendors
-   bp/managing_infrastructure
    bp/mdbr
+   bp/managing_infrastructure
    bp/mdm_info
-   bp/network_monitoring
-   bp/physical_threats
-   bp/public_asset_scanning
+   bp/managing_remote_connections
    bp/removable_media
-   bp/software_updates
+   bp/managing_vendors
+   bp/wireless_management
+   bp/network_monitoring
+   bp/patching_vuln_management
+   bp/public_asset_scanning
    bp/user_management
    bp/websites
-   bp/wireless_management
-
+   
 .. bp/working_with_IT
 
 .. toctree::

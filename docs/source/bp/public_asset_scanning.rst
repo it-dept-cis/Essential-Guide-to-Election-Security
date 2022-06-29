@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Public-Facing Network Scanning
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -69,5 +64,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 2, 19
-
------------------------------------------------

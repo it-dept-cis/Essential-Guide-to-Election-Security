@@ -2,32 +2,21 @@
   Created by: mike garcia
   To: Incident Response
 
-.. |bp_title| replace:: Incident Response
-
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
+.. |bp_title| replace:: Incident Response Planning
 
 |bp_title|
 ----------------------------------------------
 
-Some of the most commonly exploited vulnerabilities are those that take place where the user meets the machine. User accounts get hijacked and are used to access resources, sometimes methodically over time, to access valuable resources or cause damage.
+Incidents can take all shapes. From power failures to flooding to malicous cyber attacks, incidents occur. While the type of incident and sophistication of the threat actors plays a major role in the outcomes, often the difference between minor and severe consequences have more to do with how you prepare for and respond to the incident. 
 
-To reduce this risk, you both need strong protections on every user account and limitations on the amount of damage that can be done when a single user account goes bad.
-
-#. Passwords: Like it or not, passwords are a reality of online life and will be for some time to come. They are also common vector of attack by threat actors. You can't have good user management without good password policies.
-#. Multi-factor authentication (:term:`MFA`): The best way to address weaknesses in :term:`authentication` is to have the right MFA requirements in place.
-#. User accounts: How you manage user accounts--creating, managing, tracking, and deleting--can have a huge impact on your overall cybersecurity posture.
+A good response to an incident gets you back up and running more quickly. To respond well to an incident, you have to plan well. This means developing written plans--often call incident response plans, disaster recovery plans, or business continuity plans. It also means testing those plans through exercises.
 
 Goals
 **********************************************
 
-#. Implement good password practices, like requiring passphrases and salting and hashing them (|Maturity1| maturity)
-#. Implement :term:`MFA` wherever possible (|Maturity1| maturity)
-#. Ban or limit shared or generic accounts (|Maturity1| maturity)
-#. Employ least privilege, especially with administrative access, and revoke access appropriately (|Maturity1| maturity)
-#. Log user activity (|Maturity1| maturity)
+#. Develop and maintain an incident response plan (|Maturity1| maturity)
+#. Exercise your plans (|Maturity1| maturity)
+#. Conduct after-action reports following and incident (|Maturity2| maturity)
 
 Actions
 **********************************************
@@ -39,53 +28,46 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-User Recommendations
-^^^^^^^^^^^^^^^^^^^^
+#. Create and maintain an incident response plan.
 
-#. Do not reuse passwords across multiple platforms, systems, or software. This includes never using the same login credentials for work and personal use.
-#. Never use personal information, such as your name, children’s names, dates of birth, etc. that someone might already know or can easily obtain.
-#. Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols.
-#. Use a password manager, and protect access to it with MFA.
+   * Include relevant stakeholders from the various business units that may be impacted.
+   * Identify and prioritize critical systems.
+   * There are many resources available to help you out, including:
 
-Organizational Recommendations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     * The Belfer Center's Election `Playbook <https://www.belfercenter.org/publication/elections-battle-staff-playbook>`_.
+     * The Election Assistance Commission's `tips <https://www.eac.gov/documents/2017/08/03/six-tips-contingency-and-disaster-planning-eac>`_ for disaster planning.
+     * CISA's Incident Response `Support for Election Partners <https://www.cisa.gov/sites/default/files/publications/incident_handling_elections_final_508_0.pdf>`_.
 
-#. Remove all default accounts or change the default password on all accounts, applications, and systems.
-#. Enable MFA anywhere it's offered, on all accounts, for all applications. This is especially true for anything accessed offsite or from offsite, including social media accounts. Ensure this is true for all IT products supplied by vendors.
-#. Store all passwords and passphrases using salting and hashing functions and **not** with reversible encryption. Make sure your vendors do the same.
-#. Set login thresholds to 10 or fewer invalid login attempts and require at least 15 minutes between account lockout. Log and monitor all login attempts.
-#. Ban or limit shared or generic accounts. In some environments, like with an e-pollbook, it might not be possible or practical to do this. Instead, rotate passwords, passcodes, and biometrics (like TouchID) when reasonable, like with each election.
-#. Employ least privilege by only giving a user access to the devices, applications, and services they need to do their jobs. This limits the damage any single account can do when taken over. This is why it's critical to do this for any account with administrative access
-#. Revoke access. Establish a plan to review access regularly, and make it part of the offboarding and job change processes to ensure that user has access to what they need and nothing else.
-#. Employ user logging on your networks. You should be able to tell when, and maintain a record of, a user logs into a device or network.
-#. Allow and encourage use of password managers.
+#. :doc:`Exercise your plan <exercising_plans>` regularly. At least once a year; before each election is better.
+#. When an incident does occur, execute your plan.
 
-.. _incident-response-maturity-two:
+   * The EI-ISAC is here to help during an incident. Contact |soc_email|. 
+
+#. Regularly review the your plan to ensure contacts are up to date and procedures are still effective and relevant
+
+.. _incident-response-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Complete all of the actions for the |Maturity1| maturity.
-#. Review :term:`MS-ISAC’s <MS-ISAC>` Security Primers on Exposed Credentials and Securing Login Credentials, as well as the United States Computer Emergency Readiness Team’s (:term:`US-CERT's <US-CERT>`) Security Tip on Choosing and Protecting Passwords.
-#. The :term:`EI-ISAC` regularly monitors the Internet for stolen credentials using open source datasets from various security organizations and researchers, as well as information received from trusted partners. To subscribe to this service, simply provide your IP addresses and domains to |soc_email|.
-#. Use services to search for breaches of your users' email addresses and passwords.
-
-Learn More
-**********************************************
-
-* Get more password guidance from :term:`NIST`: `SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`_
-* `Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>`_ (This spotlight has some out-of-date recommendations. Use in conjunction with the NIST guidance)
-* Understand the logic behind `using passphrases <https://www.nist.gov/blogs/taking-measure/easy-ways-build-better-p5w0rd>`_.
+#. When an incident does occur, conduct an after action reviews to identify what went right, what went wrong, and make improvements to your plan.
 
 Mapping to CIS Controls and Safeguards
 **********************************************
 
-* [#.#] [title of control]
-* [#.#] [title of control]
+* 11.1: Establish and Maintain a Data Recovery Process (|Maturity1| maturity)
+* 14.6: Train Workforce Members on Recognizing and Reporting Security Incidents (|Maturity1| maturity)
+* 17.1: Designate Personnel to Manage Incident Handling (|Maturity1| maturity)
+* 17.2: Establish and Maintain Contact Information for Reporting Security Incidents (|Maturity1| maturity)
+* 17.3: Establish and Maintain an Enterprise Process for Reporting Incidents (|Maturity1| maturity)
+* 17.4: Establish and Maintain an Incident Response Process (|Maturity2| maturity)
+* 17.5: Assign Key Roles and Responsibilities (|Maturity2| maturity)
+* 17.6: Define Mechanisms for Communicating During Incident Response (|Maturity2| maturity)
+* 17.7: Conduct Routine Incident Response Exercises (|Maturity2| maturity)
+* 17.8: Conduct Post-Incident Reviews (|Maturity2| maturity)
+* 17.9: Establish and Maintain Security Incident Thresholds (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* 73
-
------------------------------------------------
+* There are no relevant Handbook best practices.

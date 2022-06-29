@@ -4,17 +4,12 @@
 
 .. |bp_title| replace:: Encrypt Data at Rest
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
-Any data stored on a computer system that is not being actively transferred can be referred to "data at rest." This includes data residing on HDDs, SSDs, USB sticks, and even third party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach.
+Any data that is not being actively transferred can be referred to "data at rest." This includes data residing on hard drives, USB sticks, and with third-party cloud service providers. Encryption allows for data at rest to be properly secured. For instance, encrypting personally identifiable information (PII) with strong encryption algorithms protects the data from accidental disclosure in the case of a data breach.
 
-Elections offices may maintain a number of systems that must utilize encryption and are responsible for identifying data that should be encrypted.
+Elections offices may maintain a number of systems that must use encryption and are responsible for identifying data that should be encrypted.
 
 In modern laptops, desktops, and server environments, encryption capabilities of some form are often built into the software and hardware stack. These capabilities may be enabled by default or will need to be properly configured. Third-party encryption utilities may also be needed to encrypt specific data, such as within an application, database, or a USB device.
 
@@ -22,7 +17,7 @@ In modern laptops, desktops, and server environments, encryption capabilities of
 Goals
 **********************************************
 
-#. Utilize full-disk encryption for laptops, desktops, servers, and mobile devices (|Maturity1| maturity)
+#. Enable encryption for laptops, desktops, servers, and mobile devices, known as full-disk encryption (|Maturity1| maturity)
 #. Encrypt backups (|Maturity1| maturity)
 #. Encrypt removable devices, where practical, such as with USB devices (|Maturity2| maturity)
 
@@ -36,7 +31,10 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Enable full disk encryption on all devices that have encryption technologies built into the device. You can use the |Maturity1| maturity :ref:`Asset Protection worksheet <cybersecurity-action-worksheets>` as a template.
+#. Enable encryption, often called full-disk encyrption, on all devices that have encryption technologies built into the device. 
+
+   * You can use the |Maturity1| maturity :ref:`Asset Protection worksheet <cybersecurity-action-worksheets>` as a template to track your work. 
+   * The :ref:`cost effective tools <encrypt-data-at-rest-cost-effective-tools>` section below may help, depending on the types of systems you have in your environment.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -48,6 +46,8 @@ Implement encryption when data is at rest (e.g., stored in a database or on a de
 The National Institute of Standards and Technology (:term:`NIST`) `Special Publication 800-175B <https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final>`_ provides the U.S. federal requirements for encryption standards to secure data at different sensitivity and classification levels.
 
 NIST `Special Publication 800-122 <https://csrc.nist.gov/publications/detail/sp/800-122/final>`_ provides the U.S. federal requirements for protecting the confidentiality of personal information.
+
+.. _encrypt-data-at-rest-cost-effective-tools:
 
 Cost-Effective Tools
 **********************************************
@@ -69,5 +69,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 4, 12, 84
-
------------------------------------------------

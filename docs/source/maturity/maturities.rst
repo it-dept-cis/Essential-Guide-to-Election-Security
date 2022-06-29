@@ -20,8 +20,8 @@ This section will help election officials determine their current maturity. This
 The three maturities are:
 
 #. |Maturity1|: The organization responds to threats when presented to them or when attacked but has little capacity to predict, foresee, or model attacks.
-#. |Maturity2|: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned. Some staff and contractors may specialize in cybersecurity but generally don't have specialized domains within in cybersecurity.
-#. |Maturity3|: The organization assesses its risk and employs experts in the different facets of cybersecurity—e.g., risk management, penetration testing, application security.
+#. |Maturity2|: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned. Some staff and contractors may specialize in cybersecurity but generally don't have specialized domains within cybersecurity.
+#. |Maturity3|: The organization assesses its risks and employs experts in the different facets of cybersecurity—e.g., risk management, penetration testing, application security.
 
 Using the Maturity Levels
 ********************************************
@@ -29,5 +29,3 @@ Using the Maturity Levels
 The next page will provide questions that can help guide you to one of the three maturities. Use it as a starting point and adjust as needed.
 
 Each best practice has tailored guidance for each maturity, ranging from simple guidance and (usually free) tools for the |Maturity1| maturity to enterprise-driven and sophisticated guidance and tools for the |Maturity3| maturity.
-
------------------------------------------------

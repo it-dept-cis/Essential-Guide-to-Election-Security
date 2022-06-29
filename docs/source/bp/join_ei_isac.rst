@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Join the EI-ISAC
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -67,6 +62,4 @@ Mapping to CIS Controls and Safeguards
 Mapping to CIS Handbook Best Practices
 ****************************************
 
-* There are no relevant Handbook best practices
-
------------------------------------------------
+* There are no relevant Handbook best practices.

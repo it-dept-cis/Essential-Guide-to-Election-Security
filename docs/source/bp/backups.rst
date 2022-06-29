@@ -11,7 +11,7 @@ Backups are necessary due to the constant threat of modification or erasure of d
 
 Backups play a crucial role in expediting the recovery from malicious cyber activity, allowing the restoration of a system to a reliable state that is free of malware and retains the original data. Rebuilding or re-imaging an infected system from a known good backup or fresh operating system installation is a common best practice in incident response. For instance, if an elections network is compromised due to malware, restoring systems from a clean, uncompromised backup will allow the system to be quickly remediated and put back into production without having to wait to identify remove all possible malicious files.
 
-Backup programs should developed based on six characteristics:
+Backup programs should be developed based on six characteristics:
 
 #. **Data Classification:** Knowing what you want to backup will help you determine what and how frequently that data should be backed up. For instance, data vital to election operations, such as voter registration information, would be considered a high priority, and the risk management process may justify the use of nightly full backups. Retention requirements can play a role in classification.
 #. **Frequency:** Consider how much data loss would be acceptable in the event of a catastrophic failure. The amount of data that would be acceptable to lose (e.g., 24 hours’ worth) should then be used to determine how often data should be backed up.
@@ -38,7 +38,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-#. Creating a data inventory for a |Maturity1| maturity organization should i
+Creating a data inventory for a |Maturity1| maturity organization should include at a minimum:
+
 #. Create a data inventory to understand the most important data residing within your network. Include, at a minimum:
 
    * Voter registration information and databases
@@ -84,5 +85,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 21, 60
-
------------------------------------------------

@@ -4,11 +4,6 @@
 
 .. |bp_title| replace:: Managing Mis-, Dis-, and Malinformation
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
@@ -107,5 +102,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * There are no relevant Handbook best practices
-
------------------------------------------------

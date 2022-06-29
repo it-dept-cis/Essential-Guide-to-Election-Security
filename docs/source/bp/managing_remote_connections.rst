@@ -4,17 +4,12 @@
 
 .. |bp_title| replace:: Managing Remote Connections
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
-Remote or traveling employees often require access to enterprise data while physically outside of the workplace. This can be accomplished via Virtual Private Networks (VPNs). Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship.
+Remote or traveling employees often require access to enterprise data while physically outside of the workplace. This can be accomplished via :term:`Virtual Private Networks` (VPNs). Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship.
 
-VPNs encrypt and transmit data, allowing a user to securely connect to the internet or access a remote network on an untrusted connection. This ensures that all transmitted data remains confidential. Organizations need to authenticate the device or user attempting to establish a VPN connection before allowing them access. VPNs can also be used to establish secure connections between two organizations on separate networks.
+VPNs encrypt and transmit data, allowing a user to securely connect to the internet or access a remote network on an untrusted connection. This ensures that all transmitted data remains confidential. Organizations need to authenticate the device or user attempting to establish a :term:`VPN` connection before allowing them access. VPNs can also be used to establish secure connections between two organizations on separate networks.
 
 Many cybersecurity firms offer ready-made hardware and software solutions to deploy a VPN. Well-resourced organizations can also develop their own solutions, such as setting up a VPN router to manage secure connections.
 
@@ -60,9 +55,10 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 
 In addition to the actions at the |Maturity1| maturity, at the |Maturity2| maturity, you should also:
 
-* Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
-* Review `CISA’s Enterprise VPN Security Alert <https://www.cisa.gov/uscert/ncas/alerts/aa20-073a>`_
-* Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
+#. Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
+   * For example, see examples of Common Vulnerabilities and Exposures (:term:`CVE`) `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-13379>`__ and `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11510>`__, that led to `this <https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/>`_ joint advisory.
+#. Review `CISA’s Enterprise VPN Security Alert <https://www.cisa.gov/uscert/ncas/alerts/aa20-073a>`_
+#. Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
 
 Cost-Effective Tools
 **********************************************
@@ -87,5 +83,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 44, 46, 83
-
------------------------------------------------

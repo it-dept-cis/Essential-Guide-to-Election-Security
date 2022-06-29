@@ -3,11 +3,6 @@
   On: 1/26/2022
   To: Provide instructions and helpful tips on how to use EGES as a tool to improve cybersecurity posture
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 Appendix: How to Use the Essential Guide to Election Security
 ---------------------------------------------------------------------
 

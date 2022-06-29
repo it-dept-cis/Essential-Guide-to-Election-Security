@@ -2,13 +2,10 @@
   Created by: mike garcia
   To: maintain an ReST glossary that serves as an acronym list
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 Acronyms
 =========
+
+NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
 
 .. glossary::
 
@@ -19,13 +16,16 @@ Acronyms
      Compact Disc Read-only
 
    CFAA
-     tk
+     Computer Fraud and Abuse Act of 1986
 
    CIS
      Center for Internet Security
 
    CISA
      Cybersecurity and Infrastructure Security Agency
+
+   CVE
+     :term:`Common Vulnerabilities and Exploits`
 
    DNS
      Domain name system
@@ -66,13 +66,13 @@ Acronyms
      Mis-, Dis-, and Mal-Information
 
    MFA
-     multi-factor authentication
+     :term:`multi-factor authentication`
 
    MS-ISAC
      Multi-State Information Sharing and Analysis Center
 
    NCSR
-     tk
+     National Cybersecurity Review
 
    NIST
      National Institute of Standards and Technology
@@ -98,5 +98,8 @@ Acronyms
    VDP
      Vulnerability Disclosure Program
      
+   VPN
+     Virtual Private Network
+
    WPA
      Wi-Fi Protected Access

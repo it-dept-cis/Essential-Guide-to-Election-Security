@@ -6,12 +6,12 @@ Mapping to the Handbook for Election Infrastructure Security
 ------------------------------------------------------------
 
 +---------------+----------------------------------------------+---------------------------+
-| Handbook BP # |	Handbook BP Title                      | Essential Guide BP        |
+| Handbook BP # |	Handbook BP Title                            | Essential Guide BP        |
 +===============+==============================================+===========================+
 |      1        | Whitelist which IPs can access the device    |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      2        | Regularly scan the network to ensure only    | Public-Facing             |
-|               | authorized devices are connected             | Network Scanning          |
+|               | authorized devices are connected             |   Network Scanning        |
 +---------------+----------------------------------------------+---------------------------+
 |      3        | Limit the devices that are on the same       |                           |
 |               | subnet to only those devices required        |                           |
@@ -21,7 +21,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | and device authentication                    | Removable Media           |
 +---------------+----------------------------------------------+---------------------------+
 |      5        | Disable wireless peripheral access of        | Managing Wireless         |
-|               | devices unless required and the risk is      | Networks                  |
+|               | devices unless required and the risk is      |   Networks                |
 |               | formally approved by election officials      |                           | 
 +---------------+----------------------------------------------+---------------------------+
 |      6        | Ensure the system is segregated from other   |                           |
@@ -29,8 +29,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | election supporting systems                  |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      7        | Deploy Network Intrusion Detection System    | Network Monitoring        |
-|               | (IDS) (e.g., MS-ISAC Albert sensor) on       | and Intrusion             |
-|               | internet and extranet DMZ systems            | Detection                 |
+|               | (IDS) (e.g., MS-ISAC Albert sensor) on       |   and Intrusion           |
+|               | internet and extranet DMZ systems            |   Detection               |
 +---------------+----------------------------------------------+---------------------------+
 |      8        | If wireless is required, ensure all wireless |                           |
 |               | traffic use at least Advanced Encryption     |                           |
@@ -49,7 +49,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | digitally signed                             |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      13       | Ensure staff is properly trained on          | Building and              |
-|               | cybersecurity and audit procedures and audit | Managing Staff            |
+|               | cybersecurity and audit procedures and audit |   Managing Staff          |
 |               | every election in accordance with local,     |                           |
 |               | state, and federal guidelines                |                           |
 +---------------+----------------------------------------------+---------------------------+
@@ -62,7 +62,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | or new devices                               |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      16       | Conduct criminal background checks for all   | Building and              |
-|               | staff including vendors, consultants, and    | Managing Staff            |
+|               | staff including vendors, consultants, and    |   Managing Staff          |
 |               | contractors supporting the election process  |                           | 
 +---------------+----------------------------------------------+---------------------------+
 |      17       | Deploy application whitelisting              |                           |
@@ -73,7 +73,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | standards                                    |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      19       | Regularly run a SCAP-compliant vulnerability | Public-Facing             |
-|               | scanner                                      | Network Scanning          |
+|               | scanner                                      |   Network Scanning        |
 +---------------+----------------------------------------------+---------------------------+
 |      20       | Utilize EAC certified or equivalent software | Managing Vendors          |
 |               | and hardware products where applicable       |                           |
@@ -160,24 +160,25 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | software with centralized reporting          |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      41       | Ensure only required ports are open on the   | Firewalls and Port        |
-|               | system through regular port scans            | Restrictions              |
+|               | system through regular port scans            |   Restrictions            |
 +---------------+----------------------------------------------+---------------------------+
 |      42       | Where feasible, implement host-based         | Firewalls and Port        |
-|               | firewalls or port filtering tools            | Restrictions              |
+|               | firewalls or port filtering tools            |   Restrictions            |
 +---------------+----------------------------------------------+---------------------------+
 |      43       | Verify software updates and the validity of  | Software Updates          |
 |               | the code base through the use of hashing     |                           |
 |               | algorithms and digital signatures where      |                           |
 |               | available                                    |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      44       | Ensure vendors distribute software packages  | Manage Remote Connections |
-|               | and updates using secure protocols           | Software Updates          |
+|      44       | Ensure vendors distribute software packages  | Managing Remote           |
+|               | and updates using secure protocols           |   Connections             |
+|               |                                              | Software Updates          |
 +---------------+----------------------------------------------+---------------------------+
 |      45       | Maintain a chain of custody for all core     | Asset Management          |
 |               | devices                                      |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      46       | All remote connection to the system will use | Manage Remote             |
-|               | secure protocols (TLS, IPSEC)                | Connections               |
+|      46       | All remote connection to the system will use | Managing Remote           |
+|               | secure protocols (TLS, IPSEC)                |   Connections             |
 +---------------+----------------------------------------------+---------------------------+
 |      47       | Users will use unique user IDs               | User Management           |
 +---------------+----------------------------------------------+---------------------------+
@@ -205,7 +206,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | are logged off after a period of inactivity  |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      54       | Ensure your organization has a documented    | Building and              |
-|               | Acceptable Use policy that users are aware   | Managing Staff            |
+|               | Acceptable Use policy that users are aware   |   Managing Staff          |
 |               | of which details the appropriate uses of the |                           |
 |               | system                                       |                           |
 +---------------+----------------------------------------------+---------------------------+
@@ -214,19 +215,19 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | on the exterior of the packaging             |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      56       | Disable wireless peripheral access of        | Managing Wireless         |
-|               | devices                                      | Networks                  |
+|               | devices                                      |   Networks                |
 +---------------+----------------------------------------------+---------------------------+
 |      57       | Ensure staff is properly trained on          | Building and              |
-|               | cybersecurity and audit procedures and audit | Managing Staff            |
+|               | cybersecurity and audit procedures and audit |   Managing Staff          |
 |               | every election in accordance with local,     |                           |
 |               | state, and federal guidelines                |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      58       | Conduct criminal background checks for all   | Building and              |
-|               | staff including vendors, consultants and     | Managing Staff            |
+|               | staff including vendors, consultants and     |   Managing Staff          |
 |               | contractors supporting the election process  |                           | 
 +---------------+----------------------------------------------+---------------------------+
 |      59       | Ensure staff is properly trained for         | Building and              |
-|               | reconciliation procedures for the pollbooks  | Managing Staff            |
+|               | reconciliation procedures for the pollbooks  |   Managing Staff          |
 |               | to the voting systems and reconcile every    |                           |
 |               | polling place and voter record in accordance |                           |
 |               | with local, state, and federal guidelines    |                           |
@@ -314,12 +315,12 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | associated with a process or owner           |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      82       | Ensure your organization has a documented    | Building and              |
-|               | Acceptable Use policy that users are aware   | Managing Staff            |
+|               | Acceptable Use policy that users are aware   |   Managing Staff          |
 |               | of which details the appropriate uses of the |                           |
 |               | system                                       |                           |
 +---------------+----------------------------------------------+---------------------------+
-|      83       | Use secure protocols for all remote          | Manage Remote             |
-|               | connections to the system (TLS, IPSEC)       | Connections               |
+|      83       | Use secure protocols for all remote          | Managing Remote           |
+|               | connections to the system (TLS, IPSEC)       |   Connections             |
 +---------------+----------------------------------------------+---------------------------+
 |      84       | Ensure critical data is encrypted and        | Encrypt Data at Rest      |
 |               | digitally signed                             |                           |
@@ -333,11 +334,9 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | the exterior of the packaging                |                           |
 +---------------+----------------------------------------------+---------------------------+
 |      87       | Conduct criminal background checks for all   | Building and              |
-|               | staff including vendors, consultants and     | Managing Staff            |
+|               | staff including vendors, consultants and     |   Managing Staff          |
 |               | contractors supporting the election process  |                           | 
 +---------------+----------------------------------------------+---------------------------+
 |      88       | Track all hardware assets used for           | Asset Management          |
 |               | transferring data throughout their lifecycle | Managing Infrastructure   |
 +---------------+----------------------------------------------+---------------------------+
-
-------------------

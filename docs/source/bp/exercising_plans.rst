@@ -4,17 +4,12 @@
 
 .. |bp_title| replace:: Exercising Plans
 
-.. admonition:: Status
-   :class: caution
-
-   Soft Launch Draft
-
 |bp_title|
 ----------------------------------------------
 
-Exercising plans before incidents occur is almost as important as having plans in the first place. Virtual any type of plan can be exercised, including around network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
+Exercising a plan before its needed is almost as important as having the plan in the first place. Virtual any type of plan can be exercised, including normal operations and in the face of network disruptions, physical threats, disinformation, power outages, and many other types of incidents.
 
-Generally, you can either take part in exercises offered by others--such as a state election office or CISA--or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you haven't thought.
+Generally, you can either take part in exercises offered by others--such as a state election office or CISA--or run your own exercises internally. Both are important. Internal exercises will test your own plans and your ability to execute on them. External exercises will further test those plans and introduce ideas you may not have considered.
 
 Goals
 **********************************************
@@ -32,18 +27,13 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 #. Participate in CISA's annual Tabletop the Vote exercise through your state leadership.
 #. Your state may have other exercises. Contact your state election director and consider participating in these as well.
-#. Have plans for other incidents and exercise them at least annual. While facilitated exercises are preferred, an internal tabletop-style walkthrough is better than nothing.
+#. Have plans for other incidents and exercise them at least annually. While facilitated exercises are preferred, an internal tabletop-style walkthrough is better than nothing.
 
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Consider participating in other exercises or creating your own with the CISA critical infrastructure exercise `guides <https://www.cisa.gov/critical-infrastructure-exercises>`_.
 #. Have a regular schedule for exercises. Stick to it.
-
-Cost-Effective Tools
-**********************************************
-
-* [tool]: [description][(link)]
 
 Mapping to CIS Controls and Safeguards
 **********************************************
@@ -62,5 +52,3 @@ Mapping to CIS Handbook Best Practices
 ****************************************
 
 * 33, 72
-
------------------------------------------------
