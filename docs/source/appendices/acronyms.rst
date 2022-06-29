@@ -12,6 +12,13 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    AES
      Advanced Encryption Standard
 
+   CDM
+     :term:`Community Defense Model``
+
+     Continuous Diagnostics and Mitigation
+
+     Continuous Diagnostics and Monitoring
+
    CD-R
      Compact Disc Read-only
 
@@ -24,6 +31,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    CISA
      Cybersecurity and Infrastructure Security Agency
 
+   NIST CSF
+     NIST Cybersecurity Frameowrk
+  
    CVE
      :term:`Common Vulnerabilities and Exploits`
 

@@ -59,9 +59,10 @@ Either implement a tool that provides both offline and offsite backup capabiliti
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
-Complex systems require complex solutions, and this can apply to backups as well. Solutions should conform to your data management plan.
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-Backups should be tested at least once a quarter and whenever processes or technologies are changed to ensure they can rapidly restore operations if needed.
+#. Ensure that solutions conform to your data management plan.
+#. Test backups at least once a quarter and whenever processes or technologies are changed. The goal is ensuring rapidly restoration of operations, if ever needed.
 
 Cost-Effective Tools
 **********************************************

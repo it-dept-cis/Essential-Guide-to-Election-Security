@@ -27,7 +27,7 @@ The following is the list of priority actions at the |Maturity1| maturity. If yo
 
 1. Download and complete the :doc:`worksheets <../appendices/worksheets>` for |Maturity1| maturity baseline. There are ten worksheets, all in one downloadable file.
 
-Together, these fulfill all of the |Maturity1| baseline priorities. In the table below, the left column is the name of a |Maturity1| maturity worksheet described :doc:`here <../appendices/worksheets>`. On that page you can download one file with all ten worksheets. The middle column gives the relevant best practice in this Guide for the worksheet tab, and the right columns lists the actions within that best practice that are fulfilled by completing the worksheet tab. 
+   * Together, these fulfill all of the |Maturity1| baseline priorities. In the table below, the left column is the name of a |Maturity1| maturity worksheet described :doc:`here <../appendices/worksheets>`. On that page you can download one file with all ten worksheets. The middle column gives the relevant best practice in this Guide for the worksheet tab, and the right columns lists the actions within that best practice that are fulfilled by completing the worksheet tab. 
 
 +------------------------------+------------------------------------------------------------------------------------------------+
 | Worksheet                    | Best Practice (Actions from the Best Practice Adressed by the Worksheet)                       |
@@ -63,8 +63,7 @@ In addition to the above, you should be implementing some measures of particular
 #.  :doc:`Protect your website <../bp/websites>` with simple and free tools.
 #.  Implement an :doc:`endpoint protection <../bp/endpoint_protection>` program through a commercial provider or for free through the EI-ISAC.
 #.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
-#.  Create a :doc:`removable media sanitization program <../bp/removable_media>`.
-#.  Establish a baseline incident response and recovery program (best practice coming in phase 2).
+#.  Manage your :doc:`removable media <../bp/removable_media>`.
 
 ..
     #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
@@ -79,7 +78,7 @@ More mature organizations should take a more sophisticated approach to prioritiz
 The CIS Community Defense Model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To help answer questions as to where cybersecurity practioners should invest their next dollar, CIS developed the Community Defense Model (:term:`CDM`). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../bp/cis_controls>`.
+To help organizations determine where to invest their next dollar in cybersecurity, CIS developed the :term:`Community Defense Model`` (CDM). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../bp/cis_controls>`.
 
 Using authoritative data sources like the Verizon `Data Breach Investigations Report <https://www.verizon.com/business/resources/reports/dbir/>`_, CIS identified the top attack types that enterprises should defend against. 
 
@@ -91,13 +90,13 @@ For CDM 2.0, the top five attack types are:
 #. Insider and Privilege Misuse
 #. Targeted Intrusions 
 
-Certain techniques are used to execute each of these types of attacks. The CDM uses the MITRE ATT&CK framework to cateogize these techniques and sub-techniques. These are mapped to mitigations, such as the Safeguards contained with the CIS Controls and the actions within this Guide's best practices, that protect against one or more sub-technique.
+Certain techniques are used to execute each of these types of attacks. The CDM uses the `MITRE ATT&CK framework <http://attack.mitre.org>`_ to cateogize these techniques and sub-techniques. These are mapped to mitigations, such as the Safeguards contained with the CIS Controls and the actions within this Guide's best practices, that protect against one or more sub-technique.
 
-The goal of the CDM is to determine which mitigations are most effective at thwarting attacks. Using real world data, the CDM determines which Safeguards are the most efficient--the Safeguards that mitigate the most sub-techniques and thus, when implemented, are most likely to stop any given attack. 
+Using real world data, the CDM determines which Safeguards are the most efficient--the Safeguards that mitigate the most sub-techniques and thus, when implemented, are most likely to stop any given attack. 
 
 In the table below, we map the highest efficiency Safeguards from the CIS Controls to the best practices in this Guide to establish the priority best practices. For more details on the efficiency rankings, see Figure 13 of the CDM 2.0.
 
-.. table:: CIS Most Efficient Safeguard Mapping to Priority Best Practices
+.. table:: Mapping of the Most Efficient Safeguards to Priority Best Practices
    :widths: auto
 
    ====  =========  ===========================================================================  ===============================
@@ -125,4 +124,4 @@ In the table below, we map the highest efficiency Safeguards from the CIS Contro
    20    6.3        Require MFA for Externally-Exposed Applications                              :ref:`User Management <user-management-maturity-two-three>`
    ====  =========  ===========================================================================  ===============================
    
-The best practices in the right column are listed as priority actions in the best practice index and should be implemented first of the |Maturity2| and |Maturity3| maturities. 
+The best practices in the right column are listed as priority actions in the :doc:`best practice index <../bp/bp_index>` and should be implemented first for the |Maturity2| and |Maturity3| maturities. 

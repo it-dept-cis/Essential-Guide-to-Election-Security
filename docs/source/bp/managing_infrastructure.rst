@@ -39,6 +39,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| and |Maturity3| Maturities
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
 #. Leverage the a CIS `Benchmark <https://www.cisecurity.org/cis-benchmarks/>`_ on workstation management for your operating systems. This will allow for maintenance of a secure configuration process for network infrasturcture.
 
    * Choose stricter security levels for systems with sensitive functions.

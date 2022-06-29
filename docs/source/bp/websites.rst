@@ -93,6 +93,8 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 |Maturity2| and |Maturity3| Maturities
 ``````````````````````````````````````
 
+Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
+
 #. Establish a vulnerability management program (:term:`VDP`): A VDP is a formalized process to receive, validate, remediate, and communicate vulnerability information identified by security researchers on specific technology systems.
    * By working with external security researchers, organizations can broaden their vulnerability management efforts and remake them as a continuous process—all while saving time and money.
    * The EI-ISAC offers a VDP that makes it easier for election offices to create and operate a VDP. Contact elections-vdp@cisecurity.org for more information.

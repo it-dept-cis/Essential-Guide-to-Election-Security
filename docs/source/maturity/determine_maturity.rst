@@ -28,7 +28,7 @@ An organization is likely at a |Maturity1| maturity if most of the following sta
 Your organization is likely at a |Maturity2| maturity if most of the following statements apply:
 
 1.      You have dedicated resources to manage and protect IT infrastructure.
-#.      You have already implemented basic cybersecurity measures, like Implementation Group 1 from the CIS Controls, the appropriate cybersecurity profile from the NIST CSF, or equivalent control sets.
+#.      You have already implemented basic cybersecurity measures, like Implementation Group 1 from the CIS Controls, the appropriate cybersecurity profile from the :term:`NIST CSF`, or equivalent control sets.
 #.      When you receive cybersecurity alerts and directives, you generally know how to mitigate the risk.
 #.      You actively seek formal guidance for improving your cybersecurity posture.
 #.      You understand the threats facing your organization and other organizations similar to yours.
@@ -40,7 +40,7 @@ Your organization is likely at a |Maturity2| maturity if most of the following s
 
 Your organization is likely at a |Maturity3| maturity if most of the following statements apply:
 
-1.      You have dedicated personnel with expertise in specific cybersecurity domains
+1.      You have dedicated personnel with expertise in specific cybersecurity domains.
 #.      You have resources that specialize in different aspects of cybersecurity, such as penetration testing or application security.
 #.  You conduct regular cybersecurity assessments, have after-action plans, and track progress against those plans.
 #.  You conduct vulnerability management, including scanning for vulnerabilities, paying attention to threat intelligence, and creating prioritized lists for tackling vulnerabilities.
