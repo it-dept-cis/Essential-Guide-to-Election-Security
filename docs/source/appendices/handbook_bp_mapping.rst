@@ -213,11 +213,11 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | transmission, utilize tamper evident seals   | * Removable Media               |
 |               | on the exterior of the packaging             |                                 |
 +---------------+----------------------------------------------+---------------------------------+
-|      56       | Disable wireless peripheral access of        | Managing Wireless               |
-|               | devices                                      | Networks                        |
+|      56       | Disable wireless peripheral access of        | Managing Wireless Networks      |
+|               | devices                                      |                                 |
 +---------------+----------------------------------------------+---------------------------------+
 |      57       | Ensure staff is properly trained on          | Building and Managing Staff     |
-|               | cybersecurity and audit procedures and audit | Managing Staff                  |
+|               | cybersecurity and audit procedures and audit |                                 |
 |               | every election in accordance with local,     |                                 |
 |               | state, and federal guidelines                |                                 |
 +---------------+----------------------------------------------+---------------------------------+
@@ -226,7 +226,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | contractors supporting the election process  |                                 | 
 +---------------+----------------------------------------------+---------------------------------+
 |      59       | Ensure staff is properly trained for         | Building and Managing Staff     |
-|               | reconciliation procedures for the pollbooks  | Managing Staff                  |
+|               | reconciliation procedures for the pollbooks  |                                 |
 |               | to the voting systems and reconcile every    |                                 |
 |               | polling place and voter record in accordance |                                 |
 |               | with local, state, and federal guidelines    |                                 |
