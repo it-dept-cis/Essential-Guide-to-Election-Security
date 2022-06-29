@@ -7,7 +7,7 @@
 |bp_title|
 ----------------------------------------------
 
-Remote or traveling employees often require access to enterprise data while physically outside of the workplace. This can be accomplished via :term:`Virtual Private Networks` (VPNs). Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship.
+Remote or traveling employees often require access to enterprise data while physically outside of the workplace. This can be accomplished via a :term:`Virtual Private Network` (VPN). Other common uses include securely connecting on public Wi-Fi, user anonymity, and circumventing government censorship.
 
 VPNs encrypt and transmit data, allowing a user to securely connect to the internet or access a remote network on an untrusted connection. This ensures that all transmitted data remains confidential. Organizations need to authenticate the device or user attempting to establish a :term:`VPN` connection before allowing them access. VPNs can also be used to establish secure connections between two organizations on separate networks.
 
