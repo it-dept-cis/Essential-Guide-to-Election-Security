@@ -23,11 +23,11 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 #. Learn about doxing and take action to minimize risk through CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
 #. If you or anyone in your office receives an attempt to threaten or intimidate: 
 
-   * If you feel there is any chance of an immediate risk to you or others, call 911.
+   * If you feel there is any chance of an **immediate risk to you or others, call 911.**
    * Contact your FBI Elections Crime Coordinator. If you don’t know your Election Crimes Coordinator, contact your local FBI field office and ask to speak to the Election Crimes Coordinator.
    * Contact your local CISA Physical Security Advisor (PSA).
 
-#.  For additional resources see the `The Committee for Safe and Secure Elections <https://safeelections.org/>`_ and  contact elections@cisecurity.org for more information. 
+#.  For additional resources see the Cost Effective Tool section below. 
 
 Ensure your entire team is prepared and knows to take these actions if necessary.
 
@@ -35,6 +35,7 @@ Cost-Effective Tools
 **********************************************
 
 * CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
+* CISA's Security `Resources <https://www.cisa.gov/sites/default/files/publications/security_resources_election_subsector_508.pdf>`_ for the Election Infrastructure Subsector. 
 *  The Committee for Safe and Secure Elections: https://safeelections.org/.
 *  Contact |eiisac_email| for more information. 
 
