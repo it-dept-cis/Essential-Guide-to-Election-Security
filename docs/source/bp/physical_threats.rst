@@ -9,11 +9,14 @@
 
 Election officials are used to receiving emails, voicemails, and other contacts that criticize their work. Sometimes these rise to the level of attempts to threaten or intimidate. Officials may also face doxing--having their personal information published online--which can result in invasions of privacy and increase the risk of physical threats. 
 
+There are resources available to help and support you and your team--see below.
+
 Goals
 **********************************************
 
 #. Know about doxing and how to protect yourself.
 #. Know what to do if you encounter an attempt to threaten or intimidate.
+#. Know where to get more support.
 
 Actions
 **********************************************
@@ -27,7 +30,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
    * Contact your FBI Elections Crime Coordinator. If you don’t know your Election Crimes Coordinator, contact your local FBI field office and ask to speak to the Election Crimes Coordinator.
    * Contact your local CISA Physical Security Advisor (PSA).
 
-#.  For additional resources see the Cost Effective Tool section below. 
+#.  For additional resources see the Cost Effective Tools section below. 
 
 Ensure your entire team is prepared and knows to take these actions if necessary.
 

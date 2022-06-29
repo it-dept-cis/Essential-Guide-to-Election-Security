@@ -28,9 +28,7 @@ This results in three IGs, and the maturities in this Guide are loosely based on
 Goals
 **********************************************
 
-#. Understand the CIS Controls and their applicability to this Guide (|Maturity1| maturity)
-#. Understand the IGs and their applicability to this Guide's Maturity Levels (|Maturity1| maturity)
-#. Implement the IGs as appropriate for your organization (All maturities)
+#. Implement the appropriate IGs for your organization (|Maturity1| maturity)
 
 Actions
 **********************************************
@@ -41,6 +39,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Implement the IG1 controls. 
+
    * The easiest way to do this is through the |Maturity1| :ref:`Priorities  <maturity-mapping-to-bp-maturity-one-description>`. This will help you complete all of the actions for the |Maturity1| maturity, including IG1.
    * You can also use the `CIS Controls Navigator`_ to get to export a convenient list of the IG1 controls. 
 

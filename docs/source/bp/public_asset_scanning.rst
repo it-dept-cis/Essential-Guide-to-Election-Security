@@ -50,6 +50,8 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 
    * Sign up for free remote penetration testing by contacting :term:`CISA` at |CISA_vuln_email| with the subject line "Requesting Cyber Hygiene Services."
 
+#. Sign up for the EI-ISAC's `Vulnerability Disclosure Program <https://www.cisecurity.org/ei-isac/ei-isac-services/vdp>`_ to allow the wide-ranging talent of security researchers to improve the security of your systems.
+
 Cost-Effective Tools
 **********************************************
 

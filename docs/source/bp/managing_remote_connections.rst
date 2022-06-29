@@ -56,6 +56,7 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Update the hardware and software used by VPNs and implement a patch management program to prevent malicious actors from exploiting known vulnerabilities. There have been reports of cyber threat actors targeting VPNs by exploiting known vulnerabilities in hardware/software systems.
+
    * For example, see examples of Common Vulnerabilities and Exposures (:term:`CVE`) `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-13379>`__ and `here <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11510>`__, that led to `this <https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2573391/russian-foreign-intelligence-service-exploiting-five-publicly-known-vulnerabili/>`_ joint advisory.
 #. Review `CISA’s Enterprise VPN Security Alert <https://www.cisa.gov/uscert/ncas/alerts/aa20-073a>`_
 #. Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
@@ -68,7 +69,7 @@ Cost-Effective Tools
 Learn More
 **********************************************
 
-* For more tips on working with vendors, review CIS’s _`“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`
+* For more tips on working with vendors, review CIS’s `“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`_
 
 Mapping to CIS Controls and Safeguards
 **********************************************
