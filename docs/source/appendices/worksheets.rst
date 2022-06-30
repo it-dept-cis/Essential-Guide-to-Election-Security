@@ -39,4 +39,4 @@ Within the `Excel format`_ download, the last five worksheets are about taking a
 #. Incident response
 #. Cyber education
 
-.. _`Excel format`: https://cis-essential-guide-to-election-security.readthedocs.io/en/latest/_worksheets/EGES_level_1_baseline_wksts.xlsx
+.. _`Excel format`: https://docs.cisecurity.org/en/latest/_worksheets/EGES_level_1_baseline_wksts.xlsx
