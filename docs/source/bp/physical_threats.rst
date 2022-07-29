@@ -1,15 +1,17 @@
 ..
   Created by: mike garcia
-  To: BP for managing physical threats to election officials
+  To: BP for addressing physical threats to election officials
 
-.. |bp_title| replace:: Responding to Personal and Physical Threats
+.. |bp_title| replace:: Addressing Physical Threats
 
 |bp_title|
 ----------------------------------------------
 
-Election officials are used to receiving emails, voicemails, and other contacts that criticize their work. Sometimes these rise to the level of attempts to threaten or intimidate. Officials may also face doxing--having their personal information published online--which can result in invasions of privacy and increase the risk of physical threats. 
+Sadly, in the last several years, election officials have been subjected to increased threats, harassment, and doxing, causing a significant negative impact on their personal lives as well as interfering with the secure operation of our government processes and election infrastructure.
 
-There are resources available to help and support you and your team--see below.
+Officials are used to receiving emails, voicemails, and other contacts that criticize their work. Sometimes these rise to the level of attempts to threaten or intimidate, but attempts to threaten or intimidate are unacceptable, as is doxing--having their personal information published online--which can result in invasions of privacy and increase the risk of physical threats. 
+
+There are resources available to help and support you and your team--see below. And if you feel there is any chance of an immediate risk to you or others, do not wait, call 911.
 
 Goals
 **********************************************
