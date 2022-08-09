@@ -104,9 +104,9 @@ Cost-Effective Tools
 --------------------
 
 * `DotGov.gov <https://dotgov.gov>`_: The government portal to obtain and manage a .gov domain.
-* `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_
-* `Cloudflare <https://www.cloudflare.com/athenian/>`_
-* `Google <https://projectshield.withgoogle.com/landing>`_
+* `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_: CISA's cyber hygiene web application scanning program.
+* `Cloudflare <https://www.cloudflare.com/athenian/>`_'s Athenian Project: Free security and performance for state and local election websites.
+* `Google <https://projectshield.withgoogle.com/landing>`_'s Project Shield: A free service that defends news, human rights and election monitoring sites from DDoS attacks.
 
 Learn More
 ----------
