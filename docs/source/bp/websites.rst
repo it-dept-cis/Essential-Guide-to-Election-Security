@@ -85,7 +85,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 
      * Consider temporarily pulling down the site to prevent any further misrepresentation.
      * Have a recovery plan created on how to alert readers about the targeted website.
-     * Have offline backups established that can be quickly deployed in place of a compromised website.
+     * Have offline :ref:`backups <backups>` established that can be quickly deployed in place of a compromised website.
 
    * Maintain :doc:`up-to-date software and patch vulnerabilities <patching_vuln_management>`.
    * Enroll in CISA's `CyHy program <https://www.cisa.gov/cyber-hygiene-web-application-scanning>`_ or the EI-ISAC’s `Vulnerability Assessment <https://www.cisecurity.org/ei-isac/ei-isac-services>`_ to receive notifications on outdated software.
