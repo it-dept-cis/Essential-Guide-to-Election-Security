@@ -21,11 +21,6 @@ Goals
 #. Encrypt backups (|Maturity1| maturity)
 #. Encrypt removable devices, where practical, such as with USB devices (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _encrypt-data-at-rest-maturity-one:
 
 |Maturity1| Maturity

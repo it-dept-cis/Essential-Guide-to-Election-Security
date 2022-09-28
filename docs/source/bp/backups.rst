@@ -28,10 +28,6 @@ Goals
 #. Protect backups
 #. Test your recovery plan
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _backups-maturity-one:
 

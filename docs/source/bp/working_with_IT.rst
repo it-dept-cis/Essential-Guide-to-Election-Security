@@ -20,11 +20,6 @@ Goals
 #. [Goal 1]
 #. [Goal 2]
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions [e.g., "are the same for all maturity levels", "vary by maturity as detailed below"]
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

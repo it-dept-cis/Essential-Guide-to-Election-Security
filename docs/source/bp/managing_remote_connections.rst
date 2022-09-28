@@ -31,11 +31,6 @@ Goals
 #. Understand VPN technology and its role in election environments (|Maturity1| maturity)
 #. Properly implement a VPN service with your environment (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _manage-remote-connections-maturity-one:
 
 |Maturity1| Maturity

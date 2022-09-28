@@ -18,8 +18,8 @@ Goals
 
 #. Understand how to use procurements to achieve security goals (|Maturity1| maturity)
 
-Actions
-**********************************************
+All Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 For |bp_title|, the necessary actions are the same for all maturity levels.
 

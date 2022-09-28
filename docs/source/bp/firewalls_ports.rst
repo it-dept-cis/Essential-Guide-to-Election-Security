@@ -20,11 +20,6 @@ Goals
 #. Enable firewall management on networks (|Maturity1| maturity)
 #. Enable firewall management on end-user devices (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _firewalls-ports-maturity-one:
 
 |Maturity1| Maturity

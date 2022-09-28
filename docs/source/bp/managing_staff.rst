@@ -19,10 +19,8 @@ Goals
 #. Conduct background checks for new hires (|Maturity1| maturity)
 #. Use available cybersecurity training to improve your cybersecurity posture (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions are the same for all maturity levels.
+All Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Conduct at least a national agency check for any hires. Your state or county may have other background check options for you.
 #. Provide security awareness training for all staff.

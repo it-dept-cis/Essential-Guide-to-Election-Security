@@ -27,11 +27,6 @@ Goals
 #. Recognize MDM and its potential impact on election administration (|Maturity1| maturity)
 #. Take action when you encounter misinformation (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

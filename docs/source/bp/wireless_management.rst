@@ -20,11 +20,6 @@ Goals
 #. Deploy additional tools and measures to limit risk (|Maturity2| maturity)
 #. Deploy mutual MFA for wireless access (|Maturity3| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

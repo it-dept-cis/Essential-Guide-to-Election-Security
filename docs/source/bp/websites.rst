@@ -57,11 +57,6 @@ Goals
 #. Know about website defacements and how to prevent them  (|Maturity1| maturity)
 #. Enroll in the EI-ISAC's vulnerability disclosure program (|Maturity2| maturity)
 
-Actions
--------
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 `````````````````````````
 

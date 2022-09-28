@@ -19,11 +19,6 @@ Goals
 #. Properly configure workstation permissions (|Maturity1| maturity)
 #. Leverage CIS Benchmarks for workstation and infrastructure configuration (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _managing-infrastructure-maturity-one:
 
 |Maturity1| Maturity

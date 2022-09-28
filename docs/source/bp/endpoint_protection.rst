@@ -34,11 +34,6 @@ Goals
 
 #. Get EDR services through the EI-ISAC or commercial vendors (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

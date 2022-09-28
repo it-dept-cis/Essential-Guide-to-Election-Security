@@ -26,11 +26,6 @@ Goals
 #. Use the results to improve your cybersecurity posture (|Maturity1| maturity)
 #. Implement a risk assessment program (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

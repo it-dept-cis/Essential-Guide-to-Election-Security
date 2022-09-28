@@ -24,11 +24,6 @@ Goals
 #. Employ least privilege, especially with administrative access, and revoke access appropriately (|Maturity1| maturity)
 #. Log user activity (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _user-management-maturity-one:
 
 |Maturity1| Maturity

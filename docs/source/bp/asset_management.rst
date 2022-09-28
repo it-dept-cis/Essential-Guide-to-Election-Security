@@ -18,11 +18,6 @@ Goals
 #. Always know the physical location of hardware (|Maturity1| maturity)
 #. Conduct maintenance and protecting assets from loss, theft, and tampering (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _asset-management-maturity-one:
 
 |Maturity1| Maturity

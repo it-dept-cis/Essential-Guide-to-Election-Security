@@ -20,11 +20,6 @@ Goals
 #. Know what to do if you encounter an attempt to threaten or intimidate.
 #. Know where to get more support.
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions are the same for all maturity levels.
-
 #. Learn about doxing and take action to minimize risk through CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
 #. If you or anyone in your office receives an attempt to threaten or intimidate: 
 

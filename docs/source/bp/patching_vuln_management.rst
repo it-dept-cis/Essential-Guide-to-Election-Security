@@ -25,11 +25,6 @@ Goals
 #. Establish and execute on a policy for systems that need additional approvals prior to patching (|Maturity1| maturity)
 #. Establish a formal patch management plan leveraging automated tools and aligned with your asset management plan (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

@@ -19,11 +19,6 @@ Goals
 #. Employ appropriate media sanitization (|Maturity1| maturity)
 #. Effectively use removable media in the election environment (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity, as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

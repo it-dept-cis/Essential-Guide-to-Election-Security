@@ -28,10 +28,8 @@ Goals
 
 #. Deploy MDBR for all internet-facing IT assets (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions are the same for all maturity levels.
+All Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. If you're an EI-ISAC member, you can sign up for no-cost MDBR by registering at https://mdbr.cisecurity.org. You will be asked to provide the following information:
 

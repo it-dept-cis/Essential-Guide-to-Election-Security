@@ -24,11 +24,6 @@ Goals
 #. Deploy web application scanning tools (|Maturity1| maturity)
 #. Use penetration testing to harden networks (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

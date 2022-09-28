@@ -21,11 +21,6 @@ Goals
 #. Understand what an :term:`IDS` is and why it's important (|Maturity1| maturity)
 #. Deploy an :term:`IDS` (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

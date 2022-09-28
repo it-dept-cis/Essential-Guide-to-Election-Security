@@ -17,11 +17,6 @@ Goals
 #. Learn the types of exercises that make sense for your organization (|Maturity1| maturity)
 #. Participate in exercises or create your own (|Maturity1| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 |Maturity1| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 

@@ -18,11 +18,6 @@ Goals
 #. Exercise your plans (|Maturity1| maturity)
 #. Conduct after-action reports following and incident (|Maturity2| maturity)
 
-Actions
-**********************************************
-
-For |bp_title|, the necessary actions vary by maturity as detailed below.
-
 .. _incident-response-maturity-one:
 
 |Maturity1| Maturity

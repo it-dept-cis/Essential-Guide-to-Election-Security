@@ -34,8 +34,8 @@ The EI-ISAC provides access to valuable services to fulfill many of the best pra
 * Discounts on training
 * Homeland Security Information Network (HSIN) portal access
 
-Goals
-**********************************************
+All Maturities
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Understand what the EI-ISAC has to offer (|Maturity1| maturity)
 #. Join the EI-ISAC (|Maturity1| maturity)
