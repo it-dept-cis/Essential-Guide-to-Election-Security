@@ -31,6 +31,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/formal_assessment
    bp/cis_controls
    bp/incident_response
+   bp/internal_pentest
    bp/join_ei_isac
    bp/mdbr
    bp/managing_infrastructure
