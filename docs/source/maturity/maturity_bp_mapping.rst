@@ -108,8 +108,8 @@ In the table below, we map the highest efficiency Safeguards from the CIS Contro
    4     6.1        Establish an Access Granting Process                                         :ref:`User Management <user-management-maturity-two-three>`
    5     6.2        Establish an Access Revoking Process                                         :ref:`User Management <user-management-maturity-two-three>`
    6     5.4        Restrict Administrator Privileges to Dedicated Administrator Accounts        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
-   7     18.3       Remediate Penetration Test Findings                                          [Coming in 2022Q3 update]
-   8     18.5       Perform Periodic Internal Penetration Tests                                  [Coming in 2022Q3 update]
+   7     18.3       Remediate Penetration Test Findings                                          :ref:`Internal Pen Testing <internal_pentest>`
+   8     18.5       Perform Periodic Internal Penetration Tests                                  :ref:`Internal Pen Testing <internal_pentest>`
    9     6.8        Define and Maintain Role-Based Access Control                                :ref:`User Management <user-management-maturity-two-three>`
    10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
    11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q3 update]

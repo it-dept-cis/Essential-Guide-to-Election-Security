@@ -42,6 +42,9 @@ You can use this table as a checklist to help track your progress.
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Incident Response                          |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
+|      | Internal Penetration Testing               |   Out of    |   Out of    |  In scope   |
+|      |                                            |   scope     |   scope     |             |
++------+--------------------------------------------+-------------+-------------+-------------+
 |      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Malicious Domain Blocking & Reporting      |  In scope   |  In scope   |  In scope   |
