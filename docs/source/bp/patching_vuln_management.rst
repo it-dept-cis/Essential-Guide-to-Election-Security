@@ -72,6 +72,8 @@ For more comprehensive recommendations and technical insight on this topic, plea
 Cost-Effective Tools
 **********************************************
 
+* `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice
+* `GCA Cybersecurity Toolkit for Elections: Control Access <https://gcatoolkit.org/elections/control-access/>`_: A toolbox with several links to free tools relevant to this best practice
 * `Itarian <https://www.itarian.com>`_: Patch management solution for Windows
 * `Opsi <https://www.opsi.org>`_: A more complicated solution that can help to manage both Windows and Linux platforms
 * `OpenVAS <https://www.openvas.org>`_: Free, open-source framework for vulnerability scanning and management

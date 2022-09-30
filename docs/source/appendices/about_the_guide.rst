@@ -41,7 +41,7 @@ The EI-ISAC received positive feedback from the election community on the Handbo
 #. Since releasing the Handbook, the EI-ISAC has developed a series of `best practice guides <https://www.cisecurity.org/elections>`_ and other information. Other organizations have also contributed to the body of knowledge for security election infrastructure and related activities, including:
 
    * A wide array of guidance and tools available from the `Cybersecurity and Infrastructure Security Agency <https://www.cisa.gov/election-security>`_ (:term:`CISA`) and other government agencies; and
-   * A body of work for other academic and nonprofit organizations such as the Global Cyber Alliance, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
+   * A body of work for other academic and nonprofit organizations such as the `Global Cyber Alliance <https://gcatoolkit.org/elections/>`, Harvard University’s Belfer Center, the Brennan Center for Justice, and others.
 
 #. Election officials have made significant strides in meeting today’s threats, but uneven and insufficient funding has caused a wide array of differences in cybersecurity postures.
 #. The nature of threats has changed. In 2016, nation-state actors posed most of the apparent risks. Today we have more information on real-world attacks. We know that they come various sources and come from both virtual and real-life sources.

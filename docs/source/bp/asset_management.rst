@@ -69,6 +69,7 @@ Cost-Effective Tools
 **********************************************
 
 * `CIS Enterprise Asset Inventory Worksheet`_: An excel workbook suitable for small operations with a limited number of assets
+* `GCA Cybersecurity Toolkit for Elections: Know What You Have <https://gcatoolkit.org/elections/know-what-you-have/>`_: A toolbox with links to free tools relevant to this best practice
 * `Nmap <https://nmap.org/>`_: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network
 * `ZenMap <https://nmap.org/zenmap/>`_: Easy-to-use graphic user interface for Nmap
 * `Spiceworks <https://www.spiceworks.com/>`_: Free IT inventory and asset management software to identify devices and software on your network
