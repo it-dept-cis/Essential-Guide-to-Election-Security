@@ -15,6 +15,10 @@ Software development companies, such as Microsoft and Adobe, regularly release b
 
 Successful exploitation of unpatched election infrastructure may result in data breaches, malware infections, and website defacements, among other things. Information at risk includes personally identifiable information (:term:`PII`) and other voter information.
 
+.. image:: /_static/patching_lifecycle.png
+  :width: 90%
+  :alt: The Patching Lifecycle
+
 The :term:`MS-ISAC` regularly disseminates `Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`_, which address critical patches in commercial software commonly used by government agencies and are available to all :term:`EI-ISAC` members. To subscribe to Cybersecurity Advisories, :term:`EI-ISAC` members should contact their account manager or complete the `subscription form <https://learn.cisecurity.org/ms-isac-subscription>`_.
 
 Goals

@@ -54,7 +54,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 
 .. image:: /_static/infrastructure_config.png
   :width: 90%
-  :alt: Virtual Private Network Diagram
+  :alt: Infrastructue Configuration Managment Flow Diagram
 
 Cost-Effective Tools
 **********************************************
