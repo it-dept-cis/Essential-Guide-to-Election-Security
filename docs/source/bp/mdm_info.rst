@@ -9,17 +9,15 @@
 
 Mis-, dis-, and mal-information have become a pervasive threat to the election environment. Each has a specific definition. Together, we call them MDM.
 
-* :term:`Misinformation` is false but not created or shared with the intention of causing harm.
-* :term:`Disinformation` is deliberately created to mislead, harm, or manipulate a person, social group, organization, or country.
-* :term:`Malinformation` is based on fact, but used out of context to mislead, harm, or manipulate.
+* :term:`Misinformation` is inaccurate but not created or shared with the intention of causing harm.
+* :term:`Disinformation` is false, and deliberately created to mislead, harm, or manipulate a person, social group, organization, or country.
+* :term:`Malinformation` is based on fact, but intentionally used out of context to mislead, harm, or manipulate.
 
-MDM campaigns are engineered for influence, typically seeking to exploit the psychology of victims’ emotions, identities, political affinities, and existing societal rifts.
-
-Both independent threat actors and large nation-state operations are capable of manufacturing MDM. Threat actors may have hundreds of human threat actors on payroll or choose to conduct operations via automated bots. When users encounter inaccurate information or intentional disinformation they may be unable to differentiate it from genuine information, sharing it and unwittingly influencing an even wider audience.
+Both independent threat actors and large nation-states are capable of manufacturing MDM. Threat actors may have hundreds of human threat actors on payroll or choose to conduct operations via automated bots. When users encounter inaccurate information or intentional disinformation they may be unable to differentiate it from genuine information, sharing it and unwittingly influencing an even wider audience.
 
 Influencing the political environment through social discourse is a tactic observed in well-funded and complex information attacks, but actors may have competitive, financial, or other motivations as well. Disinformation attacks can function by creating continued influence in a system or sector. Attackers may try to popularize perspectives and viewpoints in target demographics that lead to certain policy or political outcomes. Appearing as authentic citizens or a real customer base on social media, individual disinformation accounts can appeal to users and align with their existing beliefs. Organizations and individuals alike then experience the pressure to act on what is perceived as recurring legitimate messaging but, in reality, is deception.
 
-Often, inaccurate statements about elections are unintentional and just the result of misinformed individuals. As election officials, it's not always important to understand the source or intent of the inaccurate information, but to simply address it with accurate messaging and other remediative action. That is the focus of this best practice.
+Often, inaccurate statements about elections are unintentional and just the result of misinformed individuals. As election officials, it's not always important to understand the source or intent of the inaccurate information, but to simply address it with accurate messaging and other remediations. That is the focus of this best practice.
 
 Goals
 **********************************************
@@ -60,7 +58,7 @@ Remediating Misinformation
      * A screenshot of the social media post and, if possible, the URL.
      * Your name, role, jurisdiction, and work email address.
      * A description of why this is false -- not just "this is wrong" but information about why think it's wrong. This doesn’t have to be more than a couple sentences, but more detail is better. Citing a law is even better.
-     * If appropriate, the EI-ISAC will work to have the inaccurate information removed or labeled.
+     * If appropriate, our team will work to have the inaccurate information removed or labeled.
 
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
