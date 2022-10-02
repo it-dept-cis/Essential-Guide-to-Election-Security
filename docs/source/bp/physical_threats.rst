@@ -41,6 +41,7 @@ Cost-Effective Tools
 
 * CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
 * CISA's Security `Resources <https://www.cisa.gov/sites/default/files/publications/security_resources_election_subsector_508.pdf>`_ for the Election Infrastructure Subsector.
+*  CISA’s `De-Escalation Series for Critical Infrastructure <https://www.cisa.gov/de-escalation-series>`_, offering guidance on how to recognize the warning signs of someone on a path to violence; assess if the situation or person of concern is escalating, or if an emergency response is needed immediately; de-escalate the situation currently taking place; and report the situation.
 * U.S. Election Assistance Commission (EAC): `Security Resources for Election Officials <https://www.eac.gov/election-officials/election-official-security>`_ and `Personal Security for Election Officials <https://www.eac.gov/sites/default/files/Personal_Security_for_Election_Officials.pdf>`_.
 *  The Committee for Safe and Secure Elections (CSSE):
 
