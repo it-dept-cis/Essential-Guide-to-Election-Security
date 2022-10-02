@@ -67,12 +67,16 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 Cost-Effective Tools
 **********************************************
 
-* `GCA Cybersecurity Toolkit for Elections: Backup and Recover <https://gcatoolkit.org/elections/backup-and-recover/>`_: A toolbox with links to free tools relevant to this best practice
+* `GCA Cybersecurity Toolkit for Elections: Backup and Recover <https://gcatoolkit.org/elections/backup-and-recover/>`_: A toolbox with links to free tools relevant to this best practice.
+* `Microsoft® Volume Shadow Copy Service <https://learn.microsoft.com/en-us/windows-server/storage/file-server/volume-shadow-copy-service>`_ (VSS): Tool to create backup copies or snapshots of files or volumes.
+* `VeraCrypt <https://veracrypt.fr/en/Home.html>`_: Free, open source, on-the-fly encryption.
+* `Clonezilla® <https://clonezilla.org>`_: Partition, disk imaging, and cloning tool.
 * `Apple Time Machine <https://support.apple.com/en-us/HT201250>`_: Time Machine is the backup mechanism of macOS, the desktop operating system developed by Apple. The software is designed to work with both local storage devices and network-attached disks and is most commonly used with external disk drives connected using either USB or Thunderbolt.
 * `Amanda Network Backup <http://www.amanda.org>`_: AMANDA, the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media. Amanda uses native utilities and formats (e.g. dump and/or GNU tar) and can back up a large number of servers and workstations running multiple versions of Linux or Unix. Amanda uses a native Windows client to back up Microsoft Windows desktops and servers.
 * `Bacula <https://www.bacula.org>`_: Bacula is a set of Open Source computer programs that permit you (or the system administrator) to manage backup, recovery, and verification of computer data across a network of computers of different kinds.
 * `Microsoft Backup & Restore <https://support.microsoft.com/en-us/windows/back-up-and-restore-your-pc-ac359b36-7015-4694-de9a-c5eac1ce9d9c>`_: In Windows 11, you can restore files from a backup created with Backup and Restore or File History.
 * `DHS, CISA, and MS-ISAC Joint Ransomware Guide <https://www.cisa.gov/sites/default/files/publications/CISA_MS-ISAC_Ransomware%20Guide_S508C_.pdf>`_: A guide written by US federal agencies to assist with ransomware.
+* `No More Ransom <https://www.nomoreransom.org>`_: Website to help victims of ransomware retrieve their data, report a crime, and more.
 
 Mapping to CIS Controls and Safeguards
 **********************************************
