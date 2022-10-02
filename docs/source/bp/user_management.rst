@@ -38,8 +38,9 @@ User Recommendations
 ^^^^^^^^^^^^^^^^^^^^
 
 #. Do not reuse passwords across multiple platforms, systems, or software. This includes never using the same login credentials for work and personal use.
-#. Never use personal information, such as your name, children’s names, dates of birth, etc., that someone might already know or can easily obtain.
+#. Never create passwords or security questions using personal information, such as your name, children’s names, dates of birth, etc., that someone might already know or can easily obtain.
 #. Use passphrases, ideally of at least four words of 5+ letters, instead of random sets of characters. If you do this, you don't need to use composition rules like upper, lower, number, and symbols. An example of a good passphrase is "blender saute pendant chair."
+#. Enable MFA anywhere it's offered, on all accounts, for all applications. This is especially true for anything accessed outside your environment, including social media accounts, and any access back into your environment from outside. Ensure this is true for all IT products supplied by vendors.
 #. Use a password manager, and protect access to it with MFA.
 
 Organizational Recommendations
@@ -47,11 +48,16 @@ Organizational Recommendations
 
 #. Remove all default accounts or change the default password on all accounts, applications, and systems.
 #. Enable MFA anywhere it's offered, on all accounts, for all applications. This is especially true for anything accessed outside your environment, including social media accounts, and any access back into your environment from outside. Ensure this is true for all IT products supplied by vendors.
-#. Store all passwords and passphrases using :term:`salting` and :term:`hashing` functions and **not** with reversible :term:`encryption`. Make sure your vendors do the same.
+#. Store all passwords and passphrases using :term:`salting` and :term:`hashing` functions and **not** with :term:`encryption`. Make sure your vendors do the same.
 #. Set login thresholds to 10 or fewer invalid login attempts before locking the user out and increase the interval between a failed attempt and allowing the next attempt. Log and monitor all login attempts.
-#. Ban or limit shared or generic accounts. In some environments, like with an e-pollbook, it might not be possible or practical to do this. Instead, rotate passwords, passcodes, and biometrics (like TouchID) when reasonable, like with each election.
+#. Ban or limit shared or generic accounts. 
+
+   * Realistically, some devices or applications may require shared accounts. These accounts should receive formal exceptions from management and their usage appropriately tracked.
+   * When this is the case, rotate passwords, passcodes, and biometrics (like TouchID) when reasonable, like with each election.
+
 #. Employ least privilege by only giving a user access to the devices, applications, and services they need to do their jobs. This limits the damage that may be caused by takeover of any single account. This is particularly important for any account with administrative access to sensitive network controls or confidential materials.
 #. Review individuals’ access and revoke any unnecessary or inappropriate access. Establish a plan to do this regularly, and make it part of the offboarding and job change processes to ensure that user has access to what they need and nothing else.
+#. For laptops, do not allow more than 20 failed authentication attempts; for tablets and smartphones, no more than 10 failed authentication attempts. Example implementations include Microsoft® InTune Device Lock and Apple® Configuration Profile maxFailedAttempts.
 #. Employ user logging on your networks. You should be able to see whenever a user logs into a device or network. Maintain records of these logs.
 #. Allow and encourage use of password managers.
 
@@ -70,18 +76,20 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 Cost-Effective Tools
 **********************************************
 
-* `GCA Cybersecurity Toolkit for Elections: Beyond Simple Passwords <https://gcatoolkit.org/elections/beyond-simple-passwords/>`_: A toolbox with links to free tools relevant to this best practice
+* `GCA Cybersecurity Toolkit for Elections: Beyond Simple Passwords <https://gcatoolkit.org/elections/beyond-simple-passwords/>`_: A toolbox with links to free tools relevant to this best practice.
+* have i been pwned `password breach service <https://haveibeenpwned.com>`_`: A site for searching for breached accounts. Includes and API to automate searching for breached accounts.
 
 Learn More
 **********************************************
 
-* Get more password guidance from :term:`NIST`: `SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`_
-* `Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>`_ (This spotlight has some out-of-date recommendations. Use in conjunction with the NIST guidance)
+* Get more password guidance from :term:`NIST`: `SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`_.
+* `Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>`_ (This spotlight has some out-of-date recommendations. Use in conjunction with the NIST guidance).
 * Understand the logic behind `using passphrases <https://www.nist.gov/blogs/taking-measure/easy-ways-build-better-p5w0rd>`_.
 
 Mapping to CIS Controls and Safeguards
 **********************************************
 
+* 3.3 Configure Data Access Control Lists (|Maturity1| maturity)
 * 4.7: Manage Default Accounts on Enterprise Assets and Software (|Maturity1| maturity)
 * 5.1: Establish and Maintain an Inventory of Accounts (|Maturity1| maturity)
 * 5.2: Use Unique Passwords (|Maturity1| maturity)
@@ -96,6 +104,7 @@ Mapping to CIS Controls and Safeguards
 * 6.6: Establish and Maintain an Inventory of Authentication and Authorization Systems (|Maturity2| maturity)
 * 6.7: Centralize Access Control (|Maturity2| maturity)
 * 6.8: Define and Maintain Role-Based Access Control (|Maturity2| maturity)
+* 3.14 Log Sensitive Data Access (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
 ****************************************
