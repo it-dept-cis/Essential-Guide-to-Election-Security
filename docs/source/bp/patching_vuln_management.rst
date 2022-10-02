@@ -72,16 +72,16 @@ For more comprehensive recommendations and technical insight on this topic, plea
 Cost-Effective Tools
 **********************************************
 
-* `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice
-* `GCA Cybersecurity Toolkit for Elections: Control Access <https://gcatoolkit.org/elections/control-access/>`_: A toolbox with several links to free tools relevant to this best practice
-*  `CIS Benchmarks™ <https://www.cisecurity.org/benchmark>`_: Secure configuration guidelines for 100+ technologies, including operating systems, applications, and network devices
-*  `CIS SecureSuite® Membership <https://www.cisecurity.org/cis-securesuite>`_: No-cost membership to EI-ISAC members, with access to CIS-CAT Pro Assessor, CIS Build Kits, CIS Benchmarks, and more
-*  `CIS-CAT® Pro Tool <https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro>`_: Scans for proper CIS Benchmark configurations for applications, operating systems, and network devices
-* `Itarian <https://www.itarian.com>`_: Patch management solution for Windows
-* `Opsi <https://www.opsi.org>`_: A more complicated solution that can help to manage both Windows and Linux platforms
-* `OpenVAS <https://www.openvas.org>`_: Free, open-source framework for vulnerability scanning and management
-* `Nmap <https://nmap.org/>`_: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network
-* `U.S. National Vulnerability Database <https://nvd.nist.gov>`_ (NVD): Repository of standards based on vulnerability management data
+* `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice.
+* `GCA Cybersecurity Toolkit for Elections: Control Access <https://gcatoolkit.org/elections/control-access/>`_: A toolbox with several links to free tools relevant to this best practice.
+*  `CIS Benchmarks™ <https://www.cisecurity.org/benchmark>`_: Secure configuration guidelines for 100+ technologies, including operating systems, applications, and network devices.
+*  `CIS SecureSuite® Membership <https://www.cisecurity.org/cis-securesuite>`_: No-cost membership to EI-ISAC members, with access to CIS-CAT Pro Assessor, CIS Build Kits, CIS Benchmarks, and more.
+*  `CIS-CAT® Pro Tool <https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro>`_: Scans for proper CIS Benchmark configurations for applications, operating systems, and network devices.
+* `Itarian <https://www.itarian.com>`_: Patch management solution for Windows.
+* `Opsi <https://www.opsi.org>`_: A more complicated solution that can help to manage both Windows and Linux platforms.
+* `OpenVAS <https://www.openvas.org>`_: Free, open-source framework for vulnerability scanning and management.
+* `Nmap <https://nmap.org/>`_: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network.
+* `U.S. National Vulnerability Database <https://nvd.nist.gov>`_ (NVD): Repository of standards based on vulnerability management data.
 
 Learn More
 **********************************************
