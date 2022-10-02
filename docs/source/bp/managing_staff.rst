@@ -30,6 +30,13 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 #. Implement actions for proper logical access in :doc:`User Management <user_management>`
 #. Implement actions for proper system configuration in :doc:`Managing Infrastructure <managing_infrastructure>`
 
+Cost-Effective Tools
+**********************************************
+
+* MS-ISAC® Cybersecurity Awareness Toolkit Features educational materials designed to raise cybersecurity awareness. Digital materials are aggregated for your use.
+* `Federal Virtual Training Environment <https://fedvte.usalearning.gov>`_ (FedVTE): Online Courses Free online cybersecurity training to State, Local, Tribal, and Territorial (SLTT) governments.
+* `Stay Safe Online <https://staysafeonline.org>`_: A non-profit organization dedicated to creating a more secure, interconnected world. See also its `YouTube channel <https://www.youtube.com/user/StaySafeOnline1>`_.
+
 Learn More
 **********************************************
 
