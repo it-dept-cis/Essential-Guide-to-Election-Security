@@ -67,7 +67,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 Cost-Effective Tools
 **********************************************
 
-* `GCA Cybersecurity Toolkit for Elections: Backup and Recover <https://gcatoolkit.org/elections/backup-and-recover/>`_: A toolbox with links to free tools relevant to this best practice
+* `GCA Cybersecurity Toolkit for Elections: Backup and Recover <https://gcatoolkit.org/elections/backup-and-recover/>`_: A toolbox with links to free tools relevant to this best practice.
 * `Microsoft® Volume Shadow Copy Service <https://learn.microsoft.com/en-us/windows-server/storage/file-server/volume-shadow-copy-service>`_ (VSS): Tool to create backup copies or snapshots of files or volumes.
 * `VeraCrypt <https://veracrypt.fr/en/Home.html>`_: Free, open source, on-the-fly encryption.
 * `Clonezilla® <https://clonezilla.org>`_: Partition, disk imaging, and cloning tool.
