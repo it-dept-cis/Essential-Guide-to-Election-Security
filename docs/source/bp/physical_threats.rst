@@ -42,7 +42,7 @@ Cost-Effective Tools
 * CISA's Insight on `Mitigating the Impacts of Doxing on Critical Infrastructure <https://www.cisa.gov/sites/default/files/publications/CISA%20Insight_Mitigating%20the%20Impacts%20of%20Doxing_508.pdf>`_.
 * CISA's Security `Resources <https://www.cisa.gov/sites/default/files/publications/security_resources_election_subsector_508.pdf>`_ for the Election Infrastructure Subsector.
 * U.S. Election Assistance Commission (EAC): `Security Resources for Election Officials <https://www.eac.gov/election-officials/election-official-security>`_ and `Personal Security for Election Officials <https://www.eac.gov/sites/default/files/Personal_Security_for_Election_Officials.pdf>`_.
-*  The Committee for Safe and Secure Elections (CSSE): https://safeelections.org/.
+*  The Committee for Safe and Secure Elections (CSSE):
 
    * CSSE's `Five Steps to Safer Elections <https://safeelections.org/five-steps-to-safer-elections>`_, providing guidance and tabletop exercises to help election administrators and law enforcement work together to strengthen our elections.
    * CSSE's `Law Enforcement Reference Guides <https://safeelections.org/resources>`_, providing state-specific information about laws governing elections. 
