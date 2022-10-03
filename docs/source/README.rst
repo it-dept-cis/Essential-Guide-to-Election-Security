@@ -52,6 +52,7 @@ The Guide is organized into several sections:
    * There is also a set of worksheets you can download if you are at the |Maturity1| maturity and need to complete the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
 
 #. Additional references, tools, and related information in :doc:`appendices <appendices/appendix_index>`.
+#. A :doc:`glossary <glossary>` and set of :doc:`acronyms <acronyms>`.
 
 You can create a PDF by hovering over the "v:latest" in the bottom left, at the bottom of the navigation panel. The box that pops up will have a "PDF" link. Hit that link and you'll get a PDF based on the current version of the Guide.
 
