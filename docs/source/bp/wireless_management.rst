@@ -14,19 +14,19 @@ There's also the day-to-day administration of the elections that occur on regula
 Good cybersecurity outcomes require proper management of the wireless networks and connections in offices and polling places.
 
 Goals
-**********************************************
+*****
 
 #. Protect all wireless networks with basic wireless security practices (|Maturity1| maturity)
 #. Deploy additional tools and measures to limit risk (|Maturity2| maturity)
 #. Deploy mutual MFA for wireless access (|Maturity3| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 For those organizations operating at a |Maturity1| maturity, the important thing is to keep it simple. Avoid using wireless in risky scenarios, such as transmitting election results without the technical support of a state agency or other technical body providing guidance.
 
@@ -42,7 +42,7 @@ For those organizations operating at a |Maturity1| maturity, the important thing
 
 
 |Maturity2| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
@@ -51,7 +51,7 @@ Organizations operating at a |Maturity2| maturity should take additional actions
 #. Disable peer-to-peer wireless network capabilities on wireless clients to prevent communication between devices that is not visible on the wireless network.
 
 |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
@@ -59,7 +59,7 @@ Organizations operating at a |Maturity3| maturity should take additional actions
 #. Detect wireless access points connected to the wired network.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 12.1: Ensure Network Infrastructure is Up-to-Date (|Maturity1| maturity)
 * 3.10: Encrypt Sensitive Data in Transit (|Maturity2| maturity)
@@ -67,6 +67,6 @@ Mapping to CIS Controls and Safeguards
 * 12.6 Use of Secure Network Management and Communication Protocols (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 5, 56

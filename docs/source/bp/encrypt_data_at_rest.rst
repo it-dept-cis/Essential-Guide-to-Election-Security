@@ -15,21 +15,21 @@ In modern laptops, desktops, and server environments, encryption capabilities of
 
 
 Goals
-**********************************************
+*****
 
 #. Enable encryption for laptops, desktops, servers, and mobile devices, known as full-disk encryption (|Maturity1| maturity)
 #. Encrypt backups (|Maturity1| maturity)
 #. Encrypt removable devices, where practical, such as with USB devices (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _encrypt-data-at-rest-maturity-one:
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Enable encryption, often called full-disk encyrption, on all devices that have encryption technologies built into the device. 
 
@@ -39,7 +39,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 #. Encrypt backups. Use the :doc:`backups <backups>` best practice as a guide.
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -53,7 +53,7 @@ NIST `Special Publication 800-122 <https://csrc.nist.gov/publications/detail/sp/
 .. _encrypt-data-at-rest-cost-effective-tools:
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice
 * `Bitlocker <https://technet.microsoft.com/en-us/library/cc732774(v=ws.11).aspx>`_: Built-in encryption for supported Microsoft® Windows devices.
@@ -62,7 +62,7 @@ Cost-Effective Tools
 * `EaseUS <https://www.easeus.com/backup-software/tb-free.html>`_: This free program can encrypt system images.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 3.6: Encrypt Data on End-User Devices
 * 3.9: Encrypt Data on Removable Media
@@ -70,6 +70,6 @@ Mapping to CIS Controls and Safeguards
 * 11.3: Protect Recovery Data
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 4, 12, 84

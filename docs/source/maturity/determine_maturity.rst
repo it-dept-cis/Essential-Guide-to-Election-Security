@@ -13,7 +13,7 @@ If you’re unsure of what maturity properly represents your jurisdiction, begin
 If you've already implemented the guidance in a best practice for your overall maturity, consider leveling up to the next maturity for that best practice. It's all part of the process of continual improvement.
 
 |Maturity1| Maturity
-*************************************************
+********************
 
 An organization is likely at a |Maturity1| maturity if most of the following statements apply:
 
@@ -25,7 +25,7 @@ An organization is likely at a |Maturity1| maturity if most of the following sta
 #.      You don’t have a thorough incident response plan, don’t exercise it regularly, or don’t feel confident in what to do when an incident occurs.
 
 |Maturity2| Maturity
-*************************************************
+********************
 
 Your organization is likely at a |Maturity2| maturity if most of the following statements apply:
 
@@ -38,7 +38,7 @@ Your organization is likely at a |Maturity2| maturity if most of the following s
 #.      You respond to threat and risk assessments by developing and executing on plans of action and milestones (POAMs).
 
 |Maturity3| Maturity
-*************************************************
+********************
 
 Your organization is likely at a |Maturity3| maturity if most of the following statements apply:
 
@@ -51,7 +51,7 @@ Your organization is likely at a |Maturity3| maturity if most of the following s
 #.      You deploy tools to address major areas of cybersecurity defense, such as network monitoring, endpoint protection, and application firewalls.
 
 What to do with your maturity?
-*************************************************
+******************************
 
 Based on your maturity, you can begin implementation based on the guidance for that maturity within each best practice. If you find that guidance isn’t what you expected, consider moving up or down in maturity. If you are at the |Maturity2| or |Maturity3| maturity, take the time to review best practices and recommendations from the earlier maturity(ies) to make sure that you’ve covered everything that makes sense for you.
 

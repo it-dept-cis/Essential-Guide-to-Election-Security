@@ -16,7 +16,7 @@ To reduce the risk of user account incidents, you need to implement strong prote
 #. User accounts: How you manage user accounts--creating, managing, tracking, and deleting--can have a huge impact on your overall cybersecurity posture.
 
 Goals
-**********************************************
+*****
 
 #. Implement good password practices (|Maturity1| maturity)
 #. Implement :term:`MFA` wherever possible (|Maturity1| maturity)
@@ -25,14 +25,14 @@ Goals
 #. Log user activity (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _user-management-maturity-one:
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 User Recommendations
 ^^^^^^^^^^^^^^^^^^^^
@@ -64,7 +64,7 @@ Organizational Recommendations
 .. _user-management-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -74,20 +74,20 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 #. Use services to search for breaches of your users' email addresses and passwords.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `GCA Cybersecurity Toolkit for Elections: Beyond Simple Passwords <https://gcatoolkit.org/elections/beyond-simple-passwords/>`_: A toolbox with links to free tools relevant to this best practice.
-* have i been pwned `password breach service <https://haveibeenpwned.com>`_`: A site for searching for breached accounts. Includes and API to automate searching for breached accounts.
+* have i been pwned `password breach service <https://haveibeenpwned.com>`_: A site for searching for breached accounts. Includes and API to automate searching for breached accounts.
 
 Learn More
-**********************************************
+**********
 
 * Get more password guidance from :term:`NIST`: `SP 800-63B Section 5.1.1.2 <https://pages.nist.gov/800-63-3/sp800-63b.html#memsecretver>`_.
 * `Password spotlight <https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-passwords>`_ (This spotlight has some out-of-date recommendations. Use in conjunction with the NIST guidance).
 * Understand the logic behind `using passphrases <https://www.nist.gov/blogs/taking-measure/easy-ways-build-better-p5w0rd>`_.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 3.3 Configure Data Access Control Lists (|Maturity1| maturity)
 * 4.7: Manage Default Accounts on Enterprise Assets and Software (|Maturity1| maturity)
@@ -107,6 +107,6 @@ Mapping to CIS Controls and Safeguards
 * 3.14 Log Sensitive Data Access (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 24, 25, 26, 47, 49, 50, 51, 52, 66, 77, 78, 81

@@ -12,21 +12,21 @@ From power failures to flooding to malicous cyber attacks, incidents occur. Whil
 To get back up and running quickly after an incident, you have to plan well. This means developing written plans -- often called incident response plans, disaster recovery plans, or business continuity plans. It also means testing those plans through exercises.
 
 Goals
-**********************************************
+*****
 
 #. Develop and maintain an incident response plan (|Maturity1| maturity)
 #. Exercise your plans (|Maturity1| maturity)
 #. Conduct after-action reports following and incident (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _incident-response-maturity-one:
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Create and maintain an incident response plan.
 
@@ -48,14 +48,25 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 .. _incident-response-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. When an incident does occur, conduct an after action reviews to identify what went right, what went wrong, and make improvements to your plan.
 
+Cost-Effective Tools
+********************
+
+* CIS's `Cyber Incident Checklist <https://www.cisecurity.org/insights/white-papers/cyber-incident-checklist>`_: Helps organizations deal with a cyber incident by 1) establishing reliable facts and a way to stay informed, 2) mobilizing a response, and 3) communicating what you know
+
+Learn More
+**********
+
+* CISA's `Incident and Vulnerability Response Playbooks <https://www.cisa.gov/uscert/ncas/current-activity/2021/11/16/new-federal-government-cybersecurity-incident-and-vulnerability>`_: Although intended for federal agencies, election offices should review them to benchmark their own vulnerability and incident response practices.
+* The incident reponse sections of the Belfer Center's `Elections Battle Staff Playbook <https://www.belfercenter.org/publication/elections-battle-staff-playbook>`_: Guidance to help you develop incident trackers, train staff, and test your processes.
+
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 11.1: Establish and Maintain a Data Recovery Process (|Maturity1| maturity)
 * 14.6: Train Workforce Members on Recognizing and Reporting Security Incidents (|Maturity1| maturity)
@@ -70,6 +81,6 @@ Mapping to CIS Controls and Safeguards
 * 17.9: Establish and Maintain Security Incident Thresholds (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices.

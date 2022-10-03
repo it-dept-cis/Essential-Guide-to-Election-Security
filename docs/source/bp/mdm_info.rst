@@ -20,18 +20,18 @@ Influencing the political environment through social discourse is a tactic obser
 Often, inaccurate statements about elections are unintentional and just the result of misinformed individuals. As election officials, it's not always important to understand the source or intent of the inaccurate information, but to simply address it with accurate messaging and other remediations. That is the focus of this best practice.
 
 Goals
-**********************************************
+*****
 
 #. Recognize MDM and its potential impact on election administration (|Maturity1| maturity)
 #. Take action when you encounter misinformation (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 At |Maturity1| maturity, simple steps can help you manage misinformation and address it when it occurs.
 
@@ -61,7 +61,7 @@ Remediating Misinformation
      * If appropriate, our team will work to have the inaccurate information removed or labeled.
 
 |Maturity2| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
@@ -77,7 +77,7 @@ Organizations operating at a |Maturity2| maturity should take additional actions
 #. Establish a mechanism for the public to report disinformation and misinformation to your office, such as an email or phone number.
 
 |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
@@ -89,17 +89,17 @@ Organizations operating at a |Maturity3| maturity should take additional actions
    * If a state, providing services for your locals.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `Election Tools Checklist for combating election misinformation <https://www.electiontools.org/tool/checklist-for-combating-election-misinformation/>`_: A framework to help election departments respond to influence operations.
 * `CISA Rumor Control Page <https://www.cisa.gov/rumorcontrol>`_: This page offers the public accurate and authoritative sources of information that will help address common MDM narratives. It is provided by a trusted voice to either preempt or respond to developing narratives.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 There are no relevant CIS Controls.
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices

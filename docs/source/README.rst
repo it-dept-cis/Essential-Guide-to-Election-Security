@@ -3,7 +3,7 @@
   To: Serve as the landing page for the EGES
 
 The Essential Guide to Election Security
-===============================================
+========================================
 
 Want to skip straight to the action?
 
@@ -13,7 +13,7 @@ Want to skip straight to the action?
 To first learn more, read on...
 
 A Best Practices Resource for Election Professionals
---------------------------------------------------------
+----------------------------------------------------
 
 The `Center for Internet Security <https://cisecurity.org>`_ (:term:`CIS`) has developed this Essential Guide to Election Security to serve as a first-stop resource for election officials to learn about best practices in election security. This can aid the process of building a program designed to meet individual needs and abilities of any given election office.
 
@@ -22,7 +22,7 @@ This Guide considers the wide range of technical capabilities and resource avail
 It's an online guide and is continually updated, though readers can easily export it as a PDF. Read more about this Guide and how it came to be in our :doc:`about this guide </appendices/about_the_guide>` appendix.
 
 Who should use this Guide?
-----------------------------
+--------------------------
 
 This Guide helps election officials and their staffs understand their organizational cybersecurity readiness and take steps to improve. It is for jurisdictions of all of sizes and types, though which best practices apply to you will depend on several factors, including, but not limited to:
 
@@ -34,7 +34,7 @@ This Guide helps election officials and their staffs understand their organizati
 Election technology providers and other stakeholders will also find much of the information useful as they consider how their work impacts outcomes in election administration and security.
 
 Structure of this Guide
-----------------------------
+-----------------------
 
 The Guide is organized into several sections:
 
@@ -59,14 +59,14 @@ You can create a PDF by hovering over the "v:latest" in the bottom left, at the 
 Find more detailed information on this Guide and how to use it in our :doc:`how to <appendices/how_to_guide>`.
 
 Identifying Your Organization's Security Lead
---------------------------------------------------------
+---------------------------------------------
 
 Regardless of the size of your office, one of the most effective steps to increasing your security posture is identifying someone who you'll hold accountable for making progress in examining your current maturity status, maintaining existing security processes, implementing best practices, and taking additional steps towards increasing your security posture.
 
 This individual should own and maintain the process of improving your cybersecurity posture, whether you use this Guide to do so or any other resource. Accountability matters!
 
 A Little Encouragement Before You Start
---------------------------------------------------------
+---------------------------------------
 
 Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 

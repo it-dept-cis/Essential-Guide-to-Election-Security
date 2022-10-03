@@ -3,7 +3,7 @@
   To: maintain an ReST glossary that serves as an acronym list
 
 Acronyms
-=========
+========
 
 NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
 

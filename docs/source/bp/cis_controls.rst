@@ -30,17 +30,17 @@ This results in three IGs, and the maturities in this Guide are loosely based on
 * **IG3: Organizational.** Contains controls that make changes to an organization’s policies to improve and maintain their cybersecurity. Roughly equivalent to the |Maturity3| maturity.
 
 Goals
-**********************************************
+*****
 
 #. Implement the appropriate IGs for your organization (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Implement the IG1 controls. 
 
@@ -48,32 +48,32 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
    * You can also use the `CIS Controls Navigator`_ to get to export a convenient list of the IG1 controls. 
 
 |Maturity2| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
 #. Implement the IG2 controls. Use the `CIS Controls Navigator`_ to get this done.
 
 |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
 #. Implement all of the CIS Controls that are applicable for your environment. Use the `CIS Controls Navigator`_ to get this done.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `CIS Controls Navigator <https://www.cisecurity.org/controls/cis-controls-navigator>`_: A simple tool to allow export of customized sets of safeguards from the CIS Controls.
 * `CIS Controls version 8 <https://www.cisecurity.org/controls/v8>`_: A prioritized set of actions that collectively form a defense-in-depth set of best practices that mitigate the most common attacks against systems and networks.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * All!
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices
 

@@ -35,13 +35,13 @@ The EI-ISAC provides access to valuable services to fulfill many of the best pra
 * Homeland Security Information Network (HSIN) portal access
 
 Goals
-**********************************************
+*****
 
-#. Understand what the EI-ISAC has to offer (|Maturity1| maturity)
 #. Join the EI-ISAC (|Maturity1| maturity)
+#. Understand what the EI-ISAC has to offer (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions are the same for all maturity levels.
 
@@ -50,16 +50,16 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
    * Contact the EI-ISAC at |eiisac_email| with any questions about membership.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* The EI-ISAC has many tools available once you become a member. https://learn.cisecurity.org/ei-isac-registration
+* The EI-ISAC has many free tools available to you once you `become a member <https://learn.cisecurity.org/ei-isac-registration>`_.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * There are no relevant CIS Controls.
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices.
