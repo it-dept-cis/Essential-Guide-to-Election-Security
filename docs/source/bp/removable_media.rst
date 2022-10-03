@@ -48,7 +48,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 Cost-Effective Tools
 ********************
 
-* CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_. A buying guide for EI-ISAC members, providing products from trusted vendors at discounted rates.
+* CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_: A buying guide for EI-ISAC members, providing products from trusted vendors at discounted rates.
 
 Mapping to CIS Controls and Safeguards
 **************************************

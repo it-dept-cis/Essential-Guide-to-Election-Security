@@ -40,7 +40,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
    * Reporting contact(s) for receiving reports on your MDBR service
    * Public IP addresses or CIDR netblocks from which your organization’s DNS queries are sent
 
-#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1
+#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1 of this best practice.
 
 The EI-ISAC provides members with a free MDBR service. Members sign up and configure their DNS server, and the EI-ISAC will then provide reporting that includes log information for all blocked requests and assist in remediation if needed.
 

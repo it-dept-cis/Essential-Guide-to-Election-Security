@@ -53,7 +53,7 @@ Organizations operating at a |Maturity2| maturity should take additional actions
 
    * Review the options CISA offers through its `resource hub <https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
 
-#. Consider implementing the CIS Controls and CIS Benchmarks. 
+#. Consider implementing the CIS Controls and `CIS Benchmarks`_. 
    
    * Tools available to election offices include `CIS-CAT <https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
 
@@ -82,4 +82,4 @@ Mapping to CIS Handbook Best Practices
 
 * There are no relevant Handbook best practices
 
-.. _CIS Benchmark: https://www.cisecurity.org/cis-benchmarks/
+.. _CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks/
