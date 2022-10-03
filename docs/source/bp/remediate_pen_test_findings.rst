@@ -32,6 +32,8 @@ Actions
 
 There are no actions for |Maturity1| and |Maturity2|. 
 
+.. _remediate-pentest-findings-maturity-three:
+
 |Maturity3| Maturity
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
