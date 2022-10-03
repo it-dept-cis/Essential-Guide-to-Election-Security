@@ -14,18 +14,18 @@ In the election environment, the election management system and voting systems t
 While keeping hardware and software off of networks can eliminate certain threats, others can be introduced by exchanging data with removable media. Election offices need to be sure to properly source and sanitize anything used to physically transfer data between machines.
 
 Goals
-**********************************************
+*****
 
 #. Employ appropriate media sanitization (|Maturity1| maturity)
 #. Effectively use removable media in the election environment (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity, as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Wherever possible, use removable media only once. This could mean using a :term:`CD-R`, :term:`DVD-R`, or other once-write media, but that can be difficult with today's machines.
 #. Instead, use :term:`USB` sticks or other removable media like flash cards. 
@@ -39,25 +39,25 @@ For |bp_title|, the necessary actions vary by maturity, as detailed below.
 #. Regardless of all other guidance, be sure to follow the guidance and directives of their chief election official and voting system vendor.
 
 |Maturity2| and |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
 #. Make removable media sanitization a part of your larger media sanitization program. NIST `SP 800-88 <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`_ is the gold standard for such a program.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * CIS's `cybermarket <https://www.cisecurity.org/services/cis-cybermarket>`_. A buying guide for EI-ISAC members, providing products from trusted vendors at discounted rates.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 3.9: Encrypt Data on Removable Media (|Maturity1| maturity)
 * 10.3: Disable Autorun and Autoplay for Removable Media (|Maturity1| maturity)
 * 10.4: Configure Automatic Anti-Malware Scanning of Removable Media (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 4, 22, 55, 63

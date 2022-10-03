@@ -16,38 +16,38 @@ The :term:`EI-ISAC` offers an IDS called Albert to election offices. Albert sens
 Under this service, the EI-ISAC receives any alerts, analyzes them, and works with your office to take any recommended action. The EI-ISAC can also be used to analyze historical data to retroactively search for malicious activity. While the Albert sensor is optimized for use in the state, local, tribal, and territorial governments, commercial :term:`IDS` and :term:`IPS` systems are also available.
 
 Goals
-**********************************************
+*****
 
 #. Understand what an :term:`IDS` is and why it's important (|Maturity1| maturity)
 #. Deploy an :term:`IDS` (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 We don't recommend investing in an :term:`IDS` at the |Maturity1| maturity.
 
 While it can provide protection in any network environment, there are more fundamental steps to take, as described in the best practice :ref:`prioritization <maturity-mapping-to-bp-maturity-one-description>` for |Maturity1|.
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 #. Consider investing in an :term:`IDS` or :term:`IPS`.
 
    * The Albert sensor and service is a free or low-cost way to do this that is optimized for use in the election offices and other state, local, tribal, and territorial governments. Contact  |eiisac_email| to get information about Albert.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 13.3: Deploy a Network Intrusion Detection Solution
 * 13.4: Perform Traffic Filtering Between Network Segments
 * 13.8: Deploy a Network Intrusion Prevention Solution
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 7

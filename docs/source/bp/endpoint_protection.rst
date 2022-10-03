@@ -30,17 +30,17 @@ Election offices can use :term:`EDR` to:
 Election officies should put EDR on internet-connected and critical endpoints, including workstations, mobile devices, webservers, and other important networked systems. EDR should not be deployed on voting systems.
 
 Goals
-**********************************************
+*****
 
 #. Get EDR services through the EI-ISAC or commercial vendors (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Deploy EDR on systems throughout your network. EDR should not be deployed on voting systems.
 
@@ -56,27 +56,27 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
    * Refer to the `EI-ISAC Cyber Incident Checklist <https://www.cisecurity.org/insights/white-papers/cyber-incident-checklist>`_ to manage security events.
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 For the |Maturity2| and |Maturity3| maturities, all of the guidance for the |Maturity1| maturity applies, but the specifics of your network configuration and the number of endpoints you serve may affect whether you can implement EDR through the EI-ISAC. Contact |eiisac_email| for more information.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* EI-ISAC EDR program: EDR services at no charge to state and local election offices.(Contact |eiisac_email|)
+* EI-ISAC EDR program: EDR services at no charge to state and local election offices. Contact |eiisac_email|.
 
 Learn More
-**********************************************
+**********
 
 * `EI-ISAC EDR program brochure </_static/EI-ISAC EDR Overview Online.22.01.pdf>`_
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 10.1: Deploy and Maintain Anti-Malware Software
 * 10.6: Centrally Manage Anti-Malware Software
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 32, 40

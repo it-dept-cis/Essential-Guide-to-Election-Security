@@ -26,20 +26,20 @@ Election offices can use a VPN to:
 * Securely transmit information to an external partner, such as an election vendor or non-profit organization.
 
 Goals
-**********************************************
+*****
 
 #. Understand VPN technology and its role in election environments (|Maturity1| maturity)
 #. Properly implement a VPN service with your environment (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _manage-remote-connections-maturity-one:
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 At the |Maturity1| maturity, organizations should use a VPN for all remote connections. To do so:
 
@@ -51,7 +51,7 @@ At the |Maturity1| maturity, organizations should use a VPN for all remote conne
 .. _manage-remote-connections-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -62,17 +62,17 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 #. Review `NIST's Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security <https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final>`_
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* CIS Telework and Small Office Network Security Guide: This Guide is meant to assist individuals and organizations in securing commodity routers, modems, and other network devices. Securing these devices is important as there are serious cybersecurity considerations surrounding the usage of network devices. (https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide)
+* CIS's `Telework and Small Office Network Security Guide <https://www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide>`_: Assists individuals and organizations in securing commodity routers, modems, and other network devices. Securing these devices is important as there are serious cybersecurity considerations surrounding the usage of network devices.
 
 Learn More
-**********************************************
+**********
 
 * For more tips on working with vendors, review CIS’s `“A Guide for Ensuring Security in Election Technology Procurements.” <https://www.cisecurity.org/elections>`_
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 3.10: Encrypt Sensitive Data in Transit (|Maturity1| maturity)
 * 6.3: Require MFA for Externally-Exposed Applications (|Maturity1| maturity)
@@ -81,6 +81,6 @@ Mapping to CIS Controls and Safeguards
 * 12.7: Ensure Remote Devices Utilize a VPN and are Connecting to an Enterprise’s AAA Infrastructure (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 44, 46, 83

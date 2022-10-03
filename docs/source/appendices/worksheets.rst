@@ -3,7 +3,7 @@
   To: serve as a placeholder for linking to all worksheets
 
 |Maturity1| Worksheets
-=========================
+======================
 
 This page links to a set of worksheets for use at the |Maturity1| maturity level. There is one `Excel format`_ file to download that contains all ten worksheets.
 
@@ -16,7 +16,7 @@ There are ten total worksheets in one file. Download the full set of worksheets 
 .. _IT-inventory-worksheets:
 
 IT Inventory Worksheets
-----------------------------------------------
+-----------------------
 
 Within the `Excel format`_ download, the first five worksheets are about :term:`IT` Inventory. Each is simple and, together, should only take a few hours to complete for a small office. These fulfill action #1 of the :ref:`Asset Management <asset-management-maturity-one>` best practice for the |Maturity1| maturity.
 
@@ -29,7 +29,7 @@ Within the `Excel format`_ download, the first five worksheets are about :term:`
 .. _cybersecurity-action-worksheets:
 
 Cybersecurity Action Worksheets
-----------------------------------------------
+-------------------------------
 
 Within the `Excel format`_ download, the last five worksheets are about taking action on cybersecurity in your office. Each is simple and, together, should only take a few hours to complete for a small office. These fulfill the remainder of the |Maturity1| maturity, as described in the |Maturity1| :ref:`election priorities <maturity-one-maturity-election-priorities>`.
 

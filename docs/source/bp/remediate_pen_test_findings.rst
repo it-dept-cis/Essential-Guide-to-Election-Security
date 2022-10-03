@@ -28,14 +28,14 @@ Actions
 *******
 
 |Maturity1| and |Maturity2| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 There are no actions for |Maturity1| and |Maturity2|. 
 
 .. _remediate-pentest-findings-maturity-three:
 
 |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Review and understand the results of the penetration testing report with all IT and security staff that have responsibilities. 
 #. Ask questions of the organization that performed the penetration test to clarify any misunderstandings or concerns that may require an update to the report. 
@@ -44,19 +44,23 @@ There are no actions for |Maturity1| and |Maturity2|.
 #. Assign list items to appropriate personnel. 
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `OWASP Penetration Testing Methodologies  <https://www.owasp.org/index.php/Penetration_testing_methodologies>`_: This link contains a collection of penetration testing methodologies. 
+
+Learn More
+**********
+
 * `PCI Security Standards Council  <https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf>`_: A set of standards used by the Payment Card Industry (PCI) for perfomring penetration testieng. Includes qualifications for testers and a technical methodology.  
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 18.3: Remediate Penetration Test Findings
 * 18.4: Validate Security Measures
 
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices.

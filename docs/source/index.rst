@@ -1,5 +1,5 @@
 The EI-ISAC's Essential Guide to Election Security
-===================================================
+==================================================
 
 .. toctree::
    :maxdepth: 1
@@ -43,6 +43,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/network_monitoring
    bp/patching_vuln_management
    bp/public_asset_scanning
+   bp/remediate_pen_test_findings
    bp/user_management
    bp/websites
    

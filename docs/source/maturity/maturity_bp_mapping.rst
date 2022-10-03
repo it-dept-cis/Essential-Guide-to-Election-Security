@@ -3,7 +3,7 @@
   to: provide a map from maturities to best practices. this is a shortcut for all maturities. individual pointers should exist in each maturity and this is a summary of them
 
 First Steps: Prioritizing Best Practices
-----------------------------------------------
+----------------------------------------
 
 No one wants to suffer a cybersecurity incident. The intent to protect networks is universal, but resource limitations leave many organizations facing perhaps the most difficult question in all of cybersecurity: What do I do next?
 
@@ -12,7 +12,7 @@ This section prioritizes best practices by mapping each maturity level to the pr
 .. _maturity-mapping-to-bp-maturity-one-description:
 
 |Maturity1| Maturity
-***************************************
+********************
 
 If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals. For example, complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
 

@@ -22,7 +22,7 @@ Successful exploitation of unpatched election infrastructure may result in data 
 The :term:`MS-ISAC` regularly disseminates `Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`_, which address critical patches in commercial software commonly used by government agencies and are available to all :term:`EI-ISAC` members. To subscribe to Cybersecurity Advisories, :term:`EI-ISAC` members should contact their account manager or complete the `subscription form <https://learn.cisecurity.org/ms-isac-subscription>`_.
 
 Goals
-**********************************************
+*****
 
 #. Understand the importance of patching (|Maturity1| maturity)
 #. Establish a patching schedules (|Maturity1| maturity)
@@ -30,12 +30,12 @@ Goals
 #. Establish a formal patch management plan leveraging automated tools and aligned with your asset management plan (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and consistent manner.
 
@@ -52,7 +52,7 @@ Not all systems used in elections can be patched immediately. Particularly when 
 #. Where complex or mission critical systems are used, test and verify patches before patching production systems. 
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -70,7 +70,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 For more comprehensive recommendations and technical insight on this topic, please see the MS-ISAC’s Technical White Paper `Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`_.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice.
 * `GCA Cybersecurity Toolkit for Elections: Control Access <https://gcatoolkit.org/elections/control-access/>`_: A toolbox with several links to free tools relevant to this best practice.
@@ -84,7 +84,7 @@ Cost-Effective Tools
 * `U.S. National Vulnerability Database <https://nvd.nist.gov>`_ (NVD): Repository of standards based on vulnerability management data.
 
 Learn More
-**********************************************
+**********
 
 * The MS-ISAC’s Technical White Paper `Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`_
 * `Apple Auto-update - iOS <https://support.apple.com/en-us/HT202180>`_
@@ -94,13 +94,13 @@ Learn More
 * `Auto-update Android <https://support.google.com/googleplay/answer/113412>`_
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 2.2: Ensure Authorized Software is Currently Supported
 * 7.3: Perform Automated Operating System Patch Management
 * 7.4: Perform Automated Application Patch Management
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 43, 44, 76
