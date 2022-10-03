@@ -54,7 +54,7 @@ You can use this table as a checklist to help track your progress.
 |      | Malicious Domain Blocking & Reporting      |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Managing Infrastructure with Secure        |  Priority   |  Priority   |  Priority   |
-|      |   Configurations                           |   scope     |             |             |
+|      |   Configurations                           |             |             |             |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Managing Mis-, Dis-, & Malinformation      |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
