@@ -33,17 +33,29 @@ This Guide helps election officials and their staffs understand their organizati
 
 Election technology providers and other stakeholders will also find much of the information useful as they consider how their work impacts outcomes in election administration and security.
 
-How do I use this Guide?
+Structure of this Guide
 ----------------------------
 
 The Guide is organized into several sections:
 
-#. An introduction,
-#. A description of :doc:`maturities <maturity/maturities>` and how they are used in the document,
-#. A set of :doc:`best practices <bp/bp_index>` for organizations to implement, and
+#. An introduction.
+#. A description of :doc:`maturities <maturity/maturities>` and how they are used in the document.
+
+   * Maturities are used to reflect an organization’s capabilities in managing cybersecurity risk
+   * Best practices and actions are prioritized based on maturity, so knowing your maturity is important to chart your path through the rest of the Guide.
+
+#. A set of :doc:`best practices <bp/bp_index>` for organizations to implement.
+
+   * Each best practice has an introduction to the topic as well as goals and actions for each maturity level.
+   * There are also lists of cost-effective tools, additional resources, and mappings to the CIS Controls.
+   * There is a mapping to best practices from the Handbook for Election Infrastructure Security, the predecessor to this Guide. Find a full mapping :doc:`here <appendices/handbook_bp_mapping>`
+   * There is also a set of worksheets you can download if you are at the |Maturity1| maturity and need to complete the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
+
 #. Additional references, tools, and related information in :doc:`appendices <appendices/appendix_index>`.
 
-You can get more detailed information this Guide and how to use it in our :doc:`how to <appendices/how_to_guide>`.
+You can create a PDF by hovering over the "v:latest" in the bottom left, at the bottom of the navigation panel. The box that pops up will have a "PDF" link. Hit that link and you'll get a PDF based on the current version of the Guide.
+
+Find more detailed information on this Guide and how to use it in our :doc:`how to <appendices/how_to_guide>`.
 
 Identifying Your Organization's Security Lead
 --------------------------------------------------------
@@ -52,13 +64,12 @@ Regardless of the size of your office, one of the most effective steps to increa
 
 This individual should own and maintain the process of improving your cybersecurity posture, whether you use this Guide to do so or any other resource. Accountability matters!
 
-
 A Little Encouragement Before You Start
 --------------------------------------------------------
 
 Many elections officials may not consider themselves security or IT professionals. This Guide takes this into consideration. In addition to implementing the best practices for your maturity, we encourage you to read through the entire Guide. It can provide you an understanding of the types of actions you may want to take as you continually improve your cybersecurity posture.
 
-If you find yourself not understanding something, please reach out to the EI-ISAC elections team at |eiisac_email| and trusted partners and peers at the federal, state, and local levels for guidance and support.
+This guide in a continual development process, and CIS is interested in feedback from all readers. Ideas for content and usability improvements are most welcome, as are any questions if you find yourself with a question or needing more help. Always feel free to reach out to the EI-ISAC elections team at |eiisac_email|. We also encourage you to use trusted partners and peers at the federal, state, and local levels for guidance and support.
 
 ---------------
 
