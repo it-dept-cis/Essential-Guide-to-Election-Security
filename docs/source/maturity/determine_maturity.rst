@@ -3,10 +3,12 @@
   to: capture EGES instructions for officials to determine their own organizational maturity in cybersecurity
 
 
-Determine Maturity
----------------------------------------
+Determining Your Maturity Level
+-------------------------------
 
 This section provides some general characteristics for each of the three maturities. Read through them, determine your current maturity, and use that maturity throughout the Guide to choose your implementation strategy.
+
+If you’re unsure of what maturity properly represents your jurisdiction, begin at the |Maturity1| maturity and move upward as appropriate.
 
 If you've already implemented the guidance in a best practice for your overall maturity, consider leveling up to the next maturity for that best practice. It's all part of the process of continual improvement.
 

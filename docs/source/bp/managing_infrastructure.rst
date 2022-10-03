@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: managing infrastructure
 
-.. |bp_title| replace:: Managing Infrastructure
+.. |bp_title| replace:: Managing Infrastructure with Secure Configurations
 
 |bp_title|
 ----------------------------------------------
@@ -68,6 +68,8 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
+* 4.1: Establish and Maintain a Secure Configuration Process (|Maturity1| maturity)
+* 4.2: Establish a Secure Configuration Process for Network Infrastructure (|Maturity1| maturity)
 * 4.3: Configure Automatic Session Locking on Enterprise Assets (|Maturity1| maturity)
 * 5.4: Restrict Administrator Privileges to Dedicated Administrator Accounts (|Maturity1| maturity)
 * 4.2: Maintain a Secure Configuration Process for Network Infrastructure (|Maturity1| maturity)

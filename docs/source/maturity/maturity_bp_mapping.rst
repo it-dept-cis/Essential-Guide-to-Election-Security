@@ -2,7 +2,7 @@
   created by: mike garcia
   to: provide a map from maturities to best practices. this is a shortcut for all maturities. individual pointers should exist in each maturity and this is a summary of them
 
-Prioritizing Best Practices
+First Steps: Prioritizing Best Practices
 ----------------------------------------------
 
 No one wants to suffer a cybersecurity incident. The intent to protect networks is universal, but resource limitations leave many organizations facing perhaps the most difficult question in all of cybersecurity: What do I do next?
@@ -14,7 +14,7 @@ This section prioritizes best practices by mapping each maturity level to the pr
 |Maturity1| Maturity
 ***************************************
 
-If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals: complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
+If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals. For example, complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
 
 .. _maturity-one-maturity-baseline-priorities:
 
@@ -108,11 +108,11 @@ In the table below, we map the highest efficiency Safeguards from the CIS Contro
    4     6.1        Establish an Access Granting Process                                         :ref:`User Management <user-management-maturity-two-three>`
    5     6.2        Establish an Access Revoking Process                                         :ref:`User Management <user-management-maturity-two-three>`
    6     5.4        Restrict Administrator Privileges to Dedicated Administrator Accounts        :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
-   7     18.3       Remediate Penetration Test Findings                                          :ref:`Internal Pen Testing <internal_pentest>`
-   8     18.5       Perform Periodic Internal Penetration Tests                                  :ref:`Internal Pen Testing <internal_pentest>`
+   7     18.3       Remediate Penetration Test Findings                                          :ref:`Internal Pen Testing <internal-pentest-maturity-three>`
+   8     18.5       Perform Periodic Internal Penetration Tests                                  :ref:`Internal Pen Testing <remediate-pentest-findings-maturity-three>`
    9     6.8        Define and Maintain Role-Based Access Control                                :ref:`User Management <user-management-maturity-two-three>`
    10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
-   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q3 update]
+   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q4 update]
    12    5.2        Use Unique Passwords                                                         :ref:`User Management <user-management-maturity-two-three>`
    13    6.4        Require MFA for Remote Network Access                                        :ref:`Managing Remote Connections <manage-remote-connections-maturity-two-three>`
    14    6.5        Require MFA for Administrative Access                                        :ref:`User Management <user-management-maturity-two-three>`
