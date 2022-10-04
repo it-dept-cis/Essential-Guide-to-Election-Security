@@ -5,7 +5,7 @@
 Election Systems and Their Network Connections
 ----------------------------------------------
 
-This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how various types of election technology are (or are not) connected to each other, the internet, and other networks.
+*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how various types of election technology are (or are not) connected to each other, the internet, and other networks.*
 
 Any given piece of election technology fits into one of three classes of "connectedness" based on how they interact with networks, other systems, and the internet. This connectedness is extremely influential in the overall risk profile--the types of attacks the technology might face--and thus is a good starting point for threat modeling.
 

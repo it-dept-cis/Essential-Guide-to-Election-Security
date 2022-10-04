@@ -20,7 +20,7 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Continuous Diagnostics and Monitoring
 
    CD-R
-     Compact Disc Read-only
+     compact disc read-only
 
    CFAA
      Computer Fraud and Abuse Act of 1986
@@ -30,6 +30,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
 
    CISA
      Cybersecurity and Infrastructure Security Agency
+
+   COTS
+     commercial-off-the-shelf
 
    CSF
      NIST Cybersecurity Frameowrk
@@ -41,42 +44,42 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Common Vulnerability Scoring System
    
    DNS
-     Domain name system
+     domain name system
 
    DVD-R
-     Digital Video Disc Read-only
+     digital video disc read-only
 
    EAC
      Election Assistance Commission
 
    EDR
-     :term:`Endpoint Detection and Response`
+     :term:`endpoint detection and response`
 
    EI-ISAC
      Election Infrastructure Information Sharing and Analysis Center
 
    EMS
-     Election Management System
+     election management system
 
    IDS
-     Intrusion Detection System
+     intrusion detection system
 
    IG
      Implementation Group
 
    IPS
-     Intrustion Prevention System
+     intrustion prevention system
 
    IT
-     Information Technology
+     information technology
 
    MDBR
      :term:`Malicious Domain Blocking and Reporting <malicious domain blocking and reporting>`
 
    MDM
-     Mobile Device Management OR
+     mobile device management
 
-     Mis-, Dis-, and Mal-Information
+     mis-, dis-, and mal-Information
 
    MFA
      :term:`multi-factor authentication`
@@ -100,19 +103,19 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      Personal Computer Memory Card International Association
 
    PII
-     Personally-Identifiable Information
+     personally identifiable information
 
    US-CERT
      United States Computer Emergency Readiness Team
 
    USB
-     Universal Serial Bus
+     universal serial bus
 
    VDP
-     Vulnerability Disclosure Program
+     vulnerability disclosure program
      
    VPN
-     Virtual Private Network
+     virtual private network
 
    WPA
-     Wi-Fi Protected Access
+     wi-fi protected access
