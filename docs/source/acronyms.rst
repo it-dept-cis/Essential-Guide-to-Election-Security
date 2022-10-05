@@ -108,6 +108,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    US-CERT
      United States Computer Emergency Readiness Team
 
+   UOCAVA
+     Uniformed and Overseas Citizens Absentee Voting Act
+   
    USB
      universal serial bus
 

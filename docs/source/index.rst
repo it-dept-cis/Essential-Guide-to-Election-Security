@@ -59,7 +59,7 @@ The EI-ISAC's Essential Guide to Election Security
    appendices/worksheets
    appendices/handbook_bp_mapping
    appendices/connectedness_classes
-
+   appendices/election_infrastructure
 .. toctree::
    :maxdepth: 1
    :caption: Glossary and Acronyms

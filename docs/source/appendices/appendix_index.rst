@@ -14,5 +14,6 @@ The appendices are:
 #. Small Jurisdiction :doc:`Worksheets <worksheets>`: A set of downloadable worksheets for use at the |Maturity1| maturity level.
 #. For legacy purposes, a :doc:`mapping <handbook_bp_mapping>` of the best practices to the best practices from the Handbook for Election Infrastructure Security.
 #. An informative section on :doc:`connectedness <connectedness_classes>`, to help understand and conceptualize how various types of election technology are (or are not) connected to each other, the internet, and other networks.
+#. An informative section on :doc:`election infrastructure <election_infrastructure>`, to give background on the architecture of election systems and the role information technology.
 
 In addition, there is a :doc:`glossary <../glossary>` of technical terms used throughout the Guide and an :doc:`acronym <../acronym>` list.
