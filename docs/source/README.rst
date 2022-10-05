@@ -7,8 +7,8 @@ The Essential Guide to Election Security
 
 Want to skip straight to the action?
 
-* Determine your :doc:`maturity level </maturity/determine_maturity>`
-* See :doc:`best practices <maturity/maturity_bp_mapping>` for your maturity
+* Determine your :doc:`maturity level </maturity/determine_maturity>`.
+* Find your maturity level in :doc:`best practices <maturity/maturity_bp_mapping>` to get to the prioritized best practices.
 
 To first learn more, read on...
 
@@ -48,8 +48,13 @@ The Guide is organized into several sections:
 
    * Each best practice has an introduction to the topic as well as goals and actions for each maturity level.
    * There are also lists of cost-effective tools, additional resources, and mappings to the CIS Controls.
-   * There is a mapping to best practices from the Handbook for Election Infrastructure Security, the predecessor to this Guide. Find a full mapping :doc:`here <appendices/handbook_bp_mapping>`
+   * There is a mapping to best practices from the Handbook for Election Infrastructure Security, the predecessor to this Guide. Find a full mapping :doc:`here <appendices/handbook_bp_mapping>`.
    * There is also a set of worksheets you can download if you are at the |Maturity1| maturity and need to complete the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
+   * The best practices are ordered as follows:
+     #. Addressing physical threats: First, be safe. Then be cybersecure.
+     #. Join the EI-ISAC: Becoming a member gives you free access to many of the tools in the rest of the best practices.
+     #. Baseline priority best practices for the |Maturity1| maturity: most of the actions within these best practices are supported with the worksheets described above. See the |Maturity1| maturity the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
+     #. Priority based on CIS's Community Defense Model 2.0. See :ref:`the top proiority safeguards mapped to the best practices <maturity-two-and-three-maturity-baseline-priorities>`.
 
 #. Additional references, tools, and related information in :doc:`appendices <appendices/appendix_index>`.
 #. A :doc:`glossary <glossary>` and set of :doc:`acronyms <acronyms>`.
