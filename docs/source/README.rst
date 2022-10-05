@@ -54,7 +54,7 @@ The Guide is organized into several sections:
      #. Addressing physical threats: First, be safe. Then be cybersecure.
      #. Join the EI-ISAC: Becoming a member gives you free access to many of the tools in the rest of the best practices.
      #. Baseline priority best practices for the |Maturity1| maturity: most of the actions within these best practices are supported with the worksheets described above. See the |Maturity1| maturity the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
-     #. Priority based on CIS's Community Defense Model 2.0. See :ref:`the top proiority safeguards mapped to the best practices <maturity-two-and-three-maturity-baseline-priorities>`.
+     #. Priority based on CIS's Community Defense Model 2.0. See :ref:`the top priority safeguards mapped to the best practices <maturity-two-and-three-maturity-baseline-priorities>`.
 
 #. Additional references, tools, and related information in :doc:`appendices <appendices/appendix_index>`.
 #. A :doc:`glossary <glossary>` and set of :doc:`acronyms <acronyms>`.
