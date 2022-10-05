@@ -14,21 +14,21 @@ Attackers search for vulnerable default settings and gaps or inconsistencies in 
 All firewalls, no matter how simple or small of a network, need to have their configurations managed. To properly manage network firewalls, you need to establish rules and policies, track changes, and monitor compliance logs. You should also implement and manage firewalls on end user devices.
 
 Goals
-**********************************************
+*****
 
 #. Enable network scanning to look for port vulnerabilities (|Maturity1| maturity)
 #. Enable firewall management on networks (|Maturity1| maturity)
 #. Enable firewall management on end-user devices (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 .. _firewalls-ports-maturity-one:
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Manage firewalls on all servers and end-user devices.
 
@@ -42,20 +42,20 @@ Manage firewalls on all servers and end-user devices.
 .. _firewalls-ports-maturity-two-three:
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
-#. Implement a `CIS Benchmark`_ for firewall management.
+#. Implement a `CIS Benchmark`_ for firewall management that is appropriate for your environment.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* Free vulnerability scanning from CISA (contact |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services")
-* `CIS Benchmark`_ for firewall management
+* Free vulnerability scanning from CISA. Contact |CISA_vuln_email| with subject line "Requesting Cyber Hygiene Services."
+* `CIS Benchmark`_ for firewall management: Secure configurations for more than a hundred of the most common software applications.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 4.4: Implement and Manage a Firewall on Servers (|Maturity1| maturity)
 * 4.5: Implement and Manage a Firewall on End-User Devices (|Maturity1| maturity)
@@ -63,7 +63,7 @@ Mapping to CIS Controls and Safeguards
 * 13.10: Perform Application Layer Filtering (|Maturity3| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 41, 42
 

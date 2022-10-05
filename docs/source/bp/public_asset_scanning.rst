@@ -18,19 +18,19 @@ Common types of scanning or network testing include:
 * Remote penetration testing: A more advanced method of using known tactics to simulate attacks and find more difficult to exploit vulnerabilities.
 
 Goals
-**********************************************
+*****
 
 #. Deploy scanning tools on your public-facing assets (|Maturity1| maturity)
 #. Deploy web application scanning tools (|Maturity1| maturity)
 #. Use penetration testing to harden networks (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Use free tools and services to conduct scans of your publicly-facing assets. This should include your website and any online portals you are responsible for that are used for elections purposes. :term:`CISA` offers all of its cybersecurity assessment services at no cost to election offices.
 
@@ -42,7 +42,7 @@ For |bp_title|, the necessary actions vary by maturity as detailed below.
 Note that scanning online systems you do not own may run afoul of the Computer Fraud and Abuse Act of 1986 (:term:`CFAA`).
 
 |Maturity2| and |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -53,18 +53,18 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 #. Sign up for the EI-ISAC's `Vulnerability Disclosure Program <https://www.cisecurity.org/ei-isac/ei-isac-services/vdp>`_ to allow the wide-ranging talent of security researchers to improve the security of your systems.
 
 Cost-Effective Tools
-**********************************************
+********************
 
 * `CISA Cyber Hygiene Services <https://www.cisa.gov/cyber-hygiene-services>`_: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing.
 * `ShieldsUP! <https://www.grc.com/shieldsup>`_: ShieldsUP is an online port scanning service that can alert the users of any ports that have been opened through their firewalls or through their NAT routers, which can be used by malicious users to take advantage of security vulnerabilities.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 7.6: Perform Automated Vulnerability Scans of Externally-Exposed Enterprise Assets
 * 7.7: Remediate Detected Vulnerabilities
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 2, 19

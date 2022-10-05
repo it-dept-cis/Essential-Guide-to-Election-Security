@@ -15,10 +15,14 @@ Software development companies, such as Microsoft and Adobe, regularly release b
 
 Successful exploitation of unpatched election infrastructure may result in data breaches, malware infections, and website defacements, among other things. Information at risk includes personally identifiable information (:term:`PII`) and other voter information.
 
+.. image:: /_static/patching_lifecycle.png
+  :width: 90%
+  :alt: The Patching Lifecycle
+
 The :term:`MS-ISAC` regularly disseminates `Cybersecurity Advisories <https://www.cisecurity.org/resources/advisory/>`_, which address critical patches in commercial software commonly used by government agencies and are available to all :term:`EI-ISAC` members. To subscribe to Cybersecurity Advisories, :term:`EI-ISAC` members should contact their account manager or complete the `subscription form <https://learn.cisecurity.org/ms-isac-subscription>`_.
 
 Goals
-**********************************************
+*****
 
 #. Understand the importance of patching (|Maturity1| maturity)
 #. Establish a patching schedules (|Maturity1| maturity)
@@ -26,12 +30,12 @@ Goals
 #. Establish a formal patch management plan leveraging automated tools and aligned with your asset management plan (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 At the |Maturity1| maturity, organizations should simply begin patching their systems in a thoughtful and consistent manner.
 
@@ -48,7 +52,7 @@ Not all systems used in elections can be patched immediately. Particularly when 
 #. Where complex or mission critical systems are used, test and verify patches before patching production systems. 
 
 |Maturity2| and |Maturity3| Maturities
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, including:
 
@@ -66,14 +70,21 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
 For more comprehensive recommendations and technical insight on this topic, please see the MS-ISAC’s Technical White Paper `Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`_.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* `Itarian <https://www.itarian.com>`_: Patch management solution for Windows
-* `Opsi <https://www.opsi.org>`_: A more complicated solution that can help to manage both Windows and Linux platforms
-* `OpenVAS <https://www.openvas.org>`_: Free, open-source framework for vulnerability scanning and management
+* `GCA Cybersecurity Toolkit for Elections: Update Your Defenses <https://gcatoolkit.org/elections/update-your-defenses/>`_: A toolbox with links to free tools relevant to this best practice.
+* `GCA Cybersecurity Toolkit for Elections: Control Access <https://gcatoolkit.org/elections/control-access/>`_: A toolbox with several links to free tools relevant to this best practice.
+*  `CIS Benchmarks™ <https://www.cisecurity.org/benchmark>`_: Secure configuration guidelines for 100+ technologies, including operating systems, applications, and network devices.
+*  `CIS SecureSuite® Membership <https://www.cisecurity.org/cis-securesuite>`_: No-cost membership to EI-ISAC members, with access to CIS-CAT Pro Assessor, CIS Build Kits, CIS Benchmarks, and more.
+*  `CIS-CAT® Pro Tool <https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro>`_: Scans for proper CIS Benchmark configurations for applications, operating systems, and network devices.
+* `Itarian <https://www.itarian.com>`_: Patch management solution for Windows.
+* `Opsi <https://www.opsi.org>`_: A more complicated solution that can help to manage both Windows and Linux platforms.
+* `OpenVAS <https://www.openvas.org>`_: Free, open-source framework for vulnerability scanning and management.
+* `Nmap <https://nmap.org/>`_: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network.
+* `U.S. National Vulnerability Database <https://nvd.nist.gov>`_ (NVD): Repository of standards based on vulnerability management data.
 
 Learn More
-**********************************************
+**********
 
 * The MS-ISAC’s Technical White Paper `Timely Patching Reduces System Compromises <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2017/03/Patching-TLP-WHITE.pdf>`_
 * `Apple Auto-update - iOS <https://support.apple.com/en-us/HT202180>`_
@@ -83,13 +94,13 @@ Learn More
 * `Auto-update Android <https://support.google.com/googleplay/answer/113412>`_
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 2.2: Ensure Authorized Software is Currently Supported
 * 7.3: Perform Automated Operating System Patch Management
 * 7.4: Perform Automated Application Patch Management
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 43, 44, 76

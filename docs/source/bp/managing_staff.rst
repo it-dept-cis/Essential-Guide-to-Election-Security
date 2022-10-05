@@ -14,13 +14,13 @@ Background checks, including criminal and financial checks, are essential for a 
 .. _managing-staff-maturity-one:
 
 Goals
-**********************************************
+*****
 
 #. Conduct background checks for new hires (|Maturity1| maturity)
 #. Use available cybersecurity training to improve your cybersecurity posture (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions are the same for all maturity levels.
 
@@ -31,12 +31,14 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 #. Implement actions for proper system configuration in :doc:`Managing Infrastructure <managing_infrastructure>`
 
 Learn More
-**********************************************
+**********
 
-* Learn how to protect yourself, your family and your devices with tips and resources from the National Cybersecurity Alliance (https://staysafeonline.org/stay-safe-online).
+* MS-ISAC® `Cybersecurity Awareness Toolkit <https://www.cisecurity.org/ms-isac/ms-isac-toolkit>`_ features educational materials designed to raise cybersecurity awareness. Digital materials are aggregated for your use.
+* `Federal Virtual Training Environment <https://fedvte.usalearning.gov>`_ (FedVTE): Online Courses Free online cybersecurity training to State, Local, Tribal, and Territorial (SLTT) governments.
+* Learn how to protect yourself, your family and your devices with tips and resources from the National Cybersecurity Alliance's `Stay Safe Online <https://staysafeonline.org/stay-safe-online>`_ initiative. See also its `YouTube channel <https://www.youtube.com/user/StaySafeOnline1>`_.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 14.1: Establish and Maintain a Security Awareness Program (|Maturity1| maturity)
 * 14.2: Train Workforce Members to Recognize Social Engineering Attacks (|Maturity1| maturity)
@@ -49,6 +51,6 @@ Mapping to CIS Controls and Safeguards
 * 14.9: Conduct Role-Specific Security Awareness and Skills Training (|Maturity2| maturity)
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * 13, 16, 54, 57, 58, 59, 82, 87

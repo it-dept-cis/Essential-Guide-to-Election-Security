@@ -3,7 +3,7 @@
   To: maintain an ReST glossary that serves as an acronym list
 
 Acronyms
-=========
+========
 
 NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossary/>`_ is a useful reference for information security terms, acronyms, and organizations.
 
@@ -31,12 +31,15 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    CISA
      Cybersecurity and Infrastructure Security Agency
 
-   NIST CSF
+   CSF
      NIST Cybersecurity Frameowrk
   
    CVE
      :term:`Common Vulnerabilities and Exploits`
 
+   CVSS
+     Common Vulnerability Scoring System
+   
    DNS
      Domain name system
 

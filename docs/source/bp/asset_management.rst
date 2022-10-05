@@ -7,9 +7,17 @@
 |bp_title|
 ----------------------------------------------
 
-Without a clear understanding of what computers and other technology you must protect, you’ll have a hard time ensuring everything you own is properly secured.
+Without a clear understanding of what computers and other technology you must protect, you’ll have a hard time ensuring everything you own is properly secured. Assets can take many forms, with varying complexity and value to the organizations.
 
-There are many free tools that can help automate the job of inventorying and managing physical devices, and for many organizations simple tools like spreadsheets are good enough.
+.. image:: /_static/enterprise_asset_taxonomy.png
+  :width: 90%
+  :alt: Taxonomy of Enterprise Assets
+
+There are many free tools that can help automate the job of inventorying and managing physical devices, and for many organizations simple tools like spreadsheets are good enough. All assets have a lifecycle and need that lifecycle managed.
+
+.. image:: /_static/acquisition_lifecycle.png
+  :width: 90%
+  :alt: Acquisition Lifecycle Flowchart
 
 Goals
 **********************************************
@@ -61,6 +69,7 @@ Cost-Effective Tools
 **********************************************
 
 * `CIS Enterprise Asset Inventory Worksheet`_: An excel workbook suitable for small operations with a limited number of assets
+* `GCA Cybersecurity Toolkit for Elections: Know What You Have <https://gcatoolkit.org/elections/know-what-you-have/>`_: A toolbox with links to free tools relevant to this best practice
 * `Nmap <https://nmap.org/>`_: Famous multipurpose network scanner used by system administrators and hackers across the world to identify which devices are connected to your network
 * `ZenMap <https://nmap.org/zenmap/>`_: Easy-to-use graphic user interface for Nmap
 * `Spiceworks <https://www.spiceworks.com/>`_: Free IT inventory and asset management software to identify devices and software on your network

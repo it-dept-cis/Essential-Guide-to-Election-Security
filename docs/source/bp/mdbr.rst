@@ -24,12 +24,12 @@ Once an organization points its domain name system (:term:`DNS`) requests to the
    :term:`MDBR` in an election office environment
 
 Goals
-**********************************************
+*****
 
-#. Deploy MDBR for all internet-facing IT assets (|Maturity1| maturity)
+#. Deploy MDBR for all internet-facing assets (|Maturity1| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions are the same for all maturity levels.
 
@@ -40,7 +40,7 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
    * Reporting contact(s) for receiving reports on your MDBR service
    * Public IP addresses or CIDR netblocks from which your organization’s DNS queries are sent
 
-#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1
+#. If you aren't an MS-ISAC or EI-ISAC member, :doc:`join today <join_ei_isac>` -- then complete action #1 of this best practice.
 
 The EI-ISAC provides members with a free MDBR service. Members sign up and configure their DNS server, and the EI-ISAC will then provide reporting that includes log information for all blocked requests and assist in remediation if needed.
 
@@ -49,17 +49,17 @@ The service is easy to implement and requires virtually no maintenance as EI-ISA
 The EI-ISAC hosts all reporting data, including both successful and blocked DNS requests. It will then perform detailed analysis and reporting for the organization and the election community writ large. The EI-ISAC will provide regular reporting and intelligence services for SLTT members.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* EI-ISAC MDBR service: A no-cost, lightweight MDBR solution for EI-ISAC members [https://mdbr.cisecurity.org]
+* EI-ISAC `MDBR service <https://mdbr.cisecurity.org>`_: A no-cost, lightweight MDBR solution for EI-ISAC members.
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * 9.2: Use DNS Filtering Services
 * 9.3: Maintain and Enforce Network-Based URL Filters
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices

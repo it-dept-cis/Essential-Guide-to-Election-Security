@@ -20,19 +20,19 @@ Risk assessments are a common form of assessment that can be sorted into two cat
 
 
 Goals
-**********************************************
+*****
 
 #. Understand and determine the type and extent of cybersecurity assessment your organization should undergo (|Maturity1| maturity)
 #. Use the results to improve your cybersecurity posture (|Maturity1| maturity)
 #. Implement a risk assessment program (|Maturity2| maturity)
 
 Actions
-**********************************************
+*******
 
 For |bp_title|, the necessary actions vary by maturity as detailed below.
 
 |Maturity1| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 #. Choose a type of assessment.
 #. Perform a security assessment.
@@ -44,7 +44,7 @@ Keep it simple. If you haven't implemented the critical actions for the |Maturit
 Whatever you choose to do, figure out how often you should do it, stick to it, and add to it when resources permit.
 
 |Maturity2| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity2| maturity should take additional actions, including:
 
@@ -53,31 +53,33 @@ Organizations operating at a |Maturity2| maturity should take additional actions
 
    * Review the options CISA offers through its `resource hub <https://www.cisa.gov/cyber-resource-hub>`_ with your technical staff and decide which services make sense for you and how often you should use them.
 
-#. Consider implementing the CIS Controls and CIS Benchmarks. 
+#. Consider implementing the CIS Controls and `CIS Benchmarks`_. 
    
    * Tools available to election offices include `CIS-CAT <https://www.cisecurity.org/insights/blog/cis-csat-free-tool-assessing-implementation-of-cis-controls>`_, which can automate much of the process of implementing appropriate safeguards.
 
 |Maturity3| Maturity
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&
 
 Organizations operating at a |Maturity3| maturity should take additional actions, including:
 
 #. Implementing sophisticated controls and undergoing both internal and independent assessments. All of the tools mentioned above are still in play for you, but you should be implementing them as part of a well-crafted overall plan. Build this into your program documentation, track progress, and seek new ways to conduct regular, automated, or continuous monitoring of your risk framework.
 
 Cost-Effective Tools
-**********************************************
+********************
 
-* CISA Cyber Hygiene Services: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing. (https://www.cisa.gov/cyber-hygiene-services)
+* CISA's `Cyber Hygiene Services <https://www.cisa.gov/cyber-hygiene-services>`_: CISA offers several scanning and testing services to help organizations reduce their exposure to threats by taking a proactive approach to mitigating attack vectors. Types of scans and assessments include vulnerability scanning, web application scanning, phishing campaign assessments, and remote penetration testing.
 * CIS Controls: see the :doc:`CIS Controls <cis_controls>` best practice
-* CIS Benchmarks: Secure configurations for more than a hundred of the most common software applications. (https://www.cisecurity.org/cis-benchmarks/)
-* CIS-CAT: a tool freely available to :doc:`EI-ISAC members <join_ei_isac>` to support implementation of the CIS Controls
+* `CIS Benchmarks`_: Secure configurations for more than a hundred of the most common software applications.
+* `CIS-CAT Pro <https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro>`_: a tool freely available to :doc:`EI-ISAC members <join_ei_isac>` to support implementation of the CIS Controls
 
 Mapping to CIS Controls and Safeguards
-**********************************************
+**************************************
 
 * There are no relevant CIS Controls, though assessments can be conducted against the CIS Controls using the tools listed above.
 
 Mapping to CIS Handbook Best Practices
-****************************************
+**************************************
 
 * There are no relevant Handbook best practices
+
+.. _CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks/
