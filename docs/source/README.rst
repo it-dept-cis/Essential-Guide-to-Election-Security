@@ -51,6 +51,7 @@ The Guide is organized into several sections:
    * There is a mapping to best practices from the Handbook for Election Infrastructure Security, the predecessor to this Guide. Find a full mapping :doc:`here <appendices/handbook_bp_mapping>`.
    * There is also a set of worksheets you can download if you are at the |Maturity1| maturity and need to complete the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
    * The best practices are ordered as follows:
+  
      #. Addressing physical threats: First, be safe. Then be cybersecure.
      #. Join the EI-ISAC: Becoming a member gives you free access to many of the tools in the rest of the best practices.
      #. Baseline priority best practices for the |Maturity1| maturity: most of the actions within these best practices are supported with the worksheets described above. See the |Maturity1| maturity the :ref:`baseline priority <maturity-one-maturity-baseline-priorities>` best practices.
