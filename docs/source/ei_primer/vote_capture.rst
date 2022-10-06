@@ -69,8 +69,9 @@ Each type of vote capture process should have risks evaluated individually based
                                        
                                        Some electronic vote capture machines also directly transmit data for election night reporting.
    ==================================  =============================================================================
-
-
+   
+   
+break
 
    Indirectly Connected                b Voter marked paper balloting with scanning. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
