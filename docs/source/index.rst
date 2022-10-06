@@ -62,6 +62,7 @@ The EI-ISAC's Essential Guide to Election Security
 .. toctree:: 
    :maxdepth: 1
    :caption: Election Infrastructure Primer
+
    ei_primer/election_infrastructure
    ei_primer/connectedness_classes
    ei_primer/voter_reg
