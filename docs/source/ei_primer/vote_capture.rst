@@ -68,6 +68,10 @@ Each type of vote capture process should have risks evaluated individually based
                                        Also, many central count scanners, used for Voter marked paper balloting with scanning in batches (usually vote by mail ballots) are similarly networked on a closed-LAN. 
                                        
                                        Some electronic vote capture machines also directly transmit data for election night reporting.
+   ==================================  =============================================================================
+
+
+
    Indirectly Connected                b Voter marked paper balloting with scanning. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
                                        c Electronic voting with paper ballot output. In addition to the role of
@@ -80,5 +84,3 @@ the scanners, the vote capture machines are typically not network connected, but
                                        Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
    Not Connected                       a Voter marked and hand counted paper balloting. Out of scope in this handbook as the vote capture process does not include a digital component.
    Additinal Transmission-based Risks  f Electronic voting conducted remotely. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations in Part 3. Aspects definitively executed without a digital component are not connected, out of scope.
-   ==================================  =============================================================================
-
