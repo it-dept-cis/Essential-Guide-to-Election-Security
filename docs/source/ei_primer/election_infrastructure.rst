@@ -18,3 +18,7 @@ In some jurisdictions, the owner of various aspects of the architecture may diff
 Many of the components in elections infrastructure are built on general purpose computing machines, such as traditional web servers and database platforms. While this means they are often subject to the same attacks as those in other sectors, it also means experts have identified best practices to mitigate many of the risks.
 
 Each of these components may exist at the state level, at the local level, or both, and some will not be applicable in certain jurisdictions. Even where there is a substantial amount of legacy infrastructure—-old systems that are difficult or impossible to update—-much can be done to mitigate risks. These systems are described below and appropriate best practices and actions are provided throughout this Guide.
+
+The next section describes the :doc:`connectedness <connectedness_classes>` of election systems, to help understand and conceptualize how various types of election technology are (or are not) connected to each other, the internet, and other networks.
+
+The remainder of the sections give background on the architecture of election systems, the role information technology, the risks and threats for each, and how they connect in the context of cybersecurity risk management.
