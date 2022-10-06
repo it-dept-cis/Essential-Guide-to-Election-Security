@@ -68,12 +68,13 @@ Each type of vote capture process should have risks evaluated individually based
                                        Also, many central count scanners, used for Voter marked paper balloting with scanning in batches (usually vote by mail ballots) are similarly networked on a closed-LAN. 
                                        
                                        Some electronic vote capture machines also directly transmit data for election night reporting.
+   Indirectly Connected                b Voter marked paper balloting with scanning. Paper ballots do not include 
    ==================================  =============================================================================
    
    
 break
 
-   Indirectly Connected                b Voter marked paper balloting with scanning. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
                                        c Electronic voting with paper ballot output. In addition to the role of
 the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
