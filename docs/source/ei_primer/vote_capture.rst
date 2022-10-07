@@ -58,27 +58,27 @@ Each type of vote capture process should have risks evaluated individually based
 .. table:: Connection Types for Vote Capture
    :widths: auto
 
-   ==================================  =============================================================================
-   Connectedness                       System Type and Additional Information
-   ==================================  =============================================================================
-   Network Connected                   If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected. 
+   ===================================  ============================================================================
+   Connectedness                        System Type and Additional Information
+   ===================================  ============================================================================
+   Network Connected                    If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected. 
                                        
-                                       Although many jurisdictions program the vote capture devices with the ballot definition using indirectly connected methods, some use methods to load the ballot definition files to the vote capture device by transmitting the data over a closed-local area network. 
+                                        Although many jurisdictions program the vote capture devices with the ballot definition using indirectly connected methods, some use methods to load the ballot definition files to the vote capture device by transmitting the data over a closed-local area network. 
                                        
-                                       Also, many central count scanners, used for Voter marked paper balloting with scanning in batches (usually vote by mail ballots) are similarly networked on a closed-LAN. 
+                                        Also, many central count scanners, used for Voter marked paper balloting with scanning in batches (usually vote by mail ballots) are similarly networked on a closed-LAN. 
                                        
-                                       Some electronic vote capture machines also directly transmit data for election night reporting.
-   Indirectly Connected                \2. *Voter marked paper balloting with scanning*. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+                                        Some electronic vote capture machines also directly transmit data for election night reporting.
+   Indirectly Connected                 \2. *Voter marked paper balloting with scanning*. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
-                                       \3. *Electronic voting with paper ballot output*. In addition to the role of the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
+                                        \3. *Electronic voting with paper ballot output*. In addition to the role of the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
 
-                                       \4. *Electronic voting with paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+                                        \4. *Electronic voting with paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
-                                       \5. *Electronic voting with no paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+                                        \5. *Electronic voting with no paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
-                                       Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
-   Not Connected                       \1. *Voter marked and hand counted paper balloting*. Out of scope in this handbook as the vote capture process does not include a digital component.
-   Additinal Transmission-based Risks  \6. *Electronic voting conducted remotely*. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations.
-   ==================================  =============================================================================
+                                        Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
+   Not Connected                        \1. *Voter marked and hand counted paper balloting*. Out of scope in this handbook as the vote capture process does not include a digital component.
+   Additional Transmission-based Risks  \6. *Electronic voting conducted remotely*. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations.
+   ===================================  ============================================================================
   
 

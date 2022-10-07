@@ -46,11 +46,11 @@ Managing risks associated with e-pollbooks will generally fall into one of two c
 .. table:: Connection Types for Pollbooks
    :widths: auto
 
-   ==================================  =============================================================================
-   Connectedness                       System Type and Additional Information
-   ==================================  =============================================================================
-   Network Connected                   Pollbook connects via a wired or wireless network 
-   Indirectly Connected                Pollbook connects via a physical media connection or removable media (e.g., USB sticks and other flash media that are physically connected and disconnected to other devices).
-   Not Connected                       Paper-based pollbooks.
-   Additinal Transmission-based Risks  Transmission of data for paper-based pollbooks for formatting or printing.
-   ==================================  =============================================================================
+   ===================================  ============================================================================
+   Connectedness                        System Type and Additional Information
+   ===================================  ============================================================================
+   Network Connected                    Pollbook connects via a wired or wireless network 
+   Indirectly Connected                 Pollbook connects via a physical media connection or removable media (e.g., USB sticks and other flash media that are physically connected and disconnected to other devices).
+   Not Connected                        Paper-based pollbooks.
+   Additional Transmission-based Risks  Transmission of data for paper-based pollbooks for formatting or printing.
+   ===================================  ============================================================================

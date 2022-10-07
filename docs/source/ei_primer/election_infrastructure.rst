@@ -4,8 +4,8 @@
 
 *This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact.*
 
-A Primer on Election Infrastructure
------------------------------------
+A Primer on Election Infrastructure Security
+--------------------------------------------
 
 There are many flavors of elections infrastructure, both from a technology and a process perspective. This is true far beyond just the different types of vote capture and vote tabulation devices. That said, many experts have studied the election processes at length, and there are several fundamental components common to nearly all elections systems.
 

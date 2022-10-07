@@ -62,11 +62,12 @@ Each type of voter registration, along with the master voter registration databa
 .. table:: Connection Types for Voter Registration Systems
    :widths: auto
 
-   ==================================  =============================================================================
-   Connectedness                       System Type and Additional Information
-   ==================================  =============================================================================
-   Network Connected                   Online Registration. In addition, the master registration database or system itself should be considered network connected. 
-   Indirectly Connected                Not applicable in most voter registration implementations.
-   Not Connected                       Paper-based registration.
-   Additinal Transmission-based Risks  Transmission of a registration via email or fax leverages a digital component.
-   ==================================  =============================================================================
+   ===================================  ============================================================================
+   Connectedness                        System Type and Additional Information
+   ===================================  ============================================================================
+   Network Connected                    Online Registration. In addition, the master registration database or system itself should be considered network connected. 
+   Indirectly Connected                 Not applicable in most voter registration implementations.
+   Not Connected                        Paper-based registration.
+   Additional Transmission-based Risks  Transmission of a registration via email or fax leverages a digital component.
+   ===================================  ============================================================================
+ 

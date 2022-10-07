@@ -39,11 +39,11 @@ The diversity of functions delivered by an EMS makes it difficult to generalize 
 .. table:: Connection Types for Election Management Systems
    :widths: auto
 
-   ==================================  =============================================================================
-   Connectedness                       System Type and Additional Information
-   ==================================  =============================================================================
-   Network Connected                   Unless known definitively to have no network capabilities, treat an EMS as network connected.
-   Indirectly Connected                If known definitively to have no network capabilities, treat an EMS as indirectly connected.
-   Not Connected                       Not applicable.
-   Additinal Transmission-based Risks  Not applicable.
-   ==================================  =============================================================================
+   ===================================  ============================================================================
+   Connectedness                        System Type and Additional Information
+   ===================================  ============================================================================
+   Network Connected                    Unless known definitively to have no network capabilities, treat an EMS as network connected.
+   Indirectly Connected                 If known definitively to have no network capabilities, treat an EMS as indirectly connected.
+   Not Connected                        Not applicable.
+   Additional Transmission-based Risks  Not applicable.
+   ===================================  ============================================================================
