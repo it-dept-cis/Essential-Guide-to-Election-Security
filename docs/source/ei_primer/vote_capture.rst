@@ -78,7 +78,7 @@ Each type of vote capture process should have risks evaluated individually based
 
                                        Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
    Not Connected                       \1. *Voter marked and hand counted paper balloting*. Out of scope in this handbook as the vote capture process does not include a digital component.
-   Additinal Transmission-based Risks  \6. *Electronic voting conducted remotely*. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations. Aspects definitively executed without a digital component are Not Connected. 
+   Additinal Transmission-based Risks  \6. *Electronic voting conducted remotely*. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations.
    ==================================  =============================================================================
   
-  
+
