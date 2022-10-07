@@ -71,15 +71,11 @@ Each type of vote capture process should have risks evaluated individually based
    Indirectly Connected                \2. Voter marked paper balloting with scanning. Paper ballots do not include an electronic component. While scanners are not typically network connected devices, they must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
                                        \3. Electronic voting with paper ballot output. In addition to the role of
-the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
+                                       the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
    ==================================  =============================================================================
    
    
-break
-
-
-
-                                       
+break             
 
                                        d Electronic voting with paper record. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
 
