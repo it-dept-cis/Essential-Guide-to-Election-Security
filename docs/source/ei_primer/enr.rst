@@ -4,7 +4,7 @@
 
 *This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact.*
 
-Election results reporting and publishing
+Election Results Reporting and Publishing
 *****************************************
 
 After votes are tabulated, results must be communicated both internally and to the public. In any given state, this can take many forms, but, in most cases, the basic process goal remains: getting results as quickly and accurately as possible. This section focuses on election night reporting, which involves unofficial results.
