@@ -74,14 +74,14 @@ Each type of vote capture process should have risks evaluated individually based
                                        the scanners, the vote capture machines are typically not network connected, but must be programmed to display the ballot and print the ballot in the correct format.
 
                                        \4. *Electronic voting with paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+
+                                       \5. *Electronic voting with no paper record*. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
+
+                                       Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
    ==================================  =============================================================================
    
    
 break             
 
-
-                                       \5. Electronic voting with no paper record. The vote capture machines are typically not network connected but must be programmed to understand the ballot format and must transmit captured vote data to another, usually network connected, device.
-
-                                       Note: If a vote capture machine transmits data for any reason—or even if the functionality is enabled regardless of whether it is used—it should be considered network connected.
    Not Connected                       a Voter marked and hand counted paper balloting. Out of scope in this handbook as the vote capture process does not include a digital component.
    Additinal Transmission-based Risks  f Electronic voting conducted remotely. These methods vary greatly and must be addressed on a case-by-case basis. At minimum, when web-based, email, or fax transmission is used in either direction, it leverages a digital component and should incorporate the relevant transmission-based mitigations in Part 3. Aspects definitively executed without a digital component are not connected, out of scope.
