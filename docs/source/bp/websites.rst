@@ -112,6 +112,8 @@ Learn More
 ----------
 
 * `Election Security Spotlight – Typosquatting <https://www.cisecurity.org/insights/spotlight/ei-isac-cybersecurity-spotlight-typosquatting>`_
+* The distributed denial-of-service (DDOS) attack section of CISA's `Cybersecurity Toolkit to Protect Elections <https://www.cisa.gov/cybersecurity-toolkit-protect-elections>`_.
+* CISA's `DDOS Quick Guide <https://www.cisa.gov/uscert/sites/default/files/publications/DDoS%20Quick%20Guide.pdf>`_. 
 
 Mapping to CIS Controls and Safeguards
 --------------------------------------
