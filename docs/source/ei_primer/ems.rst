@@ -2,8 +2,6 @@
   Created by: mike garcia
   To: remake of generalized election architecture section of the Handbook
 
-*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact.*
-
 State and Local Election Management Systems
 *******************************************
 
@@ -18,7 +16,7 @@ EMSs can have a wide variety of inputs and outputs that will depend on the separ
 Risks and threats
 &&&&&&&&&&&&&&&&&
 
-While EMSs are typically dedicated software that carries its own risks, that software generally runs on COTS software and hardware that operate in a networked environment. Many risks and threats associated with EMSs are similar to those of other systems running on COTS IT hardware and software, and include:
+While EMSs are typically dedicated software that carries its own risks, that software generally runs on COTS software and hardware. Many risks and threats associated with EMSs are similar to those of other systems running on COTS IT hardware and software, and include:
 
 * Network connections with other internal systems, some of which may be owned or operated by other organizations or authorities,
 * Security weaknesses in the underlying COTS products, whether hardware or software,
@@ -27,7 +25,7 @@ While EMSs are typically dedicated software that carries its own risks, that sof
 * Difficulty associated with finding, and rolling back, improper changes found after the fact, and
 * Infrastructure- and process-related issues associated with backup and auditing.
 
-Significant consequences may result from successful attacks on an EMS. These potential consequences include the inability to properly control election processes and systems or, depending on the functions of the EMS, incorrect assignment of ballots to their respective precincts or other errors. Furthermore, successful manipulation of an EMS could result in cascading effects on other devices that are programmed from the EMS, potentially including voting machines and vote tabulation.
+The consequences of a successful attack in an EMS are significant. These include the inability to properly control election processes and systems or, depending on the functions of the EMS, incorrect assignment of ballots to their respective precincts or other errors. Furthermore, successful manipulation of an EMS could result in cascading effects on other devices that are programmed from the EMS, potentially including voting machines and vote tabulation.
 
 To help manage these risks, most election offices do not have network connections to their EMS, and rarely have internet connections. Instead, they keep the EMS isolated as a standalone machine or on a separate network that has no internet connection and is solely dedicated to the functioning of the EMS. Data transfers to and from the EMS are conducted with removable media only. This is an indirect connection and presents a particular set of risks to mitigate.
 

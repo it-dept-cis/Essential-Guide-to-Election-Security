@@ -2,16 +2,14 @@
   Created by: mike garcia
   To: remake of generalized election architecture section of the Handbook
 
-*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact.*
-
 Pollbooks
 *********
 
-Pollbooks assist election officials by providing voter registration information to workers at each polling location. Historically, these were binders that contained voter information and could be used to mark off voters when they arrived to vote. While paper pollbooks remain in use today, many pollbooks are electronic and aim to facilitate the check-in and verification process at in-person polling places. While this section focuses primarily on electronic pollbooks (e-pollbooks), it also recognizes that, depending on the implementation, producing paper pollbooks can carry transmission-based risks.
+Pollbooks assist election officials by providing voter registration information to workers at each polling location. Historically, these were binders that contained voter information and could be used to mark off voters when they arrived to vote. While paper pollbooks remain in use today and are common as a backup strategy, many pollbooks are electronic and aim to facilitate the check-in and verification process at in-person polling places. While this section focuses primarily on electronic pollbooks (e-pollbooks), it also recognizes that, depending on the implementation, producing paper pollbooks can carry transmission-based risks.
 
-These e-pollbooks play a critical role in the voting process. They are necessary to ensure voters are registered and are appearing at the correct polling place, and their efficient use is necessary to ensure sufficient throughput to limit voters’ wait times. These e-pollbooks are typically dedicated software built on COTS hardware (usually a tablet) and riding on COTS operating systems, like Android or iPadOS.
+These e-pollbooks play a critical role in the voting process. They are necessary to ensure voters are registered and are appearing at the correct polling place, and their efficient use is necessary to ensure sufficient throughput to limit voters’ wait times. These e-pollbooks are most often dedicated software built on COTS hardware (usually a tablet) and riding on COTS operating systems, like Android or iPadOS, though laptops with Windows or MacOS are still in use as well.
 
-The primary input to e-pollbooks is the appropriate portion of the registration database. The primary output is the record of a voter having received a ballot, and in some cases providing a token to activate the vote capture device. In some cases, for instance where same-day registration is permitted, e-pollbooks may require additional inputs and outputs to allow for election day changes.
+The primary input to e-pollbooks is the appropriate portion of the registration database. The primary output is the record of a voter having received a ballot, and in some cases providing a token to activate the vote capture device. In some cases, for instance where same-day registration is permitted, e-pollbooks may require additional inputs and outputs to allow for election day changes. A proper record of a voter voting is critical, both auditing and properly giving "credit" to the voter; some states remove voters from the rolls if they go too long without having cast a ballot.
 
 Paper pollbooks are produced from digital records, including digital registration databases. Having taken appropriate measures to mitigate risk for voter registration components, secure transmission of voter information to a printer—whether at the state or local level, or via commercial printing services—protects the integrity of the information in printed pollbooks.
 
@@ -19,6 +17,7 @@ Risks and threats
 &&&&&&&&&&&&&&&&&
 
 Attacks on e-pollbooks would generally serve to disrupt the election day process by one of these three situations: 
+
 #. Attacking the integrity of the data on the pollbook by altering the information displayed from voter rolls,
 #. Disrupting the availability of the e-pollbooks themselves, or 
 #. In some cases, causing issues with the vote capture device by altering an activation token. 

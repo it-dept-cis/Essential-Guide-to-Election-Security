@@ -12,6 +12,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    AES
      Advanced Encryption Standard
 
+   BMD
+     ballot marking device
+
    CDM
      :term:`Community Defense Model`
 
@@ -45,6 +48,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    
    DNS
      domain name system
+
+   DRE
+     direct record electronic
 
    DVD-R
      digital video disc read-only
@@ -119,6 +125,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
      
    VPN
      virtual private network
-
+   
+   VVPAT
+     voter verifiable paper audit trail
+     
    WPA
      wi-fi protected access

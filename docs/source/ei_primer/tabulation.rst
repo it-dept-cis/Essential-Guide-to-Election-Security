@@ -2,12 +2,12 @@
   Created by: mike garcia
   To: remake of generalized election architecture section of the Handbook
 
-*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact.*
-
 Vote Tabulation
 ***************
 
-In its broadest definition, vote tabulation is any aggregation or summation of votes. Vote tabulation is the aggregation of votes (e.g., cast vote records and vote summaries) for the purpose of generating totals and results report files. This section on vote tabulation is considered separately from both the EMS of which tabulation is usually a part, and vote capture machines that also tabulate (or aggregate). Here, vote tabulation is focused on tabulation occurring across precincts, counties, etc., and covers both official and unofficial vote tabulation.
+Vote tabulation is the aggregation of votes (e.g., cast vote records and vote summaries) for the purpose of generating totals and results report files. Many distinguish between vote tabulation and vote aggregation. Most commonly, the former is totalling of votes from various machines by a precint, and the latter totalling of votes from precincts by the jurisdiction. For the purposes of this section, we treat them synonymously.
+
+This section on vote tabulation is considered separately from both the EMS of which tabulation is usually a part, and vote capture machines that also tabulate (or aggregate). Here, vote tabulation is focused on tabulation occurring across precincts, counties, etc., and covers both official and unofficial vote tabulation.
 
 Risks and threats
 &&&&&&&&&&&&&&&&&

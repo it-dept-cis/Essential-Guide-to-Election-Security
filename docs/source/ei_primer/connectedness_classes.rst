@@ -2,8 +2,6 @@
   Created by: mike garcia
   To: remake of connectedness class section of the Handbook
 
-*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how various types of election technology are (or are not) connected to each other, the internet, and other networks.*
-
 Election Systems and Their Network Connections
 ----------------------------------------------
 
@@ -13,8 +11,17 @@ While there are many components to a complete election system, many of the cyber
 
 The three connectedness classes are:
 
-#. **Network connected systems and components**. Network connected components are interconnected with other devices to achieve their objectives. The level of interconnection, while providing various benefits, also introduces additional risks that must be taken into consideration when managing the lifecycle of the device. Most network connected devices will provide a remote means for accessing and managing the devices, which means organizations must make extra efforts to protect access to those capabilities. Network connected devices do not necessarily have to be connected to the internet, nor does their connection have to be persistent. As an example, an Election Management System (EMS) connected to a private county network would still be classified as a network connected system.
-#. **Indirectly connected systems**. Indirectly connected components are not connected to a network at any time and are not persistently connected to other devices. They do, however, have to exchange information with other elections system components including network connected systems in order to complete their objectives in the election process. These information exchanges are done using removable media such as USB drives. While the risks associated with being connected to a network or the internet are no longer relevant, threats are introduced by exchanging information with other devices, either through the use of removable media or a direct connection to another device such as a printer or an external disk drive.
+#. **Network connected systems and components**. Network connected components are interconnected with other devices to achieve their objectives, whether through the internet or internal networks, hardwired or WiFI or Bluetooth. The level of interconnection, while providing various benefits, also introduces additional risks that must be taken into consideration when managing the lifecycle of the device. Most network connected devices will provide a remote means for accessing and managing the devices, which means organizations must make extra efforts to protect access to those capabilities. Network connected devices do not necessarily have to be connected to the internet, nor does their connection have to be persistent. Examples include:
+
+   * Digital voter registration systems.
+   * Election results transmission via cellular modems or the plain old telephone system.
+   * An Election Management System (EMS) connected to a private county network.
+   
+#. **Indirectly connected systems**. Indirectly connected components are not connected to a network at any time and are not persistently connected to other devices. They do, however, have to exchange information with other elections system components including network connected systems in order to complete their objectives in the election process. These information exchanges are done using removable media such as USB drives. While the risks associated with being connected to a network or the internet are no longer relevant, threats are introduced by exchanging information with other devices, either through the use of removable media or a direct connection to another device such as a printer or an external disk drive. Examples include:
+
+   * Using a USB stick to transfer ballot definitions and other election information to a vote capture device such as a ballot marking device.
+   * Using write-once removable media to transfer precinct definitions from a networked machine to an election management system.
+  
 #. **Non-digital elections components**. These are aspects of the elections process that have no digital component but still may face relevant risks through business processes. An example would be the mailing, completing, and returning of a paper mail-in ballot. While aspects of the overall process—-such as an online request for a ballot--may leverage digital infrastructure, the aspect of this process that is purely paper-based does not face the same cybersecurity risks.
 
 Transmission between components creates vulnerabilities
