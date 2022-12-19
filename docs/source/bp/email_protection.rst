@@ -11,14 +11,13 @@ The top cybersecurity threat to your organization is sitting in your employeesâ€
 
 Using email requires training and vigilance. It is a direct connection to users, which are often the weakest aspect of cybersecurity defenses. 
 
-There are many email security trainings for end users; it's important to find one that engages and informs. It should cover:
+There are many email security trainings for end users; it's important to use one that engages and informs. It should cover:
 
 * Basic email security
 * Identifying phishing and other suspicious emails
 * Social engineering
 * Authentication (i.e., MFA and passphrases)
 * Handling personal information and sensitive data
-* 
 
 Deploy multi-factor authentication (MFA) on email, along with passphrases. In addition, IT administators can improve outcomes by using email protection services, which typcally enable:
 
