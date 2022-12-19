@@ -46,6 +46,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/cis_controls
    bp/mdm_info
    bp/managing_vendors
+   bp/email_protection
    
 .. bp/working_with_IT
 

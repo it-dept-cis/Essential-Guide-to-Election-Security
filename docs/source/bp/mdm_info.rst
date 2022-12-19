@@ -58,7 +58,7 @@ Remediating Misinformation
      * A screenshot of the social media post and, if possible, the URL.
      * Your name, role, jurisdiction, and work email address.
      * A description of why this is false -- not just "this is wrong" but information about why think it's wrong. This doesn’t have to be more than a couple sentences, but more detail is better. Citing a law is even better.
-     * If appropriate, our team will work to have the inaccurate information removed or labeled.
+     * If appropriate, our team will work to have the inaccurate information removed or labeled based if it violates the terms of service of the platform on which it appears.
 
 |Maturity2| Maturity
 &&&&&&&&&&&&&&&&&&&&
@@ -73,7 +73,7 @@ Organizations operating at a |Maturity2| maturity should take additional actions
    * Think before you share; disinformation is designed to evoke an emotional response.
    * Talk with your circle about the risks of spreading disinformation.
 
-#. Review the Harvard Kennedy School’s Belfer Center publication, “`The Election Influence Operations Playbook <https://www.belfercenter.org/publication/election-influence-operations-playbook-part-1>`_” for a deeper understanding of these issues and response guidance.
+#. Review the Harvard Kennedy School’s Belfer Center publication, `The Election Influence Operations Playbook <https://www.belfercenter.org/publication/election-influence-operations-playbook-part-1>`_ for a deeper understanding of these issues and response guidance.
 #. Establish a mechanism for the public to report disinformation and misinformation to your office, such as an email or phone number.
 
 |Maturity3| Maturity

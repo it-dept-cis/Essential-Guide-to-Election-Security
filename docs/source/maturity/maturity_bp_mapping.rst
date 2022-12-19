@@ -64,9 +64,7 @@ In addition to the above, you should be implementing some measures of particular
 #.  Implement an :doc:`endpoint protection <../bp/endpoint_protection>` program through a commercial provider or for free through the EI-ISAC.
 #.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
 #.  Manage your :doc:`removable media <../bp/removable_media>`.
-
-..
-    #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
+#.  Implement :doc:`email protection <../bp/email_protection>`.
 
 .. _maturity-two-and-three-maturity-baseline-priorities:
 
