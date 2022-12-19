@@ -21,14 +21,14 @@ There are many email security trainings for end users; it's important to use one
 
 Deploy multi-factor authentication (MFA) on email, along with passphrases. In addition, IT administators can improve outcomes by using email protection services, which typcally enable:
 
-* inbound mail screening, 
-* malware and ransomware protection, 
-* phishing protection, 
-* spam filtering, 
-* email spoofing protection, 
-* traffic blocking, 
-* allowlisting of false positives, and 
-* denylisting of false negatives.
+* Inbound mail screening, 
+* Malware and ransomware protection, 
+* Phishing protection, 
+* Spam filtering, 
+* Email spoofing protection, 
+* Traffic blocking, 
+* Allowlisting of false positives, and 
+* Denylisting of false negatives.
 
 Email protection solutions vary widely in costs and complexity, so it's important to select a solution that will work well with your jurisdiction's capabilities and resources. Generally, they work as detailed in the figure below.
 
