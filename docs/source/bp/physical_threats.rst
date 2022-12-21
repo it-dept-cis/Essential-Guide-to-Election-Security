@@ -4,7 +4,7 @@
 
 .. |bp_title| replace:: Addressing Physical Threats
 
-.. _addressing-physical-threats:
+.. _foo:
 
 |bp_title|
 ----------------------------------------------
