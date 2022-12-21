@@ -36,7 +36,6 @@ Learn More
 * MS-ISAC® `Cybersecurity Awareness Toolkit <https://www.cisecurity.org/ms-isac/ms-isac-toolkit>`_ features educational materials designed to raise cybersecurity awareness. Digital materials are aggregated for your use.
 * `Federal Virtual Training Environment <https://fedvte.usalearning.gov>`_ (FedVTE): Online Courses Free online cybersecurity training to State, Local, Tribal, and Territorial (SLTT) governments.
 * Learn how to protect yourself, your family and your devices with tips and resources from the National Cybersecurity Alliance's `Stay Safe Online <https://staysafeonline.org/stay-safe-online>`_ initiative. See also its `YouTube channel <https://www.youtube.com/user/StaySafeOnline1>`_.
-* Use NIST's security awarenesss training `list <https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content>`_ to find more. 
 
 Mapping to CIS Controls and Safeguards
 **************************************
