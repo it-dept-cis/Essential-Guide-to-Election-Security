@@ -4,8 +4,6 @@
 
 .. |bp_title| replace:: Addressing Physical Threats
 
-.. _foo:
-
 |bp_title|
 ----------------------------------------------
 
