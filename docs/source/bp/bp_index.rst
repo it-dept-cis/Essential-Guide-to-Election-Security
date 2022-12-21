@@ -68,7 +68,7 @@ You can use this table as a checklist to help track your progress.
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Managing Removable Media <removable_media>`                                   |  In scope    |  In scope    |  In scope    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
-|      | :doc:`Exercising Plans <exerising_plans>`                                           |  In scope    |  In scope    |  In scope    |
+|      | :doc:`Exercising Plans <exercising_plans>`                                           |  In scope    |  In scope    |  In scope    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Formal Cybersecurity Assessments <formal_assessment>`                         |  In scope    |  In scope    |  In scope    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
