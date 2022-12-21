@@ -83,4 +83,4 @@ You can use this table as a checklist to help track your progress.
 |      | Managing Vendors                           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 
-.. _Addressing Physical Threats: physical_threats.rst
+.. _Addressing Physical Threats: addressing-physical-threats
