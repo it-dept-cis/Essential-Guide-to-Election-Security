@@ -26,7 +26,7 @@ You can use this table as a checklist to help track your progress.
 |  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|      | :ref:`Addressing Physical Threats <mdbr>`_ |  Priority   |  Priority   |  Priority   |
+|      | :doc:`Addressing Physical Threats <mdbr>`_ |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
