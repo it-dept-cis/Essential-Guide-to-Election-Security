@@ -7,9 +7,9 @@ Index of Best Practices
 
 The following table lists the best practices and indicated if they have actions associated with them for each maturity level and if they are a priority action ("Priority") for each maturity level. 
 
+* "Priority" means you should focus on that best practice before other best practices.
 * "In Scope" means you should complete that best practice.
 * "Out of Scope" means the best practice doesn't apply to you.
-* "Priority" means you should focus on that best practice before other in scope best practices.
 
 For more details on maturities in this Guide, see the :doc:`maturities descriptions <../maturity/maturities>`. 
 
@@ -26,7 +26,7 @@ You can use this table as a checklist to help track your progress.
 |  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|      | `Addressing Physical Threats`              |  Priority   |  Priority   |  Priority   |
+|      | :ref:`Addressing Physical Threats <mdbr>`_ |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
