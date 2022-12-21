@@ -79,6 +79,7 @@ Cost-Effective Tools
 Mapping to CIS Controls and Safeguards
 **********************************************
 
+* 9.1 Ensure only fully supported browsers and email clients are allowed to execute version of browsers and email clients provided through the vendor. (|Maturity1| maturity)
 * 9.2: Use DNS filtering services on all enterprise assets to block access to known malicious domains. (|Maturity1| maturity)
 * 9.3: Enforce and update network-based URL filters to limit an enterprise asset from connecting to potentially malicious or unapproved websites. Example implementations include category-based filtering, reputation-based filtering, or through the use of block lists. Enforce filters for all enterprise assets. (|Maturity1| maturity)
 * 14.1: Establish and Maintain a Security Awareness Program (|Maturity1| maturity)
