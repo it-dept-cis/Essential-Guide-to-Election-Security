@@ -26,7 +26,7 @@ You can use this table as a checklist to help track your progress.
 |  ✓   |           Best Practice                    +-------------+-------------+-------------+
 |      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
 +======+============================================+=============+=============+=============+
-|      | `Addressing Physical Threats`_             |  Priority   |  Priority   |  Priority   |
+|      | `Addressing Physical Threats`              |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 |      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
 +------+--------------------------------------------+-------------+-------------+-------------+
@@ -83,4 +83,4 @@ You can use this table as a checklist to help track your progress.
 |      | Managing Vendors                           |  In scope   |  In scope   |  In scope   |
 +------+--------------------------------------------+-------------+-------------+-------------+
 
-.. _`Addressing Physical Threats`: addressing-physical-threats_
+.. _`Addressing Physical Threats`: addressing-physical-threats
