@@ -58,8 +58,20 @@ The EI-ISAC's Essential Guide to Election Security
    appendices/how_to_guide
    appendices/worksheets
    appendices/handbook_bp_mapping
-   appendices/connectedness_classes
 
+.. toctree:: 
+   :maxdepth: 1
+   :caption: Primer on Election Infrastructure Security
+
+   ei_primer/election_infrastructure
+   ei_primer/connectedness_classes
+   ei_primer/voter_reg
+   ei_primer/pollbooks
+   ei_primer/ems
+   ei_primer/vote_capture
+   ei_primer/tabulation
+   ei_primer/enr
+    
 .. toctree::
    :maxdepth: 1
    :caption: Glossary and Acronyms
