@@ -24,6 +24,8 @@ An organization is likely at a |Maturity1| maturity if most of the following sta
 #.      You receive cybersecurity guidance and alerts from external sources, but have difficulty understanding or knowing how to apply them within your organization.
 #.      You don’t have a thorough incident response plan, don’t exercise it regularly, or don’t feel confident in what to do when an incident occurs.
 
+Now go implement the |Maturity1| :doc:`best practice priorities <maturity_bp_mapping_L1>`!
+
 |Maturity2| Maturity
 ********************
 
@@ -36,6 +38,8 @@ Your organization is likely at a |Maturity2| maturity if most of the following s
 #.      You understand the threats facing your organization and other organizations similar to yours.
 #.      You track assets and conduct regular backups with at least one copy stored offline.
 #.      You respond to threat and risk assessments by developing and executing on plans of action and milestones (POAMs).
+
+Now go implement the |Maturity2| and |Maturity3| :doc:`best practice priorities <maturity_bp_mapping_L2_L3>`!
 
 |Maturity3| Maturity
 ********************
@@ -56,3 +60,5 @@ What to do with your maturity?
 Based on your maturity, you can begin implementation based on the guidance for that maturity within each best practice. If you find that guidance isn’t what you expected, consider moving up or down in maturity. If you are at the |Maturity2| or |Maturity3| maturity, take the time to review best practices and recommendations from the earlier maturity(ies) to make sure that you’ve covered everything that makes sense for you.
 
 All organizations are different with unique combinations of skills and resources. Election offices should tailor these implementation programs to make sense in the context of their respective capabilities and responsibilities, keeping in mind that the ultimate goal is not to fill in checkboxes but to develop effective and continually improving risk mitigation strategies.
+
+Now go implement the |Maturity1| :doc:`best practice priorities <maturity_bp_mapping_L1>` or the |Maturity2| and |Maturity3| :doc:`best practice priorities <maturity_bp_mapping_L2_L3>`!

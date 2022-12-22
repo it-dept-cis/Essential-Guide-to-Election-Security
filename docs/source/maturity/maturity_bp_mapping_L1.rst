@@ -43,7 +43,7 @@ If you are at the |Maturity1| maturity, we recommend starting with these to esta
 | Asset Protection             | * All actions of :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>`                 |
 |                              | * Actions 1 and 2 of :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>`       |
 +------------------------------+--------------------------------------------------------------------------------------------------+
-| Account Security             | All actions under User Recommendations of :ref:`User Management <user-management-maturity-one>` |
+| Account Security             | All actions under User Recommendations of :ref:`User Management <user-management-maturity-one>`  |
 +------------------------------+--------------------------------------------------------------------------------------------------+
 | Backup & Recovery            | Action 1 of :ref:`Backups <backups-maturity-one>`                                                |
 +------------------------------+--------------------------------------------------------------------------------------------------+
