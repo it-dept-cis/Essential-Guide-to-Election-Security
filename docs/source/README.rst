@@ -8,7 +8,7 @@ The Essential Guide to Election Security
 Want to skip straight to the action?
 
 * Determine your :doc:`maturity level </maturity/determine_maturity>`
-* See prioritized best practices for the :doc:`|Maturity1| maturity <maturity/maturity_bp_mapping_L1>` and the :doc:`|Maturity2| and |Maturity3| maturities <maturity/maturity_bp_mapping_L2L3>`  
+* See the |Maturity1| maturity :doc:`best practices <maturity/maturity_bp_mapping_L1>` and the |Maturity2| and |Maturity3| maturities :doc:`best practices <maturity/maturity_bp_mapping_L2_L3>`  
 * For a true beginner, read our :doc:`primer </ei_primer/election_infrastructure>` on election infrastructure security for an introduction into the types of systems used in election administration and the risks and threats associated with them.
 
 To first learn more, read on...
