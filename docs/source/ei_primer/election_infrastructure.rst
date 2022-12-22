@@ -25,4 +25,9 @@ The next section describes the :doc:`connectedness <connectedness_classes>` of e
 
 The remainder of the sections give background on the architecture of election systems, the role information technology, the risks and threats for each, and how they connect in the context of cybersecurity risk management. Importantly, this primer gives information about protecting the infrastructure. There are many process-oriented risk mitigations employed throughout election administration that are not addressed here.
 
-.. |Handbook| replace:: `download the Handbook <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf`_
+.. |Handbook| replace:: download the Handbook 
+
+.. 
+    <https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf_
+    
+
