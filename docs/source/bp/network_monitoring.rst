@@ -40,6 +40,23 @@ While it can provide protection in any network environment, there are more funda
 
    * The Albert sensor and service is a free or low-cost way to do this that is optimized for use in the election offices and other state, local, tribal, and territorial governments. Contact  |eiisac_email| to get information about Albert.
 
+Cost-Effective Tools
+********************
+
+* `Zabbix <https://www.zabbix.com>`_: Monitoring tool for IT infrastructure
+* `Quad9® <https://www.quad9.net>`_: Domain Name System (DNS) filtering service
+* `OpenDNS® <https://www.opendns.com>`_: Domain Name System (DNS) filtering service
+* `Snort <https://www.snort.org>`_: Open source IDS/IPS maintained by Cisco
+* `Suricata <https://suricata-ids.org>`_: Open source intrusion detection system
+* `Zeek NIDS <https://www.zeek.org>`_: Open source network analysis tool with an IDS 
+* `Security Onion <https://www.securityonion.org>`_: Linux distribution dedicated to network security monitoring
+* `Skybox Network Assurance <https://www.skyboxsecurity.com/products/skybox-network-assurance>`_: Network security posture management
+
+Learn More
+**********
+
+* NIST `Special Publication 800-94 <https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf>`_: Guide to Intrusion Detection and Prevention Systems (IDPS)
+
 Mapping to CIS Controls and Safeguards
 **************************************
 
