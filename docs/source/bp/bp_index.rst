@@ -7,73 +7,74 @@ Index of Best Practices
 
 The following table lists the best practices and indicated if they have actions associated with them for each maturity level and if they are a priority action ("Priority") for each maturity level. 
 
+* "Priority" means you should focus on that best practice before other best practices.
 * "In Scope" means you should complete that best practice.
 * "Out of Scope" means the best practice doesn't apply to you.
-* "Priority" means you should focus on that best practice before other in scope best practices.
 
 For more details on maturities in this Guide, see the :doc:`maturities descriptions <../maturity/maturities>`. 
 
 To learn how to determine the maturity at which your organization operates, see the :doc:`maturity determination <../maturity/determine_maturity>` guide. 
 
+CIS's Community Defense Model drives the ordering of these best practices. We encourage you to follow this order, but every organization is different, so make adjustments as necessary.
+
 For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the maturity to best practice :doc:`mapping <../maturity/maturity_bp_mapping>`.
 
 You can use this table as a checklist to help track your progress.
 
-+------+--------------------------------------------+-----------------------------------------+
-|      |                                            |           Maturity Priorities           |
-|  ✓   |           Best Practice                    +-------------+-------------+-------------+
-|      |                                            | |Maturity1| | |Maturity2| | |Maturity3| |
-+======+============================================+=============+=============+=============+
-|      | Addressing Physical Threats                |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Asset Management                           |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Backups                                    |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Building & Managing Staff                  |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Encrypt Data at Rest                       |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Endpoint Protection                        |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Exercising Plans                           |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Firewalls & Port Restrictions              |  In scope   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Formal Cybersecurity Assessments           |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Implementing the CIS Controls              |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Incident Response                          |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Internal Penetration Testing               |   Out of    |   Out of    |  In scope   |
-|      |                                            |   scope     |   scope     |             |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Join the EI-ISAC                           |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Malicious Domain Blocking & Reporting      |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Infrastructure with Secure        |  Priority   |  Priority   |  Priority   |
-|      |   Configurations                           |             |             |             |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Mis-, Dis-, & Malinformation      |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Remote Connections                |  In scope   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Removable Media                   |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Vendors                           |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Managing Wireless Networks                 |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Network Monitoring & Intrusion Detection   |   Out of    |  In scope   |  In scope   |
-|      |                                            |   scope     |             |             |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Patching & Vulnerability Management        |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Public Facing Network Scanning             |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | User Management                            |  Priority   |  Priority   |  Priority   |
-+------+--------------------------------------------+-------------+-------------+-------------+
-|      | Website Security                           |  In scope   |  In scope   |  In scope   |
-+------+--------------------------------------------+-------------+-------------+-------------+
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      |                                                                                     |            Maturity Priorities             |
+|  ✓   |           Best Practice                                                             +--------------+--------------+--------------+
+|      |                                                                                     | |Maturity1|  | |Maturity2|  | |Maturity3|  |
++======+=====================================================================================+==============+==============+==============+
+|      | :doc:`Addressing Physical Threats <physical_threats>`                               |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Join the EI-ISAC <join_ei_isac>`                                              |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Asset Management <asset_management>`                                          |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Encrypt Data at Rest <encrypt_data_at_rest>`                                  |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Infrastructure with Secure Configurations <managing_infrastructure>` |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`User Management <user_management>`                                            |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Backups <backups>`                                                            |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Incident Response <incident_response>`                                        |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Building & Managing Staff <managing_staff>`                                   |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Patching & Vulnerability Management <patching_vuln_management>`               |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Remediate Penetration Testing Findings <remediate_pen_test_findings>`         | Out of Scope | Out of Scope |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Internal Penetration Testing <internal_pentest>`                              | Out of Scope | Out of Scope |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Remote Connections <managing_remote_connections>`                    |  In scope    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Firewalls & Port Restrictions <firewalls_ports>`                              |  In scope    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Endpoint Protection <endpoint_protection>`                                    |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Malicious Domain Blocking & Reporting <mdbr>`                                 |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Network Monitoring & Intrusion Detection <network_monitoring>`                | Out of Scope |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Wireless Networks <wireless_management>`                             |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Public Facing Network Scanning <public_asset_scanning>`                       |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Website Security <websites>`                                                  |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Removable Media <removable_media>`                                   |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Exercising Plans <exercising_plans>`                                           |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Formal Cybersecurity Assessments <formal_assessment>`                         |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Implementing the CIS Controls <cis_controls>`                                 |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Mis-, Dis-, & Malinformation <mdm_info>`                             |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Managing Vendors <managing_vendors>`                                          |  In scope    |  In scope    |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
