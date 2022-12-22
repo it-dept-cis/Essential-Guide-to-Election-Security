@@ -43,7 +43,7 @@ If you are at the |Maturity1| maturity, we recommend starting with these to esta
 | Asset Protection             | * All actions of :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>`                 |
 |                              | * Actions 1 and 2 of :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>`       |
 +------------------------------+--------------------------------------------------------------------------------------------------+
-| Account Security             | All acctions under User Recommendations of :ref:`User Management <user-management-maturity-one>` |
+| Account Security             | All actions under User Recommendations of :ref:`User Management <user-management-maturity-one>` |
 +------------------------------+--------------------------------------------------------------------------------------------------+
 | Backup & Recovery            | Action 1 of :ref:`Backups <backups-maturity-one>`                                                |
 +------------------------------+--------------------------------------------------------------------------------------------------+
@@ -52,7 +52,7 @@ If you are at the |Maturity1| maturity, we recommend starting with these to esta
 | Cyber Education              | Actions 2 and 3 of :ref:`Building and Managing Staff <managing-staff-maturity-one>`              |
 +------------------------------+--------------------------------------------------------------------------------------------------+
 
-While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each :doc:`worksheet <../appendices/worksheets>` is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
+While effort for each worksheet can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each :doc:`worksheet <../appendices/worksheets>` is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
 
 .. _maturity-one-maturity-election-priorities:
 
@@ -66,3 +66,5 @@ In addition to the above, you should be implementing some measures specific to e
 #.  Implement an :doc:`endpoint protection <../bp/endpoint_protection>` program through a commercial provider or for free through the EI-ISAC.
 #.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
 #.  Manage your :doc:`removable media <../bp/removable_media>`.
+
+If you complete these, you have implemented all of the priority best practices for the |Maturity1| maturity! Kepp working on other :doc:`in scope best practices <..bp/bp_index>` and work your way up to the |Maturity2| maturity!
