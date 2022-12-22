@@ -1,72 +1,9 @@
 ..
   created by: mike garcia
-  to: provide a map from maturities to best practices. this is a shortcut for all maturities. individual pointers should exist in each maturity and this is a summary of them
+  to: provide a prioritized map from maturities to best practices for maturities 2 and 3
 
-First Steps: Prioritizing Best Practices
-----------------------------------------
-
-No one wants to suffer a cybersecurity incident. The intent to protect networks is universal, but resource limitations leave many organizations facing perhaps the most difficult question in all of cybersecurity: What do I do next?
-
-This section prioritizes best practices by mapping each maturity level to the priority best practices that should be implemented by an election office at that maturity level.
-
-.. _maturity-mapping-to-bp-maturity-one-description:
-
-|Maturity1| Maturity
-********************
-
-If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals. For example, complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
-
-.. _maturity-one-maturity-baseline-priorities:
-
-|Maturity1| Maturity Baseline Priorities
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The following is the list of priority actions at the |Maturity1| maturity. If you are at the |Maturity1| maturity, we recommend starting with these to establish a baseline of cyber hygiene.
-
-**Actions**
-
-1. Download and complete the :doc:`worksheets <../appendices/worksheets>` for |Maturity1| maturity baseline. There are ten worksheets, all in one downloadable file.
-
-   * Together, these fulfill all of the |Maturity1| baseline priorities. In the table below, the left column is the name of a |Maturity1| maturity worksheet described :doc:`here <../appendices/worksheets>`. On that page you can download one file with all ten worksheets. The middle column gives the relevant best practice in this Guide for the worksheet tab, and the right columns lists the actions within that best practice that are fulfilled by completing the worksheet tab. 
-
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Worksheet                    | Best Practice (Actions from the Best Practice Adressed by the Worksheet)                       |
-+==============================+================================================================================================+
-| * Hardware Inventory         |                                                                                                |
-| * Software Inventory         |                                                                                                |
-| * Data Inventory             | :ref:`Asset Management <asset-management-maturity-one>` (Action #1)                            |
-| * Service Provider Inventory |                                                                                                |
-| * Account Inventory          |                                                                                                |
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Asset Protection             | * :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>` (All Actions)                |
-|                              | * :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>` (Actions #1 and #2)    |
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Account Security             | :ref:`User Management <user-management-maturity-one>` (All Actions under User Recommendations) |
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Backup & Recovery            | :ref:`Backups <backups-maturity-one>`  (Action #1)                                             |
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Incident Response            | :ref:`Incident Response <incident-response-maturity-one>`  (Actions #1 and #4)                 |
-+------------------------------+------------------------------------------------------------------------------------------------+
-| Cyber Education              | :ref:`Building and Managing Staff <managing-staff-maturity-one>`  (Actions #2 and #3)          |
-+------------------------------+------------------------------------------------------------------------------------------------+
-
-While the needed effort can vary greatly depending on the size of your office and number of assets (computers, software, etc.), each :doc:`worksheet <../appendices/worksheets>` is built to take no more than four hours the first time around and as little as 15 minutes each subsequent time. A suggestion: set aside time to do one a week until you've got them all done; then they're easy to repeat.
-
-.. _maturity-one-maturity-election-priorities:
-
-|Maturity1| Maturity Election Priorities
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-In addition to the above, you should be implementing some measures of particular importance to the election community:
-
-1.  Join the :doc:`EI-ISAC <../bp/join_ei_isac>`.
-#.  :doc:`Protect your website <../bp/websites>` with simple and free tools.
-#.  Implement an :doc:`endpoint protection <../bp/endpoint_protection>` program through a commercial provider or for free through the EI-ISAC.
-#.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
-#.  Manage your :doc:`removable media <../bp/removable_media>`.
-
-..
-    #. Become a member of the `EI-ISAC’s Peer Support Tool <url>`_ so you can ask questions and find practical guidance from election officials facing the same concerns as you.
+Prioritizing Best Practices for the |Maturity2| and |Maturity3| maturities
+--------------------------------------------------------------------------
 
 .. _maturity-two-and-three-maturity-baseline-priorities:
 
@@ -114,7 +51,7 @@ This efficiency ranking drives the ordering of the best practices in this Guide,
    8     18.5       Perform Periodic Internal Penetration Tests                                  :ref:`Internal Pen Testing <internal-pentest-maturity-three>`
    9     6.8        Define and Maintain Role-Based Access Control                                :ref:`User Management <user-management-maturity-two-three>`
    10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
-   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2022Q4 update]
+   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2023Q1 update]
    12    5.2        Use Unique Passwords                                                         :ref:`User Management <user-management-maturity-two-three>`
    13    6.4        Require MFA for Remote Network Access                                        :ref:`Managing Remote Connections <manage-remote-connections-maturity-two-three>`
    14    6.5        Require MFA for Administrative Access                                        :ref:`User Management <user-management-maturity-two-three>`

@@ -13,7 +13,8 @@ The EI-ISAC's Essential Guide to Election Security
 
    maturity/maturities
    maturity/determine_maturity
-   maturity/maturity_bp_mapping
+   maturity/maturity_bp_mapping_L1
+   maturity/maturity_bp_mapping_L2_L3
 
 .. toctree::
    :maxdepth: 1
