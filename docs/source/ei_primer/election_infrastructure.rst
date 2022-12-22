@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: remake of generalized election architecture section of the Handbook
 
-*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact. While this Essential Guide to Election Security is our recommended go-to for best practices, you can still download_ the Handbook.*
+*This section draws from the Handbook for Election Infrastructure Security. It is an informative section to help understand and conceptualize how the various election technology components work and interact. While this Essential Guide to Election Security is our recommended go-to for best practices, you can still |Handbook|.*
 
 A Primer on Election Infrastructure Security
 --------------------------------------------
@@ -25,4 +25,4 @@ The next section describes the :doc:`connectedness <connectedness_classes>` of e
 
 The remainder of the sections give background on the architecture of election systems, the role information technology, the risks and threats for each, and how they connect in the context of cybersecurity risk management. Importantly, this primer gives information about protecting the infrastructure. There are many process-oriented risk mitigations employed throughout election administration that are not addressed here.
 
-.. _download: https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf
+.. |Handbook| replace:: https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2018/02/CIS-Elections-eBook-15-Feb.pdf
