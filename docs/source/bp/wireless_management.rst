@@ -58,6 +58,20 @@ Organizations operating at a |Maturity3| maturity should take additional actions
 #. Use wireless authentication protocols that require mutual, multi-factor authentication.
 #. Detect wireless access points connected to the wired network.
 
+Cost-Effective Tools
+********************
+
+* `Aircrack-ng <https://www.aircrack-ng.org>`_: Wireless security suite
+* `Kismet <https://www.kismetwireless.net>`_: Wireless security and investigation
+* `Wireshark <https://www.Wireshark.org>`_: Packet capture analysis
+
+Learn More
+**********
+
+* CIS's `Mobile Security Companion Guide <https://www.cisecurity.org/blog/new-release-cis-controls-mobile-companion-guide>`_
+* NIST `Special Publication 800-153 <https://csrc.nist.gov/publications/detail/sp/800-153/final>`_: Guidelines for Securing Wireless Local Area Networks (WLANs)
+* NIST `Special Publication 800-94 <https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf>`_: Guide to Intrusion Detection and Prevention Systems (IDPS)
+
 Mapping to CIS Controls and Safeguards
 **************************************
 
