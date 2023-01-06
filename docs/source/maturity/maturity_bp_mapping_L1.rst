@@ -67,4 +67,4 @@ In addition to the above, you should be implementing some measures specific to e
 #.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
 #.  Manage your :doc:`removable media <../bp/removable_media>`.
 
-If you complete these, you have implemented all of the priority best practices for the |Maturity1| maturity! Kepp working on other :doc:`in scope best practices <..bp/bp_index>` and work your way up to the |Maturity2| maturity!
+If you complete these, you have implemented all of the priority best practices for the |Maturity1| maturity! Keep working on other :doc:`in scope best practices <..bp/bp_index>` and work your way up to the |Maturity2| maturity!
