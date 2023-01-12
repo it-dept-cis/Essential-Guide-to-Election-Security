@@ -46,4 +46,4 @@ Mapping to CIS Handbook Best Practices
 
 * 18, 20, 34, 37, 62, 73
 
-.. _A Guide for Ensuring Security in Election Technology Procurements: https://www.cisecurity.org/elections
+.. _A Guide for Ensuring Security in Election Technology Procurements: https://learn.cisecurity.org/election-procurement-guide
