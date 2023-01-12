@@ -13,12 +13,12 @@ That said, many experts have studied the election processes at length, and there
 
 In some jurisdictions, the owner of various aspects of the architecture may differ, but the fundamentals of the types of systems used to perform the task are generally the same. For that reason, many of the best practices associated with those systems will closely follow IT security best practices, though there are often additional business processes and practices that help mitigate risk.
 
-.. figure:: /_static/generalized_election_architecture.png
+.. figure:: /_static/generalized_election_architecture_light.png
    :width: 90%
    :alt: Graphic showing a generalized election architecture with data flow chart
    :figclass: only-light
 
-.. figure:: /_static/generalized_election_architecture.svg
+.. figure:: /_static/generalized_election_architecture_dark.svg
    :width: 90%
    :alt: Graphic showing a generalized election architecture with data flow chart
    :figclass: only-dark

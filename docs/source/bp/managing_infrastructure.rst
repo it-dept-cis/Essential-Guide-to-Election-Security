@@ -58,12 +58,12 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
    * Use the :term:`EMS` Gateway `Benchmark <https://www.cisecurity.org/insights/blog/new-guidance-to-secure-election-management-system-machines>`_ for machines that, through removable media, exchange data with the EMS.
    * Uninstall or disable unnecessary services on enterprise assets and software
 
-.. image:: /_static/infrastructure_config_light.png
+.. figure:: /_static/infrastructure_config_light.png
   :width: 90%
   :alt: Infrastructue Configuration Managment Flow Diagram
   :figclass: only-light
 
-.. image:: /_static/infrastructure_config_dark.svg
+.. figure:: /_static/infrastructure_config_dark.png
   :width: 90%
   :alt: Infrastructue Configuration Managment Flow Diagram
   :figclass: only-dark
