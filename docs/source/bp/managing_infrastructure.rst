@@ -63,7 +63,7 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
   :alt: Infrastructue Configuration Managment Flow Diagram
   :figclass: only-light
 
-.. figure:: /_static/infrastructure_config_dark.png
+.. figure:: /_static/infrastructure_config_dark.svg
   :width: 90%
   :alt: Infrastructue Configuration Managment Flow Diagram
   :figclass: only-dark
