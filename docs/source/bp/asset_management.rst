@@ -9,15 +9,17 @@
 
 Without a clear understanding of what computers and other technology you must protect, you’ll have a hard time ensuring everything you own is properly secured. Assets can take many forms, with varying complexity and value to the organizations.
 
-.. image:: /_static/enterprise_asset_taxonomy.png
+.. figure:: /_static/enterprise_asset_taxonomy.png
   :width: 90%
   :alt: Taxonomy of Enterprise Assets
 
 There are many free tools that can help automate the job of inventorying and managing physical devices, and for many organizations simple tools like spreadsheets are good enough. All assets have a lifecycle and need that lifecycle managed.
 
-.. image:: /_static/acquisition_lifecycle.png
+.. figure:: /_static/acquisition_lifecycle.png
   :width: 90%
   :alt: Acquisition Lifecycle Flowchart
+
+You should also know how to dispose of assets. Various types of hardware and software have specific disposal procedures based on the criticality and sensitivity of the equipment and the data it contains. 
 
 Goals
 **********************************************
@@ -25,6 +27,7 @@ Goals
 #. Maintain proper records of all assets (hardware, software, cloud platforms) throughout their lifecycle (|Maturity1| maturity)
 #. Always know the physical location of hardware (|Maturity1| maturity)
 #. Conduct maintenance and protecting assets from loss, theft, and tampering (|Maturity1| maturity)
+#. Properly dispose of assets (|Maturity1| maturity)
 
 Actions
 **********************************************
@@ -46,6 +49,9 @@ For those organizations operating at a |Maturity1| maturity, keep it simple. You
    * This inventory will contain sensitive security information that should not be shared with untrusted parties.
 
 #. Investigate unknown assets discovered during the inventory process. Remove assets that should not be attached to the network. This includes both hardware and software assets.
+#. Properly dispose of assets, including shredding paper assets, wiping software assets, and decommissioning hardware assets. Follow all relevant laws for retaining and disposing of all assets.
+
+   * Both `NIST <https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final>`_ and the `EAC <https://www.eac.gov/sites/default/files/Grants/Disposal_Sale_Destruction_Voting-Equipment_V2.pdf>`_ have extensive guidance on IT asset sanitation and disposal.
 
 .. _asset-management-maturity-two-three:
 

@@ -23,9 +23,24 @@ The three maturities are:
 #. |Maturity2|: The organization focuses on deploying tools to stay ahead of threats and attempts to implement lessons learned. Some staff and contractors may specialize in cybersecurity but generally don't have specialized domains within cybersecurity.
 #. |Maturity3|: The organization assesses its risks and employs experts in the different facets of cybersecurity—e.g., risk management, penetration testing, application security.
 
+.. figure:: /_static/eges_maturity_model_light.png
+   :width: 90%
+   :alt: Graphic showing the three maturity levels and brief descriptions
+   :figclass: only-light
+
+.. figure:: /_static/eges_maturity_model_dark.png
+   :width: 90%
+   :alt: Graphic showing the three maturity levels and brief descriptions
+   :figclass: only-dark
+
+   :term: EGES Maturity Levels
+
 Using the Maturity Levels
 *************************
 
 The next page will provide questions that can help guide you to one of the three maturities. Use it as a starting point and adjust as needed.
 
-Each best practice has tailored guidance for each maturity, ranging from simple guidance and (usually free) tools for the |Maturity1| maturity to enterprise-driven and sophisticated guidance and tools for the |Maturity3| maturity.
+Each best practice has tailored guidance for each maturity, ranging from simple guidance and (usually free) tools for the |Maturity1| maturity to enterprise-driven and sophisticated guidance and tools for the |Maturity3| maturity. Use the best practices priorities for your maturity level:
+
+* |Maturity1| :doc:`best practice priorities <maturity_bp_mapping_L1>`.
+* |Maturity2| and |Maturity3| :doc:`best practice priorities <maturity_bp_mapping_L2_L3>`.
