@@ -9,12 +9,12 @@
 
 Infrastructure management involves adjusting configuration settings for systems to reduce the risk of cyber attacks. Most workstations (e.g., desktop, laptops, tablets) should have capabilities limited to the job function they serve. Often, this is tied to the type of employee to which the workstation is issued, such as an admin or a poll worker. Sometimes, it's about the use the workstation plays in the office. A similar rule applies to servers and other shared infrastructure. 
 
-.. image:: /_static/plan_implement_monitor_modify_light.png
+.. figure:: /_static/plan_implement_monitor_modify_light.png
   :width: 90%
   :alt: Plan Implement Monitor Modify
   :figclass: only-light
 
-.. image:: /_static/plan_implement_monitor_modify_dark.svg
+.. figure:: /_static/plan_implement_monitor_modify_dark.svg
   :width: 90%
   :alt: Plan Implement Monitor Modify
   :figclass: only-dark
