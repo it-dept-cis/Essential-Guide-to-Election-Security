@@ -15,9 +15,15 @@ Many cybersecurity firms offer ready-made hardware and software solutions to dep
 
 Employees can connect to VPNs via laptops, desktops, or even mobile devices such as smartphones and tablets. When an employee connects to a VPN, it will appear as if they are connecting to the internet from the organization’s network, instead of their remote location. Below is a diagram showing how VPNs may be used in an election system.
 
-.. image:: /_static/VPN.png
+.. image:: /_static/vpn-tunnel_light.png
   :width: 90%
   :alt: Virtual Private Network Diagram
+  :figclass: only-light
+
+.. image:: /_static/vpn-tunnel_dark.svg
+  :width: 90%
+  :alt: Virtual Private Network Diagram
+  :figclass: only-dark
 
 Election offices can use a VPN to:
 

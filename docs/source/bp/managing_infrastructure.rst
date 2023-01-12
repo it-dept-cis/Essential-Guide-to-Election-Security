@@ -9,9 +9,15 @@
 
 Infrastructure management involves adjusting configuration settings for systems to reduce the risk of cyber attacks. Most workstations (e.g., desktop, laptops, tablets) should have capabilities limited to the job function they serve. Often, this is tied to the type of employee to which the workstation is issued, such as an admin or a poll worker. Sometimes, it's about the use the workstation plays in the office. A similar rule applies to servers and other shared infrastructure. 
 
-.. image:: /_static/plan_implement_monitor_modify.png
+.. image:: /_static/plan_implement_monitor_modify_light.png
   :width: 90%
   :alt: Plan Implement Monitor Modify
+  :figclass: only-light
+
+.. image:: /_static/plan_implement_monitor_modify_dark.svg
+  :width: 90%
+  :alt: Plan Implement Monitor Modify
+  :figclass: only-dark
 
 In general, having a few configurations you use repeatedly is better than creating custom configurations for each system you allow in your environment. You should create these configurations or get them from a trusted source and carefully track any changes to them.
 
@@ -52,10 +58,16 @@ Organizations operating at a |Maturity2| or |Maturity3| maturity should take add
    * Use the :term:`EMS` Gateway `Benchmark <https://www.cisecurity.org/insights/blog/new-guidance-to-secure-election-management-system-machines>`_ for machines that, through removable media, exchange data with the EMS.
    * Uninstall or disable unnecessary services on enterprise assets and software
 
-.. image:: /_static/infrastructure_config.png
+.. image:: /_static/infrastructure_config_light.png
   :width: 90%
   :alt: Infrastructue Configuration Managment Flow Diagram
+  :figclass: only-light
 
+.. image:: /_static/infrastructure_config_dark.svg
+  :width: 90%
+  :alt: Infrastructue Configuration Managment Flow Diagram
+  :figclass: only-dark
+  
 Cost-Effective Tools
 ********************
 

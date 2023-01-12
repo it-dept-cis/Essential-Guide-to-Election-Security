@@ -16,6 +16,12 @@ In some jurisdictions, the owner of various aspects of the architecture may diff
 .. figure:: /_static/generalized_election_architecture.png
    :width: 90%
    :alt: Graphic showing a generalized election architecture with data flow chart
+   :figclass: only-light
+
+.. figure:: /_static/generalized_election_architecture.svg
+   :width: 90%
+   :alt: Graphic showing a generalized election architecture with data flow chart
+   :figclass: only-dark
 
 Many of the components in elections infrastructure are built on general purpose computing machines, such as traditional web servers and database platforms. While this means they are often subject to the same attacks as those in other sectors, it also means experts have identified best practices to mitigate many of the risks.
 

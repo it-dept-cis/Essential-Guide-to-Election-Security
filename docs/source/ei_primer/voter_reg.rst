@@ -22,9 +22,15 @@ Additionally, voters’ connection to the voter registration system may run thro
 
 In general, voter registration systems exhibit the risk characteristics of a general-purpose computing system and, more specifically, any network connected database application. To properly mitigate risks, each voter registration system within a state, and links to the voter registration system, needs a comprehensive assessment of its technical characteristics and the application of appropriate security controls.
 
-.. figure:: /_static/voter_registration_breakout.png
+.. figure:: /_static/voter_registration_breakout_light.png
    :width: 90%
    :alt: Graphic showing a the components of a typical voter registration system
+   :figclass: only-light
+
+.. figure:: /_static/voter_registration_breakout_dark.svg
+   :width: 90%
+   :alt: Graphic showing a the components of a typical voter registration system
+   :figclass: only-dark
 
 Types of voter registration systems
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
