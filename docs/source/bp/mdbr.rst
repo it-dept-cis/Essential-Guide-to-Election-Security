@@ -11,12 +11,12 @@
 
 Once an organization points its domain name system (:term:`DNS`) requests to the MDBR DNS server IP addresses, every DNS lookup will be compared against a list of known and suspected malicious domains. Attempts to access known malicious domains such as those associated with malware, phishing, and ransomware, among other threats, are blocked and logged.
 
-.. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01.png
+.. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01_light.png
    :width: 90%
    :alt: Graphic showing MDBR working in an election office environment
    :figclass: only-light
 
-.. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01-dark.png
+.. figure:: /_static/MDBR-Simple-Secure-DNS-Diagram.22.01_dark.svg
    :width: 90%
    :alt: Graphic showing MDBR working in an election office environment
    :figclass: only-dark

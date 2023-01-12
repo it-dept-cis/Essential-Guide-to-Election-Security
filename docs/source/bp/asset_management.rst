@@ -9,13 +9,13 @@
 
 Without a clear understanding of what computers and other technology you must protect, you’ll have a hard time ensuring everything you own is properly secured. Assets can take many forms, with varying complexity and value to the organizations.
 
-.. image:: /_static/enterprise_asset_taxonomy.png
+.. figure:: /_static/enterprise_asset_taxonomy.png
   :width: 90%
   :alt: Taxonomy of Enterprise Assets
 
 There are many free tools that can help automate the job of inventorying and managing physical devices, and for many organizations simple tools like spreadsheets are good enough. All assets have a lifecycle and need that lifecycle managed.
 
-.. image:: /_static/acquisition_lifecycle.png
+.. figure:: /_static/acquisition_lifecycle.png
   :width: 90%
   :alt: Acquisition Lifecycle Flowchart
 

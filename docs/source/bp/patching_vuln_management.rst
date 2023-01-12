@@ -15,7 +15,7 @@ Software development companies, such as Microsoft and Adobe, regularly release b
 
 Successful exploitation of unpatched election infrastructure may result in data breaches, malware infections, and website defacements, among other things. Information at risk includes personally identifiable information (:term:`PII`) and other voter information.
 
-.. image:: /_static/patching_lifecycle.png
+.. figure:: /_static/patching_lifecycle.png
   :width: 90%
   :alt: The Patching Lifecycle
 

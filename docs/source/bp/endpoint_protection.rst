@@ -11,11 +11,15 @@
 
 If a threat is identified, it is blocked, and an alert is generated. Administrators can typically view alerts through a vendor control panel or a connection to their own security platform. Also, many :term:`EDR` solutions include a traditional antivirus functionality and the ability for responders to remotely access compromised systems for remediation.
 
-.. figure:: /_static/EDR-Vendor-Cloud-Diagram.png
+.. figure:: /_static/EDR-Vendor-Cloud-Diagram_light.png
    :width: 90%
    :alt: Graphic showing EDR with a Cloud-based Vendor Solution
+   :figclass: only-light
 
-   :term:`EDR` with a Cloud-based Vendor Solution
+.. figure:: /_static/EDR-Vendor-Cloud-Diagram_dark.svg
+   :width: 90%
+   :alt: Graphic showing EDR with a Cloud-based Vendor Solution
+   :figclass: only-dark
 
 Election offices can use :term:`EDR` to:
 

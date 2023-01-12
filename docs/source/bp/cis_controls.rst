@@ -11,10 +11,16 @@ The CIS `Critical Security Controls™ <https://www.cisecurity.org/controls>`_ a
 
 Within each of the 18 CIS Controls is a set of safeguards focused on a specific security function. There are a total of 153 safeguards. Experience has shown that organizations of every size and complexity need help to get started with the CIS Controls, and to focus their attention and resources.
 
-.. image:: /_static/controls_listing.png
+.. figure:: /_static/controls_listing_light.png
   :width: 90%
   :alt: The 18 CIS Controls
+  :figclass: only-light
 
+.. figure:: /_static/controls_listing_dark.svg
+  :width: 90%
+  :alt: The 18 CIS Controls
+  :figclass: only-dark
+  
 The CIS Implementation Groups (:term:`IGs <IG>`) were created to address this need. These IGs provide a simple and accessible way to help organizations of different classes focus their scarce security resources, and still leverage the value of the CIS Controls program, community, and complementary tools and working aids.
 
 The CIS Controls are organized into IGs, each with its own unique list of Safeguards. The IGs are defined according to three attributes:
