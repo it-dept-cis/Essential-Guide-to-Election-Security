@@ -28,11 +28,6 @@ The three maturities are:
    :alt: Graphic showing the three maturity levels and brief descriptions
    :figclass: only-light
 
-.. figure:: /_static/eges_maturity_model_dark.png
-   :width: 90%
-   :alt: Graphic showing the three maturity levels and brief descriptions
-   :figclass: only-dark
-
 Using the Maturity Levels
 *************************
 
