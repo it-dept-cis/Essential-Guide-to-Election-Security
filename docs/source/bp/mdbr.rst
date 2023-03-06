@@ -21,8 +21,6 @@ Once an organization points its domain name system (:term:`DNS`) requests to the
    :alt: Graphic showing MDBR working in an election office environment
    :figclass: only-dark
 
-   :term:`MDBR` in an election office environment
-
 Goals
 *****
 
