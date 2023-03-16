@@ -17,7 +17,7 @@ To learn how to determine the maturity at which your organization operates, see 
 
 CIS's Community Defense Model drives the ordering of these best practices. We encourage you to follow this order, but every organization is different, so make adjustments as necessary.
 
-For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the prioritized best practices for the |Maturity1| :doc:`maturity <../maturity/maturity_bp_mapping_L1>` and |Maturity2| and |Maturity3| :doc:`maturities <../maturity/maturity_bp_mapping_L2L3>`.
+For a better understanding of how these priorities were determined and for a better understanding of how to start implementing these best practices, see the prioritized best practices for the |Maturity1| :doc:`maturity <../maturity/maturity_bp_mapping_L1>` and |Maturity2| and |Maturity3| :doc:`maturities <../maturity/maturity_bp_mapping_L2_L3>`.
 
 You can use this table as a checklist to help track your progress.
 
