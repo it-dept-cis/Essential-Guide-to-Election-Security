@@ -44,7 +44,7 @@ Reaching a defense-in-depth cybersecurity posture takes time and resources, but 
 
 Organizations operating at a |Maturity2| or |Maturity3| maturity should take additional actions, also detailed in this guide:
 
-#. Implement additional defenses in a prioritized way by following this Guide's :doc:`prioritized best practices <../maturity/maturity_bp_mapping_L2_L3>`` for your maturity level, based on the real-world, data-driven Community Defense Model.
+#. Implement additional defenses in a prioritized way by following this Guide's :doc:`prioritized best practices <../maturity/maturity_bp_mapping_L2_L3>` for your maturity level, based on the real-world, data-driven Community Defense Model.
 
 Cost-Effective Tools
 **********************************************
