@@ -1,13 +1,13 @@
 ..
   Created by: mike garcia
-  To: BP for device asset management
+  To: BP for description of defense in depth concept
 
-.. |bp_title| replace:: Asset Management
+.. |bp_title| replace:: Defense-in-Depth
 
 |bp_title|
 ----------------------------------------------
 
-Defense in Depth (DiD) is a comprehensive information security approach in which a series of security mechanisms and controls are thoughtfully layered throughout your IT infrastructure to protect the confidentiality, integrity, and availability of that infrastructure and the data within. 
+Defense-in-Depth is a comprehensive information security approach in which a series of security mechanisms and controls are thoughtfully layered throughout your IT infrastructure to protect the confidentiality, integrity, and availability of that infrastructure and the data within. 
 
 No individual mitigation can stop all cyber threats, so we increase security usign multiple security mechanisms to mitigate against a wide variety of threats while incorporating redundancy in the event one mechanism fails. When successful, this approach significantly bolsters network security against many attack vectors. An effective defense-in-depth strategy typically includes the security best practices, tools, and policies in the graphic below, and can include many more depending on the maturity of the organization.
 
