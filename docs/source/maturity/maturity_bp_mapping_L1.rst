@@ -21,7 +21,7 @@ If you are at the |Maturity1| maturity, your first goal should be to commit to i
 |Maturity1| Maturity Baseline Priorities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you are at the |Maturity1| maturity, we recommend starting with these to establish a baseline of cyber hygiene.
+If you are at the |Maturity1| maturity, we recommend starting with these to establish a baseline of cyber hygiene. This is the starting point to building yourself up to a :doc:`defense-in-depth <../bp/defense_in_depth>` posture.
 
 **Actions**
 

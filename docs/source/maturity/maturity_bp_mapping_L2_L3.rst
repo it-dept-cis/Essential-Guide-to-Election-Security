@@ -15,7 +15,7 @@ More mature organizations should take a more sophisticated approach to prioritiz
 The CIS Community Defense Model
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To help organizations determine where to invest their next dollar in cybersecurity, CIS developed the :term:`Community Defense Model` (CDM). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../bp/cis_controls>`.
+To help organizations determine where to invest their next dollar in cybersecurity, CIS developed the :term:`Community Defense Model` (CDM). The `CDM <https://www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0>`_ was created to help answer that and other questions about the value of the :term:`CIS Controls` based on currently available threat data from industry reports. Ready more about the CIS Controls in the CIS Controls :doc:`best practice <../bp/cis_controls>`. In short, the Community Defense Model is a data-driven, prioritized approach to building yourself up to a :doc:`defense-in-depth <../bp/defense_in_depth>` posture.
 
 Using authoritative data sources like the Verizon `Data Breach Investigations Report <https://www.verizon.com/business/resources/reports/dbir/>`_, CIS identified the top attack types that enterprises should defend against. 
 
