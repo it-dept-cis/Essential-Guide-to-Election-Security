@@ -15,6 +15,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    BMD
      ballot marking device
 
+   CCOS
+     central count optical scanner
+
    CDM
      :term:`Community Defense Model`
 
@@ -105,11 +108,17 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    NVD
      National Vulnerability Database
 
+   OS
+     optical scanner
+
    PCMCIA
      Personal Computer Memory Card International Association
 
    PII
      personally identifiable information
+
+   PPOS
+     precinct count optical scanner
 
    US-CERT
      United States Computer Emergency Readiness Team
