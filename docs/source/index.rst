@@ -25,6 +25,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/join_ei_isac
    bp/asset_management
    bp/encrypt_data_at_rest
+   bp/encrypt_data_in_transit
    bp/managing_infrastructure
    bp/user_management
    bp/backups

@@ -34,6 +34,8 @@ You can use this table as a checklist to help track your progress.
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Encrypt Data at Rest <encrypt_data_at_rest>`                                  |  Priority    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Encrypt Data in Transity <encrypt_data_in_transit>`                           |  Priority    |  Priority    |  Priority    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Managing Infrastructure with Secure Configurations <managing_infrastructure>` |  Priority    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`User Management <user_management>`                                            |  Priority    |  Priority    |  Priority    |
