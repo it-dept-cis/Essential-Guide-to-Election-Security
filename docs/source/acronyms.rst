@@ -114,11 +114,11 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    PCMCIA
      Personal Computer Memory Card International Association
 
+   PCOS
+     precinct count optical scanner
+
    PII
      personally identifiable information
-
-   PPOS
-     precinct count optical scanner
 
    US-CERT
      United States Computer Emergency Readiness Team
