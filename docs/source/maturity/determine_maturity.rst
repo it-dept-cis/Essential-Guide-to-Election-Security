@@ -32,7 +32,7 @@ Now go implement the |Maturity1| :doc:`best practice priorities <maturity_bp_map
 Your organization is likely at a |Maturity2| maturity if most of the following statements apply:
 
 1.      You have dedicated resources to manage and protect IT infrastructure.
-#.      You have already implemented basic cybersecurity measures, like Implementation Group 1 from the CIS Controls, the appropriate cybersecurity profile from the :term:`NIST CSF`, or equivalent control sets.
+#.      You have already implemented basic cybersecurity measures, like Implementation Group 1 from the CIS Controls, the appropriate cybersecurity profile from the :term:`NIST` :term:`CSF`, or equivalent control sets.
 #.      When you receive cybersecurity alerts and directives, you generally know how to mitigate the risk.
 #.      You actively seek formal guidance for improving your cybersecurity posture.
 #.      You understand the threats facing your organization and other organizations similar to yours.
