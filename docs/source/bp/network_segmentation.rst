@@ -2,7 +2,7 @@
   Created by: mike garcia
   To: network segmentation
 
-.. |bp_title| replace:: Segment Networks Based on Sensitivity
+.. |bp_title| replace:: Network Segmentation Based on Sensitivity
 
 |bp_title|
 ----------------------------------------------

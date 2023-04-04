@@ -52,7 +52,7 @@ You can use this table as a checklist to help track your progress.
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Internal Penetration Testing <internal_pentest>`                              | Out of Scope | Out of Scope |  In scope    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
-|      | :doc:`Segment Networks Based on Sensitivity <network_segmentation>`                 |  In scope    |  Priority    |  Priority    |
+|      | :doc:`Network Segmentation Based on Sensitivity <network_segmentation>`             |  In scope    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Managing Remote Connections <managing_remote_connections>`                    |  In scope    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
