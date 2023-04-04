@@ -34,7 +34,7 @@ You can use this table as a checklist to help track your progress.
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Encrypt Data at Rest <encrypt_data_at_rest>`                                  |  Priority    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
-|      | :doc:`Encrypt Data in Transity <encrypt_data_in_transit>`                           |  Priority    |  Priority    |  Priority    |
+|      | :doc:`Encrypt Data in Transit <encrypt_data_in_transit>`                            |  Priority    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Managing Infrastructure with Secure Configurations <managing_infrastructure>` |  Priority    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
@@ -51,6 +51,8 @@ You can use this table as a checklist to help track your progress.
 |      | :doc:`Remediate Penetration Testing Findings <remediate_pen_test_findings>`         | Out of Scope | Out of Scope |  In scope    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Internal Penetration Testing <internal_pentest>`                              | Out of Scope | Out of Scope |  In scope    |
++------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
+|      | :doc:`Network Segmentation Based on Sensitivity <network_segmentation>`             |  In scope    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+
 |      | :doc:`Managing Remote Connections <managing_remote_connections>`                    |  In scope    |  Priority    |  Priority    |
 +------+-------------------------------------------------------------------------------------+--------------+--------------+--------------+

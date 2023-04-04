@@ -34,6 +34,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/patching_vuln_management
    bp/remediate_pen_test_findings
    bp/internal_pentest
+   bp/network_segmentation
    bp/managing_remote_connections
    bp/firewalls_ports
    bp/endpoint_protection
