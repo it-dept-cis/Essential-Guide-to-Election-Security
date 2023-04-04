@@ -16,4 +16,4 @@ The appendices are:
 
 In addition to the appendices, there is an informative :doc:`election infrastructure primer <../ei_primer/election_infrastructure>`, to give background on the architecture of election systems, the role information technology, risks and threats.
 
-There is also a :doc:`glossary <../glossary>` of technical terms used throughout the Guide and an :doc:`acronym <../acronym>` list.
+There is also a :doc:`glossary <../glossary>` of technical terms used throughout the Guide and an :doc:`acronym <../acronyms>` list.

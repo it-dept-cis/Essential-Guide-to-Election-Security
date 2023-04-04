@@ -25,6 +25,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/join_ei_isac
    bp/asset_management
    bp/encrypt_data_at_rest
+   bp/encrypt_data_in_transit
    bp/managing_infrastructure
    bp/user_management
    bp/backups
@@ -33,6 +34,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/patching_vuln_management
    bp/remediate_pen_test_findings
    bp/internal_pentest
+   bp/network_segmentation
    bp/managing_remote_connections
    bp/firewalls_ports
    bp/endpoint_protection
@@ -48,8 +50,6 @@ The EI-ISAC's Essential Guide to Election Security
    bp/mdm_info
    bp/managing_vendors
    bp/defense_in_depth
-   
-.. bp/working_with_IT
 
 .. toctree::
    :maxdepth: 1

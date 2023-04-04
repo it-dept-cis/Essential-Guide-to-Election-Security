@@ -32,7 +32,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | (IDS) (e.g., MS-ISAC Albert sensor) on       | and Intrusion Detection         |
 |               | internet and extranet DMZ systems            |                                 |
 +---------------+----------------------------------------------+---------------------------------+
-|      8        | If wireless is required, ensure all wireless |                                 |
+|      8        | If wireless is required, ensure all wireless | Encrypt Data in Transit         |
 |               | traffic use at least Advanced Encryption     |                                 |
 |               | Standard (AES) encryption with at least      |                                 |
 |               | Wi-Fi Protected Access 2 (WPA2)              |                                 |
@@ -45,8 +45,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |      11       | On a regular basis, review logs to identify  |                                 |
 |               | anomalies or abnormal events                 |                                 |
 +---------------+----------------------------------------------+---------------------------------+
-|      12       | Ensure critical data are encrypted and       | Encrypt Data at Rest            |
-|               | digitally signed                             |                                 |
+|      12       | Ensure critical data are encrypted and       | * Encrypt Data at Rest          |
+|               | digitally signed                             | * Encrypt Data in Transit       |
 +---------------+----------------------------------------------+---------------------------------+
 |      13       | Ensure staff is properly trained on          | Building and Managing Staff     |
 |               | cybersecurity and audit procedures and audit |                                 |
@@ -321,8 +321,8 @@ Mapping to the Handbook for Election Infrastructure Security
 |      83       | Use secure protocols for all remote          | Managing Remote Connections     |
 |               | connections to the system (TLS, IPSEC)       |                                 |
 +---------------+----------------------------------------------+---------------------------------+
-|      84       | Ensure critical data is encrypted and        | Encrypt Data at Rest            |
-|               | digitally signed                             |                                 |
+|      84       | Ensure critical data is encrypted and        | * Encrypt Data at Rest          |
+|               | digitally signed                             | * Encrypt Data in Transit       |
 +---------------+----------------------------------------------+---------------------------------+
 |      85       | Ensure the use of bidirectional              |                                 |
 |               | authentication to establish trust between    |                                 |

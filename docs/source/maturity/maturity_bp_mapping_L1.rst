@@ -40,7 +40,8 @@ If you are at the |Maturity1| maturity, we recommend starting with these to esta
 | * Service Provider Inventory |                                                                                                  |
 | * Account Inventory          |                                                                                                  |
 +------------------------------+--------------------------------------------------------------------------------------------------+
-| Asset Protection             | * All actions of :ref:`Encrypt Data At Rest <encrypt-data-at-rest-maturity-one>`                 |
+| Asset Protection             | * All actions of :ref:`Encrypt Data at Rest <encrypt-data-at-rest-maturity-one>`                 |
+| Asset Protection             | * All actions of :ref:`Encrypt Data in Transit <encrypt-data-in-transit-all-maturities>`         |
 |                              | * Actions 1 and 2 of :ref:`Managing Infrastructure <managing-infrastructure-maturity-one>`       |
 +------------------------------+--------------------------------------------------------------------------------------------------+
 | Account Security             | All actions under User Recommendations of :ref:`User Management <user-management-maturity-one>`  |
@@ -67,4 +68,4 @@ In addition to the above, you should be implementing some measures specific to e
 #.  Implement the :doc:`malicious domain blocking and reporting <../bp/mdbr>` tool for free through the EI-ISAC.
 #.  Manage your :doc:`removable media <../bp/removable_media>`.
 
-If you complete these, you have implemented all of the priority best practices for the |Maturity1| maturity! Keep working on other :doc:`in scope best practices <..bp/bp_index>` and work your way up to the |Maturity2| maturity!
+If you complete these, you have implemented all of the priority best practices for the |Maturity1| maturity! Keep working on other :doc:`in scope best practices <../bp/bp_index>` and work your way up to the |Maturity2| maturity!

@@ -51,7 +51,7 @@ This efficiency ranking drives the ordering of the best practices in this Guide,
    8     18.5       Perform Periodic Internal Penetration Tests                                  :ref:`Internal Pen Testing <internal-pentest-maturity-three>`
    9     6.8        Define and Maintain Role-Based Access Control                                :ref:`User Management <user-management-maturity-two-three>`
    10    4.8        Uninstall or Disable Unnecessary Services on Enterprise Assets and Software  :ref:`Managing Infrastructure <managing-infrastructure-maturity-two-three>`
-   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     [Coming in 2023Q1 update]
+   11    3.12       Segment Data Processing and Storage Based on Sensitivity                     :ref:`Network Segmentation <network-segmentation-all-maturities>`
    12    5.2        Use Unique Passwords                                                         :ref:`User Management <user-management-maturity-two-three>`
    13    6.4        Require MFA for Remote Network Access                                        :ref:`Managing Remote Connections <manage-remote-connections-maturity-two-three>`
    14    6.5        Require MFA for Administrative Access                                        :ref:`User Management <user-management-maturity-two-three>`
