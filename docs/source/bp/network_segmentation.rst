@@ -24,6 +24,8 @@ Goals
 #. Deploy appropriate network segmentation tools (|Maturity1| maturity)
 #. Manage network segmentation appropriately (|Maturity1| maturity) 
 
+.. _network-segmentation-all-maturities:
+
 Actions
 *******
 
@@ -38,7 +40,8 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 Cost-Effective Tools
 ********************
 
-* Many states and localities deploy governance, risk, and compliance (GRC) tools to help manage security on their networks. Find out what tools you are currently using and whether they have network segmentation capabilties.
+* Many states and localities deploy governance, risk, and compliance (:term:`GRC`) tools to help manage security on their networks. Find out what tools you are currently using and whether they have network segmentation capabilties.
+* Exising firewalls, switches, and their associated software can also be used to improve network segmentation.
 
 Mapping to CIS Controls and Safeguards
 **************************************

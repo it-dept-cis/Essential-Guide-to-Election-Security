@@ -70,6 +70,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    EMS
      election management system
 
+   GRC
+     governance, risk, and compliance
+   
    IDS
      intrusion detection system
 
