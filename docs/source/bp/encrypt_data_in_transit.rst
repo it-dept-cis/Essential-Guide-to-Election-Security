@@ -41,9 +41,9 @@ For |bp_title|, the necessary actions are the same for all maturity levels.
 #. Set defaults for these protocols and versions wherever possible throughout your systems.
 #. Impose the same encryption requiremens on vendors and other partners as you use yourselves.
 
-   * You can use the :ref:`managing vendors <managing_vendors>` best practices to help implement appropriate best practices across all of your vendors. 
+   * You can use the :doc:`managing vendors <managing_vendors>` best practices to help implement appropriate best practices across all of your vendors. 
 
-.. _encrypt-data-at-rest-cost-effective-tools:
+.. _encrypt-data-in-transit-cost-effective-tools:
 
 Cost-Effective Tools
 ********************

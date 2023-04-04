@@ -46,7 +46,7 @@ Mapping to the Handbook for Election Infrastructure Security
 |               | anomalies or abnormal events                 |                                 |
 +---------------+----------------------------------------------+---------------------------------+
 |      12       | Ensure critical data are encrypted and       | * Encrypt Data at Rest          |
-|               | digitally signed                             | * Encrypt Data in Transit       |                                |
+|               | digitally signed                             | * Encrypt Data in Transit       |
 +---------------+----------------------------------------------+---------------------------------+
 |      13       | Ensure staff is properly trained on          | Building and Managing Staff     |
 |               | cybersecurity and audit procedures and audit |                                 |
