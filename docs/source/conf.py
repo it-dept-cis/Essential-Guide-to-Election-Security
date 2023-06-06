@@ -59,8 +59,8 @@ autosectionlabel_prefix_document = True
 
 # -- Options for intersphinx -------------------------------------------------
 intersphinx_mapping = {
-    #forking_page = CIS's ReadTheDocs Landing Page
-    "forking_page": ("https://docs.cisecurity.org/rtd-forking-page", None),
+    #forking_page = CIS's Documentation Landing Page
+    "forking_page": ("https://cisecurity-rtd-forking-page.readthedocs-hosted.com/", None),
     #rabetv_pm = RABET-V Program Manual
     "rabetv_pm": ("https://rabetv.docs.cisecurity.org/", None),
     #essential_guide = EI-ISAC's Essential Guide
