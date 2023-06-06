@@ -46,6 +46,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'sphinx.ext.autosectionlabel',
+    'sphinx.ext.intersphinx',
     #'sphinx.ext.imgconverter',
     # 'recommonmark',
     #'sphinx_markdown_tables',
@@ -55,6 +56,16 @@ extensions = [
 
 # Config for sphinx.ext.autosectionlabel
 autosectionlabel_prefix_document = True
+
+# -- Options for intersphinx -------------------------------------------------
+intersphinx_mapping = {
+    #forking_page = CIS's ReadTheDocs Landing Page
+    "forking_page": ("https://docs.cisecurity.org/rtd-forking-page", None),
+    #rabetv_pm = RABET-V Program Manual
+    "rabetv_pm": ("https://rabetv.docs.cisecurity.org/", None),
+    #essential_guide = EI-ISAC's Essential Guide
+    "essential_guide": ("https://docs.cisecurity.org/essentialguide/", None),
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
