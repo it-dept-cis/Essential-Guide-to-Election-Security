@@ -64,7 +64,7 @@ intersphinx_mapping = {
     #rabetv_pm = RABET-V Program Manual
     "rabetv_pm": ("https://rabetv.docs.cisecurity.org/en/latest/", None),
     #essential_guide = EI-ISAC's Essential Guide
-    "essential_guide": ("https://docs.cisecurity.org/essentialguide/en/latest/", None),
+    "essential_guide": ("https://docs.cisecurity.org/en/latest/", None),
 }
 
 # Add any paths that contain templates here, relative to this directory.
