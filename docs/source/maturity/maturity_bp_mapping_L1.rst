@@ -16,6 +16,10 @@ This section prioritizes best practices by mapping each maturity level to the pr
 
 If you are at the |Maturity1| maturity, your first goal should be to commit to incrementally improving your maturity. This is about setting simple goals. For example, complete one simple task a week, implement one best practice a month, and set aside a minimum set of resources dedicated to cybersecurity every quarter. Whatever helps you make progress.
 
+.. figure:: /_static/EI-ISAC--Essential-Guide--Continuous-Improvement-Square.png
+   :width: 60%
+   :alt: Graphic showing simple goals for improving maturity: one simple task a week, one best practices a month, a minimum set of resources every quarter.
+
 .. _maturity-one-maturity-baseline-priorities:
 
 |Maturity1| Maturity Baseline Priorities
