@@ -24,9 +24,9 @@ As technology advances, generative AI platforms are becoming more intelligent.  
 Goals
 *****
 
-#. Know the definition of Generative AI
-#. Understand the potential impact of Generative AI on election administration
-#. Understand how to manage the additional risks presented by Generative AI
+#. Know the definition of Generative AI (|Maturity1| maturity)
+#. Understand the potential impact of Generative AI on election administration (|Maturity1| maturity)
+#. Understand how to manage the additional risks presented by Generative AI (|Maturity1| maturity)
 
 Actions
 *******
