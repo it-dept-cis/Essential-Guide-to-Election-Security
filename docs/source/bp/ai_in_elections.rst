@@ -37,7 +37,7 @@ Generative AI is a rapidly evolving technology in today’s society, and, unfort
 
 #. Establish your office as a trusted source.  Ensure the public knows where to go for accurate election information. Use your organization’s website, social media platforms, local media, and press releases to accomplish this.
 #. Monitor social media for potential misinformation. Prebunk, debunk, and report misinformation as your office sees fit.
-#. Practice good cyber hygiene by implementing the best practices in this guide that :doc:`align with your maturity level <maturities>`. Use strong passwords and multi-factor authentication. Also, include guidelines on generative AI platforms in your organization’s cybersecurity policies.
+#. Practice good cyber hygiene by implementing the best practices in this guide that :doc:`align with your maturity level <../maturity/maturities>`. Use strong passwords and multi-factor authentication. Also, include guidelines on generative AI platforms in your organization’s cybersecurity policies.
 #. Provide training. Generative AI technology is becoming more advanced each day. To stay educated, provide cybersecurity training to staff members including AI awareness and phishing campaign assessments. This reduces the risk of falling victim to AI.
 #. Use available resources.  Take advantage of CISA’s `Cybersecurity Toolkit to Protect Elections <https://www.cisa.gov/cybersecurity-toolkit-and-resources-protect-elections>`_.
 
