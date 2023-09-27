@@ -12,6 +12,9 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    AES
      Advanced Encryption Standard
 
+   AI
+     artificial intelligence
+     
    BMD
      ballot marking device
 

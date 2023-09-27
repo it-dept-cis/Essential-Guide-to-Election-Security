@@ -50,6 +50,7 @@ The EI-ISAC's Essential Guide to Election Security
    bp/mdm_info
    bp/managing_vendors
    bp/defense_in_depth
+   bp/ai_in_elections
 
 .. toctree::
    :maxdepth: 1

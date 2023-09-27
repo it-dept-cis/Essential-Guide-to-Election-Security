@@ -11,6 +11,7 @@ Before contributing to the EGES, please read the [style guide](STYLEGUIDE.md).
 ## Installation
 
 ### Prerequisites
+
 The documentation is built with [Sphinx](https://www.sphinx-doc.org/en/master/). Use of [pipenv](https://pipenv.pypa.io/en/latest/) is optional, but encouraged for easier requirements management, built-in virtual environments, and local testing. See the pipenv documentation for installation options.
 
 ### Setup
@@ -78,3 +79,26 @@ pipenv run pip freeze > requirements.txt
 This will overwrite the existing `requirements.txt` file with the newest updates.
 
 If you add a package with `pip`, you'll have to edit the `Pipfile` with the package and version using the [required syntax](https://github.com/pypa/pipfile).
+
+## Adding a new best practices
+
+1. Create a dedicated issue for the new bp
+1. Draft and finalize bp
+1. Rebase if necessary
+1. Add to index.rst
+1. Add to bp_index.rst with priorities for each maturity
+1. Update glossary and acronyms, if necessary
+1. Check whether it needs to be added to maturity priorities
+1. Squash and Merge PR into a staging branch (gets rid of nit pick commits)
+
+## Publishing a new version
+
+1. Create a dedicated branch off main, ideally named staging-202xqy or 20xqy-release. The date should be the quarter beginning when the version is released (e.g., q4 for the sep 30/oct 1 release)
+1. Use issues/branches for all changes, then merge into staging branch
+1. Update conf.py by incrementing version and release
+1. Commit directly to staging-202xqy
+1. Create and review PR for prepared staging branch into main
+1. Merge commit into main (do not squash)
+1. After merging, go to releases and select draft a new release
+1. Title the release 202xqy release and create a tag called vx.x.x as appropriate
+1. Provide a description, ideally including details of changes
