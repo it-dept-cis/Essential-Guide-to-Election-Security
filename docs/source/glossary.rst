@@ -26,12 +26,14 @@ NIST's Computer Security Resource Center `Glossary <https://csrc.nist.gov/glossa
    encryption
      Any procedure used in cryptography to convert plain text into cipher text to prevent anyone but the intended recipient from reading that data
 
-   Endpoint Detection and Response
+   endpoint detection and response
      Security software that is deployed on workstations and servers, to collect technical data and analyze it for suspicious patterns and threats.
 
-   Endpoint Protection
+   endpoint protection
      Safeguards implemented through software to protect end-user machines such as workstations and laptops against attack (e.g., antivirus, antispyware, anti-adware, personal firewalls, host-based intrusion detection and prevention systems, etc.)
 
+   generative artificial intelligence
+     a technology that can create images, text, and videos with very little instruction from a user by learning patterns from very large datasets to predict the most likely response to a given prompt
    hashing
      The process of using a mathematical algorithm against data to produce a numeric value that is representative of that data
 
